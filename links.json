@@ -1,0 +1,23 @@
+{
+  "amex": {
+    "name": "American Express Platinum Card",
+    "url": "https://americanexpress.com/en-us/referral/platinum-card?ref=DOMINAULXa&xl=cp01",
+    "button": "See your Amex offer",
+    "offer": "Amex shows you your own welcome offer before you apply. The referral page says \"as high as 175,000\" Membership Rewards points; yours may be lower. From the same page you can choose a different Amex card.",
+    "we_get": "If you are approved, the person who runs this site earns Membership Rewards points from Amex."
+  },
+  "chase": {
+    "name": "Chase Sapphire cards",
+    "url": "https://www.referyourchasecard.com/19y/65OCHKHIBW",
+    "button": "See the Chase Sapphire offer",
+    "offer": "When checked on November 20, 2026, the referral page showed 75,000 bonus points on Sapphire Preferred after $5,000 of purchases in the first 3 months. Offers change, so read the page.",
+    "we_get": "If you are approved, the person who runs this site earns Chase points."
+  },
+  "rakuten": {
+    "name": "Rakuten",
+    "url": "https://www.rakuten.com/r/HEYITS1923?eeid=26474",
+    "button": "Join Rakuten with the bonus",
+    "offer": "When checked on November 20, 2026, Rakuten's referral offer was a $50 bonus after you join and spend $50 on qualifying purchases within 90 days.",
+    "we_get": "If you qualify, the person who runs this site also gets a $50 bonus from Rakuten."
+  }
+}
