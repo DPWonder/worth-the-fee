@@ -3,7 +3,7 @@ title: Does the Amex Platinum do anything for golfers?
 slug: amex-platinum-for-golfers
 description: Very little directly. The US Amex Platinum has no free rounds, green fee credit or tee time perk, but its hotel credit and lounges can help a golf trip.
 cta: amex
-checked: 2026-11-20
+checked: 2026-11-21
 ---
 
 Very little directly. The US Amex Platinum has no free rounds, no green fee credit and no tee time priority; what it offers a golfer is travel help around the trip, mainly a hotel credit, airport lounges and some travel protections.
@@ -32,7 +32,7 @@ These benefits are not about golf, but a golf trip can use them.
 
 ### The hotel credit
 
-The card gives up to $300 back each half-year, up to $600 per calendar year, on prepaid stays booked through Amex Travel at Fine Hotels + Resorts or The Hotel Collection properties. The Hotel Collection needs a two-night minimum, and from January 1, 2027, Fine Hotels + Resorts does too.
+The card gives up to $300 back each half-year, up to $600 per calendar year, on prepaid stays booked through Amex Travel at Fine Hotels + Resorts or The Hotel Collection properties, or on prepaid Airbnb Luxe bookings. The Hotel Collection and Airbnb Luxe need a two-night minimum, and from January 1, 2027, Fine Hotels + Resorts does too.
 
 Fine Hotels + Resorts stays also include a property credit of at least $100 per stay, daily breakfast for two and a guaranteed 4 p.m. late checkout. What the property credit can be spent on varies by hotel, so ask the resort whether golf counts before you book.
 
@@ -64,7 +64,7 @@ Add up only what you would use. One golf trip a year with a two-night prepaid st
 
 - Golfers who want rewards on green fees and club spending. This card earns 1 point per dollar there.
 - Golfers who drive to their courses and rarely fly or stay in hotels.
-- Golfers who stay in rentals or mid-priced hotels. The hotel credit only works at hotels in Amex's two programs.
+- Golfers who stay in ordinary rentals or mid-priced hotels. The hotel credit only works at hotels in Amex's two programs and on Airbnb Luxe bookings.
 - Anyone expecting course access or tee time help as a card benefit.
 
 ## Quick answers

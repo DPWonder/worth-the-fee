@@ -3,7 +3,7 @@ title: Amex Platinum or Chase Sapphire Reserve for a once-a-year Hawaii trip?
 slug: amex-platinum-vs-sapphire-reserve-hawaii
 description: For one Hawaii trip a year the Sapphire Reserve fits better: lower fee, a simple $300 travel credit and 1:1 Hyatt transfers.
 cta: amex, chase
-checked: 2026-11-20
+checked: 2026-11-21
 ---
 
 For one Hawaii trip a year, the Chase Sapphire Reserve is the closer fit of the two. It costs $100 less, its $300 travel credit works on any travel, and its points move to Hyatt 1:1. Neither card is an easy case for a single trip: both fees are high and lounge access in Hawaii is thin.
@@ -18,7 +18,7 @@ This page is information, not financial advice. Terms change, so check both issu
 | Authorized user | $195 each | $195 each |
 | Welcome offer seen today | Up to 175,000 points after $12,000 in 6 months | 100,000 points after $6,000 in 3 months |
 | Flexible travel credit | None. Up to $200 a year in airline fees on one chosen airline, not tickets | Up to $300 a year on travel in general |
-| Hotel credit | Up to $600 a year: $300 in each half, prepaid Fine Hotels + Resorts or The Hotel Collection | Up to $500 a year: $250 per prepaid stay at The Edit hotels, two-night minimum |
+| Hotel credit | Up to $600 a year: $300 in each half, prepaid Fine Hotels + Resorts, The Hotel Collection or Airbnb Luxe | Up to $500 a year: $250 per prepaid stay at The Edit hotels, two-night minimum |
 | Flights booked direct | 5x | 4x |
 | Hotels booked direct | 1x | 4x |
 | Dining | 1x | 3x |
@@ -27,7 +27,7 @@ Welcome offers change and vary by person. Amex states its offer as "up to", so t
 
 ## How the credits fit one trip
 
-The Amex hotel credit is split by half-year. One trip can use only one $300 half unless you book a second stay in the other half. The Hotel Collection needs two nights.
+The Amex hotel credit is split by half-year. One trip can use only one $300 half unless you book a second stay in the other half. The Hotel Collection and Airbnb Luxe need two nights.
 
 The Reserve's hotel credit is $250 per stay. One Hawaii trip with two separate hotel stays of two nights or more, both at The Edit hotels, could use all $500. One stay uses $250.
 
@@ -78,6 +78,7 @@ No. Hyatt is a Chase partner. From the Sapphire Reserve the rate is 1:1.
 - [Chase: Sapphire Reserve card page](https://creditcards.chase.com/rewards-credit-cards/sapphire/reserve)
 - [One Mile at a Time: Amex Platinum review](https://onemileatatime.com/reviews/credit-cards/american-express/amex-platinum-card/)
 - [NerdWallet: Amex Platinum fee rises to $895](https://www.nerdwallet.com/article/credit-cards/amex-platinum-hikes-fee-adds-hundreds-in-credits)
+- [American Express: the $600 hotel credit](https://www.americanexpress.com/en-us/travel/get-inspired/Platinum-Card-600-Dollar-Hotel-Credit)
 - [American Express: Platinum lounges at HNL](https://www.americanexpress.com/en-us/travel/lounges/the-platinum-card/HNL/)
 - [American Express: Platinum lounges at OGG](https://www.americanexpress.com/en-us/travel/lounges/the-platinum-card/OGG/)
 - [Chase: Priority Pass at Honolulu](https://www.chase.com/personal/credit-cards/education/basics/guide-to-priority-pass-honolulu)

@@ -4,7 +4,7 @@ slug: rakuten-black-friday-cash-back-2026
 description: The same way as any other day, but rates move more. Activate before filling the cart, and expect payment in February or May 2027.
 topic: rakuten
 cta: rakuten
-checked: 2026-11-20
+checked: 2026-11-21
 ---
 
 Rakuten cash back works on Black Friday (November 27, 2026) and Cyber Monday (November 30) the same way it does on any other day: activate first, then buy. What changes is that many stores' rates are raised for short periods, so the catches are rates that move, items a store excludes, and orders that fail to track.
@@ -23,15 +23,16 @@ Rakuten's Cyber Monday page says earning that day "works exactly the same as it 
 
 ## Rates move, sometimes daily
 
-Rakuten shows a raised rate next to the usual one with the label "was". These were on Rakuten's holiday pages on November 20, 2026.
+Rakuten shows a raised rate next to the usual one with the label "was". These were on Rakuten's holiday and store pages on November 21, 2026.
 
-| Store | Rate seen November 20 | Rakuten's "was" rate |
+| Store | Rate seen November 21 | Rakuten's "was" rate |
 |---|---|---|
 | Macy's | 13% | 2% |
-| Dermstore | 20% | 3% |
-| Walgreens | 15% | 2% |
+| Dermstore | 15% | 3% |
+| Walgreens | 2% | None shown |
 | LEGO | Up to 15% | 2.5% |
 
+- Two of these moved in one day. On November 20 Dermstore showed 20% and Walgreens showed 15%.
 - A rate can rise or fall before Black Friday. Rakuten has not published store rates for the day in advance; none were found.
 - "Up to" means only some product categories earn the top figure.
 - Rakuten's terms say rates are personalized and may differ between members. The number in your account is the one that counts.
@@ -103,6 +104,10 @@ Rakuten says activating after items are in the cart can stop tracking. Activate 
 
 - [Rakuten: Black Friday](https://www.rakuten.com/black-friday)
 - [Rakuten: Cyber Monday](https://www.rakuten.com/cyber-monday)
+- [Rakuten: Macy's](https://www.rakuten.com/macys.com)
+- [Rakuten: Dermstore](https://www.rakuten.com/dermstore.com)
+- [Rakuten: Walgreens](https://www.rakuten.com/walgreens.com)
+- [Rakuten: LEGO](https://www.rakuten.com/shop/lego)
 - [Rakuten: Why didn't I earn cash back?](https://www.rakuten.com/help/article/why-didnt-i-earn-cash-back-360036367393)
 - [Rakuten: When will I get paid?](https://www.rakuten.com/help/article/when-will-i-get-paid-360002117667)
 - [Rakuten: Terms and conditions](https://www.rakuten.com/help/article/terms-conditions)
