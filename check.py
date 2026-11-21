@@ -33,6 +33,7 @@ for p in pages:
     # strip source list and link targets before word checks
     main = body.split("## Sources")[0]
     text = re.sub(r"\]\([^)]*\)", "]", main)
+    text = re.sub(r"\bBest (Buy|Offer|Western)\b", "STORE", text)
     for m in re.finditer(HYPE, text, re.I):
         ctx = text[max(0, m.start() - 30):m.end() + 20].replace("\n", " ")
         bad(f"hype word '{m.group(0)}' in: …{ctx}…")
