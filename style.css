@@ -132,3 +132,9 @@ footer.site { background: var(--fog); border-top: 1px solid var(--line); padding
   header.site { position: static; }
   .qgrid { grid-template-columns: 1fr; }
 }
+
+.grouphead { font-size: 20px; margin: 36px 0 14px; }
+.grouphead a { color: var(--text); text-decoration: none; }
+.grouphead a:hover { color: var(--link); }
+section.all h2 + .grouphead { margin-top: 0; }
+@media (max-width: 900px) { nav[aria-label="Topics"] a { padding: 6px 10px; font-size: 14px; } }

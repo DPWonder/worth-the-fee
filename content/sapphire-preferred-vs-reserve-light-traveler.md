@@ -25,7 +25,7 @@ This page is information, not financial advice. Terms change, so check the issue
 | General travel credit | None | Up to $300 a year |
 | Airport lounges | None | Sapphire Lounges and 1,300+ Priority Pass lounges, two guests free |
 | Hyatt transfer | 4 Chase points to 3 Hyatt | 1 to 1 |
-| Top Points Boost value in Chase Travel | Up to 1.75 cents a point | Up to 2 cents a point |
+| Top Points Boost value in Chase Travel | Up to 1.5 cents a point (some sources report 1.75 on premium-cabin fares) | Up to 2 cents a point |
 
 Welcome offers change and vary by person. The Preferred also earns 3x on gas stations, EV charging, selected streaming and online grocery, which the Reserve does not.
 

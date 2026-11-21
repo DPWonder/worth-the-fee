@@ -38,7 +38,7 @@ Online grocery leaves out Walmart, Target and wholesale clubs. There is no forei
 
 ## What the points are worth
 
-Through Chase Travel a point is worth 1 cent as the base. On selected bookings Chase marks up the value, which it calls Points Boost. On this card that can reach 1.5 cents on some hotels and flights and 1.75 cents on premium-cabin airfare. Chase does not publish a fixed list, so you cannot plan around it.
+Through Chase Travel a point is worth 1 cent as the base. On selected bookings Chase marks up the value, which it calls Points Boost. On this card that can reach 1.5 cents on some hotels and flights. Some sources also report 1.75 cents on premium-cabin airfare, and others say 1.5 cents is now the top; [the Points Boost page](/chase-points-boost-explained/) sets out the disagreement. Chase does not publish a fixed list, so you cannot plan around it.
 
 You can also move points to 14 airline and hotel programs. United and Southwest transfer 1:1. Hyatt changed in 2026: from a Sapphire Preferred, 4 Chase points now become 3 Hyatt points. Older articles that call Hyatt a 1:1 partner for this card are out of date.
 

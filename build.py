@@ -27,9 +27,15 @@ TOPICS = {
              "blurb": "The $895 card: who gets their money back, and who does not."},
     "chase": {"slug": "chase-sapphire", "label": "Chase Sapphire",
               "blurb": "Preferred or Reserve, for people who travel a few times a year."},
+    "amexcards": {"slug": "amex-cards", "label": "Other Amex cards",
+                  "blurb": "Gold, Delta, Hilton, Marriott and Blue Cash: which fee pays off, and for whom."},
     "rakuten": {"slug": "rakuten", "label": "Rakuten",
                 "blurb": "Cash back or Amex points, and how the sign-up bonus really works."},
+    "trips": {"slug": "hawaii-and-golf-trips", "label": "Hawaii & golf trips",
+              "blurb": "Points, lounges, hotel credits and bag fees for a Hawaii week or a golf trip."},
 }
+
+LIVE_TOPICS = set()
 
 LOGO = ('<svg class="mark" viewBox="0 0 32 32" width="28" height="28" aria-hidden="true">'
         '<rect width="32" height="32" rx="9" fill="var(--ink)"/>'
@@ -57,7 +63,12 @@ def parse(path):
     meta["cta"] = [c.strip() for c in meta.get("cta", "").split(",") if c.strip()]
     body = re.sub(r"^# .*\n+", "", m.group(2).strip())
     meta["body"] = body
-    meta["topic"] = meta["cta"][0] if meta["cta"] else "amex"
+    meta["topic"] = meta.get("topic") or (meta["cta"][0] if meta["cta"] else "amex")
+    if meta["topic"] not in TOPICS:
+        raise SystemExit(f"unknown topic {meta['topic']} in {path}")
+    for c in meta["cta"]:
+        if c not in LINKS:
+            raise SystemExit(f"unknown cta {c} in {path}")
     meta["minutes"] = max(2, round(len(body.split()) / 220))
     return meta
 
@@ -99,8 +110,9 @@ def cta_html(keys):
 def layout(title, description, content, path, extra_head="", noindex=False, og_type="website"):
     canonical = SITE + path
     robots = '<meta name="robots" content="noindex">' if noindex else ""
-    topic_nav = "".join(f'<a href="{BASE}{t["slug"]}/">{esc(t["label"])}</a>' for t in TOPICS.values())
-    topic_foot = "".join(f'<li><a href="{BASE}{t["slug"]}/">{esc(t["label"])}</a></li>' for t in TOPICS.values())
+    live = [t for k, t in TOPICS.items() if k in LIVE_TOPICS]
+    topic_nav = "".join(f'<a href="{BASE}{t["slug"]}/">{esc(t.get("nav", t["label"]))}</a>' for t in live)
+    topic_foot = "".join(f'<li><a href="{BASE}{t["slug"]}/">{esc(t["label"])}</a></li>' for t in live)
     return f"""<!doctype html>
 <html lang="en">
 <head>
@@ -185,6 +197,11 @@ def build():
         shutil.copy(extra, OUT / extra.name)
 
     pages = [parse(p) for p in sorted((ROOT / "content").glob("*.md"))]
+    slugs = [p["slug"] for p in pages]
+    dupes = {s for s in slugs if slugs.count(s) > 1}
+    if dupes:
+        raise SystemExit(f"duplicate slugs: {dupes}")
+    LIVE_TOPICS.update(p["topic"] for p in pages)
     md = markdown.Markdown(extensions=["tables", "sane_lists"])
     today = str(date.today())
 
@@ -244,7 +261,9 @@ def build():
 
     # topic hubs
     for key, t in TOPICS.items():
-        items = [p for p in pages if p["topic"] == key or key in p["cta"]]
+        items = [p for p in pages if p["topic"] == key]
+        if not items:
+            continue
         content = (f'<div class="wrap"><section class="hubhead"><p class="eyebrow">Topic</p><h1>{esc(t["label"])}</h1>'
                    f'<p class="lede">{esc(t["blurb"])}</p></section>'
                    f'<div class="qgrid">{"".join(qcard(p) for p in items)}</div></div>')
@@ -253,8 +272,8 @@ def build():
     # home
     tcards = "".join(
         f'<a class="tcard" href="{BASE}{t["slug"]}/"><strong>{esc(t["label"])}</strong><span>{esc(t["blurb"])}</span>'
-        f'<span class="more">{sum(1 for p in pages if p["topic"] == k or k in p["cta"])} questions &rarr;</span></a>'
-        for k, t in TOPICS.items())
+        f'<span class="more">{sum(1 for p in pages if p["topic"] == k)} questions &rarr;</span></a>'
+        for k, t in TOPICS.items() if any(p["topic"] == k for p in pages))
     home = f"""<section class="hero"><div class="wrap">
 <p class="eyebrow">Independent. Sourced. Dated.</p>
 <h1>Is it worth the fee?</h1>
@@ -269,7 +288,8 @@ def build():
 <div><span class="num">3</span><h3>"No" is an answer</h3><p>Every page says who should skip the card or program. Most people are not the target customer.</p></div>
 </div></div></section>
 <section class="all"><div class="wrap"><h2>All questions</h2>
-<div class="qgrid">{"".join(qcard(p) for p in pages)}</div></div></section>"""
+{"".join(f'<h3 class="grouphead"><a href="{BASE}{t["slug"]}/">{esc(t["label"])}</a></h3><div class="qgrid">' + "".join(qcard(p) for p in pages if p["topic"] == k) + "</div>" for k, t in TOPICS.items() if any(p["topic"] == k for p in pages))}
+</div></section>"""
     org = {"@context": "https://schema.org", "@type": "Organization", "name": NAME, "url": SITE,
            "logo": SITE + "favicon.svg", "email": EMAIL}
     web = {"@context": "https://schema.org", "@type": "WebSite", "name": NAME, "url": SITE}
@@ -360,7 +380,7 @@ def build():
                              f'<div class="wrap narrow"><article class="prose"><h1>Page not found</h1><p><a href="{BASE}">See all questions</a>.</p></article></div>',
                              "404.html", noindex=True))
 
-    statics = ["", "about/", "how-we-check-facts/", "disclosure/", "privacy/", "contact/"] + [t["slug"] + "/" for t in TOPICS.values()]
+    statics = ["", "about/", "how-we-check-facts/", "disclosure/", "privacy/", "contact/"] + [t["slug"] + "/" for k, t in TOPICS.items() if k in LIVE_TOPICS]
     urls = [(u, today) for u in statics] + [(p["slug"] + "/", p.get("checked", today)) for p in pages]
     sm = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + "".join(
         f"<url><loc>{SITE}{u}</loc><lastmod>{d}</lastmod></url>\n" for u, d in urls) + "</urlset>\n"
@@ -372,6 +392,8 @@ def build():
     llms = (f"# {NAME}\n\n> {TAGLINE} Each page answers one question in its first two sentences, cites its sources and "
             f"gives the date it was checked. Some pages end with a disclosed referral link.\n\n")
     for k, t in TOPICS.items():
+        if k not in LIVE_TOPICS:
+            continue
         llms += f"## {t['label']}\n\n" + "".join(
             f'- [{p["title"]}]({SITE}{p["slug"]}/): {p["description"]}\n' for p in pages if p["topic"] == k) + "\n"
     llms += f"## About\n\n- [How we check facts]({SITE}how-we-check-facts/)\n- [How we earn]({SITE}disclosure/)\n"

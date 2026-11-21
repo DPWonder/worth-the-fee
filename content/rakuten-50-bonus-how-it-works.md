@@ -57,7 +57,7 @@ A purchase qualifies only if it earns cash back through Rakuten. So anything tha
 
 **Problems with the purchase**
 
-- You returned, exchanged or cancelled it.
+- You returned, exchanged or canceled it.
 - You spent under $50 in total, or bought after the 90 days.
 - You used a coupon code that did not come from Rakuten. That can void the cash back.
 - An ad blocker, VPN or cookie blocker stopped the tracking, or you declined cookies.
