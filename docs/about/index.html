@@ -24,7 +24,7 @@
 <a class="skip" href="#main">Skip to content</a>
 <header class="site"><div class="wrap bar">
 <a class="brand" href="/"><svg class="mark" viewBox="0 0 32 32" width="28" height="28" aria-hidden="true"><rect width="32" height="32" rx="9" fill="var(--ink)"/><path d="M8 17.2l5 5L24.5 10" fill="none" stroke="var(--gold)" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/></svg><span>Worth the Fee</span></a>
-<nav aria-label="Topics"><a href="/amex-platinum/">Amex Platinum</a><a href="/chase-sapphire/">Chase Sapphire</a><a href="/amex-cards/">Other Amex cards</a><a href="/rakuten/">Rakuten</a><a href="/hawaii-and-golf-trips/">Hawaii &amp; golf trips</a><a href="/about/">About</a></nav>
+<nav aria-label="Topics"><a href="/amex-platinum/">Amex Platinum</a><a href="/chase-sapphire/">Chase Sapphire</a><a href="/amex-cards/">Amex cards</a><a href="/rakuten/">Rakuten</a><a href="/hawaii-and-golf-trips/">Trips</a><a class="navoffers" href="/offers/">Offers</a></nav>
 </div></header>
 <main id="main">
 <div class="wrap narrow"><article class="prose"><h1>About Worth the Fee</h1>
@@ -45,6 +45,7 @@
 <div><h4>Topics</h4><ul><li><a href="/amex-platinum/">Amex Platinum</a></li><li><a href="/chase-sapphire/">Chase Sapphire</a></li><li><a href="/amex-cards/">Other Amex cards</a></li><li><a href="/rakuten/">Rakuten</a></li><li><a href="/hawaii-and-golf-trips/">Hawaii &amp; golf trips</a></li></ul></div>
 <div><h4>The site</h4><ul>
 <li><a href="/about/">About</a></li>
+<li><a href="/offers/">Current referral offers</a></li>
 <li><a href="/how-we-check-facts/">How we check facts</a></li>
 <li><a href="/disclosure/">How we earn</a></li>
 <li><a href="/privacy/">Privacy</a></li>
@@ -58,7 +59,7 @@
 <script>
 window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
 gtag('js',new Date());gtag('config','G-RQB06CSYNM');
-document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('a[data-go]');if(a){gtag('event','referral_click',{link:a.getAttribute('data-go'),page_path:location.pathname,transport_type:'beacon'});}});
+document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('a[data-go]');if(a){gtag('event','referral_click',{link:a.getAttribute('data-go'),position:a.getAttribute('data-pos')||'bottom',page_path:location.pathname,transport_type:'beacon'});}});
 </script>
 
 </body>

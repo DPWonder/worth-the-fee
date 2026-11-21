@@ -6,7 +6,7 @@
 <script>
 window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
 gtag('js',new Date());gtag('config','G-RQB06CSYNM');
-document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('a[data-go]');if(a){gtag('event','referral_click',{link:a.getAttribute('data-go'),page_path:location.pathname,transport_type:'beacon'});}});
+document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('a[data-go]');if(a){gtag('event','referral_click',{link:a.getAttribute('data-go'),position:a.getAttribute('data-pos')||'bottom',page_path:location.pathname,transport_type:'beacon'});}});
 </script>
 
 <script>try{if(window.gtag)gtag('event','referral_redirect',{link:'amex',transport_type:'beacon'});}catch(e){}</script>

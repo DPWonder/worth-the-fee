@@ -27,12 +27,16 @@ TOPICS = {
              "blurb": "The $895 card: who gets their money back, and who does not."},
     "chase": {"slug": "chase-sapphire", "label": "Chase Sapphire",
               "blurb": "Preferred or Reserve, for people who travel a few times a year."},
-    "amexcards": {"slug": "amex-cards", "label": "Other Amex cards",
+    "amexcards": {"slug": "amex-cards", "label": "Other Amex cards", "nav": "Amex cards",
                   "blurb": "Gold, Delta, Hilton, Marriott and Blue Cash: which fee pays off, and for whom."},
     "rakuten": {"slug": "rakuten", "label": "Rakuten",
                 "blurb": "Cash back or Amex points, and how the sign-up bonus really works."},
-    "trips": {"slug": "hawaii-and-golf-trips", "label": "Hawaii & golf trips",
+    "trips": {"slug": "hawaii-and-golf-trips", "label": "Hawaii & golf trips", "nav": "Trips",
               "blurb": "Points, lounges, hotel credits and bag fees for a Hawaii week or a golf trip."},
+    "compare": {"slug": "card-comparisons", "label": "Card comparisons", "nav": "Comparisons",
+                "blurb": "Two cards side by side, with the sums for the way you spend and travel."},
+    "points": {"slug": "using-points", "label": "Using points", "nav": "Points",
+               "blurb": "What Amex and Chase points are worth, where to move them, and when to pay cash."},
 }
 
 LIVE_TOPICS = set()
@@ -107,6 +111,16 @@ def cta_html(keys):
     return '<section class="ctas" aria-label="Referral links">' + "".join(boxes) + "</section>"
 
 
+def mini_cta(keys):
+    if not keys:
+        return ""
+    links = " ".join(
+        f'<a class="btn small" rel="sponsored nofollow" data-go="{k}" data-pos="top" href="{BASE}go/{k}/">{esc(LINKS[k]["button"])}</a>'
+        for k in keys)
+    return (f'<p class="minicta"><span>Referral link{"s" if len(keys) > 1 else ""}: we earn if you sign up. '
+            f'Read the page first.</span> {links}</p>')
+
+
 def layout(title, description, content, path, extra_head="", noindex=False, og_type="website"):
     canonical = SITE + path
     robots = '<meta name="robots" content="noindex">' if noindex else ""
@@ -139,7 +153,7 @@ def layout(title, description, content, path, extra_head="", noindex=False, og_t
 <a class="skip" href="#main">Skip to content</a>
 <header class="site"><div class="wrap bar">
 <a class="brand" href="{BASE}">{LOGO}<span>{NAME}</span></a>
-<nav aria-label="Topics">{topic_nav}<a href="{BASE}about/">About</a></nav>
+<nav aria-label="Topics">{topic_nav}<a class="navoffers" href="{BASE}offers/">Offers</a></nav>
 </div></header>
 <main id="main">
 {content}
@@ -151,6 +165,7 @@ def layout(title, description, content, path, extra_head="", noindex=False, og_t
 <div><h4>Topics</h4><ul>{topic_foot}</ul></div>
 <div><h4>The site</h4><ul>
 <li><a href="{BASE}about/">About</a></li>
+<li><a href="{BASE}offers/">Current referral offers</a></li>
 <li><a href="{BASE}how-we-check-facts/">How we check facts</a></li>
 <li><a href="{BASE}disclosure/">How we earn</a></li>
 <li><a href="{BASE}privacy/">Privacy</a></li>
@@ -240,13 +255,15 @@ def build():
                                 "acceptedAnswer": {"@type": "Answer", "text": plain(a)}} for q, a in pairs],
             })
         head = "".join(f'<script type="application/ld+json">{json.dumps(x)}</script>' for x in ld)
-        related = [p for p in pages if p["topic"] == pg["topic"] and p["slug"] != pg["slug"]][:3]
+        same = [p for p in pages if p["topic"] == pg["topic"]]
+        i = same.index(pg)
+        related = (same[i + 1:] + same[:i])[:6]
         rel_html = ""
         if related:
             rel_html = '<section class="related"><h2>Related questions</h2><div class="qgrid">' + "".join(qcard(p) for p in related) + "</div></section>"
         disclosure = ""
         if pg["cta"]:
-            disclosure = (f'<p class="disclosure">This page ends with a referral link. We earn points or cash if you sign up '
+            disclosure = (f'<p class="disclosure">This page contains a referral link. We earn points or cash if you sign up '
                           f'through it. <a href="{BASE}disclosure/">How we earn</a>.</p>')
         content = (
             f'<div class="wrap narrow"><nav class="crumbs" aria-label="Breadcrumb"><a href="{BASE}">Home</a> <span>/</span> '
@@ -254,7 +271,7 @@ def build():
             f'<article class="prose"><h1>{esc(pg["title"])}</h1>'
             f'<p class="meta"><span>Facts checked {nice}</span><span>{pg["minutes"]} min read</span>'
             f'<span><a href="{BASE}how-we-check-facts/">How we check facts</a></span></p>'
-            f'{disclosure}<div class="answer"><p class="eyebrow">The short answer</p>{answer_html}</div>'
+            f'{disclosure}<div class="answer"><p class="eyebrow">The short answer</p>{answer_html}</div>{mini_cta(pg["cta"])}'
             f'{body_html}{cta_html(pg["cta"])}</article>{rel_html}</div>'
         )
         write(path + "index.html", layout(f'{pg["title"]} | {NAME}', pg["description"], content, path, head, og_type="article"))
@@ -339,6 +356,19 @@ def build():
 <li>A referral link never decides what a page says. Several pages tell most readers not to sign up.</li></ul>
 <h2>What we do not do</h2>
 <p>We are not paid by any company to write about it, and no company reviews or approves our pages. We do not sell placement, rankings or ratings.</p>""")
+    offer_boxes = "".join(
+        cta_html([k]) + '<p class="fine">Related reading: ' + ", ".join(
+            f'<a href="{BASE}{p["slug"]}/">{esc(p["title"])}</a>' for p in [p for p in pages if k in p["cta"]][:4]) + "</p>"
+        for k in LINKS)
+    simple_page("offers/", "Current referral offers",
+                "Every referral link on Worth the Fee in one place, with what you get and what we get.", f"""
+<p class="lede">Every refer-a-friend link on this site, in one place. Each box says what the offer was when we last checked and what we receive.</p>
+<p class="disclosure">These are referral links. We earn points or cash if you sign up through one. Compare with the company's public offer first; it can be higher. <a href="{BASE}disclosure/">How we earn</a>.</p>
+{offer_boxes}
+<h2>Before you use one</h2>
+<ul><li>Offers vary by applicant and change without notice. The company's page is the final word.</li>
+<li>Read the page for that card or program first. Several tell most readers to skip it.</li>
+<li>Do not apply for a card to earn a bonus you would have to overspend to reach.</li></ul>""")
     analytics_note = ("This site uses Google Analytics to count visits and button clicks. Google sets cookies and processes "
                       "data under its own privacy policy. You can block it with a browser setting or extension and the site "
                       "works the same." if ANALYTICS else "This site does not currently use an analytics service.")
@@ -380,7 +410,7 @@ def build():
                              f'<div class="wrap narrow"><article class="prose"><h1>Page not found</h1><p><a href="{BASE}">See all questions</a>.</p></article></div>',
                              "404.html", noindex=True))
 
-    statics = ["", "about/", "how-we-check-facts/", "disclosure/", "privacy/", "contact/"] + [t["slug"] + "/" for k, t in TOPICS.items() if k in LIVE_TOPICS]
+    statics = ["", "offers/", "about/", "how-we-check-facts/", "disclosure/", "privacy/", "contact/"] + [t["slug"] + "/" for k, t in TOPICS.items() if k in LIVE_TOPICS]
     urls = [(u, today) for u in statics] + [(p["slug"] + "/", p.get("checked", today)) for p in pages]
     sm = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + "".join(
         f"<url><loc>{SITE}{u}</loc><lastmod>{d}</lastmod></url>\n" for u, d in urls) + "</urlset>\n"
@@ -396,7 +426,7 @@ def build():
             continue
         llms += f"## {t['label']}\n\n" + "".join(
             f'- [{p["title"]}]({SITE}{p["slug"]}/): {p["description"]}\n' for p in pages if p["topic"] == k) + "\n"
-    llms += f"## About\n\n- [How we check facts]({SITE}how-we-check-facts/)\n- [How we earn]({SITE}disclosure/)\n"
+    llms += f"## About\n\n- [Current referral offers]({SITE}offers/)\n- [How we check facts]({SITE}how-we-check-facts/)\n- [How we earn]({SITE}disclosure/)\n"
     write("llms.txt", llms)
     (ROOT / "urls.txt").write_text("\n".join(SITE + u for u, _ in urls) + "\n")
     print(f"built {len(pages)} pages -> {OUT}")

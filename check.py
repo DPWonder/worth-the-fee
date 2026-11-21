@@ -54,7 +54,7 @@ for p in pages:
         bad("no advice disclaimer")
     for target in re.findall(r"\]\((/[^)#]*)\)", body):
         t = target.strip("/")
-        if t not in slugs and t not in {x["slug"] for x in TOPICS.values()} | {"about", "disclosure", "how-we-check-facts"}:
+        if t not in slugs and t not in {x["slug"] for x in TOPICS.values()} | {"about", "disclosure", "how-we-check-facts", "offers"}:
             bad(f"broken internal link {target}")
     first = body.split("\n\n", 1)[0]
     if first.startswith("#") or len(first.split()) < 12:

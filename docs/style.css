@@ -138,3 +138,10 @@ footer.site { background: var(--fog); border-top: 1px solid var(--line); padding
 .grouphead a:hover { color: var(--link); }
 section.all h2 + .grouphead { margin-top: 0; }
 @media (max-width: 900px) { nav[aria-label="Topics"] a { padding: 6px 10px; font-size: 14px; } }
+
+.minicta { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 14px; border: 1px solid var(--line); border-left: 5px solid var(--gold); border-radius: 12px; padding: 12px 16px; font-size: 14px; color: var(--muted); margin: 0 0 24px !important; }
+.minicta span { flex: 1 1 220px; }
+.btn.small { padding: 8px 16px; font-size: 14px; }
+nav[aria-label="Topics"] a.navoffers { background: var(--gold); color: var(--gold-text); font-weight: 700; }
+nav[aria-label="Topics"] a.navoffers:hover { background: var(--gold); filter: brightness(.95); }
+.prose .ctas + .fine { margin: 8px 0 28px; }
