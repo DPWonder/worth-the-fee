@@ -7,7 +7,7 @@ cta: amex, chase
 checked: 2026-11-21
 ---
 
-For most travelers the Sapphire Reserve fee is easier to earn back. Its $300 travel credit applies to any travel purchase without enrollment, which leaves $495 of the $795 fee to cover. The $895 Platinum fee comes back only through several credits tied to named brands, so it fits people who already spend with those brands or who use Centurion and Delta lounges.
+For most travelers the Sapphire Reserve fee is easier to earn back: its $300 travel credit applies to any travel purchase without enrollment, which leaves $495 of the $795 fee to cover. The $895 Platinum fee comes back only through several credits tied to named brands, so it fits people who already spend with those brands or who use Centurion and Delta lounges.
 
 This page is information, not financial advice. Terms change, so check each issuer's pages before deciding.
 

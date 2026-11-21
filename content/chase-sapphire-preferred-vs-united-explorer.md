@@ -7,7 +7,7 @@ cta: chase
 checked: 2026-11-21
 ---
 
-It depends on checked bags. A United flyer who checks a bag on two round trips a year saves more in bag fees than the United Explorer's $150 fee. A United flyer who travels with a carry-on gets little from the Explorer and more from the $95 Sapphire Preferred, whose points move to United at 1:1 and to 15 other programs.
+A United flyer who checks a bag on two round trips a year saves more in bag fees than the United Explorer's $150 fee. A United flyer who travels with a carry-on gets little from the Explorer and more from the $95 Sapphire Preferred, whose points move to United at 1:1 and to 15 other programs.
 
 This page is information, not financial advice. Terms change, so check Chase's pages before deciding.
 

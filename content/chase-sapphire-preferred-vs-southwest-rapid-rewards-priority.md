@@ -90,13 +90,13 @@ Welcome offers vary by applicant and change, so they are left out of the sums. C
 ## Quick answers
 
 **Do Sapphire Preferred points transfer to Southwest?**
-Yes, at 1:1. Southwest prices award seats by the cash fare, so the value per point stays in a narrow range.
+Yes, at 1:1. Southwest award prices follow the cash fare of the flight.
 
 **Do all Southwest cards include a free checked bag?**
 Yes, according to The Points Guy's comparison: the first bag for the cardholder and up to eight others on the reservation.
 
 **Does either card include airport lounge access?**
-No. Neither the Sapphire Preferred nor any personal Southwest card lists lounge access.
+No lounge access is listed for the Sapphire Preferred or for the Southwest Priority on Chase's pages.
 
 ## Sources
 

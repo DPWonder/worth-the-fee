@@ -37,7 +37,7 @@ Both statuses come with the fifth night free on award stays and space-available 
 
 - **Bonus points on paid stays:** 80% with Gold, 100% with Diamond.
 - **Food:** Gold and Diamond both get a daily food and beverage credit at US hotels and breakfast at many hotels abroad. Diamond adds executive lounge access where a hotel has one. Sources disagree on whether Gold includes lounge access.
-- **Upgrades:** both are subject to availability; Diamond ranks ahead of Gold.
+- **Upgrades:** both are subject to availability.
 
 The page on [Platinum hotel status](/amex-platinum-hotel-status-marriott-hilton-gold/) covers what Gold gives in more detail.
 
@@ -53,7 +53,7 @@ Take $5,000 a year paid at Hilton hotels.
 On fees, start with the credits a Hilton stayer uses without changing habits.
 
 - **Aspire:** $550, less $200 of flight credit used across four quarters, less $200 from one resort stay, leaves $150. The yearly free night then covers that if the room would have cost more than $150.
-- **Platinum:** $895. No credit applies to a Hilton stay booked with Hilton. The $600 hotel credit needs a prepaid Amex Travel booking, and those bookings generally do not earn hotel points or status benefits unless made through Fine Hotels + Resorts.
+- **Platinum:** $895. No credit applies to a Hilton stay booked with Hilton. The $600 hotel credit needs a prepaid Fine Hotels + Resorts or Hotel Collection booking through Amex Travel.
 
 The Aspire resort credit works only at Hilton properties on its resort list, not at every Hilton. A reader who never stays at a resort should leave that $400 out. The page on [Surpass against Aspire](/hilton-surpass-vs-aspire-amex/) compares the Aspire with the $150 Hilton card.
 
@@ -61,7 +61,7 @@ The Aspire resort credit works only at Hilton properties on its resort list, not
 
 - **Ten or more Hilton nights a year, some at resorts:** Aspire. Status, earning and credits all apply to those stays.
 - **Flies often and wants lounges:** Platinum. No airport lounge access is listed for the Aspire in the review read.
-- **Wants points for flights:** Platinum. Its points move to about 16 airline programs. Hilton points move to airlines at poor rates and are meant for Hilton nights.
+- **Wants points for flights:** Platinum. Its points move to about 16 airline programs. Aspire points stay in Hilton Honors.
 - **Splits hotel nights across Hilton, Marriott and independent luxury hotels:** Platinum, for Gold status at two chains and the $600 hotel credit.
 - **Both:** the two fees total $1,445 a year. That fits only a reader who would use the lounges and the Hilton benefits fully.
 
@@ -77,7 +77,7 @@ Welcome offers on both cards vary by applicant and change, so they are left out 
 ## Quick answers
 
 **Does the Amex Platinum give Hilton Diamond status?**
-No. It gives Hilton Gold on enrollment. Among Amex cards the Hilton Honors Aspire gives Diamond.
+No. It gives Hilton Gold on enrollment. The Hilton Honors Aspire gives Diamond for as long as the card is held.
 
 **Can Amex Platinum points become Hilton points?**
 Yes, at 1:2. One thousand Amex points become 2,000 Hilton points.
