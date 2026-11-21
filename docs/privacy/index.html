@@ -34,7 +34,7 @@
 <li><strong>Email you send us.</strong> If you write to hello@itsworththefee.com, we keep your message so we can reply.</li></ul>
 <p>We have no accounts, no comment forms and no newsletter.</p>
 <h2>Analytics</h2>
-<p>This site does not currently use an analytics service.</p>
+<p>This site uses Google Analytics to count visits and button clicks. Google sets cookies and processes data under its own privacy policy. You can block it with a browser setting or extension and the site works the same.</p>
 <h2>When you click a referral link</h2>
 <p>You leave this site and go to the company's own website. That company's privacy policy applies from then on. The company can tell that you arrived through our link; we are not told who you are, only (in some programs) that a referral succeeded.</p>
 <h2>Other services</h2>
@@ -58,6 +58,12 @@
 <p class="legal">The content here is information only and is not financial, tax or legal advice. Offers, fees and rules change. Check the provider's own page before you decide. Opinions are ours alone and have not been reviewed or approved by any company mentioned.</p>
 <p class="legal">&copy; 2026 Worth the Fee</p>
 </div></footer>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RQB06CSYNM"></script>
+<script>
+window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+gtag('js',new Date());gtag('config','G-RQB06CSYNM');
+document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('a[data-go]');if(a){gtag('event','referral_click',{link:a.getAttribute('data-go'),page_path:location.pathname,transport_type:'beacon'});}});
+</script>
 
 </body>
 </html>
