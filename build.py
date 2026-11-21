@@ -14,7 +14,7 @@ OUT = ROOT / "docs"
 BASE = "/worth-the-fee/"
 SITE = "https://dpwonder.github.io/worth-the-fee/"
 NAME = "Worth the Fee"
-TAGLINE = "Straight answers on whether a travel card or programme is worth it for you."
+TAGLINE = "Straight answers on whether a travel card or program is worth it for you."
 INDEXNOW_KEY = "7c1e5b0a9d4f4e3aa6b2c8d91f0e4a57"
 ANALYTICS = (ROOT / "analytics.html").read_text() if (ROOT / "analytics.html").exists() else ""
 
@@ -180,13 +180,13 @@ def build():
             for p in items)
         groups.append(f"<h2>{esc(label)}</h2><ul class=\"qlist\">{lis}</ul>")
     home = f'<section class="hero"><h1>{NAME}</h1><p>{TAGLINE}</p><p class="meta">Each page answers one question, shows its sources, and says when the answer is no.</p></section>' + "".join(groups)
-    write("index.html", layout(f"{NAME}: is that travel card or programme worth it?", TAGLINE, home, ""))
+    write("index.html", layout(f"{NAME}: is that travel card or program worth it?", TAGLINE, home, ""))
 
     # about
     rows = "".join(
         f'<tr><td>{esc(v["name"])}</td><td>{esc(v["we_get"])}</td></tr>' for v in LINKS.values())
     about = f"""<article><h1>How this site works</h1>
-<p>{NAME} answers narrow questions about travel cards and travel programmes: the kind where the honest answer depends on how you travel, and is sometimes "no, skip it".</p>
+<p>{NAME} answers narrow questions about travel cards and travel programs: the kind where the honest answer depends on how you travel, and is sometimes "no, skip it".</p>
 <h2>Who runs it</h2>
 <p>One person who holds the American Express Platinum Card and a Chase Sapphire card, and uses Rakuten. It is not run by a bank, a card issuer or a comparison company.</p>
 <h2>How it earns</h2>
