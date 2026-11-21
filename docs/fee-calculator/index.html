@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Annual fee calculator: is the card worth it for you? | Worth the Fee</title>
+<meta name="description" content="Tick the credits you would really use on the Amex Platinum, Sapphire Reserve or Sapphire Preferred and see what the fee costs you.">
+<link rel="canonical" href="https://itsworththefee.com/fee-calculator/">
+<meta name="msvalidate.01" content="7F3508CD40EB1CBCBE479FE461FF6B82" />
+
+<meta property="og:site_name" content="Worth the Fee">
+<meta property="og:title" content="Annual fee calculator: is the card worth it for you? | Worth the Fee">
+<meta property="og:description" content="Tick the credits you would really use on the Amex Platinum, Sapphire Reserve or Sapphire Preferred and see what the fee costs you.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://itsworththefee.com/fee-calculator/">
+<meta name="twitter:card" content="summary">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/style.css">
+
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="site"><div class="wrap bar">
+<a class="brand" href="/"><svg class="mark" viewBox="0 0 32 32" width="28" height="28" aria-hidden="true"><rect width="32" height="32" rx="9" fill="var(--ink)"/><path d="M8 17.2l5 5L24.5 10" fill="none" stroke="var(--gold)" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/></svg><span>Worth the Fee</span></a>
+<nav aria-label="Topics"><a href="/amex-platinum/">Amex Platinum</a><a href="/chase-sapphire/">Chase Sapphire</a><a href="/amex-cards/">Amex cards</a><a href="/rakuten/">Rakuten</a><a href="/hawaii-and-golf-trips/">Trips</a><a href="/card-comparisons/">Comparisons</a><a href="/using-points/">Points</a><a class="navoffers" href="/offers/">Offers</a></nav>
+</div></header>
+<main id="main">
+<div class="wrap narrow"><article class="prose"><h1>Annual fee calculator: is the card worth it for you?</h1>
+<p class="lede">Pick a card, then score each credit by how much of it you would spend anyway. The calculator shows what the annual fee really costs you.</p>
+<p class="disclosure">This page contains referral links. We earn points or cash if you sign up through one. <a href="/disclosure/">How we earn</a>. Amounts were checked on November 21, 2026; issuers change them.</p>
+<div class="calc" id="calc">
+<div class="calctabs" role="tablist"><button type="button" data-card="amex">Amex Platinum</button><button type="button" data-card="reserve">Chase Sapphire Reserve</button><button type="button" data-card="preferred">Chase Sapphire Preferred</button></div>
+<div id="calcrows"></div>
+<div class="calcout" aria-live="polite"><p class="eyebrow">Your number</p><p id="calcsum"></p><p id="calcverdict"></p>
+<p id="calccta"></p><p class="fine" id="calcmore"></p></div>
+</div>
+<noscript><p>The calculator needs JavaScript. The same sums are on <a href="/amex-platinum-credits-real-value/">the Amex Platinum credits page</a> and <a href="/chase-sapphire-reserve-credits-real-value/">the Sapphire Reserve credits page</a>.</p></noscript>
+<h2>How to score a credit</h2>
+<ul><li><strong>All of it:</strong> you already pay for this, in the pieces the credit comes in.</li>
+<li><strong>Half:</strong> you would use it sometimes, or would pay less for it yourself.</li>
+<li><strong>None:</strong> you would not buy this without the credit.</li></ul>
+<h2>What it leaves out</h2>
+<p>Lounges, hotel status, travel insurance, points earned and any welcome offer are not counted, because their value depends on how you travel. If the result is below zero, the gap is what you would pay each year for those. This page is information, not financial advice.</p>
+<script>
+(function(){
+var D={"amex": {"card": "Amex Platinum", "fee": 895, "cta": "amex", "button": "See your Amex offer", "more": "/amex-platinum-credits-real-value/", "credits": [["Hotel credit (prepaid Fine Hotels + Resorts, The Hotel Collection or Airbnb Luxe via Amex Travel)", 600, "$300 each half-year"], ["Resy restaurants", 400, "$100 per quarter"], ["Digital entertainment (streaming)", 300, "$25 per month"], ["lululemon", 300, "$75 per quarter"], ["Equinox membership", 300, "yearly"], ["CLEAR+ membership", 219, "yearly"], ["Airline incidental fees", 200, "one airline you pick; not tickets"], ["Uber Cash", 200, "$15 per month, $35 in December"], ["Oura ring", 200, "hardware only"], ["Walmart+ membership", 155, "$12.95 per month plus tax"], ["Uber One membership", 120, "yearly"], ["Global Entry or TSA PreCheck", 30, "$120 once every 4 years"]]}, "reserve": {"card": "Chase Sapphire Reserve", "fee": 795, "cta": "chase", "button": "See the Chase Sapphire offer", "more": "/chase-sapphire-reserve-credits-real-value/", "credits": [["Travel credit", 300, "any travel purchase, each account year"], ["The Edit hotels", 500, "$250 per prepaid stay of two nights or more"], ["Dining (Exclusive Tables restaurants on OpenTable)", 300, "$150 each half-year"], ["StubHub and viagogo", 300, "$150 each half-year, through 2027"], ["DoorDash promos", 420, "$35 a month in three separate promos"], ["DashPass membership", 120, "Chase's stated value"], ["Lyft", 120, "$10 a month, through September 2027"], ["Peloton membership", 120, "$10 a month, through 2027"], ["Apple TV and Apple Music", 324, "Chase's stated value"], ["Global Entry, TSA PreCheck or NEXUS", 30, "$120 once every 4 years"]]}, "preferred": {"card": "Chase Sapphire Preferred", "fee": 95, "cta": "chase", "button": "See the Chase Sapphire offer", "more": "/chase-sapphire-preferred-one-trip-a-year/", "credits": [["Hotel credit (hotel stays bought through Chase Travel)", 100, "each account year"], ["DashPass membership", 120, "only if you would pay for it"]]}},cur=null,state={};
+var rows=document.getElementById('calcrows');
+function money(n){return (n<0?'-':'')+'$'+Math.abs(Math.round(n)).toLocaleString('en-US');}
+function draw(k){cur=k;state={};var c=D[k],h='';
+ c.credits.forEach(function(r,i){state[i]=0;
+  h+='<div class="calcrow"><div><strong>'+r[0]+'</strong><span>Up to $'+r[1]+' a year. '+r[2]+'</span></div><div class="seg" data-i="'+i+'">'+
+   '<button type="button" data-v="0" class="on">None</button><button type="button" data-v="0.5">Half</button><button type="button" data-v="1">All</button></div></div>';});
+ rows.innerHTML=h;
+ document.querySelectorAll('.calctabs button').forEach(function(b){b.classList.toggle('on',b.getAttribute('data-card')===k);});
+ sum();}
+function sum(){var c=D[cur],tot=0;c.credits.forEach(function(r,i){tot+=r[1]*state[i];});
+ var net=tot-c.fee;
+ document.getElementById('calcsum').innerHTML='Credits you would use: <strong>'+money(tot)+'</strong> a year. Annual fee: <strong>'+money(c.fee)+'</strong>. Net: <strong>'+money(net)+'</strong>.';
+ document.getElementById('calcverdict').textContent=net>=0?
+  'On your numbers the credits alone cover the fee. Check each one again against what you really spent last year before you rely on it.':
+  'On your numbers the '+c.card+' costs you '+money(-net)+' a year after credits. It is worth it only if lounges, status, insurance and points are worth that much to you.';
+ document.getElementById('calccta').innerHTML='<a class="btn" rel="sponsored nofollow" data-go="'+c.cta+'" data-pos="calculator" href="/go/'+c.cta+'/">'+c.button+'</a>';
+ document.getElementById('calcmore').innerHTML='Referral link: we earn if you are approved. <a href="'+c.more+'">How these credits work and who should skip the card</a>.';}
+rows.addEventListener('click',function(e){var b=e.target.closest('button[data-v]');if(!b)return;var s=b.parentNode;
+ state[s.getAttribute('data-i')]=parseFloat(b.getAttribute('data-v'));
+ s.querySelectorAll('button').forEach(function(x){x.classList.toggle('on',x===b);});sum();
+ try{if(window.gtag&&!window._cu){window._cu=1;gtag('event','calculator_use',{card:cur});}}catch(err){}});
+document.querySelector('.calctabs').addEventListener('click',function(e){var b=e.target.closest('button[data-card]');if(b){draw(b.getAttribute('data-card'));history.replaceState(null,'','#'+b.getAttribute('data-card'));}});
+var h=location.hash.replace('#','');draw(D[h]?h:'amex');
+})();
+</script></article></div>
+</main>
+<footer class="site"><div class="wrap">
+<div class="fcols">
+<div><a class="brand" href="/"><svg class="mark" viewBox="0 0 32 32" width="28" height="28" aria-hidden="true"><rect width="32" height="32" rx="9" fill="var(--ink)"/><path d="M8 17.2l5 5L24.5 10" fill="none" stroke="var(--gold)" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/></svg><span>Worth the Fee</span></a>
+<p>Straight answers on whether a travel card or program is worth it for you.</p></div>
+<div><h4>Topics</h4><ul><li><a href="/amex-platinum/">Amex Platinum</a></li><li><a href="/chase-sapphire/">Chase Sapphire</a></li><li><a href="/amex-cards/">Other Amex cards</a></li><li><a href="/rakuten/">Rakuten</a></li><li><a href="/hawaii-and-golf-trips/">Hawaii &amp; golf trips</a></li><li><a href="/card-comparisons/">Card comparisons</a></li><li><a href="/using-points/">Using points</a></li></ul></div>
+<div><h4>The site</h4><ul>
+<li><a href="/about/">About</a></li>
+<li><a href="/offers/">Current referral offers</a></li>
+<li><a href="/fee-calculator/">Annual fee calculator</a></li>
+<li><a href="/how-we-check-facts/">How we check facts</a></li>
+<li><a href="/disclosure/">How we earn</a></li>
+<li><a href="/privacy/">Privacy</a></li>
+<li><a href="/contact/">Contact</a></li></ul></div>
+</div>
+<p class="legal"><strong>Disclosure:</strong> Worth the Fee is independent and is not a bank or card issuer. Some pages contain referral links. If you sign up through one, we earn points or cash from that company. It does not change what a page says, and it costs you nothing extra.</p>
+<p class="legal">The content here is information only and is not financial, tax or legal advice. Offers, fees and rules change. Check the provider's own page before you decide. Opinions are ours alone and have not been reviewed or approved by any company mentioned.</p>
+<p class="legal">&copy; 2026 Worth the Fee</p>
+</div></footer>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RQB06CSYNM"></script>
+<script>
+window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+gtag('js',new Date());gtag('config','G-RQB06CSYNM');
+document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('a[data-go]');if(a){gtag('event','referral_click',{link:a.getAttribute('data-go'),position:a.getAttribute('data-pos')||'bottom',page_path:location.pathname,transport_type:'beacon'});}});
+</script>
+
+</body>
+</html>

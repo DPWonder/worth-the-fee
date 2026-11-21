@@ -145,3 +145,19 @@ section.all h2 + .grouphead { margin-top: 0; }
 nav[aria-label="Topics"] a.navoffers { background: var(--gold); color: var(--gold-text); font-weight: 700; }
 nav[aria-label="Topics"] a.navoffers:hover { background: var(--gold); filter: brightness(.95); }
 .prose .ctas + .fine { margin: 8px 0 28px; }
+
+.herocta { margin: -12px 0 32px; }
+.calclink { font-size: 15px; color: var(--muted); margin: -8px 0 20px !important; }
+.calc { border: 1px solid var(--line); border-radius: 14px; padding: 18px; margin: 20px 0 28px; box-shadow: var(--shadow); background: var(--card); }
+.calctabs { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 14px; }
+.calctabs button, .seg button { font: inherit; font-size: 14px; font-weight: 600; border: 1px solid var(--line); background: var(--bg); color: var(--text); padding: 8px 14px; border-radius: 999px; cursor: pointer; }
+.calctabs button.on { background: var(--hero-bg); color: #fff; border-color: var(--hero-bg); }
+.calcrow { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px 16px; padding: 12px 0; border-top: 1px solid var(--line); }
+.calcrow > div:first-child { flex: 1 1 260px; }
+.calcrow span { display: block; color: var(--muted); font-size: 14px; }
+.seg { display: flex; gap: 4px; }
+.seg button { padding: 6px 12px; }
+.seg button.on { background: var(--gold); color: var(--gold-text); border-color: var(--gold); }
+.calcout { background: var(--tint); border-radius: 12px; padding: 16px 18px; margin-top: 12px; }
+.calcout p { margin: 0 0 10px; }
+#calcsum { font-size: 18px; }

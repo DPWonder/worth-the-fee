@@ -41,6 +41,40 @@ TOPICS = {
 
 LIVE_TOPICS = set()
 
+# Fee calculator data: (credit, dollars per year at face value, note). Sources: the credit pages in content/.
+CALC = {
+    "amex": {"card": "Amex Platinum", "fee": 895, "more": "amex-platinum-credits-real-value", "credits": [
+        ("Hotel credit (prepaid Fine Hotels + Resorts, The Hotel Collection or Airbnb Luxe via Amex Travel)", 600, "$300 each half-year"),
+        ("Resy restaurants", 400, "$100 per quarter"),
+        ("Digital entertainment (streaming)", 300, "$25 per month"),
+        ("lululemon", 300, "$75 per quarter"),
+        ("Equinox membership", 300, "yearly"),
+        ("CLEAR+ membership", 219, "yearly"),
+        ("Airline incidental fees", 200, "one airline you pick; not tickets"),
+        ("Uber Cash", 200, "$15 per month, $35 in December"),
+        ("Oura ring", 200, "hardware only"),
+        ("Walmart+ membership", 155, "$12.95 per month plus tax"),
+        ("Uber One membership", 120, "yearly"),
+        ("Global Entry or TSA PreCheck", 30, "$120 once every 4 years"),
+    ]},
+    "reserve": {"card": "Chase Sapphire Reserve", "fee": 795, "cta": "chase", "more": "chase-sapphire-reserve-credits-real-value", "credits": [
+        ("Travel credit", 300, "any travel purchase, each account year"),
+        ("The Edit hotels", 500, "$250 per prepaid stay of two nights or more"),
+        ("Dining (Exclusive Tables restaurants on OpenTable)", 300, "$150 each half-year"),
+        ("StubHub and viagogo", 300, "$150 each half-year, through 2027"),
+        ("DoorDash promos", 420, "$35 a month in three separate promos"),
+        ("DashPass membership", 120, "Chase's stated value"),
+        ("Lyft", 120, "$10 a month, through September 2027"),
+        ("Peloton membership", 120, "$10 a month, through 2027"),
+        ("Apple TV and Apple Music", 324, "Chase's stated value"),
+        ("Global Entry, TSA PreCheck or NEXUS", 30, "$120 once every 4 years"),
+    ]},
+    "preferred": {"card": "Chase Sapphire Preferred", "fee": 95, "cta": "chase", "more": "chase-sapphire-preferred-one-trip-a-year", "credits": [
+        ("Hotel credit (hotel stays bought through Chase Travel)", 100, "each account year"),
+        ("DashPass membership", 120, "only if you would pay for it"),
+    ]},
+}
+
 LOGO = ('<svg class="mark" viewBox="0 0 32 32" width="28" height="28" aria-hidden="true">'
         '<rect width="32" height="32" rx="9" fill="var(--ink)"/>'
         '<path d="M8 17.2l5 5L24.5 10" fill="none" stroke="var(--gold)" stroke-width="3.4" '
@@ -121,6 +155,14 @@ def mini_cta(keys):
             f'Read the page first.</span> {links}</p>')
 
 
+def calc_link(pg):
+    if not ({"amex", "chase"} & set(pg["cta"])):
+        return ""
+    anchor = "#amex" if pg["cta"][0] == "amex" else "#preferred"
+    return (f'<p class="calclink">Not sure the fee pays off? <a href="{BASE}fee-calculator/{anchor}">Run your own numbers in the '
+            f'annual fee calculator</a>.</p>')
+
+
 def layout(title, description, content, path, extra_head="", noindex=False, og_type="website"):
     canonical = SITE + path
     robots = '<meta name="robots" content="noindex">' if noindex else ""
@@ -166,6 +208,7 @@ def layout(title, description, content, path, extra_head="", noindex=False, og_t
 <div><h4>The site</h4><ul>
 <li><a href="{BASE}about/">About</a></li>
 <li><a href="{BASE}offers/">Current referral offers</a></li>
+<li><a href="{BASE}fee-calculator/">Annual fee calculator</a></li>
 <li><a href="{BASE}how-we-check-facts/">How we check facts</a></li>
 <li><a href="{BASE}disclosure/">How we earn</a></li>
 <li><a href="{BASE}privacy/">Privacy</a></li>
@@ -271,7 +314,7 @@ def build():
             f'<article class="prose"><h1>{esc(pg["title"])}</h1>'
             f'<p class="meta"><span>Facts checked {nice}</span><span>{pg["minutes"]} min read</span>'
             f'<span><a href="{BASE}how-we-check-facts/">How we check facts</a></span></p>'
-            f'{disclosure}<div class="answer"><p class="eyebrow">The short answer</p>{answer_html}</div>{mini_cta(pg["cta"])}'
+            f'{disclosure}<div class="answer"><p class="eyebrow">The short answer</p>{answer_html}</div>{mini_cta(pg["cta"])}{calc_link(pg)}'
             f'{body_html}{cta_html(pg["cta"])}</article>{rel_html}</div>'
         )
         write(path + "index.html", layout(f'{pg["title"]} | {NAME}', pg["description"], content, path, head, og_type="article"))
@@ -295,6 +338,7 @@ def build():
 <p class="eyebrow">Independent. Sourced. Dated.</p>
 <h1>Is it worth the fee?</h1>
 <p class="lede">Travel cards and programs sell a big number. We work out what it is worth for the way <em>you</em> travel, and we say so when the answer is no.</p>
+<p class="herocta"><a class="btn" href="{BASE}fee-calculator/">Try the annual fee calculator</a></p>
 <div class="tgrid">{tcards}</div>
 </div></section>
 <section class="how"><div class="wrap">
@@ -369,6 +413,54 @@ def build():
 <ul><li>Offers vary by applicant and change without notice. The company's page is the final word.</li>
 <li>Read the page for that card or program first. Several tell most readers to skip it.</li>
 <li>Do not apply for a card to earn a bonus you would have to overspend to reach.</li></ul>""")
+    calc_js = json.dumps({k: {"card": v["card"], "fee": v["fee"], "cta": v.get("cta", k),
+                              "button": LINKS[v.get("cta", k)]["button"], "more": BASE + v["more"] + "/",
+                              "credits": v["credits"]} for k, v in CALC.items()})
+    simple_page("fee-calculator/", "Annual fee calculator: is the card worth it for you?",
+                "Tick the credits you would really use on the Amex Platinum, Sapphire Reserve or Sapphire Preferred and see what the fee costs you.", f"""
+<p class="lede">Pick a card, then score each credit by how much of it you would spend anyway. The calculator shows what the annual fee really costs you.</p>
+<p class="disclosure">This page contains referral links. We earn points or cash if you sign up through one. <a href="{BASE}disclosure/">How we earn</a>. Amounts were checked on {date.today().strftime("%B %-d, %Y")}; issuers change them.</p>
+<div class="calc" id="calc">
+<div class="calctabs" role="tablist">{"".join(f'<button type="button" data-card="{k}">{esc(v["card"])}</button>' for k, v in CALC.items())}</div>
+<div id="calcrows"></div>
+<div class="calcout" aria-live="polite"><p class="eyebrow">Your number</p><p id="calcsum"></p><p id="calcverdict"></p>
+<p id="calccta"></p><p class="fine" id="calcmore"></p></div>
+</div>
+<noscript><p>The calculator needs JavaScript. The same sums are on <a href="{BASE}amex-platinum-credits-real-value/">the Amex Platinum credits page</a> and <a href="{BASE}chase-sapphire-reserve-credits-real-value/">the Sapphire Reserve credits page</a>.</p></noscript>
+<h2>How to score a credit</h2>
+<ul><li><strong>All of it:</strong> you already pay for this, in the pieces the credit comes in.</li>
+<li><strong>Half:</strong> you would use it sometimes, or would pay less for it yourself.</li>
+<li><strong>None:</strong> you would not buy this without the credit.</li></ul>
+<h2>What it leaves out</h2>
+<p>Lounges, hotel status, travel insurance, points earned and any welcome offer are not counted, because their value depends on how you travel. If the result is below zero, the gap is what you would pay each year for those. This page is information, not financial advice.</p>
+<script>
+(function(){{
+var D={calc_js},cur=null,state={{}};
+var rows=document.getElementById('calcrows');
+function money(n){{return (n<0?'-':'')+'$'+Math.abs(Math.round(n)).toLocaleString('en-US');}}
+function draw(k){{cur=k;state={{}};var c=D[k],h='';
+ c.credits.forEach(function(r,i){{state[i]=0;
+  h+='<div class="calcrow"><div><strong>'+r[0]+'</strong><span>Up to $'+r[1]+' a year. '+r[2]+'</span></div><div class="seg" data-i="'+i+'">'+
+   '<button type="button" data-v="0" class="on">None</button><button type="button" data-v="0.5">Half</button><button type="button" data-v="1">All</button></div></div>';}});
+ rows.innerHTML=h;
+ document.querySelectorAll('.calctabs button').forEach(function(b){{b.classList.toggle('on',b.getAttribute('data-card')===k);}});
+ sum();}}
+function sum(){{var c=D[cur],tot=0;c.credits.forEach(function(r,i){{tot+=r[1]*state[i];}});
+ var net=tot-c.fee;
+ document.getElementById('calcsum').innerHTML='Credits you would use: <strong>'+money(tot)+'</strong> a year. Annual fee: <strong>'+money(c.fee)+'</strong>. Net: <strong>'+money(net)+'</strong>.';
+ document.getElementById('calcverdict').textContent=net>=0?
+  'On your numbers the credits alone cover the fee. Check each one again against what you really spent last year before you rely on it.':
+  'On your numbers the '+c.card+' costs you '+money(-net)+' a year after credits. It is worth it only if lounges, status, insurance and points are worth that much to you.';
+ document.getElementById('calccta').innerHTML='<a class="btn" rel="sponsored nofollow" data-go="'+c.cta+'" data-pos="calculator" href="{BASE}go/'+c.cta+'/">'+c.button+'</a>';
+ document.getElementById('calcmore').innerHTML='Referral link: we earn if you are approved. <a href="'+c.more+'">How these credits work and who should skip the card</a>.';}}
+rows.addEventListener('click',function(e){{var b=e.target.closest('button[data-v]');if(!b)return;var s=b.parentNode;
+ state[s.getAttribute('data-i')]=parseFloat(b.getAttribute('data-v'));
+ s.querySelectorAll('button').forEach(function(x){{x.classList.toggle('on',x===b);}});sum();
+ try{{if(window.gtag&&!window._cu){{window._cu=1;gtag('event','calculator_use',{{card:cur}});}}}}catch(err){{}}}});
+document.querySelector('.calctabs').addEventListener('click',function(e){{var b=e.target.closest('button[data-card]');if(b){{draw(b.getAttribute('data-card'));history.replaceState(null,'','#'+b.getAttribute('data-card'));}}}});
+var h=location.hash.replace('#','');draw(D[h]?h:'amex');
+}})();
+</script>""")
     analytics_note = ("This site uses Google Analytics to count visits and button clicks. Google sets cookies and processes "
                       "data under its own privacy policy. You can block it with a browser setting or extension and the site "
                       "works the same." if ANALYTICS else "This site does not currently use an analytics service.")
@@ -410,7 +502,7 @@ def build():
                              f'<div class="wrap narrow"><article class="prose"><h1>Page not found</h1><p><a href="{BASE}">See all questions</a>.</p></article></div>',
                              "404.html", noindex=True))
 
-    statics = ["", "offers/", "about/", "how-we-check-facts/", "disclosure/", "privacy/", "contact/"] + [t["slug"] + "/" for k, t in TOPICS.items() if k in LIVE_TOPICS]
+    statics = ["", "offers/", "fee-calculator/", "about/", "how-we-check-facts/", "disclosure/", "privacy/", "contact/"] + [t["slug"] + "/" for k, t in TOPICS.items() if k in LIVE_TOPICS]
     urls = [(u, today) for u in statics] + [(p["slug"] + "/", p.get("checked", today)) for p in pages]
     sm = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + "".join(
         f"<url><loc>{SITE}{u}</loc><lastmod>{d}</lastmod></url>\n" for u, d in urls) + "</urlset>\n"
@@ -426,7 +518,7 @@ def build():
             continue
         llms += f"## {t['label']}\n\n" + "".join(
             f'- [{p["title"]}]({SITE}{p["slug"]}/): {p["description"]}\n' for p in pages if p["topic"] == k) + "\n"
-    llms += f"## About\n\n- [Current referral offers]({SITE}offers/)\n- [How we check facts]({SITE}how-we-check-facts/)\n- [How we earn]({SITE}disclosure/)\n"
+    llms += f"## About\n\n- [Current referral offers]({SITE}offers/)\n- [Annual fee calculator]({SITE}fee-calculator/)\n- [How we check facts]({SITE}how-we-check-facts/)\n- [How we earn]({SITE}disclosure/)\n"
     write("llms.txt", llms)
     (ROOT / "urls.txt").write_text("\n".join(SITE + u for u, _ in urls) + "\n")
     print(f"built {len(pages)} pages -> {OUT}")
