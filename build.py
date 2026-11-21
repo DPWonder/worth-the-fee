@@ -351,7 +351,7 @@ def build():
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="{BASE}style.css">
 {ANALYTICS}
-<script>try{{if(window.gtag)gtag('event','referral_click',{{link:'{k}',transport_type:'beacon'}});}}catch(e){{}}</script>
+<script>try{{if(window.gtag)gtag('event','referral_redirect',{{link:'{k}',transport_type:'beacon'}});}}catch(e){{}}</script>
 <meta http-equiv="refresh" content="1;url={url}"></head>
 <body><main><div class="wrap narrow"><p style="margin-top:80px">Opening {esc(v["name"])}. If nothing happens, <a rel="sponsored nofollow" href="{url}">continue here</a>.</p></div></main></body></html>"""
         write(f"go/{k}/index.html", page)
@@ -365,7 +365,10 @@ def build():
     sm = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + "".join(
         f"<url><loc>{SITE}{u}</loc><lastmod>{d}</lastmod></url>\n" for u, d in urls) + "</urlset>\n"
     write("sitemap.xml", sm)
-    write("robots.txt", f"User-agent: *\nAllow: /\nDisallow: /go/\n\nSitemap: {SITE}sitemap.xml\n")
+    ai_bots = ['GPTBot', 'OAI-SearchBot', 'ChatGPT-User', 'ClaudeBot', 'Claude-SearchBot', 'Claude-User', 'PerplexityBot', 'Perplexity-User', 'Google-Extended', 'Applebot-Extended', 'bingbot', 'CCBot']
+    robots = "User-agent: *\nAllow: /\nDisallow: /go/\n\n" + "".join(
+        f"User-agent: {b}\nAllow: /\nDisallow: /go/\n\n" for b in ai_bots) + f"Sitemap: {SITE}sitemap.xml\n"
+    write("robots.txt", robots)
     llms = (f"# {NAME}\n\n> {TAGLINE} Each page answers one question in its first two sentences, cites its sources and "
             f"gives the date it was checked. Some pages end with a disclosed referral link.\n\n")
     for k, t in TOPICS.items():
