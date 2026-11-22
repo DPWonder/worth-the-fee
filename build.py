@@ -185,6 +185,7 @@ def layout(title, description, content, path, extra_head="", noindex=False, og_t
 <meta property="og:url" content="{canonical}">
 <meta name="twitter:card" content="summary">
 <link rel="icon" href="{BASE}favicon.svg" type="image/svg+xml">
+<link rel="alternate" type="application/rss+xml" title="{NAME}" href="{BASE}feed.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -330,6 +331,14 @@ def build():
         write(t["slug"] + "/index.html", layout(f'{t["label"]}: is it worth it? | {NAME}', t["blurb"], content, t["slug"] + "/"))
 
     # home
+    newest = sorted(pages, key=lambda p: (p.get("checked", ""), (ROOT / "content" / (p["slug"] + ".md")).stat().st_mtime), reverse=True)
+    items = "".join(
+        f"<item><title>{esc(p['title'])}</title><link>{SITE}{p['slug']}/</link><guid>{SITE}{p['slug']}/</guid>"
+        f"<description>{esc(p['description'])}</description>"
+        f"<pubDate>{date.fromisoformat(p.get('checked', today)).strftime('%a, %d %b %Y')} 00:00:00 GMT</pubDate></item>\n"
+        for p in newest[:30])
+    write("feed.xml", f'<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0"><channel><title>{NAME}</title>'
+                      f"<link>{SITE}</link><description>{esc(TAGLINE)}</description>\n{items}</channel></rss>\n")
     tcards = "".join(
         f'<a class="tcard" href="{BASE}{t["slug"]}/"><strong>{esc(t["label"])}</strong><span>{esc(t["blurb"])}</span>'
         f'<span class="more">{sum(1 for p in pages if p["topic"] == k)} questions &rarr;</span></a>'
@@ -348,6 +357,8 @@ def build():
 <div><span class="num">2</span><h3>Every number has a source</h3><p>Fees, credits and rules link to where we found them, with the date we checked.</p></div>
 <div><span class="num">3</span><h3>"No" is an answer</h3><p>Every page says who should skip the card or program. Most people are not the target customer.</p></div>
 </div></div></section>
+<section class="all newest"><div class="wrap"><h2>Newest answers</h2>
+<div class="qgrid">{"".join(qcard(p) for p in newest[:6])}</div></div></section>
 <section class="all"><div class="wrap"><h2>All questions</h2>
 {"".join(f'<h3 class="grouphead"><a href="{BASE}{t["slug"]}/">{esc(t["label"])}</a></h3><div class="qgrid">' + "".join(qcard(p) for p in pages if p["topic"] == k) + "</div>" for k, t in TOPICS.items() if any(p["topic"] == k for p in pages))}
 </div></section>"""

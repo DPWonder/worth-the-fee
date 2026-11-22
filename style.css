@@ -161,3 +161,5 @@ nav[aria-label="Topics"] a.navoffers:hover { background: var(--gold); filter: br
 .calcout { background: var(--tint); border-radius: 12px; padding: 16px 18px; margin-top: 12px; }
 .calcout p { margin: 0 0 10px; }
 #calcsum { font-size: 18px; }
+
+section.newest { padding-bottom: 0; }
