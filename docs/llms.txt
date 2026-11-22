@@ -166,3 +166,5 @@
 - [Annual fee calculator](https://itsworththefee.com/fee-calculator/)
 - [How we check facts](https://itsworththefee.com/how-we-check-facts/)
 - [How we earn](https://itsworththefee.com/disclosure/)
+
+Full text of every page in one file: https://itsworththefee.com/llms-full.txt. Each page also has a Markdown copy at its URL plus index.md.

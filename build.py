@@ -9,6 +9,8 @@ from pathlib import Path
 
 import markdown
 
+import og
+
 ROOT = Path(__file__).parent
 OUT = ROOT / "docs"
 DOMAIN = "itsworththefee.com"
@@ -163,7 +165,7 @@ def calc_link(pg):
             f'annual fee calculator</a>.</p>')
 
 
-def layout(title, description, content, path, extra_head="", noindex=False, og_type="website"):
+def layout(title, description, content, path, extra_head="", noindex=False, og_type="website", image="og/default.png"):
     canonical = SITE + path
     robots = '<meta name="robots" content="noindex">' if noindex else ""
     live = [t for k, t in TOPICS.items() if k in LIVE_TOPICS]
@@ -183,7 +185,11 @@ def layout(title, description, content, path, extra_head="", noindex=False, og_t
 <meta property="og:description" content="{esc(description)}">
 <meta property="og:type" content="{og_type}">
 <meta property="og:url" content="{canonical}">
-<meta name="twitter:card" content="summary">
+<meta property="og:image" content="{SITE}{image}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{SITE}{image}">
 <link rel="icon" href="{BASE}favicon.svg" type="image/svg+xml">
 <link rel="alternate" type="application/rss+xml" title="{NAME}" href="{BASE}feed.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -231,6 +237,11 @@ def write(path, text):
     p.write_text(text)
 
 
+def page_md(pg):
+    return (f'# {pg["title"]}\n\nSource: {SITE}{pg["slug"]}/\nFacts checked: {pg.get("checked", "")}\n'
+            f'Publisher: {NAME} (independent; some pages end with a disclosed referral link)\n\n{pg["body"]}\n')
+
+
 def qcard(p):
     t = TOPICS[p["topic"]]
     return (f'<a class="qcard" href="{BASE}{p["slug"]}/"><span class="tag">{esc(t["label"])}</span>'
@@ -256,6 +267,10 @@ def build():
         shutil.copy(extra, OUT / extra.name)
 
     pages = [parse(p) for p in sorted((ROOT / "content").glob("*.md"))]
+    (OUT / "og").mkdir()
+    shutil.copy(og.make("default", "Is that travel card or program worth the fee?", "Independent. Sourced. Dated."), OUT / "og" / "default.png")
+    for p in pages:
+        shutil.copy(og.make(p["slug"], p["title"], TOPICS[p["topic"]]["label"]), OUT / "og" / (p["slug"] + ".png"))
     slugs = [p["slug"] for p in pages]
     dupes = {s for s in slugs if slugs.count(s) > 1}
     if dupes:
@@ -280,7 +295,7 @@ def build():
         ld = [{
             "@context": "https://schema.org", "@type": "Article",
             "headline": pg["title"], "description": pg["description"],
-            "dateModified": checked, "datePublished": checked,
+            "dateModified": checked, "datePublished": checked, "image": SITE + "og/" + pg["slug"] + ".png",
             "mainEntityOfPage": SITE + path,
             "author": {"@type": "Organization", "name": NAME, "url": SITE + "about/"},
             "publisher": {"@type": "Organization", "name": NAME, "url": SITE},
@@ -318,17 +333,32 @@ def build():
             f'{disclosure}<div class="answer"><p class="eyebrow">The short answer</p>{answer_html}</div>{mini_cta(pg["cta"])}{calc_link(pg)}'
             f'{body_html}{cta_html(pg["cta"])}</article>{rel_html}</div>'
         )
-        write(path + "index.html", layout(f'{pg["title"]} | {NAME}', pg["description"], content, path, head, og_type="article"))
+        write(path + "index.html", layout(f'{pg["title"]} | {NAME}', pg["description"], content, path,
+                                          head + f'<link rel="alternate" type="text/markdown" href="{BASE}{path}index.md">',
+                                          og_type="article", image=f'og/{pg["slug"]}.png'))
+        write(path + "index.md", page_md(pg))
 
     # topic hubs
     for key, t in TOPICS.items():
         items = [p for p in pages if p["topic"] == key]
         if not items:
             continue
+        shorts = ""
+        for p in items:
+            md.reset()
+            shorts += (f'<h3><a href="{BASE}{p["slug"]}/">{esc(p["title"])}</a></h3>'
+                       + md.convert(p["body"].split("\n\n", 1)[0]))
+        ld = {"@context": "https://schema.org", "@type": "ItemList", "name": t["label"],
+              "itemListElement": [{"@type": "ListItem", "position": i + 1, "name": p["title"], "url": SITE + p["slug"] + "/"}
+                                  for i, p in enumerate(items)]}
         content = (f'<div class="wrap"><section class="hubhead"><p class="eyebrow">Topic</p><h1>{esc(t["label"])}</h1>'
                    f'<p class="lede">{esc(t["blurb"])}</p></section>'
-                   f'<div class="qgrid">{"".join(qcard(p) for p in items)}</div></div>')
-        write(t["slug"] + "/index.html", layout(f'{t["label"]}: is it worth it? | {NAME}', t["blurb"], content, t["slug"] + "/"))
+                   f'<div class="qgrid">{"".join(qcard(p) for p in items)}</div></div>'
+                   f'<div class="wrap narrow"><section class="prose shorts"><h2>{esc(t["label"])}: every short answer on one page</h2>'
+                   f'<p class="fine">Each answer links to its full page, with sources and the date it was checked. '
+                   f'This is information, not financial advice.</p>{shorts}</section></div>')
+        write(t["slug"] + "/index.html", layout(f'{t["label"]}: is it worth it? | {NAME}', t["blurb"], content, t["slug"] + "/",
+                                                f'<script type="application/ld+json">{json.dumps(ld)}</script>'))
 
     # home
     newest = sorted(pages, key=lambda p: (p.get("checked", ""), (ROOT / "content" / (p["slug"] + ".md")).stat().st_mtime), reverse=True)
@@ -530,7 +560,9 @@ var h=location.hash.replace('#','');draw(D[h]?h:'amex');
         llms += f"## {t['label']}\n\n" + "".join(
             f'- [{p["title"]}]({SITE}{p["slug"]}/): {p["description"]}\n' for p in pages if p["topic"] == k) + "\n"
     llms += f"## About\n\n- [Current referral offers]({SITE}offers/)\n- [Annual fee calculator]({SITE}fee-calculator/)\n- [How we check facts]({SITE}how-we-check-facts/)\n- [How we earn]({SITE}disclosure/)\n"
+    llms += f"\nFull text of every page in one file: {SITE}llms-full.txt. Each page also has a Markdown copy at its URL plus index.md.\n"
     write("llms.txt", llms)
+    write("llms-full.txt", f"# {NAME}: full text\n\n> {TAGLINE}\n\n" + "\n---\n\n".join(page_md(p) for p in pages))
     (ROOT / "urls.txt").write_text("\n".join(SITE + u for u, _ in urls) + "\n")
     print(f"built {len(pages)} pages -> {OUT}")
 
