@@ -4,7 +4,7 @@ slug: amex-platinum-referral-vs-public-offer
 description: It can be higher, lower or the same. Amex sets an offer for each applicant, so compare the number each route shows you before you accept.
 topic: amex
 cta: amex
-checked: 2026-11-20
+checked: 2026-11-22
 ---
 
 Neither route is reliably higher. In November 2026 the public page and referral links both lead to the same kind of offer, worded as high as 175,000 points, and Amex shows each applicant their own number before they accept. The only way to compare is to look at the number each route gives you.

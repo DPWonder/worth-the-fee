@@ -3,7 +3,7 @@ title: What are the Amex Platinum credits really worth if you only count the one
 slug: amex-platinum-credits-real-value
 description: On paper the 11 main Amex Platinum credits total $2,994 a year. Your real number is only the ones you would have paid for anyway.
 cta: amex
-checked: 2026-11-20
+checked: 2026-11-22
 ---
 
 The 11 main yearly credits on the Amex Platinum add up to $2,994 on paper, against an annual fee of $895. What they are worth to you is smaller: only the credits for things you would have bought anyway count, and for many people that is a few hundred dollars to about $1,300.

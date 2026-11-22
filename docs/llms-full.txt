@@ -611,6 +611,106 @@ No. The credit resets on January 1 and anything unused on December 31 is lost.
 
 ---
 
+# When is the Amex Platinum annual fee charged, and can you get it refunded?
+
+Source: https://itsworththefee.com/amex-platinum-annual-fee-when-charged-and-refund/
+Facts checked: 2026-11-22
+Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
+
+The $895 annual fee is reported to post on your first billing statement and then once every 12 statements. Amex's cardmember agreement says the fee is refunded if you close the account within 30 days after the closing date of the statement that shows it. After that, the fee is non-refundable.
+
+This page is information, not financial advice.
+
+## When the fee posts
+
+Amex's agreement does not give a posting date. Doctor of Credit's guide to issuer fee timing reports this pattern for Amex:
+
+| Year | When the fee posts |
+|---|---|
+| First year | The first statement closing date after approval |
+| Later years | Every twelfth statement after that: the 13th, the 25th and so on |
+
+This timing comes from one source and was not confirmed on a US Amex page.
+
+The fee is due with that statement's balance. It does not count toward a welcome offer's spending requirement, because a fee is not a purchase. See [what counts toward the spending requirement](/amex-platinum-welcome-offer-spending-requirement/).
+
+## The refund rule, in Amex's words
+
+The Platinum Card agreement says Amex will refund the annual fee if you tell it you are voluntarily closing the account within 30 days after the closing date of the billing statement on which the fee appears. It goes on: "For cancellations after this 30-day period, the Annual Fee is non-refundable."
+
+The clock starts at the statement closing date, not the payment due date.
+
+| Example | Date |
+|---|---|
+| Statement showing the fee closes | January 10 |
+| Last day to close for a full refund | February 9 |
+| Closing on February 10 or later | No refund |
+
+Two details from the agreement:
+
+- The rule covers closing by your own choice, by calling or writing to Amex.
+- The agreement says this policy does not apply if your billing address is in Massachusetts when you close. What applies there is not confirmed.
+
+**Where sources differ.** One Mile at a Time (September 2026) describes the window as 30 days from the fee being billed. The Points Guy and Doctor of Credit count 30 days after the statement. This page uses the agreement's wording.
+
+## Downgrading instead of closing
+
+The agreement's refund rule covers closing only. One Mile at a Time, The Points Guy and Doctor of Credit report that a downgrade after the 30 days often brings a prorated refund of the unused fee. That is not confirmed in an Amex document. The choices, their fees and what happens to your points are on [the downgrade and cancel page](/amex-platinum-downgrade-or-cancel-options/).
+
+## Additional card fees
+
+| Card | Yearly fee |
+|---|---|
+| Each Additional Platinum Card | $195 |
+| Each Companion Platinum Card | $0 |
+
+The agreement applies the same refund policy to an additional card's fee: the 30 days run from the closing date of the statement showing that fee, and the policy applies when you cancel that additional card. When the $195 posts, and whether it follows the main card's date or the date the additional card was added, is not confirmed. See [whether an additional card is worth $195](/amex-platinum-authorized-user-worth-195/).
+
+## Closing in the first year
+
+The Points Guy (2020) and One Mile at a Time (2017) quote Amex welcome offer terms that name canceling or downgrading within 12 months of opening as a reason Amex may withhold or take back welcome points, and may close your other Amex accounts. The current Platinum Card offer terms could not be read for this page, so whether today's offer carries that wording is not confirmed.
+
+A new cardholder who closes inside the first 30-day window gets the fee back under the agreement but falls inside the 12-month wording. Welcome offers vary by applicant and change; see [the once-per-lifetime rule](/amex-once-per-lifetime-welcome-offer-rule/).
+
+## The sums at renewal
+
+| If you | Fee outcome |
+|---|---|
+| Close within 30 days after the renewal statement closes | $895 refunded |
+| Close after that | $0 refunded |
+| Downgrade after that | Prorated refund reported, not confirmed by Amex |
+
+Before the window ends, count what the [credits](/amex-platinum-credits-real-value/) returned over the past year.
+
+## Who should skip relying on a refund
+
+- Anyone past the 30 days. The agreement says the fee stays paid.
+- Anyone in the first 12 months who cares about the welcome points.
+- Anyone whose only Membership Rewards card is the Platinum and who still holds points.
+- Anyone counting on a prorated refund for a downgrade without hearing the amount from Amex.
+
+## Quick answers
+
+**When does Amex charge the Platinum annual fee?**
+Doctor of Credit reports it posts on the first statement after approval, then on every twelfth statement after that.
+
+**How long do I have to cancel and get the annual fee back?**
+Thirty days after the closing date of the statement that shows the fee, under Amex's cardmember agreement.
+
+**Does the annual fee count toward the welcome offer spending?**
+No. Fees are not purchases, so the $895 does not count.
+
+## Sources
+
+- [American Express: Platinum Card cardmember agreement (PDF)](https://www.americanexpress.com/content/dam/amex/en-us/company/legal/cardmember-agreements/public-site-adhoc-2025-09-18/platinum-card-09-18-2025.pdf)
+- [Doctor of Credit: when issuers charge annual fees](https://www.doctorofcredit.com/issuers-charge-annual-fees-guide/)
+- [Doctor of Credit: annual fee refund rules by issuer](https://www.doctorofcredit.com/annual-fee-refund-rules-for-each-card-issuer/)
+- [One Mile at a Time: credit card annual fee refund rules](https://onemileatatime.com/?p=325172)
+- [The Points Guy: keeping a new Amex account open at least one year](https://thepointsguy.com/credit-cards/american-express/keep-new-amex-account-open-at-least-one-year/)
+- [One Mile at a Time: Amex welcome offer terms wording](https://onemileatatime.com/amex-adds-strong-language-to-counter-bonus-abuse/)
+
+---
+
 # What credit score and income do you need for the Amex Platinum?
 
 Source: https://itsworththefee.com/amex-platinum-approval-requirements/
@@ -1012,7 +1112,7 @@ No. Since July 8, 2026, guests must be on the same flight as the cardholder.
 # What are the Amex Platinum credits really worth if you only count the ones you would use anyway?
 
 Source: https://itsworththefee.com/amex-platinum-credits-real-value/
-Facts checked: 2026-11-20
+Facts checked: 2026-11-22
 Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
 
 The 11 main yearly credits on the Amex Platinum add up to $2,994 on paper, against an annual fee of $895. What they are worth to you is smaller: only the credits for things you would have bought anyway count, and for many people that is a few hundred dollars to about $1,300.
@@ -1517,6 +1617,107 @@ Not confirmed. Check the benefit terms before relying on it.
 - [The Points Guy: Amex Platinum lounge access](https://thepointsguy.com/credit-cards/american-express-platinum-lounge-access/)
 - [One Mile at a Time: Amex Platinum digital entertainment credit](https://onemileatatime.com/news/amex-platinum-digital-entertainment-credit-improved/)
 - [AwardWallet: Amex Platinum](https://awardwallet.com/credit-cards/amex-membership-rewards/amex-platinum/)
+
+---
+
+# Does the Amex Platinum charge foreign transaction fees, and how well does it work abroad?
+
+Source: https://itsworththefee.com/amex-platinum-foreign-transaction-fees-abroad/
+Facts checked: 2026-11-22
+Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
+
+The Amex Platinum charges no foreign transaction fee on purchases, and its lounge and hotel benefits work around the world. American Express is accepted at fewer merchants abroad than Visa or Mastercard, cash from an ATM is expensive, and several of the card's statement credits apply only in the United States.
+
+This page is information, not financial advice.
+
+## The fee
+
+Amex's cardmember agreement for the Platinum Card lists the foreign transaction fee as "None." Upgraded Points (November 2026) reports the same, and says additional Platinum Cards follow the same terms.
+
+Upgraded Points, citing Amex, puts a typical foreign transaction fee on other cards at 3%.
+
+| Spending in foreign currency | Card with a 3% fee | Amex Platinum |
+|---|---|---|
+| $1,000 | $30 | $0 |
+| $4,000 | $120 | $0 |
+
+Many cards with no annual fee also charge no foreign fee. This saving alone does not cover an $895 annual fee.
+
+**The exchange rate.** Under the agreement, an Amex company converts each foreign charge to US dollars on the day it is processed. The rate is no more than the highest official government rate or the highest interbank rate it identifies for that day or the prior business day.
+
+## Where the card is accepted
+
+Sources describe acceptance abroad this way:
+
+- Upgraded Points, citing Amex, gives more than 170 million accepting locations worldwide. It also says Amex does not have the international footprint of Visa or Mastercard, and that acceptance varies by merchant.
+- The Points Guy (2021) says Amex is easier to use in countries such as Australia and Canada, and that in Europe and Asia it varies from merchant to merchant.
+- Upgraded Points lists places where Amex is not accepted at all: Belarus, Cuba, Iran, North Korea, Russia, Syria, and Crimea and the Donetsk and Luhansk regions of Ukraine.
+
+Both sources suggest carrying a Visa or Mastercard as a second card. No current merchant count that compares the three networks outside the United States was found, so that comparison is not confirmed in numbers.
+
+## What foreign spending earns
+
+| Purchase | Points per dollar |
+|---|---|
+| Flights booked directly with airlines or through Amex Travel, up to $500,000 a calendar year | 5 |
+| Prepaid hotels booked through Amex Travel | 5 |
+| Everything else, including restaurants, shops, trains and taxis abroad | 1 |
+
+There is no bonus category for dining or general travel. See [what the points are worth](/amex-membership-rewards-points-value/).
+
+## Paying in dollars at the terminal
+
+Some foreign terminals and ATMs offer to charge you in US dollars. This is dynamic currency conversion. The merchant or ATM operator sets the rate, not Amex. Upgraded Points, citing a European consumer group, says the markup generally runs from 2.6% to 12%. Choosing the local currency leaves the conversion to Amex.
+
+## Cash and ATMs
+
+The agreement treats ATM withdrawals and buying foreign currency as cash advances.
+
+| Term | Detail |
+|---|---|
+| Fee | 5% of the advance, including any ATM operator fee, with a $10 minimum |
+| Interest | From the transaction date, with no grace period |
+| Rate | Prime Rate + 21.99%, variable |
+| Limit | Cash advance balance may not exceed $8,000; ATMs may set their own limits |
+
+How to set up a PIN for ATM use was not confirmed.
+
+## Benefits that work abroad, and those that do not
+
+| Works outside the US | US only |
+|---|---|
+| Global Lounge Collection: more than 1,550 lounges in 140 countries, including 15 Centurion Lounges abroad and Priority Pass (enrollment required) | Uber Cash: rides and Uber Eats orders in the US |
+| Fine Hotels + Resorts: more than 1,900 hotels worldwide, booked through Amex Travel | Resy credit: US Resy restaurants |
+| The $600 hotel credit, on prepaid Amex Travel bookings | lululemon credit: US stores |
+| Trip delay and trip cancellation cover | |
+
+Details are on the pages for [lounge guest rules](/amex-platinum-centurion-lounge-guest-rules/), [Priority Pass](/priority-pass-by-card-what-you-get/), [Fine Hotels + Resorts](/fine-hotels-resorts-vs-hotel-collection/), [trip cover](/amex-platinum-trip-delay-cancellation-insurance/) and [the Uber credit](/amex-platinum-uber-credit-worth-it/). Whether the digital entertainment, Walmart+ and Equinox credits work on purchases made abroad is not confirmed.
+
+## Who should skip it
+
+- Anyone who wants one card for a whole trip. Both sources above suggest a backup.
+- Anyone who mainly needs cash abroad. A debit card with low ATM fees costs less.
+- Anyone who wants bonus points on meals abroad. This card pays 1 point per dollar there.
+- Anyone living abroad for most of the year, since the Uber, Resy and lululemon credits need US spending.
+
+## Quick answers
+
+**Does the Amex Platinum charge a foreign transaction fee?**
+No. Amex's cardmember agreement lists the foreign transaction fee as none, for the main card and additional cards.
+
+**Is the Amex Platinum accepted everywhere abroad?**
+No. Acceptance varies by country and merchant, and sources suggest carrying a Visa or Mastercard as well.
+
+**Can I use the Amex Platinum at an ATM abroad?**
+It counts as a cash advance. The fee is 5% with a $10 minimum, and interest starts the same day.
+
+## Sources
+
+- [American Express: Platinum Card cardmember agreement (PDF)](https://www.americanexpress.com/content/dam/amex/en-us/company/legal/cardmember-agreements/public-site-adhoc-2025-09-18/platinum-card-09-18-2025.pdf)
+- [Upgraded Points: Amex Platinum international fees](https://upgradedpoints.com/credit-cards/reviews/american-express-platinum-card/international-fees/)
+- [The Points Guy: Amex acceptance compared with Visa and Mastercard](https://thepointsguy.com/credit-cards/american-express/amex-now-accepted-in-as-many-places-as-visa-mastercard/)
+- [The Points Guy: Amex Platinum review](https://thepointsguy.com/credit-cards/reviews/amex-platinum-review/)
+- [The Points Guy: Amex Platinum lounge access](https://thepointsguy.com/credit-cards/american-express-platinum-lounge-access/)
 
 ---
 
@@ -2305,7 +2506,7 @@ No. The manufacturer's warranty must be five years or less. Motorized devices, s
 # Is the Amex Platinum referral offer higher or lower than the public offer?
 
 Source: https://itsworththefee.com/amex-platinum-referral-vs-public-offer/
-Facts checked: 2026-11-20
+Facts checked: 2026-11-22
 Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
 
 Neither route is reliably higher. In November 2026 the public page and referral links both lead to the same kind of offer, worded as high as 175,000 points, and Amex shows each applicant their own number before they accept. The only way to compare is to look at the number each route gives you.
@@ -4902,6 +5103,98 @@ It was 10% of the dollars spent on purchases, so $20,000 of spending gave 2,000 
 
 ---
 
+# What credit score do you need for the Chase Sapphire Preferred?
+
+Source: https://itsworththefee.com/chase-sapphire-preferred-credit-score-needed/
+Facts checked: 2026-11-22
+Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
+
+Chase does not publish a minimum credit score for the Sapphire Preferred. Sources that track approvals report a FICO score of about 670 as the low end and 700 or higher as the usual range, and Chase also weighs income, recent card openings and the credit it has already given you.
+
+This page is information, not financial advice.
+
+## What Chase says
+
+Chase's card page gives no score, no income figure and no minimum credit line. It says only that the card is subject to credit approval. The Points Guy states it directly:
+
+> "Chase doesn't publish a minimum credit score requirement." (The Points Guy)
+
+Every number below is a report from a named source, not a Chase rule and not a promise of approval.
+
+## What named sources report
+
+| Source | Figure reported | Date of article |
+|---|---|---|
+| The Points Guy | FICO of about 700 or higher | July 2026 |
+| CNBC Select | At least 670; above 700 gives better odds | October 2026 |
+| Upgraded Points | Wait for at least 670; most cardholders at 720 or higher | July 2025 |
+| Motley Fool Money | Most approved applicants above 700; 680 to 699 approved less often | August 2025 |
+| FinanceBuzz | Good to excellent credit, with good starting at 670 | November 2026 |
+
+The sources differ on where the line sits, 670 or 700, and none claims a cutoff. Upgraded Points notes approvals with scores in the 600s and denials with scores in the 800s. A score in the reported range does not mean approval.
+
+## What else Chase looks at
+
+- **Cards opened in the past 24 months.** Chase generally declines applicants who opened five or more personal cards at any bank in that time, whatever their score. This is unofficial; see [how the 5/24 rule counts cards](/chase-5-24-rule-explained/).
+- **Income.** Chase states no minimum. Upgraded Points suggests at least $30,000 a year, its own view.
+- **Debt against income.** Motley Fool Money says a low ratio helps.
+- **Length of credit history.** Upgraded Points and Motley Fool Money both suggest two years or more.
+- **Credit Chase already gives you.** The Points Guy says Chase may limit the total credit it extends across your cards.
+- **Recent applications.** CNBC Select lists them as a factor. Each application also adds a hard inquiry; see [what an application does to a score](/does-applying-for-a-travel-card-hurt-credit-score/).
+- **Whether you already hold the card.** Approval and the welcome offer are separate questions. The offer has [its own eligibility rules](/chase-sapphire-bonus-eligibility-2026/), and offers vary by applicant and change.
+
+## The Visa Signature credit line
+
+FinanceBuzz and Upgraded Points both report that an approved Sapphire Preferred comes with a credit limit of at least $5,000, and FinanceBuzz ties that to the card being a Visa Signature. Chase's public card page does not state this figure, so it is reported, not confirmed by Chase.
+
+If the report holds, Chase has to be willing to extend $5,000, which depends on income and on your existing Chase credit lines.
+
+## Checking before you apply
+
+Chase has a page that checks for preapproved offers. You enter basic details such as name and address. Chase says filling out the form does not affect your credit score, while an application does. The page does not say an offer guarantees approval.
+
+## If Chase says no
+
+A denial comes with a notice giving the reasons. The Points Guy and AwardWallet both describe calling Chase's reconsideration line to ask for a second look.
+
+| Point | What is reported |
+|---|---|
+| Result | Not guaranteed, per both sources |
+| Too much total credit | An agent may move or lower credit on an existing Chase card (The Points Guy, AwardWallet) |
+| 5/24 | Agents generally cannot override it (The Points Guy, AwardWallet) |
+| Phone number | AwardWallet lists 888-270-2127 for personal cards; another listing differs, so check your denial notice |
+
+## Who should skip it for now
+
+- Anyone at or over 5/24. A high score does not get around it.
+- Anyone with a FICO score well under 670. Every source read puts the reported range above that.
+- Anyone with a credit history shorter than about two years, going by the two sources that give a figure.
+- Anyone who would carry a balance. Interest outweighs points.
+
+## Quick answers
+
+**Is there a minimum credit score for the Sapphire Preferred?**
+Chase publishes none. Named sources report roughly 670 as the low end and 700 or more as typical.
+
+**Does a score above 700 mean approval?**
+No. Chase also looks at recent card openings, income and existing Chase credit, and denials with high scores are reported.
+
+**Does checking for a preapproved offer affect my credit score?**
+Chase says filling out its form does not. Submitting an application does.
+
+## Sources
+
+- [Chase: Sapphire Preferred card page](https://creditcards.chase.com/rewards-credit-cards/sapphire/preferred)
+- [Chase: check for preapproved offers](https://creditcards.chase.com/check-for-preapproved-offers)
+- [The Points Guy: credit score needed for the Sapphire Preferred](https://thepointsguy.com/credit-cards/chase/credit-score-needed-for-chase-sapphire-preferred/)
+- [CNBC Select: Sapphire Preferred credit score](https://www.cnbc.com/select/chase-sapphire-preferred-card-credit-score/)
+- [Upgraded Points: Sapphire Preferred credit score requirements](https://upgradedpoints.com/credit-cards/reviews/chase-sapphire-preferred-card/credit-score-requirements)
+- [Motley Fool Money: Sapphire Preferred credit score](https://www.fool.com/money/credit-cards/chase/chase-sapphire-preferred-card-review/chase-sapphire-preferred-credit-score)
+- [FinanceBuzz: Sapphire Preferred common questions](https://financebuzz.com/chase-sapphire-preferred-common-questions)
+- [AwardWallet: credit card reconsideration calls](https://awardwallet.com/credit-cards/reconsideration-call/)
+
+---
+
 # What DoorDash and DashPass benefits come with the Sapphire Preferred, and what are they worth?
 
 Source: https://itsworththefee.com/chase-sapphire-preferred-doordash-dashpass-benefit/
@@ -6980,10 +7273,10 @@ Yes. Chase's travel category includes parking lots, garages, toll bridges and hi
 # What are the Sapphire Reserve credits really worth if you only count the ones you would use anyway?
 
 Source: https://itsworththefee.com/chase-sapphire-reserve-credits-real-value/
-Facts checked: 2026-11-20
+Facts checked: 2026-11-22
 Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
 
-At face value the Sapphire Reserve's recurring credits add up to about $2,384 a year against a $795 fee. Count only what you would have paid for anyway and most people land far lower, often between $300 and $900, so the card pays for itself only for those who already spend in several of its categories.
+At face value the Sapphire Reserve's recurring credits add up to about $2,384 a year against a $795 fee, before counting the DashPass membership and the Global Entry credit. Count only what you would have paid for anyway and most people land far lower, often between $300 and $900, so the card pays for itself only for those who already spend in several of its categories.
 
 This page is information, not financial advice.
 
@@ -7258,6 +7551,110 @@ Yes on the personal Reserve. Each authorized user gets their own access and can 
 - [One Mile at a Time: Sapphire Lounges cut Priority Pass access](https://onemileatatime.com/news/chase-sapphire-lounges-cut-priority-pass-access/)
 - [The Points Guy: Sapphire Lounge access changing](https://thepointsguy.com/news/chase-sapphire-lounge-access-changing-no-priority-pass/)
 - [Chase: Priority Pass at Honolulu](https://www.chase.com/personal/credit-cards/education/basics/guide-to-priority-pass-honolulu)
+
+---
+
+# How does the Chase Sapphire Reserve StubHub credit work, and what counts?
+
+Source: https://itsworththefee.com/chase-sapphire-reserve-stubhub-credit-how-it-works/
+Facts checked: 2026-11-22
+Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
+
+The Sapphire Reserve pays back up to $150 from January to June and up to $150 from July to December on purchases made directly with StubHub or viagogo, through December 31, 2027. You activate it once in your Chase account before buying, and whatever you do not use in a half-year is gone.
+
+This page is information, not financial advice. The card's other credits are on [the full credits page](/chase-sapphire-reserve-credits-real-value/); this page covers only StubHub.
+
+## The rules
+
+| Rule | Detail |
+|---|---|
+| Amount | Up to $150 January 1 to June 30; up to $150 July 1 to December 31 |
+| End date | Through December 31, 2027 |
+| Cards | Personal Sapphire Reserve and J.P. Morgan Reserve; Chase's terms do not name the Sapphire Reserve for Business |
+| Activation | One time, on chase.com or in the Chase app |
+| Minimum purchase | None |
+| Split | Can be spread over several purchases in a half-year |
+| Rollover | None |
+| Authorized users | Their purchases on the account count toward the same $150 |
+
+## Activation
+
+Chase's terms call for a one-time activation. Chase's own guide says purchases made before activation do not qualify. AwardWallet describes the path as Benefits and travel, then Benefits, then the StubHub credit tile.
+
+Doctor of Credit mentions reader reports of a credit after late activation. That conflicts with Chase's guide.
+
+## What counts
+
+- Tickets bought on stubhub.com, viagogo.com or either app, paid with the card. Chase's guide names sports, concerts and theater.
+- viagogo counts the same way as StubHub and shares the same $150 limit.
+- Parking passes sold on StubHub: not confirmed. Chase's terms do not mention them.
+
+## What does not count
+
+- Gift cards. Chase's terms exclude them.
+- Events in the United Kingdom. Chase's terms say these are sent to stubhub.co.uk, a separate company, and do not qualify.
+- A purchase that is later returned, canceled or changed. Chase can take the credit back, and can also do so if the account closes within 90 days of a credit.
+
+## Do fees and taxes count?
+
+Chase's terms do not say. Doctor of Credit reports that they do, with the example of a $130 ticket that comes to $151 after fees and receives the full $150. AwardWallet's examples also use order totals. Treat this as reported, not as written policy.
+
+## When the credit posts
+
+| Source | Stated timing |
+|---|---|
+| Chase's terms | Within 3 business days, up to 4 weeks |
+| Chase's guide | One to two billing cycles |
+| The Points Guy | Reports of about a day |
+| Doctor of Credit | Most within a few days |
+
+Each period ends at 11:59 PM Eastern on its last day. The Points Guy reports a June 30 purchase that posted July 1 and was counted in the second half.
+
+Thrifty Traveler says the purchase earns the card's usual 1 point per dollar.
+
+## The sums for one ticket purchase a year
+
+These are resale sites, so a ticket can cost more than its face price, and fees are added.
+
+| Reader | Yearly value |
+|---|---|
+| Buys no resale tickets | $0 |
+| One purchase a year, $150 or more | $150 |
+| One purchase a year, $90 | $90 |
+| One purchase in each half, $150 or more each time | $300 |
+| Buys only to use the credit, $200 each half | $300 back on $400 of new spending |
+
+Someone who buys once a year gets at most half the listed $300. The last row is a cost of $100, not a gain of $300.
+
+## Who should skip it
+
+- Anyone who does not go to ticketed events. This credit is then worth $0 toward the $795 fee.
+- Anyone who buys from the venue or team at face price and would pay more on a resale site.
+- Anyone going to events in the United Kingdom only.
+- Anyone who will not track two deadlines a year.
+
+For a credit on the same half-year schedule, see [how the dining credit works](/chase-sapphire-reserve-dining-credit-how-it-works/).
+
+## Quick answers
+
+**Does viagogo count as well as StubHub?**
+Yes. Chase's terms cover purchases made directly with either one, under the same $150 limit.
+
+**Does unused credit from January to June carry into July?**
+No. Each half-year's $150 expires at the end of its period.
+
+**Do StubHub gift cards trigger the credit?**
+No. Chase's terms exclude gift cards.
+
+## Sources
+
+- [Chase: Sapphire Reserve card page](https://creditcards.chase.com/rewards-credit-cards/sapphire/reserve)
+- [Chase: Sapphire offer and benefit terms](https://www.chase.com/personal/credit-cards/offerdetails/chasesapphire)
+- [Chase: how to use the StubHub credit](https://www.chase.com/personal/credit-cards/education/rewards-benefits/how-to-use-the-$300-stubhub-credit-with-chase-sapphire-reserve)
+- [The Points Guy: StubHub credit examples](https://thepointsguy.com/credit-cards/chase-sapphire-reserve-stubhub-credit-examples/)
+- [Doctor of Credit: the StubHub credit on the Sapphire Reserve](https://doctorofcredit.com/maximizing-the-stubhub-300-credit-on-chase-sapphire-reserve-card)
+- [AwardWallet: Sapphire Reserve StubHub credit](https://awardwallet.com/credit-cards/chase-ultimate-rewards/sapphire-reserve-stubhub-credit/)
+- [Thrifty Traveler: Sapphire Reserve StubHub credit](https://thriftytraveler.com/guides/credit-card/chase-sapphire-reserve-stubhub-credit/)
 
 ---
 
@@ -10830,6 +11227,196 @@ Uninstall or disable the extension. You can still earn by starting at the Rakute
 
 ---
 
+# Does Rakuten give cash back at Chewy, and what is excluded?
+
+Source: https://itsworththefee.com/rakuten-chewy-cash-back-how-it-works/
+Facts checked: 2026-11-22
+Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
+
+Yes. On November 22, 2026, Rakuten's Chewy page showed 4% cash back, raised from a usual 2%. Pet prescriptions, flea and tick products, Chewy+ subscriptions, gift cards and every Autoship order after the first are excluded.
+
+This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy.
+
+## The rate, and how it moves
+
+| Date checked | Rate shown | Rakuten's "was" label |
+|---|---|---|
+| November 22, 2026 | 4% | 2% |
+
+"Was" is Rakuten's own label for the store's usual rate. No category table appears, so the one rate covers all eligible items.
+
+Black Friday is November 27, 2026. Rates often move that week, in either direction, and nothing on the page promises what the rate will be.
+
+## What is excluded
+
+Rakuten's terms for Chewy list these as earning nothing:
+
+- Pet prescriptions
+- Flea and tick products
+- Chewy+ subscriptions
+- The purchase or redemption of gift cards
+- Autoship orders after the initial order
+
+The terms do not define "flea and tick products". Whether that covers only treatments, or also collars, shampoos and sprays, is not confirmed. Whether an excluded item affects the rest of an order is not stated either.
+
+## Autoship is the term that matters
+
+Autoship is Chewy's repeat-delivery program. Rakuten's page is clear on it: the first Autoship order earns cash back, and the page's FAQ says "subsequent Autoship orders do not qualify for Cash Back."
+
+The page says later Autoship orders get the store's own 5% discount. That is a store discount, described on Rakuten's page on November 22, 2026, and it can change.
+
+That leaves a sum for regular buyers. A one-time order placed through Rakuten earns the day's rate. A repeat Autoship order earns no cash back but gets the store's Autoship discount.
+
+| $80 food order | Store discount | Rakuten cash back | Total back |
+|---|---|---|---|
+| One-time, at 2% | $0 | $1.60 | $1.60 |
+| One-time, at 4% | $0 | $3.20 | $3.20 |
+| Repeat Autoship, 5% off | $4.00 | $0 | $4.00 |
+
+At these figures the repeat Autoship discount is worth more than either rate, and it arrives as a lower price rather than weeks later. Taxes and shipping do not count toward cash back. Whether canceling Autoship and starting a new one counts as a new "initial order" is not confirmed.
+
+## Other terms
+
+- **Coupon codes.** The Chewy terms list no code rule. Rakuten's general page says codes not listed on Rakuten may void cash back.
+- **App.** The page's FAQ says to reach Chewy through Rakuten's site or the Rakuten app. The terms do not mention orders placed directly in the Chewy app. Not confirmed; a purchase earns only if it starts from a Rakuten link, the Rakuten app or the extension.
+- **Returns.** No store rule is listed. Rakuten's general help page says returned and canceled items lose their cash back.
+
+## What it comes to
+
+| Purchase | Price | At 2% | At 4% |
+|---|---|---|---|
+| Toys and treats | $50 | $1.00 | $2.00 |
+| Crate and bed | $180 | $3.60 | $7.20 |
+| Prescription or flea treatment | Any | $0 | $0 |
+
+## In stores
+
+Chewy sells online. It did not appear in the part of Rakuten's in-store offer list that loaded on November 22, 2026. The list was cut off after 21 stores. See [how in-store cash back works](/rakuten-in-store-cash-back-how-it-works/).
+
+## When you get the money
+
+The page says cash back is added to the Rakuten account the same day, as pending. Online purchases typically take 3 to 14 weeks to be confirmed, then are paid on the next of four dates a year. See [when Rakuten pays](/rakuten-when-do-you-get-paid/) and [what to do when cash back did not track](/rakuten-missing-cash-back-what-to-do/). Card rewards are separate and come on top; see [stacking with card rewards](/rakuten-stack-with-credit-card-rewards/).
+
+## Who should skip it
+
+- Your orders are repeat Autoship deliveries. Only the first one earns.
+- You mainly buy prescriptions or flea and tick products.
+- You are buying or spending gift cards.
+- You order directly in the Chewy app and do not want to start from Rakuten.
+- You are paying for a Chewy+ subscription.
+
+## Quick answers
+
+**What rate does Rakuten pay at Chewy?**
+4% on November 22, 2026, against a usual 2%. Rates change daily.
+
+**Do Autoship orders earn cash back?**
+The first Autoship order does. Later Autoship orders do not.
+
+**Do pet medications earn cash back?**
+Pet prescriptions and flea and tick products are excluded.
+
+## Sources
+
+- [Rakuten: Chewy store page](https://www.rakuten.com/shop/chewy)
+- [Rakuten: Why didn't I earn cash back?](https://www.rakuten.com/help/article/why-didnt-i-earn-cash-back-360036367393)
+- [Rakuten: In-store offers](https://www.rakuten.com/in-store)
+- [Rakuten: When will I get paid?](https://www.rakuten.com/help/article/when-will-i-get-paid-360002117667)
+
+---
+
+# Does Rakuten give cash back at Dick's Sporting Goods, and what is excluded?
+
+Source: https://itsworththefee.com/rakuten-dicks-sporting-goods-cash-back-how-it-works/
+Facts checked: 2026-11-22
+Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
+
+Yes. On November 22, 2026, Rakuten's Dick's Sporting Goods page showed 9% cash back, raised from a usual 2%. Gift cards, extended warranties, services, three named brands, the part of an order paid with rewards and bulk orders are excluded.
+
+This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy.
+
+## The rate, and how it moves
+
+| Date checked | Rate shown | Rakuten's "was" label |
+|---|---|---|
+| November 22, 2026 | 9% | 2% |
+
+"Was" is Rakuten's own label for the store's usual rate. The page shows one row, "Dick's Sporting Goods Purchase", so the one rate covers all eligible items. A check of the same page earlier in November 2026 showed 2%, so the 9% is a recent raise. The page does not say how long it lasts.
+
+Black Friday is November 27, 2026. Rates often move that week, in either direction, and nothing on the page promises what the rate will be.
+
+## What is excluded
+
+Rakuten's terms for Dick's Sporting Goods list these as earning nothing:
+
+- Huckberry, Yeezy and Rainbow Sandals
+- Extended warranties
+- Services
+- Reproductions and rain checks
+- The portion of an order paid for with rewards
+- The purchase or redemption of gift cards
+- 15 or more of the same item (the same SKU)
+- Orders the store judges to be for reselling
+- Orders the store judges to come from outside the United States
+
+One flat amount is listed too: a ScoreCard+ membership enrollment earns $20.00 rather than a percentage.
+
+No sport or category is named as excluded. Golf clubs, fitness equipment and team gear are not on the list. For golf purchases across several stores, see [cash back on golf gear](/rakuten-golf-gear-cash-back/).
+
+## Coupon codes and ScoreCard
+
+- **Coupon codes.** The terms say codes not listed on Rakuten may void cash back, and limit an order to one coupon.
+- **ScoreCard points.** The page's FAQ says ScoreCard points and Rakuten cash back can be earned on the same eligible purchase. The part of an order paid with ScoreCard rewards earns nothing.
+- **Returns.** The terms have no store rule. Rakuten's general help page says returned and canceled items lose their cash back.
+- **App and pickup.** The terms do not mention the Dick's app or store pickup. Not confirmed. A purchase earns only if it starts from a Rakuten link, the Rakuten app or the extension.
+- **Golf Galaxy and other sister stores.** The terms cover Dick's Sporting Goods only. Whether orders on sister sites earn under this offer is not confirmed.
+
+## What it comes to
+
+| Purchase | Price | At 2% | At 9% |
+|---|---|---|---|
+| Cleats | $120 | $2.40 | $10.80 |
+| Treadmill | $800 | $16.00 | $72.00 |
+| Gift card | Any | $0 | $0 |
+
+Taxes and shipping do not count. Paying $50 of a $250 order with rewards leaves $200 that earns.
+
+## In stores
+
+Dick's Sporting Goods did not appear in the part of Rakuten's in-store offer list that loaded on November 22, 2026. The list was cut off after 21 stores, so this is not confirmed. See [how in-store cash back works](/rakuten-in-store-cash-back-how-it-works/).
+
+## When you get the money
+
+The page says cash back is added to the Rakuten account the same day, as pending. Online purchases typically take 3 to 14 weeks to be confirmed, then are paid on the next of four dates a year. See [when Rakuten pays](/rakuten-when-do-you-get-paid/) and [what to do when cash back did not track](/rakuten-missing-cash-back-what-to-do/). Card rewards are separate and come on top; see [stacking with card rewards](/rakuten-stack-with-credit-card-rewards/).
+
+## Who should skip it
+
+- You pay mostly with ScoreCard rewards or gift cards. That part earns nothing.
+- You are buying gift cards, a warranty or a service.
+- You order 15 or more of one item for a team or league.
+- You have a coupon code from somewhere other than Rakuten that is worth more than the cash back.
+- You buy in the store rather than online.
+
+## Quick answers
+
+**What rate does Rakuten pay at Dick's Sporting Goods?**
+9% on November 22, 2026, against a usual 2%. Rates change daily.
+
+**Do ScoreCard points still count?**
+The page says points and cash back can be earned together. The portion paid with rewards earns no cash back.
+
+**Can I use a coupon code?**
+One coupon per order, and codes not listed on Rakuten may void cash back.
+
+## Sources
+
+- [Rakuten: Dick's Sporting Goods store page](https://www.rakuten.com/shop/dickssportinggoods)
+- [Rakuten: Why didn't I earn cash back?](https://www.rakuten.com/help/article/why-didnt-i-earn-cash-back-360036367393)
+- [Rakuten: In-store offers](https://www.rakuten.com/in-store)
+- [Rakuten: When will I get paid?](https://www.rakuten.com/help/article/when-will-i-get-paid-360002117667)
+
+---
+
 # Does Rakuten give cash back at eBay, and what is excluded?
 
 Source: https://itsworththefee.com/rakuten-ebay-cash-back-how-it-works/
@@ -12327,6 +12914,94 @@ Free People, Free People Movement, Coach, Rainbow, Chanel and Birkenstock. Gift 
 
 ---
 
+# Does Rakuten give cash back at Old Navy, and what is excluded?
+
+Source: https://itsworththefee.com/rakuten-old-navy-cash-back-how-it-works/
+Facts checked: 2026-11-22
+Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
+
+Yes. On November 22, 2026, Rakuten's Old Navy page showed 2% cash back, with no raised rate. Gift cards, e-gift cards, Joseph Altuzarra items and the part of an order paid for with reward points are excluded.
+
+This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy.
+
+## The rate, and how it moves
+
+| Store | Rate shown on November 22, 2026 | Rakuten's "was" label |
+|---|---|---|
+| Old Navy | 2% | None shown |
+| Gap | 2% | None shown |
+
+"Was" is Rakuten's own label for a store's usual rate, shown when the rate has been raised. Neither page showed one, so 2% reads as the usual rate at both. No category table appears on the Old Navy page, so the one rate covers all eligible items.
+
+Old Navy and Gap are listed as separate stores on Rakuten, each with its own terms. Black Friday is November 27, 2026. Rates often move that week, and nothing on the page promises a change.
+
+## What is excluded
+
+Rakuten's terms for Old Navy list these as earning nothing:
+
+- Joseph Altuzarra items
+- Gift cards and e-gift cards
+- The portion of an order paid for with reward points
+
+The page disagrees with itself in one place. Its FAQ gives a different list: Banana Republic Factory orders, Gap Factory orders, gift cards, e-gift cards and the portion paid with reward points. The cautious reading is to treat everything on both lists as excluded.
+
+A Rakuten help page on gift cards also names Old Navy among stores that do not pay cash back on the part of an order bought with a gift card.
+
+## Coupon codes, Super Cash and pickup
+
+- **Coupon codes.** The Old Navy terms list no code rule. The page's FAQ says Old Navy promo codes can be used while still earning 2%. Rakuten's general page says codes not listed on Rakuten may void cash back. Gap's terms, by contrast, say such codes will void it.
+- **Super Cash.** The page describes Super Cash as the store's own coupon program, $10 for every $25 spent during earning periods. The terms do not say whether redeeming Super Cash reduces the amount that earns. Not confirmed.
+- **Pickup.** The page describes free in-store pickup for online orders but ties no cash back rule to it. Not confirmed.
+- **App.** The terms do not mention the Old Navy app. A purchase earns only if it starts from a Rakuten link, the Rakuten app or the extension.
+- **Returns.** No store rule is listed. Rakuten's general help page says returned and canceled items lose their cash back.
+
+## What it comes to
+
+| Purchase | Price paid | At 2% |
+|---|---|---|
+| Jeans | $40 | $0.80 |
+| Family order | $150 | $3.00 |
+| Gift card | Any | $0 |
+
+Taxes and shipping do not count. At 2%, a store sale or code moves the total far more than the cash back does.
+
+## In stores
+
+Old Navy did not appear in the part of Rakuten's in-store offer list that loaded on November 22, 2026. The list was cut off after 21 stores, so this is not confirmed. See [how in-store cash back works](/rakuten-in-store-cash-back-how-it-works/).
+
+## When you get the money
+
+The page says cash back is added to the Rakuten account the next day, as pending. Online purchases typically take 3 to 14 weeks to be confirmed, then are paid on the next of four dates a year. See [when Rakuten pays](/rakuten-when-do-you-get-paid/) and [what to do when cash back did not track](/rakuten-missing-cash-back-what-to-do/). Card rewards are separate and come on top; see [stacking with card rewards](/rakuten-stack-with-credit-card-rewards/).
+
+## Who should skip it
+
+- You pay mostly with reward points or gift cards. That part earns nothing.
+- You are buying gift cards.
+- You shop in the store rather than online.
+- You have a code from outside Rakuten and do not want to risk the cash back on it.
+- Your orders are small. On a $25 order, 2% is 50 cents.
+
+## Quick answers
+
+**What rate does Rakuten pay at Old Navy?**
+2% on November 22, 2026, with no "was" rate shown. Rates change daily.
+
+**Is Gap's rate the same?**
+On November 22, 2026, yes: Gap's own page also showed 2%. The two stores have separate terms.
+
+**Do orders paid with reward points earn cash back?**
+No. The terms exclude the portion of an order paid for with reward points.
+
+## Sources
+
+- [Rakuten: Old Navy store page](https://www.rakuten.com/shop/oldnavy)
+- [Rakuten: Gap store page](https://www.rakuten.com/shop/gap)
+- [Rakuten: Why didn't I earn cash back?](https://www.rakuten.com/help/article/why-didnt-i-earn-cash-back-360036367393)
+- [Rakuten: Redeeming cash back for gift cards FAQ](https://www.rakuten.com/help/article/redeeming-cash-back-for-gift-cards-faq-35415901080851)
+- [Rakuten: In-store offers](https://www.rakuten.com/in-store)
+
+---
+
 # Does Rakuten give cash back at Samsung.com, and what is excluded?
 
 Source: https://itsworththefee.com/rakuten-samsung-cash-back-how-it-works/
@@ -13094,6 +13769,94 @@ No. Purchases made directly in the Walmart app are excluded. The terms name the 
 
 - [Rakuten: Walmart store page](https://www.rakuten.com/walmart.com)
 - [Rakuten: Walmart store page, second address](https://www.rakuten.com/shop/walmart)
+- [Rakuten: Why didn't I earn cash back?](https://www.rakuten.com/help/article/why-didnt-i-earn-cash-back-360036367393)
+- [Rakuten: When will I get paid?](https://www.rakuten.com/help/article/when-will-i-get-paid-360002117667)
+
+---
+
+# Does Rakuten give cash back at Wayfair, and what is excluded?
+
+Source: https://itsworththefee.com/rakuten-wayfair-cash-back-how-it-works/
+Facts checked: 2026-11-22
+Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
+
+Not on the day checked. On November 22, 2026, Rakuten's Wayfair page showed "No Cash Back", with no rate, no "was" rate and no terms or exclusions. Wayfair has a page on Rakuten, but a purchase started from it that day would earn nothing.
+
+This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy.
+
+## What the page shows
+
+| Point | Wayfair on November 22, 2026 |
+|---|---|
+| Rate shown | No cash back |
+| Rakuten's "was" label | None shown |
+| Category rates | None |
+| Terms and exclusions | None listed |
+| Posting time | None listed |
+| Page last edited | November 18, 2026 |
+
+"Was" is Rakuten's own label for a store's usual rate. The page's title describes it as coupons, promo codes and no cash back for November 2026.
+
+The page describes the store, its main categories and its sale pages for Black Friday and Cyber Monday. Those are the store's own sales, not Rakuten cash back. The page gives no reason for the missing cash back and no return date.
+
+## What "No Cash Back" means in practice
+
+- **Every purchase earns nothing.** With no offer, there are no exclusions to read. Furniture, rugs, sale items, gift cards and app orders are all in the same position.
+- **Earlier rates.** Whether Wayfair paid a rate through Rakuten earlier in 2026 is not confirmed. A customer review on the page mentions cash back, but it carries no date.
+- **Black Friday.** Black Friday is November 27, 2026. Rates often move that week, and a store with no offer can gain one. Nothing on the page promises that Wayfair will.
+
+## Home stores that did show a rate
+
+The Wayfair page lists other stores under "Stores that might interest you". These rates were shown there on November 22, 2026:
+
+| Store | Rate shown | "Was" label |
+|---|---|---|
+| Bed Bath and Beyond | 2% | None shown |
+| Ashley | 2% | None shown |
+| Raymour & Flanigan | 2% | None shown |
+| Ruggable | 2% | None shown |
+| CB2 | Up to 2% | None shown |
+| Lowe's | Up to 2% | 1% |
+| Homary | 6% | 2.5% |
+
+Each store has its own terms and exclusions, which were not read for this page, except for Lowe's; see [cash back at Lowe's](/rakuten-lowes-cash-back-how-it-works/) and [at Home Depot](/rakuten-home-depot-cash-back-how-it-works/). A rate at another store helps only if the item and the delivered price are the same. On a large piece of furniture, a delivery fee or a price gap can outweigh 2%.
+
+For scale, 2% on a $1,200 sofa is $24.00, and on a $200 rug it is $4.00. Taxes and shipping do not count.
+
+## What still works at Wayfair
+
+Rakuten cash back and card rewards are separate. A card that earns points or cash on the purchase still does, whatever the Rakuten page shows; see [stacking with card rewards](/rakuten-stack-with-credit-card-rewards/). Other portals set their own rates; none was checked for Wayfair today. See [Rakuten and TopCashback](/rakuten-vs-topcashback/).
+
+## In stores
+
+Wayfair did not appear in the part of Rakuten's in-store offer list that loaded on November 22, 2026. The list was cut off after 21 stores, so this is not confirmed. See [how in-store cash back works](/rakuten-in-store-cash-back-how-it-works/).
+
+## If an offer returns
+
+The general rules would apply. Online purchases typically take 3 to 14 weeks to be confirmed, then are paid on the next of four dates a year. See [when Rakuten pays](/rakuten-when-do-you-get-paid/) and [how Black Friday rates work](/rakuten-black-friday-cash-back-2026/).
+
+## Who should skip it
+
+- You are buying from Wayfair today and expect cash back. The page shows none.
+- You are delaying a purchase in the hope of a rate. None is promised, and sale prices can end.
+- You would pay more at another store only to earn 2%.
+
+## Quick answers
+
+**What rate does Rakuten pay at Wayfair?**
+None on November 22, 2026. The page showed "No Cash Back". Offers change daily.
+
+**What is excluded at Wayfair?**
+No terms or exclusions are listed, because there is no offer. Every purchase earns nothing.
+
+**Will Wayfair have cash back on Black Friday?**
+Not confirmed. Rates often move that week, but the page promises nothing.
+
+## Sources
+
+- [Rakuten: Wayfair store page](https://www.rakuten.com/shop/wayfair)
+- [Rakuten: Lowe's store page](https://www.rakuten.com/lowes.com)
+- [Rakuten: In-store offers](https://www.rakuten.com/in-store)
 - [Rakuten: Why didn't I earn cash back?](https://www.rakuten.com/help/article/why-didnt-i-earn-cash-back-360036367393)
 - [Rakuten: When will I get paid?](https://www.rakuten.com/help/article/when-will-i-get-paid-360002117667)
 

@@ -1,7 +1,7 @@
 # Is the Amex Platinum referral offer higher or lower than the public offer?
 
 Source: https://itsworththefee.com/amex-platinum-referral-vs-public-offer/
-Facts checked: 2026-11-20
+Facts checked: 2026-11-22
 Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
 
 Neither route is reliably higher. In November 2026 the public page and referral links both lead to the same kind of offer, worded as high as 175,000 points, and Amex shows each applicant their own number before they accept. The only way to compare is to look at the number each route gives you.

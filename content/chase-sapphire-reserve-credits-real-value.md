@@ -4,10 +4,10 @@ slug: chase-sapphire-reserve-credits-real-value
 description: The Reserve lists about $2,400 a year in credits, but most people would use $300 to $900 of it. Add up your own number against the $795 fee.
 topic: chase
 cta: chase
-checked: 2026-11-20
+checked: 2026-11-22
 ---
 
-At face value the Sapphire Reserve's recurring credits add up to about $2,384 a year against a $795 fee. Count only what you would have paid for anyway and most people land far lower, often between $300 and $900, so the card pays for itself only for those who already spend in several of its categories.
+At face value the Sapphire Reserve's recurring credits add up to about $2,384 a year against a $795 fee, before counting the DashPass membership and the Global Entry credit. Count only what you would have paid for anyway and most people land far lower, often between $300 and $900, so the card pays for itself only for those who already spend in several of its categories.
 
 This page is information, not financial advice.
 
