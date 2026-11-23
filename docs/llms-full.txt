@@ -1019,7 +1019,7 @@ Yes, with the $195 additional Platinum card. The no-fee Companion card does not 
 # What does Amex Platinum cell phone protection cover, and what is the deductible?
 
 Source: https://itsworththefee.com/amex-platinum-cell-phone-protection/
-Facts checked: 2026-11-20
+Facts checked: 2026-11-23
 Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
 
 It covers the cost to repair or replace a stolen or damaged phone, including a cracked screen, up to $800 per claim after a $50 deductible, with two claims per 12 months. The wireless bill must be paid with the card. A lost phone is not covered, and the benefit pays only what other insurance does not.
@@ -1083,6 +1083,8 @@ If the benefit lets you drop a paid protection plan, the saving is that plan's m
 - Upgraded Points notes the phone bill generally earns 1 point per dollar on premium Amex cards. A card that pays more on phone bills, or a carrier discount for paying another way, is what you give up.
 
 This benefit alone does not carry an $895 annual fee. It is one line in the [full count of what the card returns](/amex-platinum-credits-real-value/).
+
+The benefit does not come with every Amex card. The consumer Gold Card is not on the list; see [whether the Amex Gold has cell phone protection](/amex-gold-cell-phone-protection/).
 
 ## Who should skip relying on it
 
@@ -1623,10 +1625,10 @@ A full refund is reported if you close within 30 days after the closing date of 
 
 ---
 
-# Does the Amex Platinum do anything for golfers?
+# Amex Platinum and golf: does the card do anything for golfers?
 
 Source: https://itsworththefee.com/amex-platinum-for-golfers/
-Facts checked: 2026-11-21
+Facts checked: 2026-11-23
 Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
 
 Very little directly. The US Amex Platinum has no free rounds, no green fee credit and no tee time priority; what it offers a golfer is travel help around the trip, mainly a hotel credit, airport lounges and some travel protections.
@@ -1643,9 +1645,12 @@ The current benefit lists for the US personal Platinum Card do not mention golf.
 | Statement credit for green fees | No |
 | Priority tee times | No |
 | Golf club membership or network access | No |
-| Help booking a tee time through the concierge | Not listed as a card benefit |
+| Help booking a tee time through the concierge | Not listed on Amex's card page. Upgraded Points says the concierge takes golf reservation requests; you pay for the round |
+| Packaged golf trips | None found |
 
 Platinum cards in some other countries, such as Singapore, have golf programs. Those do not apply to the US card.
+
+How this compares with Visa Infinite and Mastercard golf programs is on [premium cards, tee times and golf packages](/premium-credit-card-golf-benefits-tee-times-packages/).
 
 The card costs $895 a year. Nobody should pay that for golf benefits, because there are none to pay for.
 
@@ -1657,7 +1662,7 @@ These benefits are not about golf, but a golf trip can use them.
 
 The card gives up to $300 back each half-year, up to $600 per calendar year, on prepaid stays booked through Amex Travel at Fine Hotels + Resorts or The Hotel Collection properties, or on prepaid Airbnb Luxe bookings. The Hotel Collection and Airbnb Luxe need a two-night minimum, and from January 1, 2027, Fine Hotels + Resorts does too.
 
-Fine Hotels + Resorts stays also include a property credit of at least $100 per stay, daily breakfast for two and a guaranteed 4 p.m. late checkout. What the property credit can be spent on varies by hotel, so ask the resort whether golf counts before you book.
+Fine Hotels + Resorts stays also include a property credit of at least $100 per stay, daily breakfast for two and a guaranteed 4 p.m. late checkout. What the property credit can be spent on varies by hotel, so ask the resort whether golf counts before you book. CNBC Select says the credit "can generally be used on hotel property golf courses to cover green fees."
 
 ### Airline fee credit
 
@@ -1710,6 +1715,8 @@ Not confirmed. Check the benefit terms before relying on it.
 - [American Express Singapore: Regional Golf Programme](https://www.americanexpress.com/en-sg/benefits/the-platinum-card/retail-and-lifestyle/regional-golf/)
 - [The Points Guy: Amex Platinum lounge access](https://thepointsguy.com/credit-cards/american-express-platinum-lounge-access/)
 - [One Mile at a Time: Amex Platinum digital entertainment credit](https://onemileatatime.com/news/amex-platinum-digital-entertainment-credit-improved/)
+- [Upgraded Points: Amex Platinum concierge service](https://upgradedpoints.com/credit-cards/reviews/american-express-platinum-card/concierge-service/)
+- [CNBC Select: credit cards for golf](https://www.cnbc.com/select/best-credit-cards-for-golf/)
 - [AwardWallet: Amex Platinum](https://awardwallet.com/credit-cards/amex-membership-rewards/amex-platinum/)
 
 ---
@@ -5000,10 +5007,10 @@ Chase shows a notice during the application if you will not receive it, and you 
 
 ---
 
-# How does the Sapphire Preferred hotel credit work, and what bookings count?
+# Chase Sapphire Preferred hotel credit: how it works and what bookings count
 
 Source: https://itsworththefee.com/chase-sapphire-preferred-50-hotel-credit-how-it-works/
-Facts checked: 2026-11-21
+Facts checked: 2026-11-23
 Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
 
 The Sapphire Preferred's $50 hotel credit no longer exists in that form: Chase doubled it to $100 on June 15, 2026. It is a statement credit of up to $100 each account anniversary year for hotel stays booked and paid for through Chase Travel with the card, and it does not apply to hotels booked anywhere else.
@@ -10542,7 +10549,7 @@ With the Amex Platinum, yes. With the Sapphire Reserve, enrollment has been auto
 
 ---
 
-# How does the Rakuten sign-up bonus through a friend's link work, and what makes it fail?
+# Rakuten sign-up bonus: how the bonus from a friend's link works and what makes it fail
 
 Source: https://itsworththefee.com/rakuten-50-bonus-how-it-works/
 Facts checked: 2026-11-23
@@ -10572,6 +10579,8 @@ Your friend gets $50 once your purchase is confirmed. A recent guide puts the ne
 | Payment dates | February 15, May 15, August 15, November 15 |
 | Minimum balance to be paid | More than $5 confirmed |
 | Paid by | PayPal or check, among other options |
+
+Whether the bonus can arrive as Amex points and not cash is a separate question; see [the sign-up bonus as Amex points](/rakuten-sign-up-bonus-as-amex-points/).
 
 ## When the money really arrives
 
@@ -11294,10 +11303,10 @@ No. Both need about $5 in confirmed cash back.
 
 ---
 
-# How does Rakuten cash back work on Black Friday and Cyber Week 2026?
+# Rakuten on Black Friday 2026: how cash back works and which rates are raised
 
 Source: https://itsworththefee.com/rakuten-black-friday-cash-back-2026/
-Facts checked: 2026-11-21
+Facts checked: 2026-11-23
 Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
 
 Rakuten cash back works on Black Friday (November 27, 2026) and Cyber Monday (November 30) the same way it does on any other day: activate first, then buy. What changes is that many stores' rates are raised for short periods, so the catches are rates that move, items a store excludes, and orders that fail to track.
@@ -11316,16 +11325,17 @@ Rakuten's Cyber Monday page says earning that day "works exactly the same as it 
 
 ## Rates move, sometimes daily
 
-Rakuten shows a raised rate next to the usual one with the label "was". These were on Rakuten's holiday and store pages on November 21, 2026.
+Rakuten shows a raised rate next to the usual one with the label "was". These were on Rakuten's store pages on November 23, 2026, read while signed out.
 
-| Store | Rate seen November 21 | Rakuten's "was" rate |
-|---|---|---|
-| Macy's | 13% | 2% |
-| Dermstore | 15% | 3% |
-| Walgreens | 2% | None shown |
-| LEGO | Up to 15% | 2.5% |
+| Store | Rate seen November 23 | Rate seen November 21 | Rakuten's "was" rate |
+|---|---|---|---|
+| Macy's | 10% | 13% | 2% |
+| Dermstore | 10% | 15% | 3% |
+| Walgreens | 10% | 2% | 2% |
+| LEGO | Up to 15% | Up to 15% | 2.5% |
 
-- Two of these moved in one day. On November 20 Dermstore showed 20% and Walgreens showed 15%.
+- Three of the four moved in two days. On November 20 Dermstore showed 20% and Walgreens showed 15%.
+- LEGO's 15% is for NINJAGO items. Its page shows 2.5% on other items that are not excluded and 1.5% on exclusives.
 - A rate can rise or fall before Black Friday. Rakuten has not published store rates for the day in advance; none were found.
 - "Up to" means only some product categories earn the top figure.
 - Rakuten's terms say rates are personalized and may differ between members. The number in your account is the one that counts.
@@ -11374,7 +11384,7 @@ Rakuten says shopping orders typically take 3 to 14 weeks to be confirmed. It pa
 | Confirmed in 3 weeks | December 18, 2026 | February 15, 2027 |
 | Confirmed in 14 weeks | March 5, 2027 | May 15, 2027 |
 
-These dates are worked out from Rakuten's typical range. More in [when Rakuten pays](/rakuten-when-do-you-get-paid/).
+These dates are worked out from Rakuten's typical range. More in [when Rakuten pays](/rakuten-when-do-you-get-paid/). The Monday after has its own page: [Rakuten on Cyber Monday 2026](/rakuten-cyber-monday-cash-back-2026/).
 
 ## Who should skip it
 
@@ -12596,7 +12606,7 @@ Rakuten's FAQ says confirmed cash back is converted. One travel site says it sta
 # How does Rakuten in-store cash back work, and which cards can you link?
 
 Source: https://itsworththefee.com/rakuten-in-store-cash-back-how-it-works/
-Facts checked: 2026-11-20
+Facts checked: 2026-11-23
 Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
 
 You link a payment card to your Rakuten account, add a store's in-store offer before you shop, and pay at the register with that card. Rakuten says you can link most Visa and Mastercard credit and debit cards and most American Express cards.
@@ -12624,6 +12634,8 @@ Rakuten's FAQ says the purchase is tracked automatically: "you don't need to upl
 | Apple Card and other virtual cards with a new number each time | No |
 | Corporate, HSA, FSA and government prepaid cards | No |
 | Store cards without a Visa, Mastercard or Amex logo | No |
+
+The linking steps, screen by screen, are on [how to link a card for in-store cash back](/rakuten-link-card-for-in-store-cash-back/).
 
 You can link more than one card. Rakuten's in-store page mentions credit cards only, while its help FAQ adds Visa and Mastercard debit cards.
 
@@ -13194,7 +13206,7 @@ No. Gift cards, gift certificates and corporate gift cards are excluded.
 
 ---
 
-# Rakuten cash back did not track: what causes it and how do you claim it?
+# Rakuten order not showing up or cash back missing: what causes it and how do you claim it?
 
 Source: https://itsworththefee.com/rakuten-missing-cash-back-what-to-do/
 Facts checked: 2026-11-23
@@ -13206,7 +13218,7 @@ This page is information, not financial advice.
 
 ## First, give it two days
 
-Rakuten says a new order shows as "processing" for 24 to 48 hours while it waits for the store. Travel is slower: outside Expedia, a booking may not show as pending until the trip is over.
+Rakuten says a new order shows as "processing" for 24 to 48 hours while it waits for the store. Travel is slower: outside Expedia, a booking may not show as pending until the trip is over. The usual waits by type of purchase are on [how long a purchase takes to show up](/rakuten-how-long-until-purchase-shows-up/).
 
 ## Which problem do you have?
 
@@ -13226,6 +13238,7 @@ Rakuten separates two cases.
 - You checked out in a different tab, or after the session sat idle too long.
 - You activated cash back after items were already in the cart.
 - The order was placed by phone or chat.
+- You paid with a button such as PayPal, Apple Pay, Shop Pay, Google Pay or Samsung Pay. Rakuten's blog says these open a new window or app that may interrupt tracking.
 
 **The order did not qualify**
 
@@ -13235,13 +13248,15 @@ Rakuten separates two cases.
 - It was a gift card purchase. Most are excluded, and some stores exclude orders paid with a gift card.
 - For travel, the booking was changed after it was made.
 
+A preorder or an order that ships in parts may not show until the item ships, according to Rakuten's blog.
+
 Taxes and shipping never earn cash back, and a category may pay less than the headline "up to" rate, so a smaller amount is not always an error.
 
 ## How to claim, step by step
 
 1. Wait 48 hours after the order. For travel, wait until after the trip unless you booked at Expedia.
 2. Open the store's page on Rakuten and read "See all Terms & Exclusions". If your item or payment type is excluded there, there is nothing to claim.
-3. Check your Rakuten account for a shopping trip on that date.
+3. Check your Rakuten account for a shopping trip on that date. In the iOS and Android apps the page is called Shopping Trips, and Rakuten says it lists every store where you activated cash back, whether or not you bought.
 4. Gather the order confirmation email, with the order number, date and amount before tax and shipping. Rakuten's terms say it may ask for a receipt or other documents.
 5. File the Missing Cash Back form at rakuten.com/help/missing-cash-back, signed in to your account.
 
@@ -13288,6 +13303,8 @@ The click was recorded but the order did not qualify, usually an exclusion, retu
 
 - [Rakuten: Why didn't I earn cash back?](https://www.rakuten.com/help/article/why-didnt-i-earn-cash-back-360036367393)
 - [Rakuten: Tracking your cash back](https://www.rakuten.com/help/article/tracking-your-cash-back-360002117107)
+- [Rakuten: Account FAQ](https://www.rakuten.com/help/article/account-faq-34279916493843)
+- [Rakuten blog: Answers to common questions](https://www.rakuten.com/blog/answers-to-15-common-questions-about-rakuten/)
 - [Rakuten: Terms and conditions](https://www.rakuten.com/help/article/terms-conditions)
 - [Rakuten: How cash back on travel works](https://www.rakuten.com/help/article/how-cash-back-on-travel-works-360002117527)
 - [Rakuten: In-store cash back FAQ](https://www.rakuten.com/help/article/in-store-cash-back-faq-15935028227987)
@@ -14659,19 +14676,28 @@ Not confirmed. Rates often move that week, but the page promises nothing.
 
 ---
 
-# When does Rakuten pay you?
+# When does Rakuten pay you, and when is the next payout?
 
 Source: https://itsworththefee.com/rakuten-when-do-you-get-paid/
-Facts checked: 2026-11-20
+Facts checked: 2026-11-23
 Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
 
-Rakuten pays four times a year, on February 15, May 15, August 15 and November 15, as long as you have about $5 in confirmed cash back. A purchase can take months to be paid because the store must confirm it first, and only then does it wait for the next date.
+Rakuten pays four times a year, on February 15, May 15, August 15 and November 15, as long as you have about $5 in confirmed cash back. The next payout after November 15, 2026 is February 15, 2027. A purchase can take months to be paid because the store must confirm it first, and only then does it wait for the next date.
 
 This page is information, not financial advice.
 
 ## The four dates
 
-Each payment includes the cash back confirmed before that date; Rakuten's page says no more than that. A travel site describes it as calendar quarters, but Rakuten's page does not put it that way. Rakuten's terms say it may change the schedule.
+| Payment date | Next one |
+|---|---|
+| February 15 | February 15, 2027 |
+| May 15 | May 15, 2027 |
+| August 15 | August 15, 2027 |
+| November 15 | November 15, 2027 |
+
+Rakuten's help page says only that each payment includes the cash back confirmed before that date. Rakuten's blog ties each date to a calendar quarter: the February 15 payment is for cash back earned October 1 to December 31, and the other three dates follow the same pattern. Rakuten's terms say it may change the schedule.
+
+No Rakuten page names the next date for you. Its account FAQ says your confirmed balance is the amount in your next payment, and the payment page links to a "Track My Big Fat Check" tool behind sign-in. What that tool shows is not confirmed.
 
 ## The minimum
 
@@ -14679,7 +14705,7 @@ Rakuten's own pages disagree by one cent. The help page says you need $5 or more
 
 ## Three stages before money moves
 
-A new order is "processing" for 24 to 48 hours while Rakuten waits for the store to report it. It is then "pending" while the store's return period runs. Once "confirmed", it is included in the next payment.
+A new order is "processing" for 24 to 48 hours while Rakuten waits for the store to report it (see [how long a purchase takes to show up](/rakuten-how-long-until-purchase-shows-up/)). It is then "pending" while the store's return period runs. Once "confirmed", it is included in the next payment.
 
 | Type of purchase | Typical time from pending to confirmed |
 |---|---|
@@ -14744,6 +14770,8 @@ The store's return period is running. Shopping typically takes 3 to 14 weeks; tr
 - [Rakuten: Tracking your cash back](https://www.rakuten.com/help/article/tracking-your-cash-back-360002117107)
 - [Rakuten: How long pending cash back takes to be confirmed](https://rakuten.com/help/article/how-long-does-it-take-for-pending-cash-back-to-be-confirmed-34494180297875)
 - [Rakuten: How cash back on travel works](https://www.rakuten.com/help/article/how-cash-back-on-travel-works-360002117527)
+- [Rakuten blog: Big Fat Check schedule](https://www.rakuten.com/blog/rakuten-big-fat-check-schedule-faqs/)
+- [Rakuten: Account FAQ](https://www.rakuten.com/help/article/account-faq-34279916493843)
 - [Rakuten: Terms and conditions](https://www.rakuten.com/help/article/terms-conditions)
 - [One Mile at a Time: Earning Amex points with Rakuten](https://onemileatatime.com/guides/amex-points-rakuten/)
 

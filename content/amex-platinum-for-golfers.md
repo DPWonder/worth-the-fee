@@ -1,9 +1,9 @@
 ---
-title: Does the Amex Platinum do anything for golfers?
+title: Amex Platinum and golf: does the card do anything for golfers?
 slug: amex-platinum-for-golfers
-description: Very little directly. The US Amex Platinum has no free rounds, green fee credit or tee time perk, but its hotel credit and lounges can help a golf trip.
+description: The US American Express Platinum has no free rounds, green fee credit or tee time priority. Its hotel credit and lounges can help a golf trip.
 cta: amex
-checked: 2026-11-21
+checked: 2026-11-23
 ---
 
 Very little directly. The US Amex Platinum has no free rounds, no green fee credit and no tee time priority; what it offers a golfer is travel help around the trip, mainly a hotel credit, airport lounges and some travel protections.
@@ -20,9 +20,12 @@ The current benefit lists for the US personal Platinum Card do not mention golf.
 | Statement credit for green fees | No |
 | Priority tee times | No |
 | Golf club membership or network access | No |
-| Help booking a tee time through the concierge | Not listed as a card benefit |
+| Help booking a tee time through the concierge | Not listed on Amex's card page. Upgraded Points says the concierge takes golf reservation requests; you pay for the round |
+| Packaged golf trips | None found |
 
 Platinum cards in some other countries, such as Singapore, have golf programs. Those do not apply to the US card.
+
+How this compares with Visa Infinite and Mastercard golf programs is on [premium cards, tee times and golf packages](/premium-credit-card-golf-benefits-tee-times-packages/).
 
 The card costs $895 a year. Nobody should pay that for golf benefits, because there are none to pay for.
 
@@ -34,7 +37,7 @@ These benefits are not about golf, but a golf trip can use them.
 
 The card gives up to $300 back each half-year, up to $600 per calendar year, on prepaid stays booked through Amex Travel at Fine Hotels + Resorts or The Hotel Collection properties, or on prepaid Airbnb Luxe bookings. The Hotel Collection and Airbnb Luxe need a two-night minimum, and from January 1, 2027, Fine Hotels + Resorts does too.
 
-Fine Hotels + Resorts stays also include a property credit of at least $100 per stay, daily breakfast for two and a guaranteed 4 p.m. late checkout. What the property credit can be spent on varies by hotel, so ask the resort whether golf counts before you book.
+Fine Hotels + Resorts stays also include a property credit of at least $100 per stay, daily breakfast for two and a guaranteed 4 p.m. late checkout. What the property credit can be spent on varies by hotel, so ask the resort whether golf counts before you book. CNBC Select says the credit "can generally be used on hotel property golf courses to cover green fees."
 
 ### Airline fee credit
 
@@ -87,4 +90,6 @@ Not confirmed. Check the benefit terms before relying on it.
 - [American Express Singapore: Regional Golf Programme](https://www.americanexpress.com/en-sg/benefits/the-platinum-card/retail-and-lifestyle/regional-golf/)
 - [The Points Guy: Amex Platinum lounge access](https://thepointsguy.com/credit-cards/american-express-platinum-lounge-access/)
 - [One Mile at a Time: Amex Platinum digital entertainment credit](https://onemileatatime.com/news/amex-platinum-digital-entertainment-credit-improved/)
+- [Upgraded Points: Amex Platinum concierge service](https://upgradedpoints.com/credit-cards/reviews/american-express-platinum-card/concierge-service/)
+- [CNBC Select: credit cards for golf](https://www.cnbc.com/select/best-credit-cards-for-golf/)
 - [AwardWallet: Amex Platinum](https://awardwallet.com/credit-cards/amex-membership-rewards/amex-platinum/)

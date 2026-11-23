@@ -1,7 +1,7 @@
 # How does Rakuten in-store cash back work, and which cards can you link?
 
 Source: https://itsworththefee.com/rakuten-in-store-cash-back-how-it-works/
-Facts checked: 2026-11-20
+Facts checked: 2026-11-23
 Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
 
 You link a payment card to your Rakuten account, add a store's in-store offer before you shop, and pay at the register with that card. Rakuten says you can link most Visa and Mastercard credit and debit cards and most American Express cards.
@@ -29,6 +29,8 @@ Rakuten's FAQ says the purchase is tracked automatically: "you don't need to upl
 | Apple Card and other virtual cards with a new number each time | No |
 | Corporate, HSA, FSA and government prepaid cards | No |
 | Store cards without a Visa, Mastercard or Amex logo | No |
+
+The linking steps, screen by screen, are on [how to link a card for in-store cash back](/rakuten-link-card-for-in-store-cash-back/).
 
 You can link more than one card. Rakuten's in-store page mentions credit cards only, while its help FAQ adds Visa and Mastercard debit cards.
 

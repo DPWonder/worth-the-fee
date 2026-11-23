@@ -1,10 +1,10 @@
 ---
-title: How does Rakuten cash back work on Black Friday and Cyber Week 2026?
+title: Rakuten on Black Friday 2026: how cash back works and which rates are raised
 slug: rakuten-black-friday-cash-back-2026
-description: The same way as any other day, but rates move more. Activate before filling the cart, and expect payment in February or May 2027.
+description: Rakuten works on Black Friday as on any day, but store rates move daily. Activate before filling the cart; payment comes in February or May 2027.
 topic: rakuten
 cta: rakuten
-checked: 2026-11-21
+checked: 2026-11-23
 ---
 
 Rakuten cash back works on Black Friday (November 27, 2026) and Cyber Monday (November 30) the same way it does on any other day: activate first, then buy. What changes is that many stores' rates are raised for short periods, so the catches are rates that move, items a store excludes, and orders that fail to track.
@@ -23,16 +23,17 @@ Rakuten's Cyber Monday page says earning that day "works exactly the same as it 
 
 ## Rates move, sometimes daily
 
-Rakuten shows a raised rate next to the usual one with the label "was". These were on Rakuten's holiday and store pages on November 21, 2026.
+Rakuten shows a raised rate next to the usual one with the label "was". These were on Rakuten's store pages on November 23, 2026, read while signed out.
 
-| Store | Rate seen November 21 | Rakuten's "was" rate |
-|---|---|---|
-| Macy's | 13% | 2% |
-| Dermstore | 15% | 3% |
-| Walgreens | 2% | None shown |
-| LEGO | Up to 15% | 2.5% |
+| Store | Rate seen November 23 | Rate seen November 21 | Rakuten's "was" rate |
+|---|---|---|---|
+| Macy's | 10% | 13% | 2% |
+| Dermstore | 10% | 15% | 3% |
+| Walgreens | 10% | 2% | 2% |
+| LEGO | Up to 15% | Up to 15% | 2.5% |
 
-- Two of these moved in one day. On November 20 Dermstore showed 20% and Walgreens showed 15%.
+- Three of the four moved in two days. On November 20 Dermstore showed 20% and Walgreens showed 15%.
+- LEGO's 15% is for NINJAGO items. Its page shows 2.5% on other items that are not excluded and 1.5% on exclusives.
 - A rate can rise or fall before Black Friday. Rakuten has not published store rates for the day in advance; none were found.
 - "Up to" means only some product categories earn the top figure.
 - Rakuten's terms say rates are personalized and may differ between members. The number in your account is the one that counts.
@@ -81,7 +82,7 @@ Rakuten says shopping orders typically take 3 to 14 weeks to be confirmed. It pa
 | Confirmed in 3 weeks | December 18, 2026 | February 15, 2027 |
 | Confirmed in 14 weeks | March 5, 2027 | May 15, 2027 |
 
-These dates are worked out from Rakuten's typical range. More in [when Rakuten pays](/rakuten-when-do-you-get-paid/).
+These dates are worked out from Rakuten's typical range. More in [when Rakuten pays](/rakuten-when-do-you-get-paid/). The Monday after has its own page: [Rakuten on Cyber Monday 2026](/rakuten-cyber-monday-cash-back-2026/).
 
 ## Who should skip it
 

@@ -1,16 +1,25 @@
-# When does Rakuten pay you?
+# When does Rakuten pay you, and when is the next payout?
 
 Source: https://itsworththefee.com/rakuten-when-do-you-get-paid/
-Facts checked: 2026-11-20
+Facts checked: 2026-11-23
 Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
 
-Rakuten pays four times a year, on February 15, May 15, August 15 and November 15, as long as you have about $5 in confirmed cash back. A purchase can take months to be paid because the store must confirm it first, and only then does it wait for the next date.
+Rakuten pays four times a year, on February 15, May 15, August 15 and November 15, as long as you have about $5 in confirmed cash back. The next payout after November 15, 2026 is February 15, 2027. A purchase can take months to be paid because the store must confirm it first, and only then does it wait for the next date.
 
 This page is information, not financial advice.
 
 ## The four dates
 
-Each payment includes the cash back confirmed before that date; Rakuten's page says no more than that. A travel site describes it as calendar quarters, but Rakuten's page does not put it that way. Rakuten's terms say it may change the schedule.
+| Payment date | Next one |
+|---|---|
+| February 15 | February 15, 2027 |
+| May 15 | May 15, 2027 |
+| August 15 | August 15, 2027 |
+| November 15 | November 15, 2027 |
+
+Rakuten's help page says only that each payment includes the cash back confirmed before that date. Rakuten's blog ties each date to a calendar quarter: the February 15 payment is for cash back earned October 1 to December 31, and the other three dates follow the same pattern. Rakuten's terms say it may change the schedule.
+
+No Rakuten page names the next date for you. Its account FAQ says your confirmed balance is the amount in your next payment, and the payment page links to a "Track My Big Fat Check" tool behind sign-in. What that tool shows is not confirmed.
 
 ## The minimum
 
@@ -18,7 +27,7 @@ Rakuten's own pages disagree by one cent. The help page says you need $5 or more
 
 ## Three stages before money moves
 
-A new order is "processing" for 24 to 48 hours while Rakuten waits for the store to report it. It is then "pending" while the store's return period runs. Once "confirmed", it is included in the next payment.
+A new order is "processing" for 24 to 48 hours while Rakuten waits for the store to report it (see [how long a purchase takes to show up](/rakuten-how-long-until-purchase-shows-up/)). It is then "pending" while the store's return period runs. Once "confirmed", it is included in the next payment.
 
 | Type of purchase | Typical time from pending to confirmed |
 |---|---|
@@ -83,5 +92,7 @@ The store's return period is running. Shopping typically takes 3 to 14 weeks; tr
 - [Rakuten: Tracking your cash back](https://www.rakuten.com/help/article/tracking-your-cash-back-360002117107)
 - [Rakuten: How long pending cash back takes to be confirmed](https://rakuten.com/help/article/how-long-does-it-take-for-pending-cash-back-to-be-confirmed-34494180297875)
 - [Rakuten: How cash back on travel works](https://www.rakuten.com/help/article/how-cash-back-on-travel-works-360002117527)
+- [Rakuten blog: Big Fat Check schedule](https://www.rakuten.com/blog/rakuten-big-fat-check-schedule-faqs/)
+- [Rakuten: Account FAQ](https://www.rakuten.com/help/article/account-faq-34279916493843)
 - [Rakuten: Terms and conditions](https://www.rakuten.com/help/article/terms-conditions)
 - [One Mile at a Time: Earning Amex points with Rakuten](https://onemileatatime.com/guides/amex-points-rakuten/)

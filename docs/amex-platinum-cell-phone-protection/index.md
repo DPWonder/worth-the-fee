@@ -1,7 +1,7 @@
 # What does Amex Platinum cell phone protection cover, and what is the deductible?
 
 Source: https://itsworththefee.com/amex-platinum-cell-phone-protection/
-Facts checked: 2026-11-20
+Facts checked: 2026-11-23
 Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
 
 It covers the cost to repair or replace a stolen or damaged phone, including a cracked screen, up to $800 per claim after a $50 deductible, with two claims per 12 months. The wireless bill must be paid with the card. A lost phone is not covered, and the benefit pays only what other insurance does not.
@@ -65,6 +65,8 @@ If the benefit lets you drop a paid protection plan, the saving is that plan's m
 - Upgraded Points notes the phone bill generally earns 1 point per dollar on premium Amex cards. A card that pays more on phone bills, or a carrier discount for paying another way, is what you give up.
 
 This benefit alone does not carry an $895 annual fee. It is one line in the [full count of what the card returns](/amex-platinum-credits-real-value/).
+
+The benefit does not come with every Amex card. The consumer Gold Card is not on the list; see [whether the Amex Gold has cell phone protection](/amex-gold-cell-phone-protection/).
 
 ## Who should skip relying on it
 

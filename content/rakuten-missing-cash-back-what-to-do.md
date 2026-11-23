@@ -1,7 +1,7 @@
 ---
-title: Rakuten cash back did not track: what causes it and how do you claim it?
+title: Rakuten order not showing up or cash back missing: what causes it and how do you claim it?
 slug: rakuten-missing-cash-back-what-to-do
-description: Check the store's exclusions, then file Rakuten's Missing Cash Back form. Rakuten's terms give you 90 days from the purchase.
+description: If a Rakuten order is not showing after 48 hours, check the store's exclusions, then file the Missing Cash Back form within 90 days.
 topic: rakuten
 cta: rakuten
 checked: 2026-11-23
@@ -13,7 +13,7 @@ This page is information, not financial advice.
 
 ## First, give it two days
 
-Rakuten says a new order shows as "processing" for 24 to 48 hours while it waits for the store. Travel is slower: outside Expedia, a booking may not show as pending until the trip is over.
+Rakuten says a new order shows as "processing" for 24 to 48 hours while it waits for the store. Travel is slower: outside Expedia, a booking may not show as pending until the trip is over. The usual waits by type of purchase are on [how long a purchase takes to show up](/rakuten-how-long-until-purchase-shows-up/).
 
 ## Which problem do you have?
 
@@ -33,6 +33,7 @@ Rakuten separates two cases.
 - You checked out in a different tab, or after the session sat idle too long.
 - You activated cash back after items were already in the cart.
 - The order was placed by phone or chat.
+- You paid with a button such as PayPal, Apple Pay, Shop Pay, Google Pay or Samsung Pay. Rakuten's blog says these open a new window or app that may interrupt tracking.
 
 **The order did not qualify**
 
@@ -42,13 +43,15 @@ Rakuten separates two cases.
 - It was a gift card purchase. Most are excluded, and some stores exclude orders paid with a gift card.
 - For travel, the booking was changed after it was made.
 
+A preorder or an order that ships in parts may not show until the item ships, according to Rakuten's blog.
+
 Taxes and shipping never earn cash back, and a category may pay less than the headline "up to" rate, so a smaller amount is not always an error.
 
 ## How to claim, step by step
 
 1. Wait 48 hours after the order. For travel, wait until after the trip unless you booked at Expedia.
 2. Open the store's page on Rakuten and read "See all Terms & Exclusions". If your item or payment type is excluded there, there is nothing to claim.
-3. Check your Rakuten account for a shopping trip on that date.
+3. Check your Rakuten account for a shopping trip on that date. In the iOS and Android apps the page is called Shopping Trips, and Rakuten says it lists every store where you activated cash back, whether or not you bought.
 4. Gather the order confirmation email, with the order number, date and amount before tax and shipping. Rakuten's terms say it may ask for a receipt or other documents.
 5. File the Missing Cash Back form at rakuten.com/help/missing-cash-back, signed in to your account.
 
@@ -95,6 +98,8 @@ The click was recorded but the order did not qualify, usually an exclusion, retu
 
 - [Rakuten: Why didn't I earn cash back?](https://www.rakuten.com/help/article/why-didnt-i-earn-cash-back-360036367393)
 - [Rakuten: Tracking your cash back](https://www.rakuten.com/help/article/tracking-your-cash-back-360002117107)
+- [Rakuten: Account FAQ](https://www.rakuten.com/help/article/account-faq-34279916493843)
+- [Rakuten blog: Answers to common questions](https://www.rakuten.com/blog/answers-to-15-common-questions-about-rakuten/)
 - [Rakuten: Terms and conditions](https://www.rakuten.com/help/article/terms-conditions)
 - [Rakuten: How cash back on travel works](https://www.rakuten.com/help/article/how-cash-back-on-travel-works-360002117527)
 - [Rakuten: In-store cash back FAQ](https://www.rakuten.com/help/article/in-store-cash-back-faq-15935028227987)

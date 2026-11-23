@@ -1,4 +1,4 @@
-# How does the Rakuten sign-up bonus through a friend's link work, and what makes it fail?
+# Rakuten sign-up bonus: how the bonus from a friend's link works and what makes it fail
 
 Source: https://itsworththefee.com/rakuten-50-bonus-how-it-works/
 Facts checked: 2026-11-23
@@ -28,6 +28,8 @@ Your friend gets $50 once your purchase is confirmed. A recent guide puts the ne
 | Payment dates | February 15, May 15, August 15, November 15 |
 | Minimum balance to be paid | More than $5 confirmed |
 | Paid by | PayPal or check, among other options |
+
+Whether the bonus can arrive as Amex points and not cash is a separate question; see [the sign-up bonus as Amex points](/rakuten-sign-up-bonus-as-amex-points/).
 
 ## When the money really arrives
 

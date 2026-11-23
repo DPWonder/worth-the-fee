@@ -1,10 +1,10 @@
 ---
-title: How does the Sapphire Preferred hotel credit work, and what bookings count?
+title: Chase Sapphire Preferred hotel credit: how it works and what bookings count
 slug: chase-sapphire-preferred-50-hotel-credit-how-it-works
-description: The Sapphire Preferred's $50 hotel credit became $100 in June 2026. It covers prepaid hotel stays booked through Chase Travel, once per account year.
+description: The Chase Sapphire Preferred hotel credit is up to $100 per account year, up from $50 in June 2026, for prepaid stays booked through Chase Travel.
 topic: chase
 cta: chase
-checked: 2026-11-21
+checked: 2026-11-23
 ---
 
 The Sapphire Preferred's $50 hotel credit no longer exists in that form: Chase doubled it to $100 on June 15, 2026. It is a statement credit of up to $100 each account anniversary year for hotel stays booked and paid for through Chase Travel with the card, and it does not apply to hotels booked anywhere else.
