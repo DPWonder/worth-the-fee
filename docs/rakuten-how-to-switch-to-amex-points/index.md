@@ -1,7 +1,7 @@
 # How do you switch Rakuten from cash back to Amex points, and can you switch back?
 
 Source: https://itsworththefee.com/rakuten-how-to-switch-to-amex-points/
-Facts checked: 2026-11-20
+Facts checked: 2026-11-23
 Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
 
 You switch in Rakuten's Account Settings: change the payment method to Membership Rewards points, then sign in to your American Express Membership Rewards account to link it. Whether you can switch back to cash is not settled; Rakuten's help pages do not say, one large travel site says no, and two others report that it works.
@@ -44,7 +44,7 @@ If you want an existing balance as cash, the cautious order is to wait until a p
 
 | Source | What it says | Date |
 |---|---|---|
-| Rakuten help pages | Nothing either way | Read November 20, 2026 |
+| Rakuten help pages | Nothing on leaving Amex points. A general line says you can update your payment method any time in Account Settings | Read November 23, 2026 |
 | The Points Guy | The choice is irreversible | Article bylined August 2025 |
 | Miles to Memories | Switching back and forth works | May 2025 |
 | Doctor of Credit | Members could change payout type and change back after a payment | Updated May 2026 |

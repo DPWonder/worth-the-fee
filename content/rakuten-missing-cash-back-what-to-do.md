@@ -4,7 +4,7 @@ slug: rakuten-missing-cash-back-what-to-do
 description: Check the store's exclusions, then file Rakuten's Missing Cash Back form. Rakuten's terms give you 90 days from the purchase.
 topic: rakuten
 cta: rakuten
-checked: 2026-11-20
+checked: 2026-11-23
 ---
 
 Cash back usually fails to track because the click from Rakuten to the store was lost, or because the item or order was excluded. If the store's terms say you should have earned it, file Rakuten's Missing Cash Back form; Rakuten's terms say to do so within 90 days of the purchase.

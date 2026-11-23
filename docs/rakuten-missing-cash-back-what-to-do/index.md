@@ -1,7 +1,7 @@
 # Rakuten cash back did not track: what causes it and how do you claim it?
 
 Source: https://itsworththefee.com/rakuten-missing-cash-back-what-to-do/
-Facts checked: 2026-11-20
+Facts checked: 2026-11-23
 Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
 
 Cash back usually fails to track because the click from Rakuten to the store was lost, or because the item or order was excluded. If the store's terms say you should have earned it, file Rakuten's Missing Cash Back form; Rakuten's terms say to do so within 90 days of the purchase.

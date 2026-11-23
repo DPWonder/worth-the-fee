@@ -3,7 +3,7 @@ title: How does the Rakuten sign-up bonus through a friend's link work, and what
 slug: rakuten-50-bonus-how-it-works
 description: Join through a friend's link, spend $50 on purchases that earn cash back within 90 days, and the bonus is paid on Rakuten's next payment date.
 cta: rakuten
-checked: 2026-11-20
+checked: 2026-11-23
 ---
 
 You join Rakuten through a friend's link, then make purchases that earn cash back totalling at least $50 within 90 days of signing up. The bonus fails most often because the purchase did not track, was returned, or was made at a store or on an item that earns no cash back.
@@ -52,7 +52,7 @@ A purchase qualifies only if it earns cash back through Rakuten. So anything tha
 - You already had a Rakuten account. The bonus is for new members only.
 - You signed up without using the friend's link, so the accounts are not connected.
 - You referred yourself, or the two accounts share a name, address or email. Rakuten can treat that as abuse.
-- You live outside the 50 states, DC or Canada.
+- You live outside the 50 states or DC. Rakuten's program terms also list Canada, but the current offer terms name only the 50 states and DC.
 - Someone else paid for the purchase. The new member has to be the one who pays.
 
 **Problems with the purchase**
