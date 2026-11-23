@@ -268,9 +268,11 @@ def build():
 
     pages = [parse(p) for p in sorted((ROOT / "content").glob("*.md"))]
     (OUT / "og").mkdir()
+    (OUT / "pin").mkdir()
     shutil.copy(og.make("default", "Is that travel card or program worth the fee?", "Independent. Sourced. Dated."), OUT / "og" / "default.png")
     for p in pages:
         shutil.copy(og.make(p["slug"], p["title"], TOPICS[p["topic"]]["label"]), OUT / "og" / (p["slug"] + ".png"))
+        shutil.copy(og.make_pin(p["slug"], p["title"], TOPICS[p["topic"]]["label"], p["description"]), OUT / "pin" / (p["slug"] + ".png"))
     slugs = [p["slug"] for p in pages]
     dupes = {s for s in slugs if slugs.count(s) > 1}
     if dupes:
@@ -331,7 +333,10 @@ def build():
             f'<p class="meta"><span>Facts checked {nice}</span><span>{pg["minutes"]} min read</span>'
             f'<span><a href="{BASE}how-we-check-facts/">How we check facts</a></span></p>'
             f'{disclosure}<div class="answer"><p class="eyebrow">The short answer</p>{answer_html}</div>{mini_cta(pg["cta"])}{calc_link(pg)}'
-            f'{body_html}{cta_html(pg["cta"])}</article>{rel_html}</div>'
+            f'{body_html}{cta_html(pg["cta"])}'
+            f'<figure class="pinimg"><img src="{BASE}pin/{pg["slug"]}.png" width="1000" height="1500" loading="lazy" '
+            f'alt="{esc(pg["title"])}" data-pin-description="{esc(pg["description"])} We earn from referral links on our site.">'
+            f'<figcaption>Save this answer for later</figcaption></figure></article>{rel_html}</div>'
         )
         write(path + "index.html", layout(f'{pg["title"]} | {NAME}', pg["description"], content, path,
                                           head + f'<link rel="alternate" type="text/markdown" href="{BASE}{path}index.md">',

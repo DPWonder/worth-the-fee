@@ -167,3 +167,6 @@ section.newest { padding-bottom: 0; }
 .shorts { padding-bottom: 56px; }
 .shorts h3 a { color: var(--text); }
 .shorts h3 a:hover { color: var(--link); }
+.pinimg{margin:2.5rem 0 0;text-align:center}
+.pinimg img{width:220px;max-width:60%;height:auto;border-radius:14px;box-shadow:0 6px 20px rgba(18,35,63,.18)}
+.pinimg figcaption{font-size:.85rem;color:#5b6577;margin-top:.5rem}
