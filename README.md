@@ -25,5 +25,5 @@ The link appears on `/offers/` and "How we earn" without step 2. Read the progra
 ## Program rules found 2026-11-24
 
 - **TopCashback** (referral terms, section 7): a link on our own website needs a cookie notice, a Cookies page and a Privacy page (all in place: `analytics.html`, `/cookies/`, `/privacy/`); say we are in the Refer a Friend program and get a reward; no paid ads; never show the link beside any other TopCashback new-member incentive. Its general terms cap bonuses "earned through commercial means" at $5 per referral without written consent, so expect $5, not the advertised amount.
-- **Chase checking refer-a-friend**: $50 per account opened, 10 a year. The link needs one confirmation press inside Dom's Chase account (his to make).
-- **Ibotta**: referral is a code used at sign-up in the app, with a grocery receipt needed in 14 days; the account needs Dom's name, zip and birthdate first.
+- **Chase checking refer-a-friend** (key `chasechecking`): $50 per account opened, 10 a year ($500). No website rule seen on the program page. Bonuses are reportable income.
+- **Ibotta: NOT on the site.** Its Terms of Use (section 6 and the conduct rules) bar publishing a referral code on a public website and any commercial use of the referral program; breach can close the account. Dom's code is for people he knows only.
