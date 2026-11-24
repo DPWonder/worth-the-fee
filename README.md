@@ -3,7 +3,7 @@
 Static site at https://itsworththefee.com answering narrow questions about travel cards and programs.
 
 - Build: `python3 -m venv .venv && .venv/bin/pip install markdown && .venv/bin/python build.py` (writes `docs/`, served by GitHub Pages).
-- Pages: `content/*.md` (frontmatter: title, slug, description, cta, checked). Referral links: `links.json`.
+- Pages: `content/*.md` (frontmatter: title, slug, description, cta, checked). Referral links: `links.json` (a link's optional `top` line is shown beside the first button on each page; when an offer check changes `offer`, re-check and re-date `top` too).
 - Unpublished drafts: `drafts/`. Fact sheets behind the pages: `research/`.
 - Visit counting: `analytics.html` (Google Analytics 4). Events: `referral_click` (button on a page), `referral_redirect` (the /go/ page).
 - After adding pages: build, push, then ping IndexNow with the list in `urls.txt`.

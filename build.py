@@ -153,8 +153,11 @@ def mini_cta(keys):
     links = " ".join(
         f'<a class="btn small" rel="sponsored nofollow" data-go="{k}" data-pos="top" href="{BASE}go/{k}/">{esc(LINKS[k]["button"])}</a>'
         for k in keys)
+    # An optional "top" line in links.json states the dated offer next to the first button.
+    tops = " ".join(esc(LINKS[k]["top"]) for k in keys if LINKS[k].get("top"))
+    lead = tops or "Read the page first."
     return (f'<p class="minicta"><span>Referral link{"s" if len(keys) > 1 else ""}: we earn if you sign up. '
-            f'Read the page first.</span> {links}</p>')
+            f'{lead}</span> {links}</p>')
 
 
 def calc_link(pg):
