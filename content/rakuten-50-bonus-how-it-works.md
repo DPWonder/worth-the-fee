@@ -8,7 +8,7 @@ checked: 2026-11-23
 
 You join Rakuten through a friend's link, then make purchases that earn cash back totalling at least $50 within 90 days of signing up. The bonus fails most often because the purchase did not track, was returned, or was made at a store or on an item that earns no cash back.
 
-This page is information, not financial advice. Rakuten says the purchase requirement and reward amount can vary, and the current offer period runs to December 31, 2026.
+This page is information, not financial advice. Rakuten says the purchase requirement and reward amount can vary, and the current offer period runs to December 31, 2026. For how this compares with the bonus on Rakuten's own site, see [welcome bonus or referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/).
 
 ## The steps
 

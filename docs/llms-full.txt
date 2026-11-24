@@ -9644,7 +9644,7 @@ Publisher: Worth the Fee (independent; some pages end with a disclosed referral 
 
 You create a free account, click through Rakuten to a store, and buy as usual. The store pays Rakuten a commission for the sale, Rakuten passes part of it to you as cash back, and confirmed cash back is paid four times a year once you have about $5.
 
-This page is information, not financial advice.
+This page is information, not financial advice. New to it? See [is Rakuten free](/is-rakuten-free/) and [the welcome bonus against a friend's referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/).
 
 ## Step 1: Create an account
 
@@ -10080,6 +10080,77 @@ Not confirmed. One member reported a 1099-NEC for a referral bonus; another repo
 
 ---
 
+# Is Rakuten free, and what is the catch?
+
+Source: https://itsworththefee.com/is-rakuten-free/
+Facts checked: 2026-11-24
+Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
+
+Yes, Rakuten is free to join and free to use: there is no membership fee and no charge for shopping through it. The catch is not a price but a trade, because Rakuten collects data on your shopping, pays only four times a year, and holds any balance under about $5.
+
+This page is information, not financial advice.
+
+## What it costs in money
+
+| Item | What Rakuten's pages say |
+|---|---|
+| Fee to join | None. The join page calls it free. |
+| Fee for the app or browser extension | None. Both are described as free. |
+| Payment card needed to join | No. An account needs an email and password, or a Facebook, Google or Apple sign-in. |
+| Minimum before a payment is sent | $5 on the help page; $5.01 in the terms |
+| Fee taken from a payment | None is listed on Rakuten's payment page. Any fee charged by PayPal: not confirmed. |
+| Inactive account fee | $5.00 a month, after more than 12 months with no shopping trip |
+
+A card comes into it only if you choose to link one for in-store offers. Members must be at least 18 and live in the 50 states or Washington D.C.
+
+The one fee in the terms is for an inactive account. If you have not shopped or started a shopping trip for more than 12 months in a row, Rakuten may take $5.00 a month from your balance. It comes out of cash back you have earned, not from your bank, so an account with nothing in it is not charged.
+
+## How Rakuten earns if you pay nothing
+
+Stores pay Rakuten a commission when it sends them a shopper who buys. Rakuten keeps part and passes the rest to you as cash back. Its terms say the cash back is funded from that partner compensation and, for some offers, from its own funds. The longer version is on [how Rakuten makes money](/is-rakuten-legit-how-it-makes-money/).
+
+## The costs that are not money
+
+**Your data.** Rakuten's terms say the browser extension collects information on the pages you visit and on search results pages, whether or not you are interacting with it. That is how it shows offers. What is collected and how to limit it is covered on [the extension and your privacy](/rakuten-browser-extension-safe-privacy/). You can earn without the extension by starting at Rakuten.com each time.
+
+**The wait.** Cash back starts as pending. Rakuten says online and in-store cash back typically takes 3 to 14 weeks to be confirmed, and confirmed cash back is sent by February 15, May 15, August 15 and November 15. A purchase can take months to become money; see [when Rakuten pays](/rakuten-when-do-you-get-paid/).
+
+**The minimum.** The help page says you need $5 or more in confirmed cash back to be paid. The terms put the minimum at $5.01. Either way, a smaller balance is not lost: it carries over to the next payment date.
+
+**Returns.** Returned or canceled orders do not earn cash back. For a partial return, Rakuten says the cash back is adjusted.
+
+**Coupon codes.** Rakuten's help page says codes not listed on Rakuten "may void Cash Back." If a code from elsewhere saves more than the cash back would pay, the code is the better deal for that order; you usually cannot count on both.
+
+**Tracking that does not happen.** Ad blockers, VPNs, declined cookies, or finishing checkout in a different tab can stop a purchase from being linked to your account.
+
+## Who should skip it
+
+- You do not want a company recording which shopping pages you visit. Use the website only, or leave it.
+- You shop online once or twice a year for small amounts. The balance may stay under $5, and after 12 idle months the fee can reduce it.
+- You rely on coupon codes from other sites at checkout.
+- You would buy more than you planned in order to earn cash back. That spending is the real cost.
+
+## Quick answers
+
+**Is Rakuten free to use?**
+Yes. Rakuten charges no fee to join, shop, or use its app and extension.
+
+**Do you need a credit card to join Rakuten?**
+No. An email and password is enough. A card is linked only for in-store offers, by choice.
+
+**What is the minimum Rakuten will pay out?**
+About $5 in confirmed cash back. The help page says $5; the terms say $5.01. Less carries over.
+
+## Sources
+
+- [Rakuten: How to join Rakuten](https://www.rakuten.com/help/article/how-to-join-rakuten-360002101108)
+- [Rakuten: How does Rakuten work?](https://www.rakuten.com/help/article/how-does-rakuten-work-360002117047)
+- [Rakuten: When will I get paid?](https://www.rakuten.com/help/article/when-will-i-get-paid-360002117667)
+- [Rakuten: Why didn't I earn cash back?](https://www.rakuten.com/help/article/why-didnt-i-earn-cash-back-360036367393)
+- [Rakuten: Terms and conditions](https://www.rakuten.com/help/article/terms-conditions)
+
+---
+
 # Is Rakuten legit, and how does it make money if it pays you?
 
 Source: https://itsworththefee.com/is-rakuten-legit-how-it-makes-money/
@@ -10088,7 +10159,7 @@ Publisher: Worth the Fee (independent; some pages end with a disclosed referral 
 
 Yes, Rakuten is a real company that has paid cash back since 1999. Stores pay it a commission for each shopper it sends, and it passes part of that commission to you; in return it collects data about what you browse and buy.
 
-This page is information, not financial advice.
+This page is information, not financial advice. For what it costs to use, see [is Rakuten free](/is-rakuten-free/).
 
 ## How the money flows
 
@@ -10557,7 +10628,7 @@ Publisher: Worth the Fee (independent; some pages end with a disclosed referral 
 
 You join Rakuten through a friend's link, then make purchases that earn cash back totalling at least $50 within 90 days of signing up. The bonus fails most often because the purchase did not track, was returned, or was made at a store or on an item that earns no cash back.
 
-This page is information, not financial advice. Rakuten says the purchase requirement and reward amount can vary, and the current offer period runs to December 31, 2026.
+This page is information, not financial advice. Rakuten says the purchase requirement and reward amount can vary, and the current offer period runs to December 31, 2026. For how this compares with the bonus on Rakuten's own site, see [welcome bonus or referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/).
 
 ## The steps
 
@@ -11319,7 +11390,7 @@ Publisher: Worth the Fee (independent; some pages end with a disclosed referral 
 
 Rakuten cash back works on Black Friday (November 27, 2026) and Cyber Monday (November 30) the same way it does on any other day: activate first, then buy. What changes is that many stores' rates are raised for short periods, so the catches are rates that move, items a store excludes, and orders that fail to track.
 
-This page is information, not financial advice. For this morning's rate at 70 stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/).
+This page is information, not financial advice. For this morning's rate at 70 stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/). Not a member yet? See [welcome bonus or referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/).
 
 ## The dates
 
@@ -15722,6 +15793,86 @@ Not confirmed. Rates often move that week, but the page promises nothing.
 - [Rakuten: In-store offers](https://www.rakuten.com/in-store)
 - [Rakuten: Why didn't I earn cash back?](https://www.rakuten.com/help/article/why-didnt-i-earn-cash-back-360036367393)
 - [Rakuten: When will I get paid?](https://www.rakuten.com/help/article/when-will-i-get-paid-360002117667)
+
+---
+
+# Rakuten welcome bonus or a friend's referral bonus: which one do you get, and which is bigger?
+
+Source: https://itsworththefee.com/rakuten-welcome-bonus-vs-referral-bonus/
+Facts checked: 2026-11-24
+Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
+
+You get whichever bonus was on the page you joined from, and never both. On November 24, 2026, Rakuten's own store pages advertised a $10 welcome bonus, while a member's referral link showed $50 after $50 of purchases, so the referral bonus was the larger one that day.
+
+This page is information, not financial advice. Both amounts change, and the page you land on shows the amount that applies to you.
+
+## The two bonuses side by side
+
+| | Standard welcome bonus | Referral sign-up bonus |
+|---|---|---|
+| How you join | From Rakuten's own site or app | Through a member's link, or by entering the member's email on the join form |
+| Amount seen November 24, 2026 | $10 | $50 |
+| Other amounts in Rakuten's page text | $20; an extra 10% cash back in place of a fixed bonus | $30 |
+| Purchases needed | At least $25 | $50 for the $50 offer ($30 for the $30 version) |
+| Time limit | 90 days from signing up | 90 days from signing up |
+| What counts | Purchases that earn cash back or points through Rakuten | Purchases that earn cash back through Rakuten |
+| Amazon.com orders | Do not count | Do not count |
+| Paid | With the next cash back payment or points transfer | With the next cash back payment |
+
+## What each one requires
+
+The welcome bonus terms set the same test whatever the amount: join as a new member from a page where the welcome bonus was offered, then make qualifying purchases of at least $25 within 90 days. You also need to choose a payment method and have a mailing address on file.
+
+The referral bonus follows the offer shown on the referral page. The current one runs from October 1 to December 31, 2026 and asks for qualifying purchases of at least $50 within 90 days. The new member must pay for the purchase and must live in the 50 states or D.C. A purchase that is returned, canceled or exchanged does not count. The full list of ways it fails is on [how the referral bonus works](/rakuten-50-bonus-how-it-works/).
+
+Neither bonus is instant. The store must confirm the purchase first, and the bonus then goes out on a quarterly payment date. See [when Rakuten pays](/rakuten-when-do-you-get-paid/).
+
+## Why the amounts differ from page to page
+
+Rakuten's pages did not all show the same welcome offer on November 24, 2026. Store pages such as Best Buy's said $10. The home page description offered an extra 10% cash back for new members and named no fixed dollar bonus. Text built into the same pages also carried a line about a $20 welcome bonus after $25 of purchases. Rakuten's separate boost bonus terms describe the 10% version: it applies to purchases in the first seven days and has a cap. The cap amount is not confirmed.
+
+Referral amounts move too. The referral page showed $50 after $50, and its sharing text also carried a $30 after $30 message. Rakuten's referral FAQ says the new member gets "the bonus that was available on day of sign up."
+
+## Can you get both?
+
+No. The welcome bonus terms say it is not combinable with other offers, and they name the referral sign-up bonus. The boost terms say the same. Each is limited to one per new member.
+
+## If you already have an account
+
+Both bonuses are for new members only, and Rakuten's terms limit each person to one account. An existing member cannot earn either one by joining again.
+
+Whether a member who joined from Rakuten's own site can add a friend's email afterward is not confirmed. Rakuten's join article describes entering it only on the join form.
+
+## Who should skip it
+
+- You would be buying $50 of things you do not need to reach the larger bonus. The welcome bonus asks for $25.
+- Your first purchases will be on Amazon.com. They count toward neither bonus.
+- You already have a Rakuten account. Neither bonus applies.
+- You live outside the 50 states and D.C.
+
+## Quick answers
+
+**Which Rakuten bonus is bigger?**
+On November 24, 2026 the referral bonus was: $50 against $10. Both change, so compare the pages on the day you join.
+
+**Can you get the welcome bonus and the referral bonus?**
+No. Rakuten's terms say the two cannot be combined, and each is one per new member.
+
+**Does an existing Rakuten member get either bonus?**
+No. Both are for new members, and the terms allow one account per person.
+
+## Sources
+
+- [Rakuten: Welcome bonus terms](https://www.rakuten.com/help/article/welcome-bonus-terms)
+- [Rakuten: Welcome bonus and new member FAQs](https://www.rakuten.com/help/article/welcome-bonus-new-member-faqs)
+- [Rakuten: Boost bonus terms](https://www.rakuten.com/help/article/boost-bonus-terms)
+- [Rakuten: Refer-a-friend page and current offer terms](https://www.rakuten.com/referral)
+- [Rakuten: Referral program terms](https://www.rakuten.com/help/article/referral-program-terms-360002101348)
+- [Rakuten: Refer-a-friend program FAQ](https://www.rakuten.com/help/article/referafriend-program-faq-360002117087)
+- [Rakuten: How to join Rakuten](https://www.rakuten.com/help/article/how-to-join-rakuten-360002101108)
+- [Rakuten: Best Buy store page](https://www.rakuten.com/bestbuy.com)
+- [Rakuten: Home page](https://www.rakuten.com/)
+- [Rakuten: Terms and conditions](https://www.rakuten.com/help/article/terms-conditions)
 
 ---
 

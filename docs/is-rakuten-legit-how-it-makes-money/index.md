@@ -6,7 +6,7 @@ Publisher: Worth the Fee (independent; some pages end with a disclosed referral 
 
 Yes, Rakuten is a real company that has paid cash back since 1999. Stores pay it a commission for each shopper it sends, and it passes part of that commission to you; in return it collects data about what you browse and buy.
 
-This page is information, not financial advice.
+This page is information, not financial advice. For what it costs to use, see [is Rakuten free](/is-rakuten-free/).
 
 ## How the money flows
 

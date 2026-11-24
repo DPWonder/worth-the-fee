@@ -9,7 +9,7 @@ checked: 2026-11-23
 
 You create a free account, click through Rakuten to a store, and buy as usual. The store pays Rakuten a commission for the sale, Rakuten passes part of it to you as cash back, and confirmed cash back is paid four times a year once you have about $5.
 
-This page is information, not financial advice.
+This page is information, not financial advice. New to it? See [is Rakuten free](/is-rakuten-free/) and [the welcome bonus against a friend's referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/).
 
 ## Step 1: Create an account
 
