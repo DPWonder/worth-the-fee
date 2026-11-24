@@ -1,5 +1,5 @@
 ---
-title: Does Rakuten give cash back at Lowe's, and what is excluded?
+title: Rakuten Lowe's cash back: does it work, and what is excluded?
 slug: rakuten-lowes-cash-back-how-it-works
 description: Yes: up to 2% on November 21, 2026 (usual rate 1%), with 1% on appliances. Lumber, decking, installations and gift cards are excluded.
 topic: rakuten
@@ -9,7 +9,7 @@ checked: 2026-11-21
 
 Yes. On November 21, 2026, Rakuten's Lowe's page showed up to 2% cash back, raised from a usual 1%. Appliances earn 1%, and lumber, decking, installation orders and gift cards earn nothing.
 
-This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy.
+This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy. For this morning's headline rate here and at other stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/).
 
 ## Rates seen on November 21, 2026
 

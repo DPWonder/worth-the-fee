@@ -1,5 +1,5 @@
 ---
-title: Does Rakuten give cash back at Nordstrom and Nordstrom Rack, and what is excluded?
+title: Rakuten Nordstrom and Nordstrom Rack cash back: does it work, and what is excluded?
 slug: rakuten-nordstrom-cash-back-how-it-works
 description: On November 21, 2026, Rakuten showed No Cash Back at Nordstrom and 2% at Nordstrom Rack. Gift cards and five brands are excluded at the Rack.
 topic: rakuten
@@ -9,7 +9,7 @@ checked: 2026-11-21
 
 Not at Nordstrom on the day checked, and yes at Nordstrom Rack. On November 21, 2026, Rakuten's Nordstrom page showed "No Cash Back", while its Nordstrom Rack page showed 2%. At the Rack, gift cards and five brands are excluded.
 
-This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy.
+This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy. For this morning's headline rate here and at other stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/).
 
 ## The two stores are listed separately
 

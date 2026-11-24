@@ -1,5 +1,5 @@
 ---
-title: Does Rakuten give cash back at Walmart, and what is excluded?
+title: Rakuten Walmart cash back: does it work, and what is excluded?
 slug: rakuten-walmart-cash-back-how-it-works
 description: Yes, but as a flat $5 on up to three orders of $25 or more, not a percentage. Groceries, pharmacy and Walmart app orders are excluded.
 topic: rakuten
@@ -9,7 +9,7 @@ checked: 2026-11-21
 
 Yes, in a limited form. On November 21, 2026, Rakuten's Walmart page showed a flat $5 cash back on each of up to three eligible orders of $25 or more, not a percentage of the order. Groceries, pharmacy items and orders placed in the Walmart app are excluded.
 
-This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy.
+This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy. For this morning's headline rate here and at other stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/).
 
 ## How the Walmart offer differs from other stores
 

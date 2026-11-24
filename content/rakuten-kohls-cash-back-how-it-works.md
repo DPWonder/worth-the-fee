@@ -1,5 +1,5 @@
 ---
-title: Does Rakuten give cash back at Kohl's, and does it stack with Kohl's Cash?
+title: Rakuten Kohl's cash back: does it work, and does it stack with Kohl's Cash?
 slug: rakuten-kohls-cash-back-how-it-works
 description: Yes, 2% when checked on November 21, 2026. The part of an order paid with Kohl's Cash earns nothing; earning Kohl's Cash on it is not confirmed.
 topic: rakuten
@@ -9,7 +9,7 @@ checked: 2026-11-21
 
 Yes. Kohl's was listed on Rakuten at 2% on November 21, 2026. The part of an order you pay for with Kohl's Cash earns no Rakuten cash back, and whether a Rakuten-tracked order still earns new Kohl's Cash is not confirmed by either company.
 
-This page is information, not financial advice. Rates change daily, so check Kohl's page on Rakuten on the day you shop.
+This page is information, not financial advice. Rates change daily, so check Kohl's page on Rakuten on the day you shop. For this morning's headline rate here and at other stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/).
 
 ## The rate
 

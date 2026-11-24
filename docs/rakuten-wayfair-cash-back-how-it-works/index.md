@@ -1,4 +1,4 @@
-# Does Rakuten give cash back at Wayfair, and what is excluded?
+# Rakuten Wayfair cash back: does it work, and what is excluded?
 
 Source: https://itsworththefee.com/rakuten-wayfair-cash-back-how-it-works/
 Facts checked: 2026-11-22
@@ -6,7 +6,7 @@ Publisher: Worth the Fee (independent; some pages end with a disclosed referral 
 
 Not on the day checked. On November 22, 2026, Rakuten's Wayfair page showed "No Cash Back", with no rate, no "was" rate and no terms or exclusions. Wayfair has a page on Rakuten, but a purchase started from it that day would earn nothing.
 
-This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy.
+This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy. For this morning's headline rate here and at other stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/).
 
 ## What the page shows
 

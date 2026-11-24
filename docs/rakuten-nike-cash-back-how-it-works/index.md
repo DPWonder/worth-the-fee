@@ -1,4 +1,4 @@
-# Does Rakuten give cash back at Nike, and what is excluded?
+# Rakuten Nike cash back: does it work, and what is excluded?
 
 Source: https://itsworththefee.com/rakuten-nike-cash-back-how-it-works/
 Facts checked: 2026-11-21
@@ -6,7 +6,7 @@ Publisher: Worth the Fee (independent; some pages end with a disclosed referral 
 
 Yes. On November 21, 2026, Rakuten's Nike page showed 4% cash back, raised from a usual 2%. New releases, select Jordans, purchases in the SNKRS app, gift cards and orders paid with gift cards are excluded.
 
-This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy.
+This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy. For this morning's headline rate here and at other stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/).
 
 ## The rate, and how it moves
 

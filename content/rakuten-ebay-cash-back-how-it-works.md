@@ -1,5 +1,5 @@
 ---
-title: Does Rakuten give cash back at eBay, and what is excluded?
+title: Rakuten eBay cash back: does it work, and what is excluded?
 slug: rakuten-ebay-cash-back-how-it-works
 description: Yes: 1% on November 21, 2026, in select departments only, capped at $50 a purchase. Electronics and accepted-offer buys earn nothing.
 topic: rakuten
@@ -9,7 +9,7 @@ checked: 2026-11-21
 
 Yes, in select departments. On November 21, 2026, Rakuten's eBay page showed 1% cash back, capped at $50 on any single purchase. Electronics, phones, computers, video games, gift cards and purchases made by sending the seller an offer are excluded.
 
-This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy.
+This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy. For this morning's headline rate here and at other stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/).
 
 ## Which departments earn
 

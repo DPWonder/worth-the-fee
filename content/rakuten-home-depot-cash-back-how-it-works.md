@@ -1,5 +1,5 @@
 ---
-title: Does Rakuten give cash back at The Home Depot, and what is excluded?
+title: Rakuten Home Depot cash back: does it work, and what is excluded?
 slug: rakuten-home-depot-cash-back-how-it-works
 description: No. On November 21, 2026, Rakuten's page for The Home Depot showed No Cash Back. The page lists coupons only.
 topic: rakuten
@@ -9,7 +9,7 @@ checked: 2026-11-21
 
 No. The Home Depot has a page on Rakuten, but on November 21, 2026 that page showed "No Cash Back". Shopping there through Rakuten earned nothing that day, on any category.
 
-This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy.
+This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy. For this morning's headline rate here and at other stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/).
 
 ## What Rakuten's page shows
 

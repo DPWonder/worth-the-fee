@@ -1,4 +1,4 @@
-# Does Rakuten give cash back at Samsung.com, and what is excluded?
+# Rakuten Samsung cash back: does it work, and what is excluded?
 
 Source: https://itsworththefee.com/rakuten-samsung-cash-back-how-it-works/
 Facts checked: 2026-11-21
@@ -6,7 +6,7 @@ Publisher: Worth the Fee (independent; some pages end with a disclosed referral 
 
 Yes. On November 21, 2026, Rakuten's Samsung page showed 2% cash back, with phones, TVs and appliances all listed at that rate. Cash back is paid only on the amount left after trade-in credit or Samsung Rewards, and Employee Perks orders, memory, Samsung Care+ and gift cards earn nothing.
 
-This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy.
+This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy. For this morning's headline rate here and at other stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/).
 
 ## The rate, and how it moves
 

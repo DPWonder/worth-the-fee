@@ -9,7 +9,7 @@ checked: 2026-11-23
 
 For Cyber Monday (November 30, 2026) Rakuten runs a Cyber Monday page listing stores with raised cash back rates, but as of November 23 it had not published the rates that will apply on the day. Rakuten describes the difference from Black Friday as one of origin: Black Friday grew from in-store sales, Cyber Monday from online ones, and the two now overlap.
 
-This page is information, not financial advice. Rates change daily, so the rate on the store's Rakuten page when you buy is the one that counts.
+This page is information, not financial advice. Rates change daily, so the rate on the store's Rakuten page when you buy is the one that counts. For this morning's rate at 70 stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/).
 
 ## What Rakuten has published for 2026
 

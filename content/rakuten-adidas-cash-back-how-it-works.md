@@ -1,5 +1,5 @@
 ---
-title: Does Rakuten give cash back at Adidas, and what is excluded?
+title: Rakuten Adidas cash back: does it work, and what is excluded?
 slug: rakuten-adidas-cash-back-how-it-works
 description: Yes: up to 6% on November 21, 2026 (usual rate 2%). Samba, Gazelle, Spezial and EVO SL earn 2%. Collaborations and gift cards earn nothing.
 topic: rakuten
@@ -9,7 +9,7 @@ checked: 2026-11-21
 
 Yes. On November 21, 2026, Rakuten's Adidas page showed up to 6% cash back, raised from a usual 2%. Samba, Gazelle, Spezial and EVO SL shoes earn 2%, and named collaborations, gift cards and purchases in the Confirmed app earn nothing.
 
-This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy.
+This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy. For this morning's headline rate here and at other stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/).
 
 ## The rate, and how it moves
 

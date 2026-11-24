@@ -1,4 +1,4 @@
-# Does Rakuten give cash back at Target, and what is excluded?
+# Rakuten Target cash back: does it work, and what is excluded?
 
 Source: https://itsworththefee.com/rakuten-target-cash-back-how-it-works/
 Facts checked: 2026-11-21
@@ -6,7 +6,7 @@ Publisher: Worth the Fee (independent; some pages end with a disclosed referral 
 
 Yes, but only on some departments. On November 21, 2026, Rakuten's Target page showed 1% cash back, limited to categories such as apparel, home, furniture, kitchen and beauty. Grocery, electronics, toys, gift cards and Drive Up orders are excluded.
 
-This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy.
+This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy. For this morning's headline rate here and at other stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/).
 
 ## What earns and what does not
 

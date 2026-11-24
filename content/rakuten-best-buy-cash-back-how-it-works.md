@@ -1,5 +1,5 @@
 ---
-title: Does Rakuten give cash back at Best Buy, and what is excluded?
+title: Rakuten Best Buy cash back: does it work, and what is excluded?
 slug: rakuten-best-buy-cash-back-how-it-works
 description: Yes: up to 8% by category on November 21, 2026, with most items at 1%. Apple products, game consoles and gift cards earn nothing.
 topic: rakuten
@@ -9,7 +9,7 @@ checked: 2026-11-21
 
 Yes. On November 21, 2026, Rakuten's Best Buy page showed up to 8% cash back, set by category and brand, with most general categories at 1%. Apple products, video game consoles, gift cards, services and warranties are excluded.
 
-This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy.
+This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy. For this morning's headline rate here and at other stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/).
 
 ## Rates seen on November 21, 2026
 

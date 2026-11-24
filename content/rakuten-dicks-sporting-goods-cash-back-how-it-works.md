@@ -1,5 +1,5 @@
 ---
-title: Does Rakuten give cash back at Dick's Sporting Goods, and what is excluded?
+title: Rakuten Dick's Sporting Goods cash back: does it work, and what is excluded?
 slug: rakuten-dicks-sporting-goods-cash-back-how-it-works
 description: Yes: 9% on November 22, 2026 (usual rate 2%). Gift cards, warranties, services, three brands and bulk orders are excluded.
 topic: rakuten
@@ -9,7 +9,7 @@ checked: 2026-11-22
 
 Yes. On November 22, 2026, Rakuten's Dick's Sporting Goods page showed 9% cash back, raised from a usual 2%. Gift cards, extended warranties, services, three named brands, the part of an order paid with rewards and bulk orders are excluded.
 
-This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy.
+This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy. For this morning's headline rate here and at other stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/).
 
 ## The rate, and how it moves
 

@@ -1,4 +1,4 @@
-# Does Rakuten give cash back at Chewy, and what is excluded?
+# Rakuten Chewy cash back: does it work, and what is excluded?
 
 Source: https://itsworththefee.com/rakuten-chewy-cash-back-how-it-works/
 Facts checked: 2026-11-22
@@ -6,7 +6,7 @@ Publisher: Worth the Fee (independent; some pages end with a disclosed referral 
 
 Yes. On November 22, 2026, Rakuten's Chewy page showed 4% cash back, raised from a usual 2%. Pet prescriptions, flea and tick products, Chewy+ subscriptions, gift cards and every Autoship order after the first are excluded.
 
-This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy.
+This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy. For this morning's headline rate here and at other stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/).
 
 ## The rate, and how it moves
 

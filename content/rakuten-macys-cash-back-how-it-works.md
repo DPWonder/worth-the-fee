@@ -1,5 +1,5 @@
 ---
-title: Does Rakuten give cash back at Macy's, and what is excluded?
+title: Rakuten Macy's cash back: does it work, and what is excluded?
 slug: rakuten-macys-cash-back-how-it-works
 description: Yes: 13% on November 21, 2026 (usual rate 2%), with 1.5% on furniture, electronics and marketplace items. Gift cards earn nothing.
 topic: rakuten
@@ -9,7 +9,7 @@ checked: 2026-11-21
 
 Yes. On November 21, 2026, Rakuten's Macy's page showed 13% cash back, raised from a usual 2%. Furniture, mattresses, electronics and marketplace seller items earn 1.5%, and gift cards and a list of brands earn nothing.
 
-This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy.
+This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy. For this morning's headline rate here and at other stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/).
 
 ## Rates seen on November 21, 2026
 

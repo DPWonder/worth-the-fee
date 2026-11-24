@@ -1,5 +1,5 @@
 ---
-title: Does Rakuten give cash back at Old Navy, and what is excluded?
+title: Rakuten Old Navy cash back: does it work, and what is excluded?
 slug: rakuten-old-navy-cash-back-how-it-works
 description: Yes: 2% on November 22, 2026, with no raised rate. Gift cards, Joseph Altuzarra items and the part paid with reward points are excluded.
 topic: rakuten
@@ -9,7 +9,7 @@ checked: 2026-11-22
 
 Yes. On November 22, 2026, Rakuten's Old Navy page showed 2% cash back, with no raised rate. Gift cards, e-gift cards, Joseph Altuzarra items and the part of an order paid for with reward points are excluded.
 
-This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy.
+This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy. For this morning's headline rate here and at other stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/).
 
 ## The rate, and how it moves
 

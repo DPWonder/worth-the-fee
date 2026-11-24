@@ -1,4 +1,4 @@
-# Does Rakuten give cash back at Ulta, and what is excluded?
+# Rakuten Ulta cash back: does it work, and what is excluded?
 
 Source: https://itsworththefee.com/rakuten-ulta-cash-back-how-it-works/
 Facts checked: 2026-11-21
@@ -6,7 +6,7 @@ Publisher: Worth the Fee (independent; some pages end with a disclosed referral 
 
 Yes. Ulta Beauty was listed on Rakuten at 2% on November 21, 2026. Dior products, Marketplace items, gift cards and the part of an order paid with Ulta rewards earn nothing.
 
-This page is information, not financial advice. Rates change daily, so check Ulta's page on Rakuten on the day you shop.
+This page is information, not financial advice. Rates change daily, so check Ulta's page on Rakuten on the day you shop. For this morning's headline rate here and at other stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/).
 
 ## The rate
 

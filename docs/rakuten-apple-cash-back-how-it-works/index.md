@@ -1,4 +1,4 @@
-# Does Rakuten give cash back at Apple, and what is excluded?
+# Rakuten Apple cash back: does it work, and what is excluded?
 
 Source: https://itsworththefee.com/rakuten-apple-cash-back-how-it-works/
 Facts checked: 2026-11-21
@@ -6,7 +6,7 @@ Publisher: Worth the Fee (independent; some pages end with a disclosed referral 
 
 Yes, but on a narrow list. Apple was listed on Rakuten at 2% on November 21, 2026, and only for accessories, Apple Refurbished products, AppleCare+ and Beats. A new iPhone, Mac, iPad, Apple Watch or AirPods earns nothing.
 
-This page is information, not financial advice. Rates change daily, so check Apple's page on Rakuten on the day you buy.
+This page is information, not financial advice. Rates change daily, so check Apple's page on Rakuten on the day you buy. For this morning's headline rate here and at other stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/).
 
 ## What earns and what does not
 
