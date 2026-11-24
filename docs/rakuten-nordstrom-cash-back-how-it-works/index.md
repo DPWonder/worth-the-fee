@@ -97,6 +97,10 @@ Not on November 21, 2026. Rakuten's Nordstrom page showed no cash back that day.
 **Which brands are excluded at Nordstrom Rack?**
 Free People, Free People Movement, Coach, Rainbow, Chanel and Birkenstock. Gift cards are excluded too.
 
+## Not a Rakuten member yet
+
+Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](/is-rakuten-free/). A new member gets one joining bonus, not two. [Welcome bonus or a friend's referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/) compares the two offers as read on November 24, 2026.
+
 ## Sources
 
 - [Rakuten: Nordstrom store page](https://www.rakuten.com/nordstrom.com)

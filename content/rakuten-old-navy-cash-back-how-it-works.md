@@ -79,6 +79,10 @@ On November 22, 2026, yes: Gap's own page also showed 2%. The two stores have se
 **Do orders paid with reward points earn cash back?**
 No. The terms exclude the portion of an order paid for with reward points.
 
+## Not a Rakuten member yet
+
+Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](/is-rakuten-free/). A new member gets one joining bonus, not two. [Welcome bonus or a friend's referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/) compares the two offers as read on November 24, 2026.
+
 ## Sources
 
 - [Rakuten: Old Navy store page](https://www.rakuten.com/shop/oldnavy)

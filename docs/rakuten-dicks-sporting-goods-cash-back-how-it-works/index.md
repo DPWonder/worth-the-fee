@@ -81,6 +81,10 @@ The page says points and cash back can be earned together. The portion paid with
 **Can I use a coupon code?**
 One coupon per order, and codes not listed on Rakuten may void cash back.
 
+## Not a Rakuten member yet
+
+Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](/is-rakuten-free/). A new member gets one joining bonus, not two. [Welcome bonus or a friend's referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/) compares the two offers as read on November 24, 2026.
+
 ## Sources
 
 - [Rakuten: Dick's Sporting Goods store page](https://www.rakuten.com/shop/dickssportinggoods)

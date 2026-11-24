@@ -73,6 +73,10 @@ No. iPhone was on the excluded list on November 24, 2026.
 **When is Apple cash back added?**
 The listing says the same day. It is paid on Rakuten's next quarterly date after it is confirmed.
 
+## Not a Rakuten member yet
+
+Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](/is-rakuten-free/). A new member gets one joining bonus, not two. [Welcome bonus or a friend's referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/) compares the two offers as read on November 24, 2026.
+
 ## Sources
 
 - [Rakuten: Apple store page](https://www.rakuten.com/apple.com)

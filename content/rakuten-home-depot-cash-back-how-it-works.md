@@ -90,6 +90,10 @@ No. No category rates were listed that day.
 **Does Lowe's earn Rakuten cash back?**
 Rakuten showed Lowe's at up to 2% (was 1%) on November 21, 2026. Rates change daily.
 
+## Not a Rakuten member yet
+
+Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](/is-rakuten-free/). A new member gets one joining bonus, not two. [Welcome bonus or a friend's referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/) compares the two offers as read on November 24, 2026.
+
 ## Sources
 
 - [Rakuten: The Home Depot store page](https://www.rakuten.com/homedepot.com)

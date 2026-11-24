@@ -95,6 +95,10 @@ Mobile phones are listed at 2%. With a trade-in, cash back counts only the amoun
 **Do Samsung discount program orders earn cash back?**
 Employee Perks orders do not. Student, educator, military and first responder program orders are not confirmed.
 
+## Not a Rakuten member yet
+
+Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](/is-rakuten-free/). A new member gets one joining bonus, not two. [Welcome bonus or a friend's referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/) compares the two offers as read on November 24, 2026.
+
 ## Sources
 
 - [Rakuten: Samsung store page](https://www.rakuten.com/samsung.com)

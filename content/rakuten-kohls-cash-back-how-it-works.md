@@ -82,6 +82,10 @@ Yes, on the part not paid with Kohl's Cash. The Kohl's Cash portion is excluded.
 **Does Sephora at Kohl's earn Rakuten cash back?**
 It was not on the exclusion list, and a Sephora sale at Kohl's was listed at 2% that day.
 
+## Not a Rakuten member yet
+
+Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](/is-rakuten-free/). A new member gets one joining bonus, not two. [Welcome bonus or a friend's referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/) compares the two offers as read on November 24, 2026.
+
 ## Sources
 
 - [Rakuten: Kohl's store page](https://www.rakuten.com/kohls.com)

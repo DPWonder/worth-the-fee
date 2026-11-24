@@ -114,6 +114,10 @@ No. Rakuten's terms exclude orders placed using the Temu app. The order must be 
 **Can a Temu coupon code be used with Rakuten?**
 Codes listed on Rakuten can. Rakuten's terms say codes not listed on Rakuten may void cash back.
 
+## Not a Rakuten member yet
+
+Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](/is-rakuten-free/). A new member gets one joining bonus, not two. [Welcome bonus or a friend's referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/) compares the two offers as read on November 24, 2026.
+
 ## Sources
 
 - [Rakuten: Temu store page](https://www.rakuten.com/shop/temu)

@@ -84,6 +84,10 @@ Only safely with a code listed on Rakuten. The terms say other codes may void it
 **Do gift cards earn cash back?**
 No. Gift cards and e-gift cards are excluded.
 
+## Not a Rakuten member yet
+
+Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](/is-rakuten-free/). A new member gets one joining bonus, not two. [Welcome bonus or a friend's referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/) compares the two offers as read on November 24, 2026.
+
 ## Sources
 
 - [Rakuten: Sephora store page](https://www.rakuten.com/sephora.com)

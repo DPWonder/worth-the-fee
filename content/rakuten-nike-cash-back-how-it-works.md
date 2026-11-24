@@ -88,6 +88,10 @@ New releases and select Jordans are excluded. The terms do not list which ones.
 **What happens if I return one item?**
 The terms say cash back for the entire order is void if any part is returned, exchanged or canceled.
 
+## Not a Rakuten member yet
+
+Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](/is-rakuten-free/). A new member gets one joining bonus, not two. [Welcome bonus or a friend's referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/) compares the two offers as read on November 24, 2026.
+
 ## Sources
 
 - [Rakuten: Nike store page](https://www.rakuten.com/nike.com)

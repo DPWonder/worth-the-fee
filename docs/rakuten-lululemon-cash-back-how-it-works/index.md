@@ -83,6 +83,10 @@ Yes. The Points Guy listed 15% on Black Friday 2025. No rate is promised for 202
 **Can you earn cash back on a lululemon gift card?**
 Rakuten showed 3% on lululemon eGift cards sold by Giftcards.com on November 24, 2026, against a usual 1%.
 
+## Not a Rakuten member yet
+
+Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](/is-rakuten-free/). A new member gets one joining bonus, not two. [Welcome bonus or a friend's referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/) compares the two offers as read on November 24, 2026.
+
 ## Sources
 
 - [Rakuten: lululemon store page](https://www.rakuten.com/shop/lululemon)

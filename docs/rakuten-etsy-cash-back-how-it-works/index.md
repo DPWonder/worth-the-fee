@@ -87,6 +87,10 @@ Gift card purchases, and shipping labels bought by Etsy sellers. Nothing else is
 **Do digital downloads and custom orders earn cash back?**
 The terms do not exclude them. They are not named separately, so check the store page on the day.
 
+## Not a Rakuten member yet
+
+Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](/is-rakuten-free/). A new member gets one joining bonus, not two. [Welcome bonus or a friend's referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/) compares the two offers as read on November 24, 2026.
+
 ## Sources
 
 - [Rakuten: Etsy store page](https://www.rakuten.com/shop/etsy)

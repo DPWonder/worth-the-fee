@@ -93,6 +93,10 @@ No. Lumber, decking, installation purchases and gift cards are excluded.
 **How long do I have to report missing cash back?**
 60 days from the order date, under Rakuten's terms for Lowe's. The general limit is 90 days.
 
+## Not a Rakuten member yet
+
+Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](/is-rakuten-free/). A new member gets one joining bonus, not two. [Welcome bonus or a friend's referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/) compares the two offers as read on November 24, 2026.
+
 ## Sources
 
 - [Rakuten: Lowe's store page](https://www.rakuten.com/lowes.com)

@@ -79,6 +79,10 @@ No terms or exclusions are listed, because there is no offer. Every purchase ear
 **Will Wayfair have cash back on Black Friday?**
 Not confirmed. Rates often move that week, but the page promises nothing.
 
+## Not a Rakuten member yet
+
+Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](/is-rakuten-free/). A new member gets one joining bonus, not two. [Welcome bonus or a friend's referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/) compares the two offers as read on November 24, 2026.
+
 ## Sources
 
 - [Rakuten: Wayfair store page](https://www.rakuten.com/shop/wayfair)

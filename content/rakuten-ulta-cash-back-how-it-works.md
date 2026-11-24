@@ -96,6 +96,10 @@ Dior was the only brand named in the terms read. Marketplace items are also excl
 **Do Ulta gift cards earn cash back?**
 No. The terms exclude any gift card, including e-gift cards.
 
+## Not a Rakuten member yet
+
+Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](/is-rakuten-free/). A new member gets one joining bonus, not two. [Welcome bonus or a friend's referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/) compares the two offers as read on November 24, 2026.
+
 ## Sources
 
 - [Rakuten: Ulta Beauty store page](https://www.rakuten.com/ulta.com)

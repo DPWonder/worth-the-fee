@@ -89,6 +89,10 @@ Yes, at 2% on that date. Samba, Gazelle, Spezial and EVO SL were held at 2% whil
 **Can I use an Adidas promo code and still get cash back?**
 The terms say codes not listed on Rakuten may void cash back. Codes shown on Rakuten are the safe ones.
 
+## Not a Rakuten member yet
+
+Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](/is-rakuten-free/). A new member gets one joining bonus, not two. [Welcome bonus or a friend's referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/) compares the two offers as read on November 24, 2026.
+
 ## Sources
 
 - [Rakuten: Adidas store page](https://www.rakuten.com/adidas.com)

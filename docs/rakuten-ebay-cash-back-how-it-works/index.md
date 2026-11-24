@@ -90,6 +90,10 @@ No. Electronics, cell phones, computers, cameras and video games are on the excl
 **Is there a limit per purchase?**
 Yes. The terms cap cash back at $50 on any single purchase.
 
+## Not a Rakuten member yet
+
+Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](/is-rakuten-free/). A new member gets one joining bonus, not two. [Welcome bonus or a friend's referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/) compares the two offers as read on November 24, 2026.
+
 ## Sources
 
 - [Rakuten: eBay store page](https://www.rakuten.com/ebay.com)

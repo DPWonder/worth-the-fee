@@ -90,6 +90,10 @@ The first Autoship order does. Later Autoship orders do not.
 **Do pet medications earn cash back?**
 Pet prescriptions and flea and tick products are excluded.
 
+## Not a Rakuten member yet
+
+Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](/is-rakuten-free/). A new member gets one joining bonus, not two. [Welcome bonus or a friend's referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/) compares the two offers as read on November 24, 2026.
+
 ## Sources
 
 - [Rakuten: Chewy store page](https://www.rakuten.com/shop/chewy)

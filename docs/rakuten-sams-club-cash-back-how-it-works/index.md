@@ -104,6 +104,10 @@ No. Groceries, household essentials and select personal care items are excluded.
 **Does a membership renewal earn cash back?**
 No. Renewals are excluded. New memberships earned 9% on November 24, 2026.
 
+## Not a Rakuten member yet
+
+Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](/is-rakuten-free/). A new member gets one joining bonus, not two. [Welcome bonus or a friend's referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/) compares the two offers as read on November 24, 2026.
+
 ## Sources
 
 - [Rakuten: Sam's Club store page](https://www.rakuten.com/shop/samsclub)

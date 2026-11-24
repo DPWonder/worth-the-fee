@@ -96,6 +96,10 @@ No. Groceries are on the excluded list, along with pharmacy, optical and Walmart
 **Can I order in the Walmart app?**
 No. Purchases made directly in the Walmart app are excluded. The terms name the Rakuten extension, the Rakuten app and Samsung Wallet Perks.
 
+## Not a Rakuten member yet
+
+Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](/is-rakuten-free/). A new member gets one joining bonus, not two. [Welcome bonus or a friend's referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/) compares the two offers as read on November 24, 2026.
+
 ## Sources
 
 - [Rakuten: Walmart store page](https://www.rakuten.com/walmart.com)

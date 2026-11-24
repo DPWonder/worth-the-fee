@@ -100,6 +100,10 @@ No. Apple products are on the excluded list, as are Beats headphones.
 **Does store pickup count?**
 The terms do not exclude it. The order must be picked up within five days or it is canceled.
 
+## Not a Rakuten member yet
+
+Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](/is-rakuten-free/). A new member gets one joining bonus, not two. [Welcome bonus or a friend's referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/) compares the two offers as read on November 24, 2026.
+
 ## Sources
 
 - [Rakuten: Best Buy store page](https://www.rakuten.com/bestbuy.com)

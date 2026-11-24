@@ -94,6 +94,10 @@ No. Tracking is automatic. Keep the receipt in case of a problem.
 **Can you use an in-store offer more than once?**
 Only if you add it again. Most offers end once used or after 75 days.
 
+## Not a Rakuten member yet
+
+Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](/is-rakuten-free/). A new member gets one joining bonus, not two. [Welcome bonus or a friend's referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/) compares the two offers as read on November 24, 2026.
+
 ## Sources
 
 - [Rakuten: In-store cash back FAQ](https://www.rakuten.com/help/article/in-store-cash-back-faq-15935028227987)

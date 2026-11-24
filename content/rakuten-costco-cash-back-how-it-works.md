@@ -97,6 +97,10 @@ The rates there are for other stores listed as similar to Costco. The Costco ent
 **What pays cash back at Costco instead?**
 Costco's annual 2% Reward for Executive Members, up to $1,250 a year, and the rewards on the card used to pay.
 
+## Not a Rakuten member yet
+
+Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](/is-rakuten-free/). A new member gets one joining bonus, not two. [Welcome bonus or a friend's referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/) compares the two offers as read on November 24, 2026.
+
 ## Sources
 
 - [Rakuten: Costco store page](https://www.rakuten.com/shop/costco)
