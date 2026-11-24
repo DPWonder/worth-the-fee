@@ -382,7 +382,7 @@ def build():
 <p class="eyebrow">Independent. Sourced. Dated.</p>
 <h1>Is it worth the fee?</h1>
 <p class="lede">Travel cards and programs sell a big number. We work out what it is worth for the way <em>you</em> travel, and we say so when the answer is no.</p>
-<p class="herocta"><a class="btn" href="{BASE}fee-calculator/">Try the annual fee calculator</a></p>
+<p class="herocta"><a class="btn" href="{BASE}fee-calculator/">Try the annual fee calculator</a> <a class="btn" href="{BASE}rakuten-cash-back-rates-today-by-store/">Today's Rakuten rates at 70 stores</a></p>
 <div class="tgrid">{tcards}</div>
 </div></section>
 <section class="how"><div class="wrap">
