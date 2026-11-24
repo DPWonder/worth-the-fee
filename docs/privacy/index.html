@@ -40,7 +40,7 @@
 <li><strong>Email you send us.</strong> If you write to hello@itsworththefee.com, we keep your message so we can reply.</li></ul>
 <p>We have no accounts, no comment forms and no newsletter.</p>
 <h2>Analytics</h2>
-<p>This site uses Google Analytics to count visits and button clicks. Google sets cookies and processes data under its own privacy policy. You can block it with a browser setting or extension and the site works the same.</p>
+<p>This site uses Google Analytics to count visits and button clicks. Google sets cookies and processes data under its own privacy policy. You can turn it off on the Cookies page, or block it with a browser setting or extension, and the site works the same.</p>
 <h2>When you click a referral link</h2>
 <p>You leave this site and go to the company's own website. That company's privacy policy applies from then on. The company can tell that you arrived through our link; we are not told who you are, only (in some programs) that a referral succeeded.</p>
 <h2>Other services</h2>
@@ -60,19 +60,32 @@
 <li><a href="/how-we-check-facts/">How we check facts</a></li>
 <li><a href="/disclosure/">How we earn</a></li>
 <li><a href="/privacy/">Privacy</a></li>
+<li><a href="/cookies/">Cookies</a></li>
 <li><a href="/contact/">Contact</a></li></ul></div>
 </div>
 <p class="legal"><strong>Disclosure:</strong> Worth the Fee is independent and is not a bank or card issuer. Some pages contain referral links. If you sign up through one, we earn points or cash from that company. It does not change what a page says, and it costs you nothing extra.</p>
 <p class="legal">The content here is information only and is not financial, tax or legal advice. Offers, fees and rules change. Check the provider's own page before you decide. Opinions are ours alone and have not been reviewed or approved by any company mentioned.</p>
 <p class="legal">&copy; 2026 Worth the Fee</p>
 </div></footer>
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-RQB06CSYNM"></script>
 <script>
-try{if(localStorage.getItem('wtf_internal'))window['ga-disable-G-RQB06CSYNM']=true;}catch(e){}
-window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+(function(){var off=false;try{off=!!(localStorage.getItem('wtf_internal')||localStorage.getItem('wtf_noga'));}catch(e){}
+if(navigator.globalPrivacyControl)off=true;
+if(off){window['ga-disable-G-RQB06CSYNM']=true;}
+else{var s=document.createElement('script');s.async=true;s.src='https://www.googletagmanager.com/gtag/js?id=G-RQB06CSYNM';document.head.appendChild(s);}
+window.dataLayer=window.dataLayer||[];window.gtag=function(){dataLayer.push(arguments);};
 gtag('js',new Date());gtag('config','G-RQB06CSYNM');
 document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('a[data-go]');if(a){gtag('event','referral_click',{link:a.getAttribute('data-go'),position:a.getAttribute('data-pos')||'bottom',page_path:location.pathname,transport_type:'beacon'});}});
+var seen=false;try{seen=!!localStorage.getItem('wtf_cookie_seen');}catch(e){}
+if(!seen&&!off){var b=document.createElement('div');b.className='cookiebar';b.setAttribute('role','region');b.setAttribute('aria-label','Cookies');
+b.innerHTML='<span>This site uses Google Analytics cookies to count visits. Referral links lead to sites that set their own cookies. <a href="/cookies/">Cookies</a></span> <button type="button" data-c="ok">OK</button> <button type="button" data-c="off">Turn analytics off</button>';
+b.addEventListener('click',function(e){var c=e.target.getAttribute&&e.target.getAttribute('data-c');if(!c)return;
+try{localStorage.setItem('wtf_cookie_seen','1');if(c==='off'){localStorage.setItem('wtf_noga','1');}}catch(err){}
+if(c==='off'){window['ga-disable-G-RQB06CSYNM']=true;document.cookie.split(';').forEach(function(k){var n=k.split('=')[0].trim();if(n.indexOf('_ga')===0){document.cookie=n+'=;expires=Thu, 01 Jan 1970 00:00:00 GMT;path=/;domain=.'+location.hostname.replace(/^www\./,'');document.cookie=n+'=;expires=Thu, 01 Jan 1970 00:00:00 GMT;path=/';}});}
+b.remove();});
+(document.body||document.documentElement).appendChild(b);}
+})();
 </script>
+<style>.cookiebar{position:fixed;left:12px;right:12px;bottom:12px;z-index:50;max-width:720px;margin:0 auto;background:#fff;color:#1a1a1a;border:1px solid #cfcfcf;border-radius:10px;padding:12px 14px;font-size:14px;line-height:1.4;box-shadow:0 4px 18px rgba(0,0,0,.12);display:flex;flex-wrap:wrap;gap:8px;align-items:center}.cookiebar span{flex:1 1 260px}.cookiebar button{font:inherit;padding:6px 12px;border-radius:8px;border:1px solid #888;background:#fff;color:#1a1a1a;cursor:pointer}.cookiebar button[data-c=ok]{background:#1a1a1a;color:#fff;border-color:#1a1a1a}</style>
 
 </body>
 </html>

@@ -3,7 +3,7 @@ title: Rakuten or TopCashback: which pays more, and how do payouts differ?
 slug: rakuten-vs-topcashback
 description: Neither pays more at every store. Rakuten pays on four set dates from about $5; TopCashback lets you cash out when cash back is available.
 topic: rakuten
-cta: rakuten
+cta: rakuten, topcashback
 checked: 2026-11-20
 ---
 

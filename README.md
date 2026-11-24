@@ -21,3 +21,9 @@ Rules the referral programs set:
 3. `./publish.sh "Add <name> link"` checks every page, rebuilds, publishes and notifies search engines.
 
 The link appears on `/offers/` and "How we earn" without step 2. Read the program's terms first: some (Airbnb) do not allow links on public websites.
+
+## Program rules found 2026-11-24
+
+- **TopCashback** (referral terms, section 7): a link on our own website needs a cookie notice, a Cookies page and a Privacy page (all in place: `analytics.html`, `/cookies/`, `/privacy/`); say we are in the Refer a Friend program and get a reward; no paid ads; never show the link beside any other TopCashback new-member incentive. Its general terms cap bonuses "earned through commercial means" at $5 per referral without written consent, so expect $5, not the advertised amount.
+- **Chase checking refer-a-friend**: $50 per account opened, 10 a year. The link needs one confirmation press inside Dom's Chase account (his to make).
+- **Ibotta**: referral is a code used at sign-up in the app, with a grocery receipt needed in 14 days; the account needs Dom's name, zip and birthdate first.

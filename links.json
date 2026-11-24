@@ -20,5 +20,12 @@
     "offer": "When checked on November 24, 2026, Rakuten's referral offer was a $50 bonus after you join and spend $50 on qualifying purchases within 90 days.",
     "we_get": "If you qualify, the person who runs this site also gets a $50 bonus from Rakuten.",
     "top": "New to Rakuten? When checked on November 24, 2026, Rakuten's own store pages offered new members a $10 welcome bonus. This referral link showed $50 after $50 of qualifying purchases within 90 days."
+  },
+  "topcashback": {
+    "name": "TopCashback",
+    "url": "https://www.topcashback.com/ref/member1146406689838",
+    "button": "Join TopCashback",
+    "offer": "TopCashback is free to join. When checked on November 24, 2026, its refer-a-friend page stated no joining bonus for the new member through this link. Offers change, so read the page.",
+    "we_get": "This is our refer-a-friend link. If you join through it and earn $10 in cash back within 180 days, the person who runs this site gets a bonus from TopCashback."
   }
 }

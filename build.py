@@ -222,6 +222,7 @@ def layout(title, description, content, path, extra_head="", noindex=False, og_t
 <li><a href="{BASE}how-we-check-facts/">How we check facts</a></li>
 <li><a href="{BASE}disclosure/">How we earn</a></li>
 <li><a href="{BASE}privacy/">Privacy</a></li>
+<li><a href="{BASE}cookies/">Cookies</a></li>
 <li><a href="{BASE}contact/">Contact</a></li></ul></div>
 </div>
 <p class="legal"><strong>Disclosure:</strong> {NAME} is independent and is not a bank or card issuer. Some pages contain referral links. If you sign up through one, we earn points or cash from that company. It does not change what a page says, and it costs you nothing extra.</p>
@@ -511,7 +512,7 @@ var h=location.hash.replace('#','');draw(D[h]?h:'amex');
 }})();
 </script>""")
     analytics_note = ("This site uses Google Analytics to count visits and button clicks. Google sets cookies and processes "
-                      "data under its own privacy policy. You can block it with a browser setting or extension and the site "
+                      "data under its own privacy policy. You can turn it off on the Cookies page, or block it with a browser setting or extension, and the site "
                       "works the same." if ANALYTICS else "This site does not currently use an analytics service.")
     simple_page("privacy/", "Privacy",
                 "What Worth the Fee collects about visitors and what it does not.", f"""
@@ -528,6 +529,22 @@ var h=location.hash.replace('#','');draw(D[h]?h:'amex');
 <p>The site is hosted on GitHub Pages and loads its typeface from Google Fonts. Both receive your IP address as part of delivering the page.</p>
 <h2>Contact</h2>
 <p>Questions about privacy: <a href="mailto:{EMAIL}">{EMAIL}</a>.</p>""")
+    simple_page("cookies/", "Cookies",
+                "Which cookies Worth the Fee sets, which the sites we link to set, and how to turn them off.", f"""
+<p class="lede">Short version: this site sets analytics cookies only, you can turn them off here, and the site works the same without them.</p>
+<h2>Cookies this site sets</h2>
+<ul><li><strong>Google Analytics</strong> (names starting <code>_ga</code>, kept up to two years). They let us count visits and clicks on referral buttons. They do not tell us who you are.</li>
+<li><strong>Your choice.</strong> Your answer to the cookie notice is kept in your browser's local storage, not in a cookie, so we do not ask again.</li></ul>
+<p>We set no advertising cookies and run no ads.</p>
+<h2>Turn analytics off</h2>
+<p><button type="button" id="gaoff">Turn analytics off on this device</button> <span id="gastate"></span></p>
+<p>If your browser sends the Global Privacy Control signal, analytics is already off and no notice is shown. A browser setting or extension that blocks Google Analytics works too.</p>
+<h2>Cookies set by sites we link to</h2>
+<p>When you click a referral link, you leave this site. The company you arrive at (for example Rakuten, TopCashback, Chase or American Express) sets its own cookies, including one that records that you came through our referral link so the referral can be credited. Those cookies are covered by that company's own cookie and privacy policies, and you can refuse them there.</p>
+<h2>Contact</h2>
+<p>Questions: <a href="mailto:{EMAIL}">{EMAIL}</a>. See also <a href="{BASE}privacy/">Privacy</a>.</p>
+<script>(function(){{var b=document.getElementById('gaoff'),t=document.getElementById('gastate');function st(){{var o=false;try{{o=!!localStorage.getItem('wtf_noga');}}catch(e){{}}if(o||navigator.globalPrivacyControl){{t.textContent='Analytics is off on this device.';b.disabled=true;}}}}
+b.addEventListener('click',function(){{try{{localStorage.setItem('wtf_noga','1');localStorage.setItem('wtf_cookie_seen','1');}}catch(e){{}}window['ga-disable-G-RQB06CSYNM']=true;st();}});st();}})();</script>""")
     simple_page("contact/", "Contact",
                 "How to reach Worth the Fee about a correction or a question.", f"""
 <p class="lede">Write to <a href="mailto:{EMAIL}">{EMAIL}</a>.</p>
@@ -551,7 +568,7 @@ var h=location.hash.replace('#','');draw(D[h]?h:'amex');
                              f'<div class="wrap narrow"><article class="prose"><h1>Page not found</h1><p><a href="{BASE}">See all questions</a>.</p></article></div>',
                              "404.html", noindex=True))
 
-    statics = ["", "offers/", "fee-calculator/", "about/", "how-we-check-facts/", "disclosure/", "privacy/", "contact/"] + [t["slug"] + "/" for k, t in TOPICS.items() if k in LIVE_TOPICS]
+    statics = ["", "offers/", "fee-calculator/", "about/", "how-we-check-facts/", "disclosure/", "privacy/", "cookies/", "contact/"] + [t["slug"] + "/" for k, t in TOPICS.items() if k in LIVE_TOPICS]
     urls = [(u, today) for u in statics] + [(p["slug"] + "/", p.get("checked", today)) for p in pages]
     sm = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + "".join(
         f"<url><loc>{SITE}{u}</loc><lastmod>{d}</lastmod></url>\n" for u, d in urls) + "</urlset>\n"
