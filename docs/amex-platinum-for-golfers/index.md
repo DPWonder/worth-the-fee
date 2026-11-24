@@ -1,4 +1,4 @@
-# Amex Platinum and golf: does the card do anything for golfers?
+# American Express Platinum golf benefits: what does the card do for golfers?
 
 Source: https://itsworththefee.com/amex-platinum-for-golfers/
 Facts checked: 2026-11-23

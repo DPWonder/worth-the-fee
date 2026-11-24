@@ -1,5 +1,5 @@
 ---
-title: Personal Amex Platinum or Business Platinum: how do the fee and credits differ?
+title: Amex Business Platinum vs personal Platinum: how do the fee and credits differ?
 slug: amex-platinum-vs-business-platinum
 description: Both cost $895 with the same lounges and hotel credit; the personal card's other credits are for consumers, the business card's for company costs.
 topic: compare

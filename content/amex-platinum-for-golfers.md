@@ -1,5 +1,5 @@
 ---
-title: Amex Platinum and golf: does the card do anything for golfers?
+title: American Express Platinum golf benefits: what does the card do for golfers?
 slug: amex-platinum-for-golfers
 description: The US American Express Platinum has no free rounds, green fee credit or tee time priority. Its hotel credit and lounges can help a golf trip.
 cta: amex

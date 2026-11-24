@@ -1,4 +1,4 @@
-# Personal Amex Platinum or Business Platinum: how do the fee and credits differ?
+# Amex Business Platinum vs personal Platinum: how do the fee and credits differ?
 
 Source: https://itsworththefee.com/amex-platinum-vs-business-platinum/
 Facts checked: 2026-11-20
