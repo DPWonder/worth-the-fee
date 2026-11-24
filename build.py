@@ -37,6 +37,8 @@ TOPICS = {
               "blurb": "Points, lounges, hotel credits and bag fees for a Hawaii week or a golf trip."},
     "compare": {"slug": "card-comparisons", "label": "Card comparisons", "nav": "Comparisons",
                 "blurb": "Two cards side by side, with the sums for the way you spend and travel."},
+    "more": {"slug": "cash-back-and-bank-bonuses", "label": "Cash back & bank bonuses", "nav": "More",
+             "blurb": "Other cash back sites and bank account bonuses: what you get, what it takes, and the catch."},
     "points": {"slug": "using-points", "label": "Using points", "nav": "Points",
                "blurb": "What Amex and Chase points are worth, where to move them, and when to pay cash."},
 }
@@ -257,6 +259,55 @@ def simple_page(path, title, description, body_html):
     content = f'<div class="wrap narrow"><article class="prose"><h1>{esc(title)}</h1>{body_html}</article></div>'
     write(path + "index.html", layout(f"{title} | {NAME}", description, content, path))
 
+
+
+def scoreboard(pages):
+    """A plain page for the owner to check from a phone: what the automation did each day. Not indexed, not linked."""
+    import csv
+    import subprocess
+    def rows(name):
+        f = ROOT / name
+        return list(csv.DictReader(f.open())) if f.exists() else []
+    added = {}
+    try:
+        out = subprocess.run(["git", "log", "--diff-filter=A", "--format=%ad", "--date=short", "--name-only", "--", "content"],
+                             cwd=ROOT, capture_output=True, text=True, timeout=30).stdout
+        day = None
+        for ln in out.splitlines():
+            ln = ln.strip()
+            if re.fullmatch(r"\d{4}-\d\d-\d\d", ln):
+                day = ln
+            elif ln.endswith(".md") and day:
+                added[day] = added.get(day, 0) + 1
+    except Exception:
+        pass
+    posts = {}
+    for r in rows("posts/posted.csv"):
+        posts.setdefault(r.get("date", ""), []).append(r.get("site", ""))
+    nums = {r.get("date_read", ""): r for r in rows("research/numbers.csv")}
+    rate_days = set()
+    f = ROOT / "research" / "rakuten-rates.csv"
+    if f.exists():
+        rate_days = {ln.split(",")[0] for ln in f.read_text().splitlines()[1:] if ln}
+    days = sorted(set(added) | set(posts) | set(nums) | rate_days, reverse=True)[:30]
+    def cell(v):
+        return f"<td>{esc(str(v))}</td>"
+    trs = ""
+    for d in days:
+        n = nums.get(d, {})
+        trs += ("<tr>" + cell(d) + cell(added.get(d, 0)) + cell(", ".join(sorted(posts.get(d, []))) or "none")
+                + cell("yes" if d in rate_days else "no")
+                + cell(n.get("search_impressions_7d", "")) + cell(n.get("search_clicks_7d", ""))
+                + cell(n.get("ga_engaged_sessions_7d", "")) + cell(n.get("referral_click_7d", "")) + "</tr>")
+    today = date.today().isoformat()
+    last = days[0] if days else "never"
+    body = f"""
+<p class="lede">What the automation did each day. Built {today}; last day with work: {last}. {len(pages)} pages live; referral links: {esc(", ".join(LINKS))}.</p>
+<p>How to read it: every day should show new pages, posts and "yes" under rates. A day with 0 pages and no posts means the daily run on the Mac did not happen. Search numbers lag two to three days and cover the last 7 days.</p>
+<div style="overflow-x:auto"><table><thead><tr><th>Day</th><th>New pages</th><th>Posts</th><th>Rates read</th><th>Search views (7d)</th><th>Search clicks (7d)</th><th>Real visits (7d)</th><th>Referral clicks (7d)</th></tr></thead><tbody>{trs}</tbody></table></div>"""
+    simple_page("scoreboard/", "Scoreboard", "What the site's automation did each day.", body)
+    f = OUT / "scoreboard" / "index.html"
+    f.write_text(f.read_text().replace("<head>", '<head><meta name="robots" content="noindex,nofollow">', 1))
 
 def build():
     if OUT.exists():
@@ -545,6 +596,7 @@ var h=location.hash.replace('#','');draw(D[h]?h:'amex');
 <p>Questions: <a href="mailto:{EMAIL}">{EMAIL}</a>. See also <a href="{BASE}privacy/">Privacy</a>.</p>
 <script>(function(){{var b=document.getElementById('gaoff'),t=document.getElementById('gastate');function st(){{var o=false;try{{o=!!localStorage.getItem('wtf_noga');}}catch(e){{}}if(o||navigator.globalPrivacyControl){{t.textContent='Analytics is off on this device.';b.disabled=true;}}}}
 b.addEventListener('click',function(){{try{{localStorage.setItem('wtf_noga','1');localStorage.setItem('wtf_cookie_seen','1');}}catch(e){{}}window['ga-disable-G-RQB06CSYNM']=true;st();}});st();}})();</script>""")
+    scoreboard(pages)
     simple_page("contact/", "Contact",
                 "How to reach Worth the Fee about a correction or a question.", f"""
 <p class="lede">Write to <a href="mailto:{EMAIL}">{EMAIL}</a>.</p>

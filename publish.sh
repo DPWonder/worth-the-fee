@@ -2,6 +2,8 @@
 # Checks every page, rebuilds, publishes to itsworththefee.com and tells Bing.
 set -e
 cd "$(dirname "$0")"
+# Take in anything the cloud backup run pushed (it runs only on days this Mac did not publish).
+git pull -q --rebase --autostash origin main 2>/dev/null || echo "Could not pull first; continuing."
 # Once a day, read today's Rakuten store rates into the tracker page (skipped quietly if Rakuten cannot be read).
 grep -q "^$(date +%F)," research/rakuten-rates.csv 2>/dev/null || .venv/bin/python rates.py >/dev/null 2>&1 || echo "Rate tracker not refreshed today."
 .venv/bin/python check.py

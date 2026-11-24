@@ -1,0 +1,47 @@
+# Safety net. Runs each day at about 11 AM Pacific, after the Mac's 9 AM job should have published.
+# If the Mac already published today, it does nothing. If not, it reads today's Rakuten rates,
+# rebuilds and publishes the site from the cloud, and opens an issue so the owner hears about it.
+name: Daily backup run
+on:
+  schedule:
+    - cron: "5 19 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+  issues: write
+env:
+  TZ: America/Los_Angeles
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -q Markdown pillow
+      - name: Did the Mac publish today?
+        id: mac
+        run: |
+          today=$(date +%F)
+          if git log --since="$today 00:00" --format=%s | grep -q "^Daily pages"; then echo "ran=yes" >> "$GITHUB_OUTPUT"; else echo "ran=no" >> "$GITHUB_OUTPUT"; fi
+      - name: Refresh rates and publish from the cloud
+        if: steps.mac.outputs.ran == 'no'
+        run: |
+          today=$(date +%F)
+          grep -q "^$today," research/rakuten-rates.csv || python rates.py || echo "Rates could not be read from here."
+          python check.py
+          python build.py
+          git config user.name "worth-the-fee-backup"
+          git config user.email "team@itsworththefee.com"
+          git add -A
+          git commit -q -m "Backup run $today (the Mac did not publish)" || echo "Nothing new."
+          git push -q
+      - name: Tell the owner the Mac run was missed
+        if: steps.mac.outputs.ran == 'no' && github.event_name == 'schedule'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create --title "Daily run missed on $(date +%F)" --body "The Mac's 9 AM job had not published by 11 AM Pacific. The cloud backup refreshed the Rakuten rates and republished the site, but no new pages or posts were made today. Most likely the Claude app is closed on the Mac. Open it and the next run picks up."

@@ -8,6 +8,9 @@ ROOT = Path(__file__).parent
 CACHE = ROOT / "og-cache"
 BOLD = "/System/Library/Fonts/Supplemental/Arial Bold.ttf"
 REG = "/System/Library/Fonts/Supplemental/Arial.ttf"
+if not Path(BOLD).exists():  # the cloud backup run is on Linux
+    BOLD = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
+    REG = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
 NAVY, GOLD, WHITE, MUTED = "#12233f", "#f4b740", "#ffffff", "#c3cde0"
 
 
