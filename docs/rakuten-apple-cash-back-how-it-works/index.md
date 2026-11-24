@@ -1,10 +1,10 @@
 # Rakuten Apple cash back: does it work, and what is excluded?
 
 Source: https://itsworththefee.com/rakuten-apple-cash-back-how-it-works/
-Facts checked: 2026-11-21
+Facts checked: 2026-11-24
 Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
 
-Yes, but on a narrow list. Apple was listed on Rakuten at 2% on November 21, 2026, and only for accessories, Apple Refurbished products, AppleCare+ and Beats. A new iPhone, Mac, iPad, Apple Watch or AirPods earns nothing.
+Yes, Rakuten pays cash back at Apple, but on a narrow list. Apple was listed at 2% on November 24, 2026, and only for accessories, Apple Refurbished products, AppleCare+ and Beats. A new iPhone, Mac, iPad, Apple Watch or AirPods earns nothing.
 
 This page is information, not financial advice. Rates change daily, so check Apple's page on Rakuten on the day you buy. For this morning's headline rate here and at other stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/).
 
@@ -12,7 +12,7 @@ This page is information, not financial advice. Rates change daily, so check App
 
 Rakuten's terms for Apple say: "Cash Back is only available on Accessories, Apple Refurbished products, AppleCare+ and Beats."
 
-| Earned 2% on November 21, 2026 | Earned nothing |
+| Earned 2% on November 24, 2026 | Earned nothing |
 |---|---|
 | Apple Certified Refurbished | iPhone |
 | AirTag | Mac |
@@ -23,7 +23,7 @@ Rakuten's terms for Apple say: "Cash Back is only available on Accessories, Appl
 | Beats | Apple Vision Pro |
 | AppleCare+ | Gift cards and gift wrap |
 
-Also excluded: Apple Developer Programs, AppleCare+ and AppleCare One paid as a monthly subscription, orders judged to be for resale, and orders through Apple's employee purchase, government or veterans stores.
+Also excluded: Apple displays (Pro Display XDR and Studio Display), Apple Vision Pro accessories, redeeming a gift card, Apple Developer Programs, AppleCare+ and AppleCare One paid as a monthly subscription, orders judged to be for resale, and orders through Apple's employee purchase, government or veterans stores.
 
 No "was" rate was shown, so 2% looked like the ordinary rate that day, not a raised one.
 
@@ -46,10 +46,10 @@ One caution. New Macs, iPads and iPhones are on the excluded list, and the terms
 
 ## Limits and timing
 
-- **Unit limits.** The terms say lifetime unit limits apply to some products, and no reward is paid once you pass the limit for a product. The limits were not shown on the page.
+- **Unit limits.** The terms set lifetime limits: 6 units per model for iPhone, Mac, iPad, Watch, Vision, Apple TV and HomePod; 32 each of the AirTag 1-pack and AirTag accessories; 8 AirTag 4-packs; and 10 each of AirPods and other eligible accessories. The limits count purchases on Apple's website and in its app, and no reward is paid past the limit for a product.
 - **Posting.** Apple's listing says cash back is added to the Rakuten account the same day. It still has to move from pending to confirmed before it is paid; see [when Rakuten pays](/rakuten-when-do-you-get-paid/).
 - **Gift cards.** Buying an Apple gift card earns nothing. More on that in [gift cards and Rakuten](/rakuten-gift-cards-cash-back/).
-- **Other stores.** Apple products sold elsewhere follow that store's terms. Kohl's listing on Rakuten, for one, excludes Beats and Apple products.
+- **Other stores.** Apple products sold elsewhere follow that store's terms. The Rakuten listings for [Best Buy](/rakuten-best-buy-cash-back-how-it-works/), [Target](/rakuten-target-cash-back-how-it-works/) and [Kohl's](/rakuten-kohls-cash-back-how-it-works/) each exclude Apple products.
 
 ## How this fits with other savings
 
@@ -65,10 +65,10 @@ Rakuten cash back comes on top of whatever the credit card earns on the purchase
 ## Quick answers
 
 **Does a new iPhone earn Rakuten cash back at Apple?**
-No. iPhone was on the excluded list on November 21, 2026.
+No. iPhone was on the excluded list on November 24, 2026.
 
 **What rate did Apple pay?**
-2% on accessories, Apple Refurbished products, AppleCare+ and Beats when checked on November 21, 2026. Rates change daily.
+2% on accessories, Apple Refurbished products, AppleCare+ and Beats when checked on November 24, 2026. Rates change daily.
 
 **When is Apple cash back added?**
 The listing says the same day. It is paid on Rakuten's next quarterly date after it is confirmed.
@@ -77,4 +77,6 @@ The listing says the same day. It is paid on Rakuten's next quarterly date after
 
 - [Rakuten: Apple store page](https://www.rakuten.com/apple.com)
 - [Rakuten: Kohl's store page](https://www.rakuten.com/kohls.com)
+- [Rakuten: Best Buy store page](https://www.rakuten.com/bestbuy.com)
+- [Rakuten: Target store page](https://www.rakuten.com/target.com)
 - [Rakuten: Tracking your cash back](https://www.rakuten.com/help/article/tracking-your-cash-back-360002117107)

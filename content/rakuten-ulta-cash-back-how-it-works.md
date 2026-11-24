@@ -1,13 +1,13 @@
 ---
 title: Rakuten Ulta cash back: does it work, and what is excluded?
 slug: rakuten-ulta-cash-back-how-it-works
-description: Yes, 2% when checked on November 21, 2026. Dior, Marketplace items, gift cards and anything paid with Ulta rewards earn nothing.
+description: Rakuten Ulta cash back was 2% on November 24, 2026. Dior, Marketplace items, gift cards and anything paid with Ulta rewards earn nothing.
 topic: rakuten
 cta: rakuten
-checked: 2026-11-21
+checked: 2026-11-24
 ---
 
-Yes. Ulta Beauty was listed on Rakuten at 2% on November 21, 2026. Dior products, Marketplace items, gift cards and the part of an order paid with Ulta rewards earn nothing.
+Yes, Rakuten works at Ulta Beauty. It was listed at 2% on November 24, 2026. Dior products, Marketplace items, gift cards and the part of an order paid with Ulta rewards earn nothing.
 
 This page is information, not financial advice. Rates change daily, so check Ulta's page on Rakuten on the day you shop. For this morning's headline rate here and at other stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/).
 
@@ -21,11 +21,13 @@ Ulta showed one rate, 2%, across the store. There were no category rates and no 
 | $75 | $1.50 |
 | $150 | $3.00 |
 
-Rates at beauty stores can rise in sale weeks. On November 20, 2026 Rakuten's Black Friday page showed another beauty store at 20% against a usual 3%. Ulta's rate was not raised on the day checked; see [Black Friday on Rakuten](/rakuten-black-friday-cash-back-2026/).
+Rates at beauty stores can rise in sale weeks. On November 20, 2026 Rakuten's Black Friday page showed another beauty store at 20% against a usual 3%. Ulta's rate was not raised on the day checked; see [Black Friday on Rakuten](/rakuten-black-friday-cash-back-2026/). The other large beauty listing is covered in [Rakuten at Sephora](/rakuten-sephora-cash-back-how-it-works/), and Sephora shops inside another chain in [Rakuten at Kohl's](/rakuten-kohls-cash-back-how-it-works/).
+
+The listing says cash back is added to the Rakuten account in a few days.
 
 ## What is excluded
 
-Rakuten's terms for Ulta, as read on November 21, 2026:
+Rakuten's terms for Ulta, as read on November 24, 2026:
 
 | Excluded | What it means in practice |
 |---|---|
@@ -52,7 +54,7 @@ Whether an order tracked by Rakuten still earns Ulta's own points is not stated 
 
 ## Coupons
 
-Ulta's terms on Rakuten say codes not listed on Rakuten may void it, and Rakuten's advice is to use the codes it provides.
+Ulta's terms on Rakuten say codes not listed on Rakuten may void it, and Rakuten's advice is to use the codes it provides. The page's FAQ adds that Ulta allows one store coupon per order, and that this one coupon can be combined with cash back, sale prices and redeemed points.
 
 So there is a choice to weigh. A coupon from elsewhere that takes $10 off is worth more than 2% on most orders:
 
@@ -86,7 +88,7 @@ Cash back also comes on top of what your credit card earns; see [stacking with c
 ## Quick answers
 
 **Does Rakuten work at Ulta?**
-Yes. It showed 2% on November 21, 2026. Rates change daily.
+Yes. It showed 2% on November 24, 2026. Rates change daily.
 
 **Which brands are excluded at Ulta?**
 Dior was the only brand named in the terms read. Marketplace items are also excluded.

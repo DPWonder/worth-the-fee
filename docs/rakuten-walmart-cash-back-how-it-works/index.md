@@ -1,10 +1,10 @@
 # Rakuten Walmart cash back: does it work, and what is excluded?
 
 Source: https://itsworththefee.com/rakuten-walmart-cash-back-how-it-works/
-Facts checked: 2026-11-21
+Facts checked: 2026-11-24
 Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
 
-Yes, in a limited form. On November 21, 2026, Rakuten's Walmart page showed a flat $5 cash back on each of up to three eligible orders of $25 or more, not a percentage of the order. Groceries, pharmacy items and orders placed in the Walmart app are excluded.
+Yes, Rakuten works with Walmart, in a limited form. On November 24, 2026, Rakuten's Walmart page showed a flat $5 cash back on each of up to three eligible orders of $25 or more, not a percentage of the order. Groceries, pharmacy items and orders placed in the Walmart app are excluded.
 
 This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy. For this morning's headline rate here and at other stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/).
 
@@ -12,7 +12,7 @@ This page is information, not financial advice. Rates change daily, so check the
 
 Most stores on Rakuten pay a percentage and fund it with a commission. Walmart is different. Rakuten's page says "Walmart is not a partner of Rakuten" and that the offer is provided by Rakuten only.
 
-| Point | What Rakuten's Walmart page said on November 21, 2026 |
+| Point | What Rakuten's Walmart page said on November 24, 2026 |
 |---|---|
 | Amount | $5 per eligible order |
 | Number of orders | 3 (so $15 at most) |
@@ -24,7 +24,7 @@ Most stores on Rakuten pay a percentage and fund it with a commission. Walmart i
 
 The terms name the extension, the Rakuten app and Samsung Wallet Perks. A click from the Rakuten website is not named, so whether that route counts is not confirmed.
 
-Rakuten says the offer is for eligible members and may be changed or ended at any time. Whether a Walmart offer continues after November 25, 2026 is not confirmed.
+Rakuten says the offer is for eligible members and may be changed or ended at any time. The dated window for longer-standing members closes at 11:59 PM Pacific Time on November 25, 2026. Whether a Walmart offer continues after that is not confirmed.
 
 ## What is excluded
 
@@ -57,6 +57,10 @@ Because the amount is flat, the return shrinks as the order grows.
 
 Three small eligible orders earn more than one large one: $15 against $5.
 
+## Other big-box and club stores
+
+The flat-dollar setup is particular to this store. The warehouse clubs and the other big-box chain are each handled differently on Rakuten: see [Sam's Club](/rakuten-sams-club-cash-back-how-it-works/), [Costco](/rakuten-costco-cash-back-how-it-works/) and [Target](/rakuten-target-cash-back-how-it-works/).
+
 ## What does not carry over
 
 Walmart orders do not count toward other Rakuten bonuses. The page names the welcome bonus and the referral bonus. A new member cannot use a Walmart order to meet the spending for [the sign-up bonus](/rakuten-50-bonus-how-it-works/).
@@ -64,7 +68,7 @@ Walmart orders do not count toward other Rakuten bonuses. The page names the wel
 ## Where sources differ
 
 - The page's FAQ says $5 on the first three Walmart purchases and gives no minimum. The terms say the next three eligible orders of $25 or more through the named channels. The terms are more specific.
-- A search summary of an older copy of the same Rakuten page showed no cash back at Walmart. The page read on November 21, 2026 showed $5. The offer comes and goes.
+- A search summary of an older copy of the same Rakuten page showed no cash back at Walmart. The page read on November 24, 2026 showed $5. The offer comes and goes.
 
 ## When you get the money
 
@@ -81,7 +85,7 @@ Online purchases typically take 3 to 14 weeks to be confirmed, then are paid on 
 ## Quick answers
 
 **Does Rakuten pay a percentage at Walmart?**
-No. On November 21, 2026 it was a flat $5 on each of up to three orders of $25 or more.
+No. On November 24, 2026 it was a flat $5 on each of up to three orders of $25 or more.
 
 **Do Walmart groceries earn Rakuten cash back?**
 No. Groceries are on the excluded list, along with pharmacy, optical and Walmart+ memberships.

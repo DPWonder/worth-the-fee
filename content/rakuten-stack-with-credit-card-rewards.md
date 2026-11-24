@@ -1,13 +1,13 @@
 ---
 title: Can you stack Rakuten cash back with credit card points and store coupons?
 slug: rakuten-stack-with-credit-card-rewards
-description: Yes for card rewards, which are separate. Coupons often work too, but a code not listed on Rakuten can void the cash back.
+description: Yes, you can stack Rakuten with credit card rewards; they are separate. Coupons often work, but a code not listed on Rakuten can void cash back.
 topic: rakuten
 cta: rakuten
-checked: 2026-11-20
+checked: 2026-11-24
 ---
 
-Yes. Rakuten cash back and your credit card's rewards come from two different companies, so one purchase can earn both. Store coupons often work as well, but Rakuten says a code it did not list can void the cash back, and a second cash back site cannot be added on top.
+Yes, you can stack Rakuten cash back with credit card rewards. The two come from different companies, so one purchase can earn both. Store coupons often work as well, but Rakuten says a code it did not list can void the cash back, and a second cash back site cannot be added on top.
 
 This page is information, not financial advice.
 
@@ -19,9 +19,9 @@ Rakuten is paid by the store for sending you there, and shares part of that with
 
 | Layer | Stacks with Rakuten? | Source and limits |
 |---|---|---|
-| Points or cash back from the credit card you pay with | Yes | The Points Guy: portal rewards come on top of card rewards |
+| Points or cash back from the credit card you pay with | Yes | The Points Guy: you still earn points or miles on the card you use |
 | Card-linked offers such as Amex Offers and Chase Offers | Generally yes | The Points Guy; most depend only on the purchase total. Offers are targeted and have their own terms |
-| The store's own sale prices | Yes | Rakuten's Cyber Monday page |
+| The store's own sale prices | Yes | Rakuten's Black Friday and Cyber Monday pages |
 | The store's loyalty program | Often | Rakuten says cash back can be layered on loyalty rewards; some stores exclude the part of an order paid with rewards |
 | Coupon codes listed on Rakuten | Often | Rakuten: "Many coupons and promo codes can be used together with Rakuten Cash Back" |
 | Coupon codes from other sites | Risky | Rakuten says codes not listed with it may void cash back |
@@ -45,13 +45,20 @@ Rakuten does not pay on tax or shipping, and its part arrives months later, on o
 
 This is the part most likely to go wrong. Rakuten's terms say that if you use coupons it did not provide, the purchase might be associated with another service, and you might not earn. Many store pages on Rakuten carry a line that codes not found on Rakuten may void cash back.
 
-Each store's rules are behind "See all Terms & Exclusions" on its Rakuten page.
+Each store's rules are behind "See all Terms & Exclusions" on its Rakuten page, and they differ. As read on November 24, 2026:
+
+| Store | What its Rakuten page says |
+|---|---|
+| [Target](/rakuten-target-cash-back-how-it-works/) | A code not listed on Rakuten will void cash back |
+| [Ulta](/rakuten-ulta-cash-back-how-it-works/) | A code not listed on Rakuten may void cash back; the part paid with Ulta rewards does not earn |
+| [Kohl's](/rakuten-kohls-cash-back-how-it-works/) | The part paid with Kohl's Cash does not earn; orders paid with Apple Pay are excluded |
+| [Macy's](/rakuten-macys-cash-back-how-it-works/) | One store promo code per order can be combined; the part paid with Star Dollars does not earn |
 
 ## Card offers
 
 Amex Offers, Chase Offers and similar deals are added to a card in the issuer's app. They trigger on the charge itself, so they do not interfere with Rakuten's click tracking. The Points Guy reports that these can generally be combined with portal earnings.
 
-One limit from Rakuten's side: if you choose Amex Membership Rewards points as your Rakuten payout, its terms say promotions tied to other card issuers will not be available to you. See [Amex points instead of cash](/rakuten-amex-points-instead-of-cash/).
+One limit from Rakuten's side: if you choose Amex Membership Rewards points as your Rakuten payout, its terms say promotions with certain other US card issuers offered through Rakuten will not be available to you. See [Amex points instead of cash](/rakuten-amex-points-instead-of-cash/).
 
 ## Steps that keep tracking intact
 
@@ -86,4 +93,5 @@ No. Rakuten says a click from another rewards site disables its cash back.
 - [Rakuten: Black Friday](https://www.rakuten.com/black-friday)
 - [Rakuten: Cyber Monday](https://www.rakuten.com/cyber-monday)
 - [Rakuten: Membership Rewards points terms](https://www.rakuten.com/help/article/american-express-membership-rewards-points-at-rakuten-terms-360017609913)
-- [The Points Guy: Maximizing online shopping portals](https://thepointsguy.com/guide/maximizing-online-shopping-portals/)
+- [The Points Guy: Maximizing online shopping portals](https://thepointsguy.com/loyalty-programs/maximizing-online-shopping-portals)
+- Rakuten store pages for [Target](https://www.rakuten.com/target.com), [Ulta](https://www.rakuten.com/ulta.com), [Kohl's](https://www.rakuten.com/kohls.com) and [Macy's](https://www.rakuten.com/macys.com)

@@ -1,19 +1,19 @@
 ---
 title: Rakuten Kohl's cash back: does it work, and does it stack with Kohl's Cash?
 slug: rakuten-kohls-cash-back-how-it-works
-description: Yes, 2% when checked on November 21, 2026. The part of an order paid with Kohl's Cash earns nothing; earning Kohl's Cash on it is not confirmed.
+description: Rakuten Kohl's cash back was 2% on November 24, 2026. The part of an order paid with Kohl's Cash earns nothing; earning Kohl's Cash is not confirmed.
 topic: rakuten
 cta: rakuten
-checked: 2026-11-21
+checked: 2026-11-24
 ---
 
-Yes. Kohl's was listed on Rakuten at 2% on November 21, 2026. The part of an order you pay for with Kohl's Cash earns no Rakuten cash back, and whether a Rakuten-tracked order still earns new Kohl's Cash is not confirmed by either company.
+Yes, Rakuten pays cash back at Kohl's. It was listed at 2% on November 24, 2026. The part of an order you pay for with Kohl's Cash earns no Rakuten cash back, and whether a Rakuten-tracked order still earns new Kohl's Cash is not confirmed by either company.
 
 This page is information, not financial advice. Rates change daily, so check Kohl's page on Rakuten on the day you shop. For this morning's headline rate here and at other stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/).
 
 ## The rate
 
-Kohl's showed a single rate of 2%, with no category rates and no "was" label, so it looked like an ordinary day's rate. Rakuten raises store rates during sales; see [Black Friday on Rakuten](/rakuten-black-friday-cash-back-2026/).
+Kohl's showed a single rate of 2%, with no category rates and no "was" label, so it looked like an ordinary day's rate. Rakuten raises store rates during sales; see [Black Friday on Rakuten](/rakuten-black-friday-cash-back-2026/). Another department store, [Macy's](/rakuten-macys-cash-back-how-it-works/), showed a raised rate the same day.
 
 The listing says cash back is added to the Rakuten account the next day. No in-store offer for Kohl's was shown, so this is about online orders.
 
@@ -29,11 +29,11 @@ The listing says cash back is added to the Rakuten account the next day. No in-s
 | $10 Kohl's Cash used | $10 | $90 | $1.80 |
 | $30 Kohl's Cash used | $30 | $70 | $1.40 |
 
-**Earning Kohl's Cash.** Kohl's says members earn $10 of Kohl's Cash for every $50 spent during an earn period, and that it can be redeemed only on the dates printed on the coupon. Kohl's Cash is issued by Kohl's at checkout, so nothing in Rakuten's terms stops it. A third-party guide says an order tracked by Rakuten still earns it. No Kohl's or Rakuten page read for this article states that, so treat it as likely but not confirmed.
+**Earning Kohl's Cash.** Kohl's says members earn $10 of Kohl's Cash for every $50 spent during an earn period, and that it can be redeemed only on the dates printed on the coupon. Rakuten's page for Kohl's describes it the same way. Kohl's Cash is issued by Kohl's at checkout, so nothing in Rakuten's terms stops it. A third-party guide says an order tracked by Rakuten still earns it. No Kohl's or Rakuten page read for this article states that, so treat it as likely but not confirmed.
 
 ## Coupons and Kohl's Rewards
 
-Rakuten's page for Kohl's describes using Kohl's coupon codes together with cash back and says to activate before checking out. Its exclusion list for Kohl's does not mention coupons.
+Rakuten's page for Kohl's says up to four promo codes can be used on one online order, describes using them together with cash back, and says to activate before checking out. Its exclusion list for Kohl's does not mention coupons.
 
 Rakuten's general terms are more careful: a coupon not provided by Rakuten can cause a purchase to be credited elsewhere. If a code came from another coupon site or extension, that is the risk.
 
@@ -41,11 +41,11 @@ Whether redeeming Kohl's Rewards lowers the amount Rakuten pays on is not stated
 
 ## What is excluded
 
-Rakuten's terms for Kohl's, as read on November 21, 2026, exclude:
+Rakuten's terms for Kohl's, as read on November 24, 2026, exclude:
 
 - Gift cards
 - Amazon products
-- Beats, JLab and Apple products
+- Beats, JLab and Apple products (what earns at Apple's own store is in [Rakuten at Apple](/rakuten-apple-cash-back-how-it-works/))
 - Google products
 - Video game systems and gaming products
 - Crocs
@@ -57,11 +57,11 @@ Rakuten's terms for Kohl's, as read on November 21, 2026, exclude:
 
 The last line is easy to miss. Paying with Apple Pay at checkout puts the whole order on the excluded list, so enter the card number the usual way.
 
-Sephora at Kohl's is not on the exclusion list, and a Sephora Collection item sold by Kohl's was shown at 2% that day. Kohl's own Kohl's Cash offer excludes Sephora purchases, which is a separate rule.
+Sephora at Kohl's is not on the exclusion list, and a Sephora sale at Kohl's was listed on the page at 2% that day. Kohl's own Kohl's Cash offer excludes Sephora purchases, which is a separate rule. Sephora's own site is a different listing; see [Rakuten at Sephora](/rakuten-sephora-cash-back-how-it-works/).
 
 ## Kohl's gift cards
 
-Buying a gift card at Kohl's earns nothing. Rakuten separately listed Kohl's gift cards sold by Giftcards.com at 3% and by CardCash at 1% that day. Whether paying with one affects the Kohl's cash back is not stated in Kohl's terms on Rakuten. More in [gift cards and Rakuten](/rakuten-gift-cards-cash-back/).
+Buying a gift card at Kohl's earns nothing. Rakuten separately listed Kohl's gift cards sold by Giftcards.com at 3% (labeled "was 1%") and by CardCash at 1% that day. Whether paying with one affects the Kohl's cash back is not stated in Kohl's terms on Rakuten. More in [gift cards and Rakuten](/rakuten-gift-cards-cash-back/).
 
 ## Who should skip it
 
@@ -74,13 +74,13 @@ Buying a gift card at Kohl's earns nothing. Rakuten separately listed Kohl's gif
 ## Quick answers
 
 **Does Rakuten work at Kohl's?**
-Yes. It showed 2% on November 21, 2026. Rates change daily.
+Yes. It showed 2% on November 24, 2026. Rates change daily.
 
 **Can you use Kohl's Cash and still get Rakuten cash back?**
 Yes, on the part not paid with Kohl's Cash. The Kohl's Cash portion is excluded.
 
 **Does Sephora at Kohl's earn Rakuten cash back?**
-It was not on the exclusion list, and a Sephora item at Kohl's showed 2% that day.
+It was not on the exclusion list, and a Sephora sale at Kohl's was listed at 2% that day.
 
 ## Sources
 

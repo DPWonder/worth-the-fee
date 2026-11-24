@@ -16,18 +16,18 @@ This page is information, not financial advice. Rates change daily, and sometime
 |---|---|---|
 | Ray-Ban | Up to 12% | First reading |
 | Viator | 11% | First reading |
-| Dyson | 10% | First reading |
+| [Dyson](/rakuten-dyson-cash-back-how-it-works/) | 10% | First reading |
 | J.Crew | 10% | First reading |
 | [Macy's](/rakuten-macys-cash-back-how-it-works/) | 10% | First reading |
 | Neiman Marcus | Up to 10% | First reading |
-| PetSmart | 10% | First reading |
+| [PetSmart](/rakuten-petsmart-cash-back-how-it-works/) | 10% | First reading |
 | Saks Fifth Avenue | 10% | First reading |
 | Under Armour | 10% | First reading |
 | Crocs | 9% | First reading |
 | Foot Locker | 9% | First reading |
 | IHG | 9% | First reading |
 | New Balance | 9% | First reading |
-| Sam's Club | Up to 9% | First reading |
+| [Sam's Club](/rakuten-sams-club-cash-back-how-it-works/) | Up to 9% | First reading |
 | [Adidas](/rakuten-adidas-cash-back-how-it-works/) | Up to 8% | First reading |
 | [Best Buy](/rakuten-best-buy-cash-back-how-it-works/) | Up to 8% | First reading |
 | Carter's | 8% | First reading |
@@ -61,14 +61,14 @@ This page is information, not financial advice. Rates change daily, and sometime
 | [Old Navy](/rakuten-old-navy-cash-back-how-it-works/) | 2% | First reading |
 | Petco | 2% | First reading |
 | Sonos | 2% | First reading |
-| Temu | 2% | First reading |
+| [Temu](/rakuten-temu-cash-back-how-it-works/) | 2% | First reading |
 | The North Face | 2% | First reading |
 | [Ulta](/rakuten-ulta-cash-back-how-it-works/) | 2% | First reading |
 | Victoria's Secret | 2% | First reading |
 | Walgreens | 2% | First reading |
 | Zappos | 2% | First reading |
 | [eBay](/rakuten-ebay-cash-back-how-it-works/) | 1% | First reading |
-| Etsy | 1% | First reading |
+| [Etsy](/rakuten-etsy-cash-back-how-it-works/) | 1% | First reading |
 | Instacart | 1% | First reading |
 | Newegg | 1% | First reading |
 | [Target](/rakuten-target-cash-back-how-it-works/) | 1% | First reading |
@@ -77,7 +77,7 @@ This page is information, not financial advice. Rates change daily, and sometime
 | Hertz | None | First reading |
 | Hilton | None | First reading |
 | [Home Depot](/rakuten-home-depot-cash-back-how-it-works/) | None | First reading |
-| Lululemon | None | First reading |
+| [Lululemon](/rakuten-lululemon-cash-back-how-it-works/) | None | First reading |
 | [Nordstrom](/rakuten-nordstrom-cash-back-how-it-works/) | None | First reading |
 | Pottery Barn | None | First reading |
 | Verizon | Up to $75 | First reading |

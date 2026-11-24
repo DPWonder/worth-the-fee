@@ -1,23 +1,23 @@
 # Rakuten Macy's cash back: does it work, and what is excluded?
 
 Source: https://itsworththefee.com/rakuten-macys-cash-back-how-it-works/
-Facts checked: 2026-11-21
+Facts checked: 2026-11-24
 Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
 
-Yes. On November 21, 2026, Rakuten's Macy's page showed 13% cash back, raised from a usual 2%. Furniture, mattresses, electronics and marketplace seller items earn 1.5%, and gift cards and a list of brands earn nothing.
+Yes, Rakuten pays cash back at Macy's. On November 24, 2026, Rakuten's Macy's page showed 10% cash back, raised from a usual 2%. Furniture, mattresses, electronics and marketplace seller items earn 1.5%, and gift cards and a list of brands earn nothing.
 
 This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy. For this morning's headline rate here and at other stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/).
 
-## Rates seen on November 21, 2026
+## Rates seen on November 24, 2026
 
 | Category | Rate shown |
 |---|---|
-| All other categories | 13% (was 2%) |
+| All other categories | 10% (was 2%) |
 | Furniture and mattresses | 1.5% |
 | Electronics | 1.5% |
 | Items sold and shipped by marketplace (third-party) sellers | 1.5% |
 
-"Was" is Rakuten's own label for the store's usual rate. The gap between 2% and 13% is large, and a raised rate can end without notice. The same 13% was seen on Rakuten's Cyber Monday page on November 20, 2026. How long it lasts is not confirmed.
+"Was" is Rakuten's own label for the store's usual rate. The gap between 2% and 10% is large, and a raised rate can end without notice. The raised rate has already moved once this week: the same page showed 13% on November 21. How long 10% lasts is not confirmed.
 
 ## What is excluded
 
@@ -37,26 +37,30 @@ Leased brand items are not listed by name on the page. Which other brands fall u
 ## Coupon codes, pickup and app
 
 - **Coupon codes.** The page's FAQ says one store promo code per order can be used with Rakuten cash back. Rakuten's general page says codes not listed on Rakuten may void cash back, so the two statements pull in different directions. A code shown on Rakuten's own page is the safer choice.
-- **Pickup.** The terms do not mention in-store or curbside pickup. Not confirmed.
+- **Pickup.** The page describes free in-store and curbside pickup as ways to shop, but the terms do not say whether a pickup order earns. Not confirmed.
 - **App.** The terms do not mention the store's app. A purchase earns only if it starts from a Rakuten link, the Rakuten app or the extension.
 - **Adjustments.** These are excluded. The page does not define the term.
 
 ## What it comes to
 
-| Purchase | Price | At 2% | At 13% | At 1.5% |
+| Purchase | Price | At 2% | At 10% | At 1.5% |
 |---|---|---|---|---|
-| Coat | $200 | $4.00 | $26.00 | n/a |
-| Cookware set | $350 | $7.00 | $45.50 | n/a |
+| Coat | $200 | $4.00 | $20.00 | n/a |
+| Cookware set | $350 | $7.00 | $35.00 | n/a |
 | Mattress | $1,200 | n/a | n/a | $18.00 |
 | Marketplace seller item | $100 | n/a | n/a | $1.50 |
 
 Taxes and shipping do not count. Cash back is figured on what you pay for the goods after discounts.
 
-Whether an item is sold by a marketplace seller moves the rate from 13% to 1.5% at the rates seen that day.
+Whether an item is sold by a marketplace seller moves the rate from 10% to 1.5% at the rates seen that day.
+
+## Other department stores
+
+Each store is handled differently on Rakuten, and not every store pays a rate. See the pages for [Kohl's](/rakuten-kohls-cash-back-how-it-works/), [Nordstrom](/rakuten-nordstrom-cash-back-how-it-works/) and [Lululemon](/rakuten-lululemon-cash-back-how-it-works/).
 
 ## In stores, and one card note
 
-This retailer did not appear in the part of Rakuten's in-store offer list that loaded on November 21, 2026. The list was cut off, so an in-store offer is not confirmed. Separately, Rakuten's in-store FAQ lists the Macy's American Express card as not eligible for linking to in-store offers at any store. See [how in-store cash back works](/rakuten-in-store-cash-back-how-it-works/).
+This retailer did not appear in the part of Rakuten's in-store offer list that loaded on November 24, 2026. The list was cut off, so an in-store offer is not confirmed. Separately, Rakuten's in-store FAQ lists the Macy's American Express card as not eligible for linking to in-store offers at any store. See [how in-store cash back works](/rakuten-in-store-cash-back-how-it-works/).
 
 ## When you get the money
 
@@ -72,7 +76,7 @@ Online purchases typically take 3 to 14 weeks to be confirmed, then are paid on 
 ## Quick answers
 
 **What rate does Rakuten pay at Macy's?**
-13% on most categories on November 21, 2026, against a usual 2%. Rates change daily.
+10% on most categories on November 24, 2026, against a usual 2%. It was 13% three days earlier. Rates change daily.
 
 **Does furniture earn the same rate?**
 No. Furniture, mattresses, electronics and marketplace seller items showed 1.5%.
@@ -83,7 +87,6 @@ No. Gift cards, gift certificates and corporate gift cards are excluded.
 ## Sources
 
 - [Rakuten: Macy's store page](https://www.rakuten.com/macys.com)
-- [Rakuten: Cyber Monday page](https://www.rakuten.com/cyber-monday)
 - [Rakuten: Why didn't I earn cash back?](https://www.rakuten.com/help/article/why-didnt-i-earn-cash-back-360036367393)
 - [Rakuten: In-store cash back FAQ](https://www.rakuten.com/help/article/in-store-cash-back-faq-15935028227987)
 - [Rakuten: In-store offers](https://www.rakuten.com/in-store)

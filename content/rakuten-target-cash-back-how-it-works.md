@@ -1,13 +1,13 @@
 ---
 title: Rakuten Target cash back: does it work, and what is excluded?
 slug: rakuten-target-cash-back-how-it-works
-description: Yes: 1% on November 21, 2026, but only in listed categories. Grocery, electronics, toys, gift cards and Drive Up orders earn nothing.
+description: Rakuten Target cash back was 1% on November 24, 2026, in listed categories only. Grocery, electronics, toys, gift cards and Drive Up earn nothing.
 topic: rakuten
 cta: rakuten
-checked: 2026-11-21
+checked: 2026-11-24
 ---
 
-Yes, but only on some departments. On November 21, 2026, Rakuten's Target page showed 1% cash back, limited to categories such as apparel, home, furniture, kitchen and beauty. Grocery, electronics, toys, gift cards and Drive Up orders are excluded.
+Yes, Rakuten pays cash back at Target, but only on some departments. On November 24, 2026, Rakuten's Target page showed 1% cash back, limited to categories such as apparel, home, furniture, kitchen and beauty. Grocery, electronics, toys, gift cards and Drive Up orders are excluded.
 
 This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy. For this morning's headline rate here and at other stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/).
 
@@ -15,20 +15,20 @@ This page is information, not financial advice. Rates change daily, so check the
 
 Rakuten's terms for Target work as an allow list. Only the named categories earn.
 
-| Earns the 1% (as listed November 21, 2026) | Earns nothing |
+| Earns the 1% (as listed November 24, 2026) | Earns nothing |
 |---|---|
 | Apparel, jewelry and accessories | Grocery and household essentials |
 | Baby gear | Diapers, baby food and formula |
 | Furniture | Home electronics and Apple products |
 | Kitchen and home decor | Small appliances |
 | Beauty, personal care and bath | Toys, bicycles, sports and outdoors |
-| Outdoor furniture and decor | Pets, music, books |
+| Outdoor furniture and decor | Pets, music, books, movies, video games and consoles |
 | | Pharmacy and over-the-counter items, optical, photo, cafe |
 | | Prepaid cards and gift cards |
 | | Target Circle 360, contract mobile |
 | | Drive Up orders |
 
-The same page showed one exception that day: 7.5% on select Procter & Gamble products, including certain diaper, razor and floor-cleaning brands. Rakuten labels it limited-time.
+The terms carry one limited-time exception: select Procter & Gamble products in otherwise excluded categories are eligible, including certain diaper, razor and floor-cleaning brands. The page showed 7.5% for these on an earlier check, November 21. On November 24 it showed no separate rate for them, so the rate is not confirmed.
 
 ## Other terms on the page
 
@@ -38,7 +38,7 @@ The same page showed one exception that day: 7.5% on select Procter & Gamble pro
 - **US site only.** Orders placed through Target sites for other countries void the cash back.
 - **Pickup.** Drive Up orders are excluded. The terms do not mention in-store Order Pickup, so that is not confirmed.
 - **App.** The terms do not mention the Target app. Rakuten's general rule is that a purchase only earns if it starts from a Rakuten link, in the Rakuten app or with the extension.
-- **Target Circle earnings.** These appear on the excluded list. Whether that means the part of an order paid with them is not confirmed.
+- **Target Circle earnings.** These appear on the excluded list. Whether that means the part of an order paid with them is not confirmed. Paying with the store's own card is a separate question; see [Rakuten and the Target Circle Card](/rakuten-target-circle-card-stack/).
 
 ## What it comes to
 
@@ -54,11 +54,15 @@ A store coupon code worth more than 1% saves more than the cash back it voids. O
 
 ## How the rate moves
 
-The page showed no usual-rate label for Target on November 21, 2026, which Rakuten adds when a rate has been raised. That suggests 1% was the standard rate that day. Rakuten's terms say rates can vary by member, product category and where the offer is shown. Whether Target's rate will be raised for [Black Friday week](/rakuten-black-friday-cash-back-2026/) is not confirmed.
+The page showed no usual-rate label for Target on November 24, 2026, which Rakuten adds when a rate has been raised. That suggests 1% was the standard rate that day. Rakuten's terms say rates can vary by member, product category and where the offer is shown. Whether Target's rate will be raised for [Black Friday week](/rakuten-black-friday-cash-back-2026/) is not confirmed.
+
+## Other big-box stores
+
+Groceries and household goods are most of what many shoppers buy here, and they earn nothing. The other large chains are each handled differently on Rakuten: see [Walmart](/rakuten-walmart-cash-back-how-it-works/) and [Costco](/rakuten-costco-cash-back-how-it-works/).
 
 ## In stores
 
-Target did not appear in the part of Rakuten's in-store offer list that loaded on November 21, 2026. The list was cut off, so an in-store Target offer is not confirmed. See [how in-store cash back works](/rakuten-in-store-cash-back-how-it-works/).
+Target did not appear in the part of Rakuten's in-store offer list that loaded on November 24, 2026. The list was cut off, so an in-store Target offer is not confirmed. See [how in-store cash back works](/rakuten-in-store-cash-back-how-it-works/).
 
 ## When you get the money
 
@@ -75,7 +79,7 @@ Online purchases typically take 3 to 14 weeks to be confirmed, then are paid on 
 ## Quick answers
 
 **What rate does Rakuten pay at Target?**
-1% on listed categories when checked on November 21, 2026. Rates change daily.
+1% on listed categories when checked on November 24, 2026. Rates change daily.
 
 **Do Target groceries earn cash back?**
 No. Grocery and household essentials are on the excluded list.
