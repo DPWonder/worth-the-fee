@@ -27,6 +27,17 @@ jobs:
         run: |
           today=$(date +%F)
           if git log --since="$today 00:00" --format=%s | grep -q "^Daily pages"; then echo "ran=yes" >> "$GITHUB_OUTPUT"; else echo "ran=no" >> "$GITHUB_OUTPUT"; fi
+      - name: Test only (manual runs) - can this machine read Rakuten and build the site?
+        if: github.event_name == 'workflow_dispatch'
+        run: |
+          python - <<'PY'
+          import rates
+          got = [rates.fetch(s) for s in rates.STORES[:6]]
+          print("rates read:", got)
+          PY
+          python check.py
+          python build.py
+          git status --short | head -5
       - name: Refresh rates and publish from the cloud
         if: steps.mac.outputs.ran == 'no'
         run: |
