@@ -21,4 +21,16 @@ req = urllib.request.Request("https://api.indexnow.org/indexnow", data=body,
                              headers={"Content-Type": "application/json; charset=utf-8"})
 print("Search engines notified:", urllib.request.urlopen(req).status, f"({len(urls)} pages)")
 PY
-echo "Published. The live site updates in about a minute."
+# GitHub's deploy sometimes fails with a server error (seen 2026-11-25). Wait for it and ask again, up to 6 times.
+R=DPWonder/worth-the-fee; sha=$(git rev-parse HEAD); tries=0; i=0; live=no
+while [ $i -lt 40 ]; do
+  st=$(gh run list -R $R -w pages-build-deployment -L 1 --json headSha,status,conclusion -q '.[0].headSha+" "+.[0].status+" "+.[0].conclusion' 2>/dev/null || true)
+  case "$st" in
+    "$sha completed success") live=yes; break;;
+    *"completed failure"|*"completed cancelled")
+      [ $tries -ge 6 ] && break
+      tries=$((tries+1)); gh api -X POST repos/$R/pages/builds >/dev/null 2>&1 || true;;
+  esac
+  /bin/sleep 15; i=$((i+1))
+done
+if [ $live = yes ]; then echo "Published and live."; else echo "PUSHED BUT NOT LIVE: GitHub's deploy did not succeed ($st). Run ./publish.sh again later."; fi
