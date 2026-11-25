@@ -170,3 +170,5 @@ section.newest { padding-bottom: 0; }
 .pinimg{margin:2.5rem 0 0;text-align:center}
 .pinimg img{width:220px;max-width:60%;height:auto;border-radius:14px;box-shadow:0 6px 20px rgba(18,35,63,.18)}
 .pinimg figcaption{font-size:.85rem;color:#5b6577;margin-top:.5rem}
+
+.ratenow { font-size: 16px; margin: 0 0 16px !important; padding: 10px 14px; border-left: 3px solid currentColor; }

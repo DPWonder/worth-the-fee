@@ -45,6 +45,28 @@ TOPICS = {
 
 LIVE_TOPICS = set()
 
+
+def _store_rates():
+    """slug -> (store, rate, day) from the newest reading in research/rakuten-rates.csv, if it is at most 2 days old."""
+    out = {}
+    try:
+        import csv as _csv
+        import rates as _rates
+        rows = list(_csv.DictReader(open(ROOT / "research" / "rakuten-rates.csv")))
+        last = max(r["date"] for r in rows)
+        if (date.today() - date.fromisoformat(last)).days > 2:
+            return out
+        slug = {s[0]: s[2] for s in _rates.STORES}
+        for r in rows:
+            if r["date"] == last and r["store"] in slug and "%" in r["rate"]:
+                out[slug[r["store"]]] = (r["store"], r["rate"], last)
+    except Exception:
+        pass
+    return out
+
+
+STORE_RATES = _store_rates()
+
 # Fee calculator data: (credit, dollars per year at face value, note). Sources: the credit pages in content/.
 CALC = {
     "amex": {"card": "Amex Platinum", "fee": 895, "more": "amex-platinum-credits-real-value", "credits": [
@@ -349,6 +371,16 @@ def build():
         nice = date.fromisoformat(checked).strftime("%B %-d, %Y")
         path = pg["slug"] + "/"
         topic = TOPICS[pg["topic"]]
+        # Store pages: the search title and a line under the answer carry the rate the tracker read most recently.
+        seo_title, rate_line = pg["title"], ""
+        sr = STORE_RATES.get(pg["slug"])
+        if sr:
+            store, rate, rday = sr
+            d = date.fromisoformat(rday)
+            low = rate[0].lower() + rate[1:]
+            seo_title = f'Rakuten {store} cash back: {low} on {d.strftime("%b %-d")}, and what is excluded'
+            rate_line = (f'<p class="ratenow"><strong>Rate read from Rakuten on {d.strftime("%B %-d, %Y")}: {esc(low)}.</strong> '
+                         f'It can change within a day. <a href="{BASE}rakuten-cash-back-rates-today-by-store/">Today\'s rates at every store we track</a>.</p>')
         ld = [{
             "@context": "https://schema.org", "@type": "Article",
             "headline": pg["title"], "description": pg["description"],
@@ -387,13 +419,13 @@ def build():
             f'<article class="prose"><h1>{esc(pg["title"])}</h1>'
             f'<p class="meta"><span>Facts checked {nice}</span><span>{pg["minutes"]} min read</span>'
             f'<span><a href="{BASE}how-we-check-facts/">How we check facts</a></span></p>'
-            f'{disclosure}<div class="answer"><p class="eyebrow">The short answer</p>{answer_html}</div>{mini_cta(pg["cta"])}{calc_link(pg)}'
+            f'{disclosure}<div class="answer"><p class="eyebrow">The short answer</p>{answer_html}</div>{rate_line}{mini_cta(pg["cta"])}{calc_link(pg)}'
             f'{body_html}{cta_html(pg["cta"])}'
             f'<figure class="pinimg"><img src="{BASE}pin/{pg["slug"]}.png" width="1000" height="1500" loading="lazy" '
             f'alt="{esc(pg["title"])}" data-pin-description="{esc(pg["description"])} We earn from referral links on our site.">'
             f'<figcaption>Save this answer for later</figcaption></figure></article>{rel_html}</div>'
         )
-        write(path + "index.html", layout(f'{pg["title"]} | {NAME}', pg["description"], content, path,
+        write(path + "index.html", layout(f'{seo_title} | {NAME}', pg["description"], content, path,
                                           head + f'<link rel="alternate" type="text/markdown" href="{BASE}{path}index.md">',
                                           og_type="article", image=f'og/{pg["slug"]}.png'))
         write(path + "index.md", page_md(pg))
