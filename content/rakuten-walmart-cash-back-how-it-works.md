@@ -1,13 +1,13 @@
 ---
 title: Rakuten Walmart cash back: does it work, and what is excluded?
 slug: rakuten-walmart-cash-back-how-it-works
-description: Rakuten works with Walmart as a flat $5 on up to three orders of $25 or more, not a percentage. Groceries, pharmacy and app orders are excluded.
+description: Rakuten's Walmart page showed no cash back on November 25, 2026. A day earlier it showed a flat $5 on up to three orders. The offer comes and goes.
 topic: rakuten
 cta: rakuten
-checked: 2026-11-24
+checked: 2026-11-25
 ---
 
-Yes, Rakuten works with Walmart, in a limited form. On November 24, 2026, Rakuten's Walmart page showed a flat $5 cash back on each of up to three eligible orders of $25 or more, not a percentage of the order. Groceries, pharmacy items and orders placed in the Walmart app are excluded.
+Sometimes. On November 25, 2026, Rakuten's Walmart page showed no cash back. One day earlier, on November 24, the same page showed a flat $5 cash back on each of up to three eligible orders of $25 or more, not a percentage of the order. Groceries, pharmacy items and orders placed in the Walmart app are excluded.
 
 This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy. For this morning's headline rate here and at other stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/).
 
@@ -71,7 +71,7 @@ Walmart orders do not count toward other Rakuten bonuses. The page names the wel
 ## Where sources differ
 
 - The page's FAQ says $5 on the first three Walmart purchases and gives no minimum. The terms say the next three eligible orders of $25 or more through the named channels. The terms are more specific.
-- A search summary of an older copy of the same Rakuten page showed no cash back at Walmart. The page read on November 24, 2026 showed $5. The offer comes and goes.
+- A search summary of an older copy of the same Rakuten page showed no cash back at Walmart. The page read on November 24, 2026 showed $5, and on November 25, 2026 it showed no cash back again. The offer comes and goes; the rest of this page describes the $5 offer as it read on November 24.
 
 ## When you get the money
 
@@ -88,7 +88,7 @@ Online purchases typically take 3 to 14 weeks to be confirmed, then are paid on 
 ## Quick answers
 
 **Does Rakuten pay a percentage at Walmart?**
-No. On November 24, 2026 it was a flat $5 on each of up to three orders of $25 or more.
+No. On November 25, 2026 the page showed no cash back; on November 24 it was a flat $5 on each of up to three orders of $25 or more.
 
 **Do Walmart groceries earn Rakuten cash back?**
 No. Groceries are on the excluded list, along with pharmacy, optical and Walmart+ memberships.

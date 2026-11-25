@@ -9644,7 +9644,7 @@ Publisher: Worth the Fee (independent; some pages end with a disclosed referral 
 
 You create a free account, click through Rakuten to a store, and buy as usual. The store pays Rakuten a commission for the sale, Rakuten passes part of it to you as cash back, and confirmed cash back is paid four times a year once you have about $5.
 
-This page is information, not financial advice. New to it? See [is Rakuten free](/is-rakuten-free/) and [the welcome bonus against a friend's referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/).
+This page is information, not financial advice. New to it? See [is Rakuten free](/is-rakuten-free/) and [the welcome bonus against a friend's referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/). What each bonus asks you to spend is on [how the sign-up and referral bonuses work](/rakuten-50-bonus-how-it-works/).
 
 ## Step 1: Create an account
 
@@ -9721,6 +9721,103 @@ Four times a year: February 15, May 15, August 15 and November 15, with about $5
 - [Rakuten: Why didn't I earn cash back?](https://www.rakuten.com/help/article/why-didnt-i-earn-cash-back-360036367393)
 - [Rakuten: When will I get paid?](https://www.rakuten.com/help/article/when-will-i-get-paid-360002117667)
 - [Rakuten: Terms and conditions](https://www.rakuten.com/help/article/terms-conditions)
+
+---
+
+# How does TopCashback work, step by step, for a first purchase?
+
+Source: https://itsworththefee.com/how-does-topcashback-work-step-by-step/
+Facts checked: 2026-11-25
+Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
+
+TopCashback works in three steps: find the store on TopCashback, click the pink "Get Cash Back" button, and buy on the store's site as usual. Its Getting Started page says the purchase shows in your account within about seven days, and takes one to three months on average to become money you can withdraw.
+
+This page is information, not financial advice.
+
+## The three steps
+
+From TopCashback's Getting Started page, read on November 25, 2026:
+
+1. **Search.** Log in and find the store or service. The page says cash back is offered at more than 7,000 stores.
+2. **Select.** Click the pink "Get Cash Back" button. The store's website opens in a new tab.
+3. **Buy.** Shop in that new tab as you normally would. The value of the purchase is recorded in your account.
+
+Behind those steps, the help page explains, the click tells the store that TopCashback sent you. The store pays TopCashback a commission, and TopCashback passes it to you. Tracking is done with cookies and happens in the background; nothing about cash back appears on the store's own pages.
+
+## The timeline of a first purchase
+
+| When | What happens | What you see |
+|---|---|---|
+| Day 0 | You click through and buy | Nothing yet |
+| Within about 7 days | The store reports the sale | Cash back shows as "In Progress" |
+| 1 to 3 months, on average | The store confirms the sale and pays TopCashback | Cash back turns "Available" |
+| When you ask | You cash out | Payment "within a couple of working days" |
+
+All of the figures are TopCashback's own. The one-to-three-month step is an average; each store sets its own period, and travel bookings wait until the trip is over.
+
+## Set up payment details early
+
+One detail on the Getting Started page is easy to miss: after you add new payment details, TopCashback disables payments for 72 hours as a security measure. Its tip is to add your details before you are ready to cash out, so the hold has passed by the time you need it.
+
+Payment methods listed are PayPal, Venmo, bank transfer and more than 30 gift cards. More on each is on [how TopCashback pays](/topcashback-how-to-cash-out-and-when/).
+
+## Coupons: the rule that catches people
+
+The Getting Started page says only coupon codes "listed and authorized by TopCashback" work together with cash back. They are in the Special Deals and Coupons section of each store's page on TopCashback. A code from another site can cancel the cash back for that order.
+
+## What can go wrong
+
+TopCashback's help page lists the usual reasons a purchase does not track:
+
+- A coupon code TopCashback did not list.
+- An ad blocker.
+- Buying in a different tab from the one that opened after the click.
+- Clicking another cash back or coupon site afterward.
+
+If a purchase has not shown after seven days, the Getting Started page says to contact customer service.
+
+## How much is realistic
+
+TopCashback's help pages say members earn $450 a year on average, and that those members shop through the site at least twice a month. The figure is the company's own and how it is calculated is not stated. What one person earns depends on what they buy and each store's rate, and rates change. A person who shops online a few times a year should expect far less than the average.
+
+Cash back is a share of money already spent. Buying something extra to earn it costs more than it returns.
+
+## Ways to start a purchase
+
+| Tool | Where it works | Page |
+|---|---|---|
+| Website | Any browser | This page |
+| Browser extension | Desktop only | [How the extension works](/topcashback-browser-extension-how-it-works/) |
+| App | iPhone, iPad, Android | [How the app works](/topcashback-app-how-it-works/) |
+
+## Who should skip it
+
+- You want the money within days. The store's confirmation takes one to three months on average.
+- You rely on coupon codes from other sites. They can cancel the cash back.
+- You keep an ad blocker on for every site.
+- You shop online rarely. The amounts will be small.
+
+For what the company is and how it earns, see [is TopCashback legit](/is-topcashback-legit-how-it-makes-money/). For the larger US site's version of the same steps, see [how Rakuten works](/how-does-rakuten-work-step-by-step/).
+
+## Quick answers
+
+**How long does TopCashback take to show a purchase?**
+Up to seven days to appear as "In Progress," by its Getting Started page.
+
+**How long until TopCashback cash back is available?**
+One to three months on average after it shows, because the store has to confirm the sale and pay TopCashback first.
+
+**Can I use a coupon code with TopCashback?**
+Only codes listed on TopCashback's own page for that store. Other codes can cancel the cash back.
+
+## Sources
+
+- [TopCashback: Getting Started](https://www.topcashback.com/getting-started/)
+- [TopCashback: How does TopCashback work?](https://www.topcashback.com/help/how-we-work/)
+- [TopCashback: How do you track my Cash Back?](https://www.topcashback.com/help/cash-back-tracking/)
+- [TopCashback: How much can I earn?](https://www.topcashback.com/help/potential-earnings/)
+- [TopCashback: How do members earn over $450 a year in Cash Back?](https://www.topcashback.com/help/450-cash-back-earnings/)
+- [TopCashback: Why is my Cash Back missing?](https://www.topcashback.com/help/cash-back-missing/)
 
 ---
 
@@ -9989,6 +10086,101 @@ From a Sapphire Reserve, yes. From a Sapphire Preferred the rate is 4:3.
 
 ---
 
+# Is Ebates now Rakuten?
+
+Source: https://itsworththefee.com/is-ebates-now-rakuten/
+Facts checked: 2026-11-25
+Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
+
+Yes. Ebates and Rakuten are the same cash back service: Rakuten bought Ebates in 2014 and the Ebates name was replaced by Rakuten in 2019. Rakuten's own pages say accounts and cash back balances were unchanged, and the old ebates.com address now forwards to rakuten.com.
+
+This page is information, not financial advice.
+
+## What happened, by year
+
+| Year | What happened | Source |
+|---|---|---|
+| 1999 | Ebates founded | Rakuten's 2014 press release |
+| 2014 | Rakuten announced on September 9 that it would buy all of Ebates for $1 billion in cash; closing was planned for October | Rakuten press release; Rakuten's company history lists it under October 2014 |
+| February 2019 | Members with an eligible American Express card could first take Membership Rewards points in place of cash | The Points Guy; Doctor of Credit |
+| 2019 | The Ebates name and logo were replaced by Rakuten | Rakuten's blog post of March 6, 2019; Rakuten help center |
+
+The exact day the US site switched is not confirmed. Rakuten's help center says members were moved to the new site "one group at a time", so there was no single day for everyone.
+
+The legal name still shows the history. Rakuten's terms name the company as Ebates Performance Marketing, Inc., doing business as Rakuten Rewards.
+
+## What happened to old Ebates accounts and balances
+
+Rakuten's announcement page says cash back and account details were unchanged, and that the full balance appears at the top of the new site. Its help center says the name change has no effect on how members use the service.
+
+So an Ebates account did not need to be reopened under a new name. Whether an Ebates login that has not been used for years still works today is not confirmed. Two rules in Rakuten's current terms matter for a long-idle account:
+
+- After more than 12 months with no shopping trip, Rakuten may take a $5 monthly maintenance fee from the balance. The fee cannot take the balance below zero.
+- Rakuten may close an account that has been inactive for more than 36 months and has a zero balance.
+
+The terms allow one account per person.
+
+## What stayed the same and what changed
+
+| Feature | At the name change | Today |
+|---|---|---|
+| Stores and rates | Rakuten said the same stores and the same cash back | Rates change daily and can differ by member |
+| Payout schedule | Rakuten said the next payment would come at the usual time | Every three months: February 15, May 15, August 15, November 15 |
+| Check name | Still called the Big Fat Check, with the Rakuten logo | Same name |
+| PayPal payment | Continued, now sent from Rakuten | Still offered |
+| Amex points option | Began February 2019 | Still offered to eligible card members |
+| In-store cash back | Already offered; Rakuten said it had grown | Offered by linking a card |
+| Site address | ebates.com forwards to rakuten.com | Same |
+
+The exact payment dates used in the Ebates years are not confirmed here; the 2019 announcement only says the schedule did not change. Bilt Points and Samsung Cash now appear on Rakuten's list of payment methods. When each was added is not confirmed.
+
+For the details, see [when Rakuten pays](/rakuten-when-do-you-get-paid/) and [what joining costs](/is-rakuten-free/).
+
+## Where the old store pages are now
+
+People still search for "Ebates" with a store name. Those pages now live on rakuten.com. In a check on November 25, 2026, old ebates.com addresses for Macy's, Walmart and eBay each forwarded to that store's page on rakuten.com. The old Hotels.com address led to a page-not-found screen.
+
+Guides on this site for the stores people most often pair with the old name:
+
+- [Macy's](/rakuten-macys-cash-back-how-it-works/)
+- [Walmart](/rakuten-walmart-cash-back-how-it-works/)
+- [eBay](/rakuten-ebay-cash-back-how-it-works/)
+- [Hotels and flights](/rakuten-hotels-flights-cash-back/)
+
+## Who should skip it
+
+- You want payment soon after each purchase. Rakuten pays every three months.
+- You shop online once or twice a year. A small balance can sit below the payment minimum, and the inactivity fee can reduce it.
+- You do not want a company recording your shopping activity. That is how cash back is tracked, under either name.
+- You expect Ebates-era rates. No source confirms that rates today match those years.
+
+## Quick answers
+
+**Is Ebates the same company as Rakuten?**
+Yes. Rakuten's help center says Ebates has been a Rakuten company since 2014. The name changed in 2019.
+
+**Did Ebates members lose their cash back in the change?**
+No. Rakuten's announcement said cash back and account details were unchanged.
+
+**Does ebates.com still work?**
+It forwards to rakuten.com. Rakuten suggests updating old bookmarks to the new address.
+
+## Sources
+
+- [Rakuten help: Ebates Is Now Rakuten: Everything You Need to Know](https://www.rakuten.com/help/article/ebates-is-now-rakuten-everything-you-need-to-know-360002117807)
+- [Rakuten: Ebates is now Rakuten (announcement page)](https://www.rakuten.com/new-brand)
+- [Rakuten Group press release, September 9, 2014: Announcement of 100% Acquisition of Ebates Inc.](https://global.rakuten.com/corp/news/press/2014/0909_02.html)
+- [Rakuten Group: Company history](https://global.rakuten.com/corp/about/history.html)
+- [Rakuten blog: The history of Rakuten](https://www.rakuten.com/blog/history-of-rakuten/)
+- [Rakuten Group: Behind the Ebates Rebrand and What's to Come (May 7, 2019)](https://global.rakuten.com/corp/innovation/rnn/2019/0506)
+- [Rakuten help: When will I get paid?](https://www.rakuten.com/help/article/when-will-i-get-paid-360002117667)
+- [Rakuten: Terms and conditions](https://www.rakuten.com/help/article/terms-conditions)
+- [The Points Guy: Rakuten (formerly Ebates) adds Amex Membership Rewards earning to all accounts](https://thepointsguy.com/credit-cards/rakuten-ebates-membership-rewards/)
+- [Doctor of Credit: switching an Ebates account to Membership Rewards points](https://www.doctorofcredit.com/ebates-you-can-now-switch-your-account-from-cash-earn-to-membership-rewards-points-earn/)
+- [Wikipedia: Rakuten Rewards](https://en.wikipedia.org/wiki/Rakuten_Rewards)
+
+---
+
 # Is Rakuten cash back taxable, and what about the referral bonus?
 
 Source: https://itsworththefee.com/is-rakuten-cash-back-taxable/
@@ -10080,15 +10272,15 @@ Not confirmed. One member reported a 1099-NEC for a referral bonus; another repo
 
 ---
 
-# Is Rakuten free, and what is the catch?
+# Is Rakuten free to join and use, and what is the catch?
 
 Source: https://itsworththefee.com/is-rakuten-free/
-Facts checked: 2026-11-24
+Facts checked: 2026-11-25
 Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
 
 Yes, Rakuten is free to join and free to use: there is no membership fee and no charge for shopping through it. The catch is not a price but a trade, because Rakuten collects data on your shopping, pays only four times a year, and holds any balance under about $5.
 
-This page is information, not financial advice.
+This page is information, not financial advice. Every figure was re-read on Rakuten's own pages on November 25, 2026. For what happens after you join, see [how Rakuten works, step by step](/how-does-rakuten-work-step-by-step/).
 
 ## What it costs in money
 
@@ -10100,10 +10292,18 @@ This page is information, not financial advice.
 | Minimum before a payment is sent | $5 on the help page; $5.01 in the terms |
 | Fee taken from a payment | None is listed on Rakuten's payment page. Any fee charged by PayPal: not confirmed. |
 | Inactive account fee | $5.00 a month, after more than 12 months with no shopping trip |
+| Rakuten+ | A separate, optional annual membership that renews automatically. Price: not confirmed. |
 
-A card comes into it only if you choose to link one for in-store offers. Members must be at least 18 and live in the 50 states or Washington D.C.
+A card comes into it only if you choose to link one for [in-store offers](/rakuten-in-store-cash-back-how-it-works/). Rakuten's home page says linking a card is not required. Members must be at least 18 and live in the 50 states or Washington D.C., and each person is limited to one account.
 
-The one fee in the terms is for an inactive account. If you have not shopped or started a shopping trip for more than 12 months in a row, Rakuten may take $5.00 a month from your balance. It comes out of cash back you have earned, not from your bank, so an account with nothing in it is not charged.
+The one fee in the terms is for an inactive account. If you have not shopped or started a shopping trip for more than 12 months in a row, Rakuten may take $5.00 a month from your balance. It comes out of cash back you have earned, not from your bank. The terms say the fee cannot make a balance negative or leave you owing money, so an account with nothing in it is not charged. Shopping or starting a shopping trip stops it. After more than 36 idle months with a zero balance, Rakuten may close the account.
+
+## The paid extras you can ignore
+
+Two things with Rakuten's name are not part of the free membership, and neither is needed to earn cash back.
+
+- **Rakuten+.** Rakuten's help center describes an annual membership, offered by invitation, that pays at least 10% at a list of premium stores. It renews automatically on the date you joined, can be canceled up to 3 days before renewal, and gives no refund for a part-used year. The help pages read do not state the price, so it is not confirmed.
+- **The Rakuten American Express Card.** A credit card with its own terms. Its fees were not read for this page.
 
 ## How Rakuten earns if you pay nothing
 
@@ -10111,9 +10311,9 @@ Stores pay Rakuten a commission when it sends them a shopper who buys. Rakuten k
 
 ## The costs that are not money
 
-**Your data.** Rakuten's terms say the browser extension collects information on the pages you visit and on search results pages, whether or not you are interacting with it. That is how it shows offers. What is collected and how to limit it is covered on [the extension and your privacy](/rakuten-browser-extension-safe-privacy/). You can earn without the extension by starting at Rakuten.com each time.
+**Your data.** Rakuten's terms say the browser extension collects information on the pages you visit and on search results pages, whether or not you are interacting with it. That is how it shows offers. What is collected and how to limit it is covered on [the extension and your privacy](/rakuten-browser-extension-safe-privacy/). Rakuten's home page says it does not sell personal data to data brokers, may share limited information with advertising partners, and lets you opt out of that sharing. You can earn without the extension by starting at Rakuten.com each time.
 
-**The wait.** Cash back starts as pending. Rakuten says online and in-store cash back typically takes 3 to 14 weeks to be confirmed, and confirmed cash back is sent by February 15, May 15, August 15 and November 15. A purchase can take months to become money; see [when Rakuten pays](/rakuten-when-do-you-get-paid/).
+**The wait.** Cash back starts as pending. Rakuten says online and in-store cash back typically takes 3 to 14 weeks to be confirmed, and confirmed cash back is sent by February 15, May 15, August 15 and November 15. A purchase can take months to become money; see [when Rakuten pays](/rakuten-when-do-you-get-paid/). Rakuten also lets members redeem a confirmed balance of at least $5 for a gift card without waiting for a payment date.
 
 **The minimum.** The help page says you need $5 or more in confirmed cash back to be paid. The terms put the minimum at $5.01. Either way, a smaller balance is not lost: it carries over to the next payment date.
 
@@ -10121,7 +10321,11 @@ Stores pay Rakuten a commission when it sends them a shopper who buys. Rakuten k
 
 **Coupon codes.** Rakuten's help page says codes not listed on Rakuten "may void Cash Back." If a code from elsewhere saves more than the cash back would pay, the code is the better deal for that order; you usually cannot count on both.
 
-**Tracking that does not happen.** Ad blockers, VPNs, declined cookies, or finishing checkout in a different tab can stop a purchase from being linked to your account.
+**Tracking that does not happen.** Ad blockers, VPNs, declined cookies, or finishing checkout in a different tab can stop a purchase from being linked to your account. The fix is on [missing cash back](/rakuten-missing-cash-back-what-to-do/).
+
+## Is the joining bonus free too
+
+The bonus for new members costs nothing, but it is not paid for joining alone. As read on November 25, 2026, the welcome bonus terms ask for at least $25 of purchases that earn cash back within 90 days, and the referral offer asks for $50. Amounts change; see [how the sign-up and referral bonuses work](/rakuten-50-bonus-how-it-works/).
 
 ## Who should skip it
 
@@ -10148,6 +10352,10 @@ About $5 in confirmed cash back. The help page says $5; the terms say $5.01. Les
 - [Rakuten: When will I get paid?](https://www.rakuten.com/help/article/when-will-i-get-paid-360002117667)
 - [Rakuten: Why didn't I earn cash back?](https://www.rakuten.com/help/article/why-didnt-i-earn-cash-back-360036367393)
 - [Rakuten: Terms and conditions](https://www.rakuten.com/help/article/terms-conditions)
+- [Rakuten: home page](https://www.rakuten.com/)
+- [Rakuten: Rakuten+ FAQ](https://www.rakuten.com/help/category/rakuten-33139494773011)
+- [Rakuten: Welcome bonus terms](https://www.rakuten.com/help/article/welcome-bonus-terms)
+- [Rakuten: Refer-a-friend page](https://www.rakuten.com/referral)
 
 ---
 
@@ -10701,94 +10909,118 @@ With the Amex Platinum, yes. With the Sapphire Reserve, enrollment has been auto
 
 ---
 
-# Rakuten sign-up bonus: how the bonus from a friend's link works and what makes it fail
+# Rakuten sign-up bonus and referral bonus: how each works, what to spend, and what makes it fail
 
 Source: https://itsworththefee.com/rakuten-50-bonus-how-it-works/
-Facts checked: 2026-11-23
+Facts checked: 2026-11-25
 Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
 
-You join Rakuten through a friend's link, then make purchases that earn cash back totalling at least $50 within 90 days of signing up. The bonus fails most often because the purchase did not track, was returned, or was made at a store or on an item that earns no cash back.
+A new Rakuten member gets one bonus, not two: the referral bonus for joining through a member's link, or the welcome bonus for joining from Rakuten's own pages. As read on November 25, 2026, the referral offer asks for purchases that earn cash back totaling at least $50 within 90 days of signing up, and the welcome bonus asks for $25. Amounts and terms change.
 
-This page is information, not financial advice. Rakuten says the purchase requirement and reward amount can vary, and the current offer period runs to December 31, 2026. For how this compares with the bonus on Rakuten's own site, see [welcome bonus or referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/).
+This page is information, not financial advice. Rakuten's referral page says the requirement and reward can vary; the offer shown runs to December 31, 2026. See also [welcome bonus or referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/) and [is Rakuten free](/is-rakuten-free/).
+
+## The two bonuses as read on November 25, 2026
+
+| | Referral sign-up bonus | Welcome bonus |
+|---|---|---|
+| How you join | A member's link, or the member's email entered on the join form | Rakuten's own site, app or extension, where the bonus is offered |
+| Purchases needed | At least $50 that earn cash back | At least $25 that earn cash back or points |
+| Time limit | 90 days from signing up | 90 days from signing up |
+| Amount shown that day | $50, after $50 of purchases, in the page's share text | $10 on store pages; an extra 10% cash back, capped at $50, on the home page |
+| Other amounts in the same pages' text | $30 after $30 | $20 after $25 |
+| Amazon.com orders | Do not count | Do not count |
+| Combined with the other bonus | No | No |
+
+Rakuten's referral FAQ says the new member gets "the bonus that was available on day of sign up." The amount on the page you join from is the one that applies to you.
+
+The 10% version is a separate offer called the Boost Bonus. Its terms say it adds to the rate only at stores where a boost is advertised, for the period named in the offer, up to $50.00 in total.
 
 ## The steps
 
-1. Open your friend's referral link and create a new Rakuten account from it.
-2. Within 90 days, start at Rakuten (site, app or browser extension) each time, click through to a store, and buy. Your qualifying purchases must total at least $50.
-3. Choose how you want to be paid in Account Settings, and add a mailing address.
+1. Open the member's referral link and create a new account from it. Rakuten's join article gives a second way: choose "Did someone refer you?" on the join form and enter the email the member uses for Rakuten.
+2. Within 90 days, start at Rakuten (site, app or browser extension) each time, click through to a store, and buy. Qualifying purchases must total at least $50, in one order or several; see [how Rakuten works, step by step](/how-does-rakuten-work-step-by-step/).
+3. Choose how you want to be paid in Account Settings. A check or PayPal needs a mailing address on file; Rakuten says Membership Rewards points and Bilt Points do not.
 4. Wait for the store to confirm the purchase.
-5. The bonus is paid on Rakuten's next payment date.
+5. The bonus is paid with your next cash back payment.
 
-Your friend gets $50 once your purchase is confirmed. A recent guide puts the new member's bonus at $50 as well. The amount shown on the day you sign up is the one that applies to you.
+Adding a referrer after an account already exists is not confirmed.
 
 ## The numbers
 
 | Rule | Detail |
 |---|---|
-| Spend needed | At least $50 in qualifying purchases |
-| Time limit | 90 days from signing up |
-| Purchase confirmed by the store | Typically 3 to 14 weeks; travel 6 to 17 weeks after the trip ends |
+| Purchase confirmed by the store | Typically 3 to 14 weeks |
+| Travel | 45 to 120 days after the booking on the payment page; 6 to 17 weeks after the trip in the travel article |
+| When a bonus is confirmed | At the same time as the cash back on the qualifying order |
 | Payment dates | February 15, May 15, August 15, November 15 |
-| Minimum balance to be paid | More than $5 confirmed |
-| Paid by | PayPal or check, among other options |
+| Minimum balance to be paid | $5 on the help page; $5.01 in the terms |
+| Paid by | PayPal, check, Bilt Points or Samsung Cash; Membership Rewards points for eligible American Express Card Members |
 
-Whether the bonus can arrive as Amex points and not cash is a separate question; see [the sign-up bonus as Amex points](/rakuten-sign-up-bonus-as-amex-points/).
+See also [the sign-up bonus as Amex points](/rakuten-sign-up-bonus-as-amex-points/).
 
 ## When the money really arrives
 
-The bonus is not instant. The store has to confirm your purchase first, which typically takes 3 to 14 weeks. Only then does the bonus go out, on the next of the four payment dates. A December purchase may miss February 15 and be paid on May 15. A travel booking takes longer, because the clock starts after the trip ends.
+Neither bonus is instant. The store confirms your purchase, the bonus is confirmed with it, and it goes out on the next payment date after that. A late November purchase confirmed in three weeks is paid on February 15, 2027; one confirmed in 14 weeks is paid on May 15, 2027. More in [when Rakuten pays](/rakuten-when-do-you-get-paid/).
+
+The welcome bonus FAQ says that bonus is sent once its three steps are complete; the welcome bonus terms say it is added to the next cash back payment or points transfer.
 
 ## What counts as a qualifying purchase
 
-A purchase qualifies only if it earns cash back through Rakuten. So anything that earns nothing does not move you toward the $50:
+A purchase qualifies only if it earns cash back through Rakuten.com, the app or the extension. These do not count:
 
-- Purchases on Amazon.com do not count (music.amazon.com is the one exception).
-- Most gift-card purchases earn no cash back.
-- Tax and shipping never earn cash back.
-- Items or categories the store excludes. Each store lists these under its terms on Rakuten.
-- Orders placed by phone or chat.
+- Purchases on Amazon.com (music.amazon.com is the one exception in the terms).
+- Stores listed with no cash back. Walmart showed "No Cash Back" on November 25, 2026.
+- Most gift-card purchases.
+- Tax and shipping.
+- Items or categories the store excludes.
+- Orders placed by phone, chat or customer service.
 
 ## What makes it fail
 
 **Problems with the account**
 
-- You already had a Rakuten account. The bonus is for new members only.
-- You signed up without using the friend's link, so the accounts are not connected.
-- You referred yourself, or the two accounts share a name, address or email. Rakuten can treat that as abuse.
-- You live outside the 50 states or DC. Rakuten's program terms also list Canada, but the current offer terms name only the 50 states and DC.
-- Someone else paid for the purchase. The new member has to be the one who pays.
+- You already had a Rakuten account. Both bonuses are for new members, and the terms allow one account per person.
+- You joined without the member's link or email.
+- You referred yourself, or the two accounts share a name, address or email. The program terms say such accounts may be flagged.
+- You live outside the 50 states or D.C. The program terms also list Canada; the current offer terms name only the 50 states and D.C.
+- Someone else paid for the purchase.
 
 **Problems with the purchase**
 
 - You returned, exchanged or canceled it.
-- You spent under $50 in total, or bought after the 90 days.
-- You used a coupon code that did not come from Rakuten. That can void the cash back.
-- An ad blocker, VPN or cookie blocker stopped the tracking, or you declined cookies.
-- Another shopping or coupon extension took over the click.
+- You spent under the total, or bought after the 90 days.
+- You used a coupon code not listed on Rakuten.
+- An ad blocker, VPN, declined cookies or another coupon extension stopped the tracking.
 - You added items to the cart first and activated Rakuten afterwards.
-- You left the tab idle for a long time, or checked out in a different tab or window.
+- You left the tab idle for a long time, or checked out in a different tab.
 
 **Problems with payment**
 
-- No payment method chosen, or no mailing address on file.
-- The store has not confirmed the purchase yet.
+- No payment method chosen, or no mailing address on file for a check or PayPal.
 
-If a purchase does not show up, wait out the normal confirmation window, then use Rakuten's Missing Cash Back form in its help center.
+If a purchase does not show up after 48 hours, see [what to do about missing cash back](/rakuten-missing-cash-back-what-to-do/).
 
-## Who should not bother
+## For the member who refers
 
-If you would be buying $50 of something you do not need, or will not turn off an ad blocker for one purchase, skip it. Rakuten also has an ordinary welcome bonus outside referral links, which asks for $25 of purchases in 90 days. The two cannot be combined, so compare the amounts shown before picking one.
+The referral page's terms give the referring member a $50 Referral Bonus for each new member who joins between October 1 and December 31, 2026 and meets the purchase test, with no limit on referrals. It is added to the next cash back payment. The referral page says generally within 60 days of the friend's qualifying purchase; the help FAQ says when the friend's cash back is confirmed.
+
+## Who should skip it
+
+- You would be buying $50 of something you do not need.
+- You will not turn off an ad blocker or VPN for one purchase. The order may not track.
+- You plan to make the purchases at Amazon.com or on gift cards.
+- You already have a Rakuten account.
 
 ## Quick answers
 
-**How much do I need to spend?**
-At least $50 in purchases that earn cash back, within 90 days of joining.
+**How much do I need to spend for the Rakuten referral bonus?**
+At least $50 in purchases that earn cash back, within 90 days of joining, under the offer read on November 25, 2026.
 
-**Does an Amazon order count?**
-No. Rakuten's terms leave out Amazon.com purchases.
+**Can I get the welcome bonus and the referral bonus?**
+No. The welcome bonus terms say it cannot be combined with the Referral Sign Up Bonus.
 
-**When is the bonus paid?**
-After the store confirms your purchase, on the next payment date: February 15, May 15, August 15 or November 15.
+**When is the Rakuten bonus paid?**
+After the store confirms your purchase, with the next payment: February 15, May 15, August 15 or November 15.
 
 ## Sources
 
@@ -10797,9 +11029,15 @@ After the store confirms your purchase, on the next payment date: February 15, M
 - [Rakuten: Refer-a-friend program FAQ](https://www.rakuten.com/help/article/referafriend-program-faq-360002117087)
 - [Rakuten: Welcome bonus FAQ for new members](https://www.rakuten.com/help/article/welcome-bonus-new-member-faqs)
 - [Rakuten: Welcome bonus terms](https://www.rakuten.com/help/article/welcome-bonus-terms)
+- [Rakuten: Welcome Boost Bonus terms](https://www.rakuten.com/help/article/welcome-boost-bonus-20416064094355)
+- [Rakuten: How to join Rakuten](https://www.rakuten.com/help/article/how-to-join-rakuten-360002101108)
+- [Rakuten: home page](https://www.rakuten.com/)
+- [Rakuten: Apple store page (welcome bonus text)](https://www.rakuten.com/apple.com)
+- [Rakuten: Walmart store page](https://www.rakuten.com/walmart.com)
 - [Rakuten: When will I get paid?](https://www.rakuten.com/help/article/when-will-i-get-paid-360002117667)
+- [Rakuten: How cash back on travel works](https://www.rakuten.com/help/article/travel-purchases-with-rakuten-360002117527)
 - [Rakuten: Why didn't I earn cash back?](https://www.rakuten.com/help/article/why-didnt-i-earn-cash-back-360036367393)
-- [One Mile at a Time: Earning Amex points with Rakuten](https://onemileatatime.com/guides/amex-points-rakuten/)
+- [Rakuten: Terms and conditions](https://www.rakuten.com/help/article/terms-conditions)
 
 ---
 
@@ -11181,13 +11419,13 @@ On a computer the toolbar icon turns blue. In any case, look for the activation 
 
 ---
 
-# Rakuten Apple cash back: does it work, and what is excluded?
+# Rakuten Apple cash back: is Apple on Rakuten, and what is excluded?
 
 Source: https://itsworththefee.com/rakuten-apple-cash-back-how-it-works/
-Facts checked: 2026-11-24
+Facts checked: 2026-11-25
 Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
 
-Yes, Rakuten pays cash back at Apple, but on a narrow list. Apple was listed at 2% on November 24, 2026, and only for accessories, Apple Refurbished products, AppleCare+ and Beats. A new iPhone, Mac, iPad, Apple Watch or AirPods earns nothing.
+Yes, Apple is on Rakuten, but cash back covers a narrow list. Apple was listed at 2% on November 25, 2026, and only for accessories, Apple Refurbished products, AppleCare+ and Beats. A new iPhone, Mac, iPad, Apple Watch or AirPods earns nothing.
 
 This page is information, not financial advice. Rates change daily, so check Apple's page on Rakuten on the day you buy. For this morning's headline rate here and at other stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/).
 
@@ -11195,20 +11433,20 @@ This page is information, not financial advice. Rates change daily, so check App
 
 Rakuten's terms for Apple say: "Cash Back is only available on Accessories, Apple Refurbished products, AppleCare+ and Beats."
 
-| Earned 2% on November 24, 2026 | Earned nothing |
+| Earned 2% on November 25, 2026 | Earned nothing |
 |---|---|
 | Apple Certified Refurbished | iPhone |
-| AirTag | Mac |
+| AirTag | Mac and MacBooks |
 | Cases and protection | iPad |
 | Apple Watch bands | Apple Watch |
 | Mice and keyboards | AirPods |
-| Other accessories | HomePod and Apple TV |
-| Beats | Apple Vision Pro |
+| Other accessories | HomePod, HomePod mini and Apple TV |
+| Beats by Dre | Apple Vision Pro |
 | AppleCare+ | Gift cards and gift wrap |
 
-Also excluded: Apple displays (Pro Display XDR and Studio Display), Apple Vision Pro accessories, redeeming a gift card, Apple Developer Programs, AppleCare+ and AppleCare One paid as a monthly subscription, orders judged to be for resale, and orders through Apple's employee purchase, government or veterans stores.
+Also excluded: Apple displays (Pro Display XDR and Studio Display), Apple Vision Pro accessories, redeeming a gift card, Apple Developer Programs, AppleCare+ and AppleCare One paid as a monthly subscription, resale orders, and orders through Apple's employee purchase, government or veterans and military stores.
 
-No "was" rate was shown, so 2% looked like the ordinary rate that day, not a raised one.
+No "was" rate was shown, so 2% looked like the ordinary rate that day, not a raised one. That held two days before Black Friday, when many other stores were raised; see [Rakuten on Black Friday](/rakuten-black-friday-cash-back-2026/). Rakuten's Black Friday page features Apple, and the exclusions above still apply.
 
 ## The sums
 
@@ -11233,10 +11471,13 @@ One caution. New Macs, iPads and iPhones are on the excluded list, and the terms
 - **Posting.** Apple's listing says cash back is added to the Rakuten account the same day. It still has to move from pending to confirmed before it is paid; see [when Rakuten pays](/rakuten-when-do-you-get-paid/).
 - **Gift cards.** Buying an Apple gift card earns nothing. More on that in [gift cards and Rakuten](/rakuten-gift-cards-cash-back/).
 - **Other stores.** Apple products sold elsewhere follow that store's terms. The Rakuten listings for [Best Buy](/rakuten-best-buy-cash-back-how-it-works/), [Target](/rakuten-target-cash-back-how-it-works/) and [Kohl's](/rakuten-kohls-cash-back-how-it-works/) each exclude Apple products.
+- **Other phone and laptop makers.** Their own stores have different rules; see [Rakuten at Samsung](/rakuten-samsung-cash-back-how-it-works/).
 
 ## How this fits with other savings
 
 Rakuten cash back comes on top of whatever the credit card earns on the purchase; see [stacking with card rewards](/rakuten-stack-with-credit-card-rewards/). Whether Apple's education pricing or a trade-in changes eligibility is not stated in the terms read, so it is not confirmed.
+
+If an eligible order shows nothing after two days, see [what to do about missing cash back](/rakuten-missing-cash-back-what-to-do/).
 
 ## Who should skip it
 
@@ -11247,26 +11488,27 @@ Rakuten cash back comes on top of whatever the credit card earns on the purchase
 
 ## Quick answers
 
-**Does a new iPhone earn Rakuten cash back at Apple?**
-No. iPhone was on the excluded list on November 24, 2026.
+**Is Apple on Rakuten?**
+Yes. Apple was listed at 2% on November 25, 2026, for accessories, Apple Refurbished products, AppleCare+ and Beats only.
 
-**What rate did Apple pay?**
-2% on accessories, Apple Refurbished products, AppleCare+ and Beats when checked on November 24, 2026. Rates change daily.
+**Does a new iPhone earn Rakuten cash back at Apple?**
+No. iPhone was on the excluded list on November 25, 2026.
 
 **When is Apple cash back added?**
 The listing says the same day. It is paid on Rakuten's next quarterly date after it is confirmed.
 
 ## Not a Rakuten member yet
 
-Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](/is-rakuten-free/). A new member gets one joining bonus, not two. [Welcome bonus or a friend's referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/) compares the two offers as read on November 24, 2026.
+Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](/is-rakuten-free/). A new member gets one joining bonus, not two. [How the sign-up and referral bonuses work](/rakuten-50-bonus-how-it-works/) sets out both offers as read on November 25, 2026.
 
 ## Sources
 
 - [Rakuten: Apple store page](https://www.rakuten.com/apple.com)
+- [Rakuten: Black Friday](https://www.rakuten.com/black-friday)
 - [Rakuten: Kohl's store page](https://www.rakuten.com/kohls.com)
 - [Rakuten: Best Buy store page](https://www.rakuten.com/bestbuy.com)
 - [Rakuten: Target store page](https://www.rakuten.com/target.com)
-- [Rakuten: Tracking your cash back](https://www.rakuten.com/help/article/tracking-your-cash-back-360002117107)
+- [Rakuten: Checking the status of your cash back](https://www.rakuten.com/help/article/tracking-your-cash-back-360002117107)
 
 ---
 
@@ -11475,15 +11717,15 @@ No. Both need about $5 in confirmed cash back.
 
 ---
 
-# Rakuten on Black Friday 2026: how cash back works and which rates are raised
+# Rakuten Black Friday 2026: does Rakuten do Black Friday, and how the cash back works
 
 Source: https://itsworththefee.com/rakuten-black-friday-cash-back-2026/
-Facts checked: 2026-11-23
+Facts checked: 2026-11-25
 Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
 
-Rakuten cash back works on Black Friday (November 27, 2026) and Cyber Monday (November 30) the same way it does on any other day: activate first, then buy. What changes is that many stores' rates are raised for short periods, so the catches are rates that move, items a store excludes, and orders that fail to track.
+Yes, Rakuten does Black Friday. It has a Black Friday page for November 27, 2026, and on November 25 many stores already showed raised cash back rates, such as 10% at Macy's against a usual 2%. Earning works the same as on any other day: activate first, then buy.
 
-This page is information, not financial advice. For this morning's rate at 70 stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/). Not a member yet? See [welcome bonus or referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/).
+This page is information, not financial advice. For this morning's rate at 70 stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/). Not a member yet? Start with [is Rakuten free](/is-rakuten-free/) and [welcome bonus or referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/).
 
 ## The dates
 
@@ -11493,26 +11735,34 @@ This page is information, not financial advice. For this morning's rate at 70 st
 | Cyber Monday | Monday, November 30 |
 | Cyber Week | The days after Cyber Monday; length varies by store |
 
-Rakuten's Cyber Monday page says earning that day "works exactly the same as it does every other day." It also says some stores extend offers through the week and some deals last one day only.
+Rakuten's Black Friday page says earning that day "works exactly the same as it does every other day." It says start dates vary by retailer and that many launch their sales in the week of Thanksgiving. On November 25 Rakuten's home page advertised Black Friday to Cyber Monday shopping with hundreds of brands at up to 15%. Its Cyber Monday page says some stores extend offers through the week and some deals last one day only.
 
-## Rates move, sometimes daily
+## Rates seen on November 25, 2026
 
-Rakuten shows a raised rate next to the usual one with the label "was". These were on Rakuten's store pages on November 23, 2026, read while signed out.
+Rakuten shows a raised rate next to the usual one with the label "was". These were read on Rakuten's pages while signed out.
 
-| Store | Rate seen November 23 | Rate seen November 21 | Rakuten's "was" rate |
+| Store | Rate seen November 25 | Rate seen November 23 | Rakuten's "was" rate |
 |---|---|---|---|
-| Macy's | 10% | 13% | 2% |
-| Dermstore | 10% | 15% | 3% |
-| Walgreens | 10% | 2% | 2% |
+| Macy's | 10% | 10% | 2% |
+| Dermstore | 10% | 10% | 3% |
+| Walgreens | 2% | 10% | No raised rate shown |
 | LEGO | Up to 15% | Up to 15% | 2.5% |
+| kate spade new york | 15% | Not read | 2% |
+| Neiman Marcus | 15% | Not read | 2% |
+| Saks Fifth Avenue | 12% | Not read | 2% |
+| Athleta | 12% | Not read | 2% |
+| PetSmart | 10% | Not read | 2% |
+| HOKA | 9% | Not read | 3% |
+| Samsung | Up to 6% | Not read | 2% |
 
-- Three of the four moved in two days. On November 20 Dermstore showed 20% and Walgreens showed 15%.
-- LEGO's 15% is for NINJAGO items. Its page shows 2.5% on other items that are not excluded and 1.5% on exclusives.
-- A rate can rise or fall before Black Friday. Rakuten has not published store rates for the day in advance; none were found.
+- Rates fall as well as rise. Walgreens went from 10% back to 2% in two days. Dermstore showed 20% on November 20 and 10% on November 25.
+- LEGO's 15% is for NINJAGO items. Its page shows 2.5% on other items that are not excluded and 1.5% on exclusives and hard-to-find items.
+- Not every store is raised. [Apple](/rakuten-apple-cash-back-how-it-works/), [Ulta](/rakuten-ulta-cash-back-how-it-works/) and [Kohl's](/rakuten-kohls-cash-back-how-it-works/) each showed 2% with no "was" label on November 25.
+- Rakuten has not published store rates for November 27 in advance; none were found.
 - "Up to" means only some product categories earn the top figure.
-- Rakuten's terms say rates are personalized and may differ between members. The number in your account is the one that counts.
+- Rakuten's home page says cash back may vary. The number in your account is the one that counts.
 
-Earlier this month Rakuten ran ten one-day offers, one store a day, at rates from 12% to 30%, according to Upgraded Points.
+Earlier this month Rakuten ran ten one-day offers, one store a day from November 1 to 10, at rates from 12% to 30%, according to Upgraded Points.
 
 **Not confirmed:** which rate applies if a store's rate changes between your click and your order, and whether Rakuten adjusts an order when the rate rises later. Rakuten's terms do not say.
 
@@ -11522,34 +11772,36 @@ Each store sets its own. Common ones in Rakuten's help center:
 
 - Gift cards, at most stores.
 - Taxes and shipping.
-- Certain product categories, or a lower rate for them.
-- Orders placed by phone or chat.
+- Certain items, categories or brands, or a lower rate for them.
+- Orders placed by phone, chat or customer service.
 - Orders using a coupon code not listed on Rakuten.
 
-A store's list is behind "See all Terms & Exclusions" on its Rakuten page.
+A store's list is behind "See all Terms & Exclusions" on its Rakuten page. Rakuten's Black Friday page features Apple, but the Apple listing excludes new iPhones, Macs, iPads and Apple Watches.
 
-Coupons are the frequent problem. Rakuten says many codes can be combined with cash back, but codes from other sites can void it. See [stacking with coupons and card rewards](/rakuten-stack-with-credit-card-rewards/).
+Coupons are the frequent problem. Rakuten's Black Friday page says many codes can be used together with cash back, while its help center says codes not listed on Rakuten may void it. See [stacking with coupons and card rewards](/rakuten-stack-with-credit-card-rewards/).
 
 ## Tracking on a busy day
 
 Rakuten lists these reasons an order fails to track:
 
 - Activating after items are already in the cart.
-- An ad blocker, VPN or cookie blocker.
-- Another rewards or coupon extension taking over the click.
+- An ad blocker, VPN or cookie blocker, or declined cookies.
+- Another rewards or coupon site or extension taking over the click.
 - A long idle session, or checking out in a different tab.
 
-For a Black Friday order that means: empty the cart, activate, add the items, and check out in one sitting.
+For a Black Friday order that means: empty the cart, activate, add the items, and check out in one sitting. Rakuten's blog says a second order needs a new shopping trip.
 
-Check your Rakuten account a day or two later. Rakuten's terms give 90 days from the purchase to report missing cash back. For a November 27 order that is February 25, 2027. See [what to do when cash back did not track](/rakuten-missing-cash-back-what-to-do/).
+Check your Rakuten account a day or two later. Rakuten's terms give 90 days from the purchase to report missing cash back. For a November 27 order that is February 25, 2027. A store can set a shorter limit; Best Buy's listing says 30 days from the order date. See [what to do when cash back did not track](/rakuten-missing-cash-back-what-to-do/).
+
+Shopping at the mall instead? Black Friday cash back in a physical store needs a linked card and an offer added first; see [how in-store cash back works](/rakuten-in-store-cash-back-how-it-works/).
 
 ## Returns
 
-Rakuten deducts the cash back on returned, exchanged or canceled items. Cash back stays "pending" while the store's return period runs, so a gift that goes back in January reduces the February payment.
+Rakuten's help center says returned or canceled orders do not earn cash back, and a partial return is adjusted. Cash back stays "pending" while the store's return period runs, so a gift that goes back in January reduces the February payment.
 
 ## When the money arrives
 
-Rakuten says shopping orders typically take 3 to 14 weeks to be confirmed. It pays on fixed dates.
+Rakuten's payment page says online orders typically take 3 to 14 weeks to be confirmed; its status page says 3 to 17 weeks. It pays on fixed dates.
 
 | Order on November 27, 2026 | Confirmed about | Paid |
 |---|---|---|
@@ -11566,26 +11818,31 @@ These dates are worked out from Rakuten's typical range. More in [when Rakuten p
 
 ## Quick answers
 
+**Does Rakuten do Black Friday deals?**
+Yes. Rakuten has a Black Friday page, and many stores showed raised cash back rates on November 25, 2026.
+
 **Are Rakuten rates higher on Black Friday?**
 Many stores show raised rates in late November, but no rate is set in advance and each can change daily.
 
 **When will Black Friday cash back be paid?**
 On February 15 or May 15, 2027, depending on when the store confirms the order.
 
-**Can I add items to my cart before Black Friday?**
-Rakuten says activating after items are in the cart can stop tracking. Activate first, then add them.
-
 ## Sources
 
 - [Rakuten: Black Friday](https://www.rakuten.com/black-friday)
 - [Rakuten: Cyber Monday](https://www.rakuten.com/cyber-monday)
+- [Rakuten: home page](https://www.rakuten.com/)
 - [Rakuten: Macy's](https://www.rakuten.com/macys.com)
 - [Rakuten: Dermstore](https://www.rakuten.com/dermstore.com)
 - [Rakuten: Walgreens](https://www.rakuten.com/walgreens.com)
 - [Rakuten: LEGO](https://www.rakuten.com/shop/lego)
+- [Rakuten: Apple](https://www.rakuten.com/apple.com)
+- [Rakuten: Best Buy](https://www.rakuten.com/bestbuy.com)
 - [Rakuten: Why didn't I earn cash back?](https://www.rakuten.com/help/article/why-didnt-i-earn-cash-back-360036367393)
+- [Rakuten: Checking the status of your cash back](https://www.rakuten.com/help/article/tracking-your-cash-back-360002117107)
 - [Rakuten: When will I get paid?](https://www.rakuten.com/help/article/when-will-i-get-paid-360002117667)
 - [Rakuten: Terms and conditions](https://www.rakuten.com/help/article/terms-conditions)
+- [Rakuten blog: Answers to common questions](https://www.rakuten.com/blog/answers-to-15-common-questions-about-rakuten/)
 - [Upgraded Points: Rakuten November 2026 sale](https://upgradedpoints.com/news/rakuten-30x-november-sale-2026/)
 
 ---
@@ -12092,7 +12349,7 @@ They are a snapshot, not a forecast. Macy's showed 13% on November 21 and 10% tw
 
 Rakuten's Cyber Monday page says the two events now overlap, with many stores running sales through the whole weekend. No Rakuten page says rates are higher on one day than the other. Whether a given store pays more on Friday or on Monday is not confirmed until the day.
 
-One practical difference follows from the origin. Rakuten says some stores add in-store promotions or pickup options on Cyber Monday, but it is mostly an online day. Online orders are where Rakuten's click-through tracking applies.
+One practical difference follows from the origin. Rakuten says some stores add in-store promotions or pickup options on Cyber Monday, but it is mostly an online day. Online orders are where Rakuten's click-through tracking applies; purchases in a physical store earn a different way, covered in [how in-store cash back works](/rakuten-in-store-cash-back-how-it-works/).
 
 The mechanics that apply to both days (exclusions, tracking and returns) are in [how cash back works on Black Friday and Cyber Week](/rakuten-black-friday-cash-back-2026/).
 
@@ -12781,6 +13038,121 @@ Rakuten's terms say within 90 days of the transaction. That applies where a shop
 
 ---
 
+# Rakuten and Gap: how the cash back works and what is excluded
+
+Source: https://itsworththefee.com/rakuten-gap-cash-back-how-it-works/
+Facts checked: 2026-11-25
+Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
+
+Yes. On November 25, 2026, Rakuten's Gap page showed 2% cash back, with no raised rate two days before Black Friday. Collabs, Gap Home, gift cards, items sold and shipped by third-party sellers and the part of an order paid with reward points earn nothing.
+
+This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy. For this morning's headline rate at other stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/).
+
+## The rate, and how it moves
+
+| Date checked | Rate shown | Rakuten's "was" label |
+|---|---|---|
+| November 22, 2026 | 2% | None |
+| November 25, 2026 | 2% | None |
+
+A "was" label appears when a rate has been raised above the store's base rate. Gap's page has none, so 2% is the plain rate. No category table appears. Rakuten's Black Friday page for Gap showed the same 2% on November 25, 2026. Nothing on the page promises a higher rate on Black Friday (November 27, 2026) or Cyber Monday (November 30, 2026).
+
+Rakuten's page gives one more figure: the average cash back earned per Gap shopper was $19.88 as of the end of 2025. It does not say over what period.
+
+## What is excluded
+
+Rakuten's terms for Gap list these as earning nothing:
+
+- Collabs
+- Gap Home
+- Gift cards
+- Items sold and shipped by third-party sellers
+- The part of an order paid with reward points
+
+The terms do not define "collabs". Which product lines count is not confirmed.
+
+## Coupon codes: the firm wording
+
+The Gap terms say that using codes not listed on Rakuten "will void" cash back, and to keep to codes Rakuten provides. Many store pages say "may void"; this one is firmer. On November 25, 2026, Rakuten's page listed one Gap code, for an extra 15% off a purchase.
+
+Rakuten's page also says Gap accepts up to five coupon codes on one online order. That is the store's rule. Under the cash back terms, one code from outside Rakuten is enough to lose the 2%.
+
+The page does not fully agree with itself here. Its terms say outside codes will void cash back; its question-and-answer section says they can void it. The terms are the stricter reading.
+
+## Encore points and GapCash
+
+Encore is the free rewards program shared by Gap, Old Navy, Banana Republic and Athleta. Rakuten's page describes it as 5 points per $1 at the Core level, with free shipping on orders of $50 or more.
+
+- **Earning points.** The page says Encore points and cash back can be earned on the same eligible purchase.
+- **Spending points.** The part of an order paid with reward points earns no cash back.
+- **GapCash.** The page describes GapCash vouchers earned during promotions. The terms name reward points, not GapCash. Whether redeeming GapCash reduces the amount that earns is not confirmed.
+
+One section of Rakuten's page still calls the program "Gap Good Rewards". Both names are on the page.
+
+## Gap Factory is a separate store on Rakuten
+
+Gap Factory has its own Rakuten page, with its own terms. It also showed 2% on November 25, 2026. Its exclusions are shorter: gift cards and the part paid with reward points. A click through Rakuten's Gap page is for gap.com. Whether a Gap Factory order placed after that click earns is not confirmed.
+
+Old Navy is listed separately too; see [Rakuten at Old Navy](/rakuten-old-navy-cash-back-how-it-works/).
+
+## What it comes to
+
+Prices are those shown on Rakuten's Gap page on November 25, 2026.
+
+| Purchase | Price | At 2% |
+|---|---|---|
+| Modern Crew T-Shirt | $15.00 | $0.30 |
+| 100% Cotton Oversized Sweater | $31.00 | $0.62 |
+| A $100 order of eligible items | $100.00 | $2.00 |
+| Gift card or Gap Home item | Any | $0 |
+
+Taxes and shipping do not count.
+
+## Pickup, app and stores
+
+- **Pickup.** Rakuten's page describes curbside and in-store pickup for online orders. The cash back terms do not mention pickup. Not confirmed.
+- **App.** The page says the Gap app has had app-only deals. The terms do not mention the app. A purchase earns only if it starts from a Rakuten link, the Rakuten app or the extension. Whether an order finished in the Gap app tracks is not confirmed.
+- **In stores.** The Gap page showed an online rate only. Gap did not appear in the part of Rakuten's in-store offer list that loaded on November 25, 2026; the list does not load in full, so this is not confirmed. See [how in-store cash back works](/rakuten-in-store-cash-back-how-it-works/).
+- **Returns.** The page describes online returns within 30 days of delivery. Rakuten's general help page says returned or canceled orders do not earn cash back.
+
+## When it shows up
+
+The posting line says cash back is added to the Rakuten account "tomorrow", after the order is confirmed. Payment follows on Rakuten's schedule of four dates a year; see [when Rakuten pays](/rakuten-when-do-you-get-paid/).
+
+## Who should skip it
+
+- You have a code from Gap's emails or app that is not on Rakuten. Using it voids the 2%.
+- You are buying a collab item, Gap Home or a gift card.
+- The item is sold and shipped by a third-party seller.
+- You are paying most of the order with Encore points.
+- You are waiting for a raised rate. None was shown, and none is promised.
+
+## Quick answers
+
+**What rate does Rakuten pay at Gap?**
+2% on November 25, 2026, with no raised rate shown. Rates change daily.
+
+**Can you use a Gap promo code and still get cash back?**
+Only a code listed on Rakuten. The terms say other codes will void cash back.
+
+**Do Encore points and Rakuten cash back stack?**
+Earning both on one purchase is allowed. The part paid with points earns no cash back.
+
+## Not a Rakuten member yet
+
+Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](/is-rakuten-free/). How the joining bonus is earned is laid out in [how the Rakuten bonus works](/rakuten-50-bonus-how-it-works/).
+
+## Sources
+
+- [Rakuten: Gap store page](https://www.rakuten.com/shop/gap)
+- [Rakuten: Gap Black Friday page](https://www.rakuten.com/black-friday/store/gap)
+- [Rakuten: Gap Factory store page](https://www.rakuten.com/shop/gapfactory)
+- [Rakuten: In-store offers](https://www.rakuten.com/in-store)
+- [Rakuten: Why didn't I earn cash back?](https://www.rakuten.com/help/article/why-didnt-i-earn-cash-back-360036367393)
+- [Rakuten: When will I get paid?](https://www.rakuten.com/help/article/when-will-i-get-paid-360002117667)
+
+---
+
 # Do gift card purchases earn Rakuten cash back?
 
 Source: https://itsworththefee.com/rakuten-gift-cards-cash-back/
@@ -12808,8 +13180,8 @@ Each of these listings, read on November 21, 2026, excluded gift card purchases:
 
 | Store | Gift card rule in its Rakuten terms |
 |---|---|
-| Apple | Gift cards excluded |
-| Kohl's | Gift cards excluded |
+| [Apple](/rakuten-apple-cash-back-how-it-works/) | Gift cards excluded |
+| [Kohl's](/rakuten-kohls-cash-back-how-it-works/) | Gift cards excluded |
 | Ulta Beauty | Any gift card, including e-gift cards |
 | HP | Gift card purchases excluded |
 | Dell | Gift cards excluded |
@@ -13377,15 +13749,15 @@ Rakuten's FAQ says confirmed cash back is converted. One travel site says it sta
 
 ---
 
-# How does Rakuten in-store cash back work, and which cards can you link?
+# Rakuten in store: can you use Rakuten in store, and how does in-store cash back work?
 
 Source: https://itsworththefee.com/rakuten-in-store-cash-back-how-it-works/
-Facts checked: 2026-11-23
+Facts checked: 2026-11-25
 Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
 
-You link a payment card to your Rakuten account, add a store's in-store offer before you shop, and pay at the register with that card. Rakuten says you can link most Visa and Mastercard credit and debit cards and most American Express cards.
+Yes, you can use Rakuten in store; it is not only for online shopping. You link a payment card to your Rakuten account, add a store's in-store offer before you shop, and pay at the register with that card. Rakuten says you can link most Visa and Mastercard credit and debit cards and most American Express cards.
 
-This page is information, not financial advice. Rates change daily, so check the offer in the Rakuten app on the day you shop.
+This page is information, not financial advice. Rates change daily, so check the offer in the Rakuten app on the day you shop. New to Rakuten? [How Rakuten works, step by step](/how-does-rakuten-work-step-by-step/) covers the online side.
 
 ## The steps
 
@@ -13394,7 +13766,7 @@ This page is information, not financial advice. Rates change daily, so check the
 3. Pay in the physical store with the linked card.
 4. Keep the receipt until the cash back is confirmed.
 
-Rakuten's FAQ says the purchase is tracked automatically: "you don't need to upload receipts." A newly linked card can take about 24 hours to start reporting, according to the program terms.
+Rakuten's FAQ says the purchase is tracked automatically: "you don't need to upload receipts." There is nothing to show or scan at the register. A newly linked card can take about 24 hours to start reporting, according to the program terms.
 
 ## Which cards you can link
 
@@ -13406,7 +13778,7 @@ Rakuten's FAQ says the purchase is tracked automatically: "you don't need to upl
 | Discover, Diners Club, Wells Fargo Mastercards | No |
 | American Express debit cards, Macy's American Express | No |
 | Apple Card and other virtual cards with a new number each time | No |
-| Corporate, HSA, FSA and government prepaid cards | No |
+| Corporate, purchasing, HSA, FSA and prepaid government or insurance cards | No |
 | Store cards without a Visa, Mastercard or Amex logo | No |
 
 The linking steps, screen by screen, are on [how to link a card for in-store cash back](/rakuten-link-card-for-in-store-cash-back/).
@@ -13415,7 +13787,7 @@ You can link more than one card. Rakuten's in-store page mentions credit cards o
 
 **Debit cards.** Run the card as credit and sign if asked. Rakuten says debit purchases made with a PIN may not qualify.
 
-**Phone wallets.** Rakuten's pages do not agree. The FAQ recommends the physical card and says Apple Pay, Google Wallet and Samsung Pay may not always track. The program terms say Apple Pay and Samsung Wallet are eligible. The physical card avoids the question.
+**Phone wallets.** Rakuten's pages do not agree. The FAQ recommends the physical card and says Apple Pay, Google Wallet and Samsung Pay may not always track. The program terms say Apple Pay and Samsung Wallet are eligible. Rakuten's blog says phone wallets may work at some stores when the linked card is the card behind them. The physical card avoids the question.
 
 ## Rules for offers
 
@@ -13424,33 +13796,39 @@ You can link more than one card. Rakuten's in-store page mentions credit cards o
 | When to add the offer | Before you pay. An offer added after the purchase does not count. |
 | How long it lasts | Most expire 75 days after you add them, or once used |
 | Using it again | Add the offer again after each purchase |
-| Where it works | Physical stores only. Online and phone orders do not qualify. |
-| Gift cards | Some stores do not pay on gift-card purchases |
+| Where it works | Physical stores only, at a store register. Online and phone orders do not qualify. |
+| Exclusions | Some stores do not pay on gift cards or on departments such as pharmacy or automotive |
 
-## Rates seen on November 20, 2026
+## Rates seen on November 25, 2026
 
-"Was" is Rakuten's own label for the usual rate.
+"Was" is Rakuten's own label for the usual rate. These were on Rakuten's in-store page, read while signed out.
 
 | Store | In-store rate seen |
 |---|---|
-| Mattress Firm | 10% (was 2%) |
-| Carhartt | 10% (was 3%) |
-| ASICS | 10% (was 3%) |
-| CVS | 2% |
+| Total Wireless | 22.5% (was 7.5%) |
+| The Paper Store | 12% (was 4%) |
+| Carhartt | 9% (was 3%) |
+| ASICS | 9% (was 3%) |
+| kate spade new york | 6% (was 2%) |
+| Tommy Hilfiger | 5% (was 2.5%) |
 | Famous Footwear | 2% |
 | At Home | 1% |
 
-Most ordinary in-store rates that day were 1% to 4%. The page was cut off when read, so there are more stores than shown.
+Carhartt and ASICS showed 10% on November 20. Ordinary in-store rates in the part of the list that loaded ran from 1% to 4.5%, and most were 2%. Mattress Firm and CVS, seen on November 20, were not in the part that loaded on November 25; whether they still have offers is not confirmed. Large chains with their own pages here, such as [Kohl's](/rakuten-kohls-cash-back-how-it-works/) and [Ulta](/rakuten-ulta-cash-back-how-it-works/), were not seen in it either.
+
+Restaurants are a separate linked-card program. Rakuten's home page says 5% at more than 22,000 participating restaurants, once a card is linked.
 
 ## When the cash back shows up
 
 Pending cash back usually appears within a few days and is typically confirmed in 3 to 14 weeks. See [when Rakuten pays](/rakuten-when-do-you-get-paid/).
 
-If nothing shows, the usual causes are an offer not added first, a card not linked, or a debit card run with a PIN. See [what to do when cash back did not track](/rakuten-missing-cash-back-what-to-do/).
+If nothing shows, Rakuten's FAQ gives three usual causes: the offer was not added before the purchase, the card was not linked, or a debit card was not run as credit. See [what to do when cash back did not track](/rakuten-missing-cash-back-what-to-do/).
+
+The card's own rewards are separate. Rakuten's home page says cash back comes on top of credit card rewards; see [stacking with card rewards](/rakuten-stack-with-credit-card-rewards/).
 
 ## What you agree to when you link a card
 
-The program terms say that by enrolling a card, you agree the card network or processor may monitor transactions on that card at participating stores. Merchant name, location, date and amount are shared so the purchase can be matched. You can remove a card at any time in account settings; past data is kept.
+The program terms say that by enrolling a card, you agree the card network or processor may monitor transactions on that card at participating stores. Merchant name, location, date and amount are shared so the purchase can be matched. You can remove a card at any time in account settings. Rakuten keeps the past transaction data.
 
 ## Who should skip it
 
@@ -13461,41 +13839,43 @@ The program terms say that by enrolling a card, you agree the card network or pr
 
 ## Quick answers
 
-**Which cards work with Rakuten in-store cash back?**
-Most Visa and Mastercard credit and debit cards and most American Express cards. Not Discover or Apple Card.
+**Can you use Rakuten in store?**
+Yes. Link an eligible card, add the store's in-store offer, then pay in the physical store with that card.
+
+**Is Rakuten only for online shopping?**
+No. It also pays on in-store purchases at participating stores and at restaurants, through a linked card.
 
 **Do you need to scan a receipt?**
 No. Tracking is automatic. Keep the receipt in case of a problem.
 
-**Can you use an in-store offer more than once?**
-Only if you add it again. Most offers end once used or after 75 days.
-
 ## Not a Rakuten member yet
 
-Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](/is-rakuten-free/). A new member gets one joining bonus, not two. [Welcome bonus or a friend's referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/) compares the two offers as read on November 24, 2026.
+Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](/is-rakuten-free/). A new member gets one joining bonus, not two. [How the sign-up and referral bonuses work](/rakuten-50-bonus-how-it-works/) sets out both offers as read on November 25, 2026.
 
 ## Sources
 
 - [Rakuten: In-store cash back FAQ](https://www.rakuten.com/help/article/in-store-cash-back-faq-15935028227987)
 - [Rakuten: In-store cash back terms](https://www.rakuten.com/help/article/in-store-cash-back-terms-conditions-115013738007)
 - [Rakuten: In-store offers](https://www.rakuten.com/in-store)
+- [Rakuten: home page](https://www.rakuten.com/)
+- [Rakuten blog: Answers to common questions](https://www.rakuten.com/blog/answers-to-15-common-questions-about-rakuten/)
 - [Rakuten: When will I get paid?](https://www.rakuten.com/help/article/when-will-i-get-paid-360002117667)
 
 ---
 
-# Rakuten Kohl's cash back: does it work, and does it stack with Kohl's Cash?
+# Rakuten Kohl's cash back: does Rakuten work at Kohl's and with Kohl's Cash?
 
 Source: https://itsworththefee.com/rakuten-kohls-cash-back-how-it-works/
-Facts checked: 2026-11-24
+Facts checked: 2026-11-25
 Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
 
-Yes, Rakuten pays cash back at Kohl's. It was listed at 2% on November 24, 2026. The part of an order you pay for with Kohl's Cash earns no Rakuten cash back, and whether a Rakuten-tracked order still earns new Kohl's Cash is not confirmed by either company.
+Yes, Rakuten pays cash back at Kohl's. Kohl's was listed at 2% on November 25, 2026. Gift cards, Apple and Google products and the part of an order you pay for with Kohl's Cash earn no Rakuten cash back, and whether a Rakuten-tracked order still earns new Kohl's Cash is not confirmed by either company.
 
 This page is information, not financial advice. Rates change daily, so check Kohl's page on Rakuten on the day you shop. For this morning's headline rate here and at other stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/).
 
 ## The rate
 
-Kohl's showed a single rate of 2%, with no category rates and no "was" label, so it looked like an ordinary day's rate. Rakuten raises store rates during sales; see [Black Friday on Rakuten](/rakuten-black-friday-cash-back-2026/). Another department store, [Macy's](/rakuten-macys-cash-back-how-it-works/), showed a raised rate the same day.
+Kohl's showed a single rate of 2%, with no category rates and no "was" label, so it looked like an ordinary day's rate. Rakuten raises store rates during sales, and its Black Friday page names Kohl's among its featured stores, but Kohl's was not raised two days before; see [Black Friday on Rakuten](/rakuten-black-friday-cash-back-2026/). Another department store, [Macy's](/rakuten-macys-cash-back-how-it-works/), showed 10% against a usual 2% the same day.
 
 The listing says cash back is added to the Rakuten account the next day. No in-store offer for Kohl's was shown, so this is about online orders.
 
@@ -13511,19 +13891,19 @@ The listing says cash back is added to the Rakuten account the next day. No in-s
 | $10 Kohl's Cash used | $10 | $90 | $1.80 |
 | $30 Kohl's Cash used | $30 | $70 | $1.40 |
 
-**Earning Kohl's Cash.** Kohl's says members earn $10 of Kohl's Cash for every $50 spent during an earn period, and that it can be redeemed only on the dates printed on the coupon. Rakuten's page for Kohl's describes it the same way. Kohl's Cash is issued by Kohl's at checkout, so nothing in Rakuten's terms stops it. A third-party guide says an order tracked by Rakuten still earns it. No Kohl's or Rakuten page read for this article states that, so treat it as likely but not confirmed.
+**Earning Kohl's Cash.** Rakuten's page for Kohl's says shoppers receive $10 in Kohl's Cash for every $50 spent, online or in store, during promotional periods, and that it is spent like store credit on set redemption dates. Kohl's own FAQ could not be opened on November 25, 2026. Kohl's Cash is issued by Kohl's at checkout, so nothing in Rakuten's terms stops it. A third-party guide says an order tracked by Rakuten still earns it. No Kohl's or Rakuten page read for this article states that, so treat it as likely but not confirmed.
 
 ## Coupons and Kohl's Rewards
 
 Rakuten's page for Kohl's says up to four promo codes can be used on one online order, describes using them together with cash back, and says to activate before checking out. Its exclusion list for Kohl's does not mention coupons.
 
-Rakuten's general terms are more careful: a coupon not provided by Rakuten can cause a purchase to be credited elsewhere. If a code came from another coupon site or extension, that is the risk.
+Rakuten's general terms are more careful: a coupon not provided by Rakuten can cause a purchase to be credited elsewhere. If a code came from another coupon site or extension, that is the risk. The general rules are in [stacking with coupons and card rewards](/rakuten-stack-with-credit-card-rewards/).
 
 Whether redeeming Kohl's Rewards lowers the amount Rakuten pays on is not stated on the page.
 
 ## What is excluded
 
-Rakuten's terms for Kohl's, as read on November 24, 2026, exclude:
+Rakuten's terms for Kohl's, as read on November 25, 2026, exclude:
 
 - Gift cards
 - Amazon products
@@ -13537,9 +13917,9 @@ Rakuten's terms for Kohl's, as read on November 24, 2026, exclude:
 - The part of an order paid with Kohl's Cash
 - Purchases made with Masterpass, Visa Checkout or Apple Pay
 
-The last line is easy to miss. Paying with Apple Pay at checkout puts the whole order on the excluded list, so enter the card number the usual way.
+The last line is easy to miss. Paying with Apple Pay at checkout puts the order on the excluded list, so enter the card number the usual way. If an eligible order still shows nothing, see [what to do about missing cash back](/rakuten-missing-cash-back-what-to-do/).
 
-Sephora at Kohl's is not on the exclusion list, and a Sephora sale at Kohl's was listed on the page at 2% that day. Kohl's own Kohl's Cash offer excludes Sephora purchases, which is a separate rule. Sephora's own site is a different listing; see [Rakuten at Sephora](/rakuten-sephora-cash-back-how-it-works/).
+Sephora at Kohl's is not on the exclusion list, and a Sephora sale at Kohl's was listed on the page at 2% that day. Whether a Sephora purchase earns Kohl's Cash is a separate Kohl's rule and was not confirmed on November 25, 2026. Sephora's own site is a different listing; see [Rakuten at Sephora](/rakuten-sephora-cash-back-how-it-works/).
 
 ## Kohl's gift cards
 
@@ -13556,7 +13936,7 @@ Buying a gift card at Kohl's earns nothing. Rakuten separately listed Kohl's gif
 ## Quick answers
 
 **Does Rakuten work at Kohl's?**
-Yes. It showed 2% on November 24, 2026. Rates change daily.
+Yes. Kohl's showed 2% on November 25, 2026. Rates change daily.
 
 **Can you use Kohl's Cash and still get Rakuten cash back?**
 Yes, on the part not paid with Kohl's Cash. The Kohl's Cash portion is excluded.
@@ -13566,14 +13946,13 @@ It was not on the exclusion list, and a Sephora sale at Kohl's was listed at 2% 
 
 ## Not a Rakuten member yet
 
-Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](/is-rakuten-free/). A new member gets one joining bonus, not two. [Welcome bonus or a friend's referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/) compares the two offers as read on November 24, 2026.
+Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](/is-rakuten-free/). A new member gets one joining bonus, not two. [How the sign-up and referral bonuses work](/rakuten-50-bonus-how-it-works/) sets out both offers as read on November 25, 2026.
 
 ## Sources
 
 - [Rakuten: Kohl's store page](https://www.rakuten.com/kohls.com)
 - [Rakuten: Kohl's gift cards](https://www.rakuten.com/mktg/kohls-gift-cards)
 - [Rakuten: Terms and conditions](https://www.rakuten.com/help/article/terms-conditions)
-- [Kohl's: How do I earn Kohl's Cash?](https://www.kohls.com/faq/article/278)
 - [Gerald: Rakuten and Kohl's guide](https://joingerald.com/learn/saving--investing/rakuten-kohls)
 
 ---
@@ -14100,19 +14479,28 @@ Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](
 
 ---
 
-# Rakuten order not showing up or cash back missing: what causes it and how do you claim it?
+# Rakuten missing cash back or cash back not showing up: causes and how to submit a claim
 
 Source: https://itsworththefee.com/rakuten-missing-cash-back-what-to-do/
-Facts checked: 2026-11-23
+Facts checked: 2026-11-25
 Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
 
-Cash back usually fails to track because the click from Rakuten to the store was lost, or because the item or order was excluded. If the store's terms say you should have earned it, file Rakuten's Missing Cash Back form; Rakuten's terms say to do so within 90 days of the purchase.
+Rakuten cash back usually goes missing because the click from Rakuten to the store was lost, or because the item or order was excluded. If it is still not showing up after 48 hours and the store's terms say you should have earned it, submit Rakuten's Missing Cash Back form; Rakuten's terms say to report it within 90 days of the purchase.
 
-This page is information, not financial advice.
+This page is information, not financial advice. Every figure here was re-read on Rakuten's pages on November 25, 2026.
 
 ## First, give it two days
 
-Rakuten says a new order shows as "processing" for 24 to 48 hours while it waits for the store. Travel is slower: outside Expedia, a booking may not show as pending until the trip is over. The usual waits by type of purchase are on [how long a purchase takes to show up](/rakuten-how-long-until-purchase-shows-up/).
+Rakuten says a new order shows as "processing" while it waits for the store, which typically takes 24 to 48 hours. Travel is slower: Rakuten says a booking may not show as pending until the trip is over, except at Expedia, where it shows within 5 days of the reservation. The usual waits by type of purchase are on [how long a purchase takes to show up](/rakuten-how-long-until-purchase-shows-up/).
+
+| Status in your account | What Rakuten says it means |
+|---|---|
+| Processing | Waiting for the store to send the order details; typically 24 to 48 hours |
+| Pending | The store reported the order; a wait for returns and changes follows |
+| Confirmed | Added to your confirmed balance and included in the next payment |
+| Ineligible | The order does not qualify: a return, an exclusion, a coupon not found on Rakuten |
+
+Rakuten's pages give two figures for the pending wait: 3 to 14 weeks on the payment page and 3 to 17 weeks on the status page.
 
 ## Which problem do you have?
 
@@ -14120,7 +14508,7 @@ Rakuten separates two cases.
 
 | What you see in your account | What it means | Usual cause |
 |---|---|---|
-| No shopping trip at all | Rakuten has no record that you clicked through | Tracking was blocked or the click was replaced |
+| No shopping trip at all | Rakuten has no record that you clicked through | The tracking cookie was blocked or never placed |
 | A shopping trip, but $0 or "ineligible" | The click was recorded; the order did not qualify | An exclusion, a return or a cancellation |
 
 ## The causes Rakuten lists
@@ -14128,33 +14516,34 @@ Rakuten separates two cases.
 **The click was lost**
 
 - An ad blocker, VPN or cookie blocker was on, or cookies were declined.
-- Another rewards or coupon extension took over the click.
+- Another rewards or coupon site or extension took over the click.
 - You checked out in a different tab, or after the session sat idle too long.
-- You activated cash back after items were already in the cart.
-- The order was placed by phone or chat.
+- You activated cash back after items were already in the cart. This is covered in [forgot to activate Rakuten](/rakuten-forgot-to-activate-cash-back/).
+- The order was placed by phone, chat or customer service.
 - You paid with a button such as PayPal, Apple Pay, Shop Pay, Google Pay or Samsung Pay. Rakuten's blog says these open a new window or app that may interrupt tracking.
+- You placed a second order without starting a new shopping trip. The blog says each order needs its own.
 
 **The order did not qualify**
 
 - The item, category or brand is excluded at that store.
 - You used a coupon code that Rakuten did not list.
-- The order was returned, exchanged or canceled.
+- The order was returned or canceled. A partial return is adjusted.
 - It was a gift card purchase. Most are excluded, and some stores exclude orders paid with a gift card.
-- For travel, the booking was changed after it was made.
+- For travel, the booking was changed after it was made. Rakuten says any change voids the cash back.
 
-A preorder or an order that ships in parts may not show until the item ships, according to Rakuten's blog.
+A preorder earns when the item ships, not when it is ordered, and an order that ships in parts may show as separate amounts, according to Rakuten's blog.
 
 Taxes and shipping never earn cash back, and a category may pay less than the headline "up to" rate, so a smaller amount is not always an error.
 
-## How to claim, step by step
+## How to submit a claim, step by step
 
 1. Wait 48 hours after the order. For travel, wait until after the trip unless you booked at Expedia.
 2. Open the store's page on Rakuten and read "See all Terms & Exclusions". If your item or payment type is excluded there, there is nothing to claim.
-3. Check your Rakuten account for a shopping trip on that date. In the iOS and Android apps the page is called Shopping Trips, and Rakuten says it lists every store where you activated cash back, whether or not you bought.
-4. Gather the order confirmation email, with the order number, date and amount before tax and shipping. Rakuten's terms say it may ask for a receipt or other documents.
-5. File the Missing Cash Back form at rakuten.com/help/missing-cash-back, signed in to your account.
+3. Check your Rakuten account for a shopping trip on that date. In the iOS and Android apps the page is called Shopping Trips, and Rakuten says it lists every place you activated cash back, whether or not you bought.
+4. Gather the order confirmation email. Rakuten's blog lists what to keep: retailer name, order number, date, items purchased and total amount, plus the full itinerary for travel.
+5. Submit the Missing Cash Back form at rakuten.com/help/missing-cash-back, signed in to your account.
 
-What the form asks for and how long a review takes are not confirmed; the form sits behind sign-in.
+What the form asks for and how long a review takes are not confirmed; the form sits behind sign-in. For a purchase in a physical store, Rakuten's in-store FAQ points to its contact page instead and says Member Services uses the receipt.
 
 ## The claim window
 
@@ -14162,17 +14551,17 @@ What the form asks for and how long a review takes are not confirmed; the form s
 |---|---|
 | Rakuten's terms and conditions (section 10.4) | Within 90 days of the transaction |
 | Rakuten's help articles | No deadline stated |
-| One third-party site | 45 days |
+| Best Buy's listing on Rakuten | Within 30 days from the order date |
 
-Sources disagree. File soon after the 48 hours, and treat 90 days as the outer limit.
+A store can set a shorter window than the general one, so read the store's special terms. Submit soon after the 48 hours, and treat 90 days as the outer limit.
 
 This matters for travel. A stay booked four months ahead may not show as pending until after checkout, when 90 days from the booking have passed. Ask Rakuten early.
 
 ## What a claim can and cannot do
 
-Rakuten is paid by the store. Its terms say that if a store does not pay Rakuten for a transaction, Rakuten may cancel the cash back for it. A claim asks Rakuten to check the order with the store; it is not a guarantee. Approved cash back is still paid on the usual dates; see [when Rakuten pays](/rakuten-when-do-you-get-paid/).
+Rakuten is paid by the store. Its terms say that if a store does not pay Rakuten for a transaction, Rakuten may cancel the cash back for it, and that Rakuten decides whether a purchase qualifies. A claim asks Rakuten to check the order with the store; it is not a guarantee. Approved cash back is still paid on the usual dates; see [when Rakuten pays](/rakuten-when-do-you-get-paid/).
 
-To prevent a repeat: start at Rakuten with an empty cart, stay in the same tab, turn off ad blockers and other coupon extensions, and use only codes shown on Rakuten.
+To prevent a repeat: start at Rakuten with an empty cart, stay in the same tab, turn off other coupon extensions, and use only codes shown on Rakuten. Rakuten also offers a filter list for people who keep an ad blocker on. These steps matter most on busy days; see [Rakuten on Black Friday](/rakuten-black-friday-cash-back-2026/).
 
 For purchases in a physical store the causes differ. See [how in-store cash back works](/rakuten-in-store-cash-back-how-it-works/).
 
@@ -14184,26 +14573,26 @@ For purchases in a physical store the causes differ. See [how in-store cash back
 
 ## Quick answers
 
-**How long do you have to claim missing Rakuten cash back?**
-Rakuten's terms say within 90 days of the transaction. Its help pages give no deadline.
+**How long do you have to submit missing Rakuten cash back?**
+Rakuten's terms say within 90 days of the transaction. Its help pages give no deadline, and a store can set less.
 
-**Where is the Missing Cash Back form?**
-At rakuten.com/help/missing-cash-back, after you sign in.
+**Where do you submit missing cash back on Rakuten?**
+On the Missing Cash Back form at rakuten.com/help/missing-cash-back, after you sign in.
 
-**Why does my order show $0 cash back?**
-The click was recorded but the order did not qualify, usually an exclusion, return or cancellation.
+**Why is my Rakuten cash back not showing up?**
+In the first 48 hours it may still be processing. After that, the click was lost or the order did not qualify.
 
 ## Sources
 
 - [Rakuten: Why didn't I earn cash back?](https://www.rakuten.com/help/article/why-didnt-i-earn-cash-back-360036367393)
-- [Rakuten: Tracking your cash back](https://www.rakuten.com/help/article/tracking-your-cash-back-360002117107)
+- [Rakuten: Checking the status of your cash back](https://www.rakuten.com/help/article/tracking-your-cash-back-360002117107)
+- [Rakuten: When will I get paid?](https://www.rakuten.com/help/article/when-will-i-get-paid-360002117667)
 - [Rakuten: Account FAQ](https://www.rakuten.com/help/article/account-faq-34279916493843)
 - [Rakuten blog: Answers to common questions](https://www.rakuten.com/blog/answers-to-15-common-questions-about-rakuten/)
 - [Rakuten: Terms and conditions](https://www.rakuten.com/help/article/terms-conditions)
-- [Rakuten: How cash back on travel works](https://www.rakuten.com/help/article/how-cash-back-on-travel-works-360002117527)
+- [Rakuten: How cash back on travel works](https://www.rakuten.com/help/article/travel-purchases-with-rakuten-360002117527)
+- [Rakuten: Best Buy store page](https://www.rakuten.com/bestbuy.com)
 - [Rakuten: In-store cash back FAQ](https://www.rakuten.com/help/article/in-store-cash-back-faq-15935028227987)
-- [Rakuten: In-store cash back terms](https://www.rakuten.com/help/article/in-store-cash-back-terms-conditions-115013738007)
-- [Gerald: Rakuten missing cash back](https://joingerald.com/learn/financial-wellness/rakuten-missing-cash-back)
 
 ---
 
@@ -14513,6 +14902,127 @@ Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](
 - [Rakuten: Why didn't I earn cash back?](https://www.rakuten.com/help/article/why-didnt-i-earn-cash-back-360036367393)
 - [Rakuten: Redeeming cash back for gift cards FAQ](https://www.rakuten.com/help/article/redeeming-cash-back-for-gift-cards-faq-35415901080851)
 - [Rakuten: In-store offers](https://www.rakuten.com/in-store)
+
+---
+
+# Rakuten and Petco: how the cash back works and what is excluded
+
+Source: https://itsworththefee.com/rakuten-petco-cash-back-how-it-works/
+Facts checked: 2026-11-25
+Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
+
+Yes. On November 25, 2026, Rakuten's Petco page showed 2% cash back online and 2% in stores. Grooming, training, pharmacy items, Vital Care, gift cards, donations and every repeat delivery after the first earn nothing.
+
+This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy. For this morning's headline rate at other stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/).
+
+## The rate, and how it moves
+
+| Date checked | Where seen | Rate shown |
+|---|---|---|
+| November 21, 2026 | Rakuten's Black Friday page | 10% (was 2%) |
+| November 25, 2026 | Petco store page | 2% online, 2% in-store |
+| November 25, 2026 | Petco Black Friday page | 2% |
+
+The raised rate seen on November 21 was not on the page four days later. No category table appears, so the one rate covers all eligible items. Black Friday is November 27, 2026. Nothing on the page says whether a raised rate returns.
+
+## What is excluded
+
+Rakuten's terms for Petco list these as earning nothing:
+
+- Grooming services
+- Training
+- Pharmacy items
+- Petco Vital Care
+- Gift cards
+- Donations
+- The part of an order paid with Vital Care Rewards
+- Repeat delivery subscriptions after the first delivery
+
+Veterinary services are not named in the terms. Not confirmed. A separate Rakuten help page names Petco among stores that pay no cash back on the part of an order paid with a gift card.
+
+The services rule differs by store. PetSmart's terms on Rakuten pay cash back on grooming; Petco's exclude it. See [Rakuten at PetSmart](/rakuten-petsmart-cash-back-how-it-works/).
+
+## Repeat Delivery
+
+Repeat Delivery is the store's subscription for regular orders. The first delivery earns cash back and later ones do not. Rakuten's page says the first qualifying Repeat Delivery order gets 30% off; that is the store's discount and can change. [Chewy's terms](/rakuten-chewy-cash-back-how-it-works/) have a similar rule for repeat orders.
+
+## Vital Care
+
+Rakuten's page describes the Vital Care Core level as earning 5 Reward Dollars for every $100 spent. Two rules touch it:
+
+- Buying Petco Vital Care itself earns no cash back.
+- The part of an order paid with Vital Care Rewards earns no cash back.
+
+Earning rewards on an order is not named as a problem.
+
+## In stores: a linked card, not a click
+
+Petco is one of the stores with an in-store rate on its Rakuten page. It works through a card linked to the Rakuten account and an offer added before paying. The in-store terms on the page say:
+
+- US stores only, not locations in US territories.
+- Gift card purchases do not count.
+- A debit card must be run as credit, without a PIN.
+- Once the offer is added and first used, further purchases count for up to 1 hour. After that it must be added again.
+- An added offer that is not used expires 45 days after it is added, or when the offer ends if sooner.
+- If the same store is added on more than one rewards site, only the most recently added offer pays.
+- In-store offers are not valid for online purchases and cannot be combined with other offers.
+
+Whether the online exclusions, such as grooming and training, also apply to a linked-card payment in a store is not confirmed; the in-store terms name gift cards only. Setup is covered in [how to link a card for in-store cash back](/rakuten-link-card-for-in-store-cash-back/).
+
+## What it comes to
+
+Prices are those shown on Rakuten's Petco page on November 25, 2026.
+
+| Purchase | Price | At 2% |
+|---|---|---|
+| Purina Pro Plan dog food, 40 lb | $97.99 | $1.96 |
+| Arm & Hammer cat litter, 38 lb | $30.99 | $0.62 |
+| Grooming or training | Any | $0 |
+| Second and later repeat deliveries | Any | $0 |
+
+Taxes and shipping do not count. Rakuten's page says Petco ships free on orders of $49 or more, with exclusions.
+
+## Pickup, app and returns
+
+- **Pickup.** Rakuten's page listed a store deal for 10% off pickup orders of $50 or more, shown with the 2% rate beside it. The terms themselves do not mention pickup. Because in-store offers are "not valid for online purchases", an order placed online for pickup falls under the online offer, if it earns. Not confirmed.
+- **App.** The terms do not mention the Petco app. An online purchase earns only if it starts from a Rakuten link, the Rakuten app or the extension.
+- **Returns.** No store rule is listed. Rakuten's general help page says returned or canceled orders do not earn cash back.
+
+## When it shows up
+
+The posting line says cash back is added to the Rakuten account "tomorrow". That is the pending entry. Payment follows on Rakuten's four dates a year; see [when Rakuten pays](/rakuten-when-do-you-get-paid/).
+
+## Who should skip it
+
+- Your orders are repeat deliveries. Only the first one earns.
+- You are paying for grooming, training or pharmacy items.
+- You pay with Vital Care Rewards or a gift card.
+- You shop at a Petco in a US territory and planned on the in-store rate.
+- You have a discount elsewhere worth more than 2% on the same item.
+
+## Quick answers
+
+**What rate does Rakuten pay at Petco?**
+2% online and 2% in stores on November 25, 2026. Rates change daily.
+
+**Do Petco Repeat Delivery orders earn cash back?**
+The first delivery does. Later deliveries do not.
+
+**Does Petco grooming earn cash back?**
+No. The terms exclude grooming services and training.
+
+## Not a Rakuten member yet
+
+Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](/is-rakuten-free/). The steps from first click to payment are in [how Rakuten works, step by step](/how-does-rakuten-work-step-by-step/).
+
+## Sources
+
+- [Rakuten: Petco store page](https://www.rakuten.com/shop/petco)
+- [Rakuten: Petco Black Friday page](https://www.rakuten.com/black-friday/store/petco)
+- [Rakuten: Black Friday page](https://www.rakuten.com/black-friday)
+- [Rakuten: Redeeming cash back for gift cards FAQ](https://www.rakuten.com/help/article/redeeming-cash-back-for-gift-cards-faq-35415901080851)
+- [Rakuten: Why didn't I earn cash back?](https://www.rakuten.com/help/article/why-didnt-i-earn-cash-back-360036367393)
+- [Rakuten: When will I get paid?](https://www.rakuten.com/help/article/when-will-i-get-paid-360002117667)
 
 ---
 
@@ -14876,7 +15386,7 @@ Publisher: Worth the Fee (independent; some pages end with a disclosed referral 
 
 Yes. On November 21, 2026, Rakuten's Sephora page showed 4% cash back, raised from a usual 2%. Gift cards, auto-ship subscription orders and the part of an order paid with rewards are excluded, and a coupon code not listed on Rakuten may void it.
 
-This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy. For this morning's headline rate here and at other stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/).
+This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy. For this morning's headline rate here and at other stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/). The other large beauty listing is [Rakuten at Ulta](/rakuten-ulta-cash-back-how-it-works/).
 
 ## The rate, and how it moves
 
@@ -14965,6 +15475,114 @@ Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](
 - [Rakuten: Terms and conditions](https://www.rakuten.com/help/article/terms-conditions)
 - [Rakuten: In-store offers](https://www.rakuten.com/in-store)
 - [Rakuten: When will I get paid?](https://www.rakuten.com/help/article/when-will-i-get-paid-360002117667)
+
+---
+
+# Rakuten and SHEIN: how the cash back works and what is excluded
+
+Source: https://itsworththefee.com/rakuten-shein-cash-back-how-it-works/
+Facts checked: 2026-11-25
+Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
+
+Yes. On November 25, 2026, Rakuten's SHEIN page showed 6% cash back, raised from a usual 2%. Buying or redeeming gift cards, subscriptions and the redemption of SHEIN reward points earn nothing, and a coupon code not listed on Rakuten may void the cash back.
+
+This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy. For this morning's headline rate at other stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/).
+
+## Where the store page is
+
+Rakuten files SHEIN under an older store name. On November 25, 2026:
+
+| Rakuten address | What it returned |
+|---|---|
+| rakuten.com/shein.com | "Page Not Found" |
+| rakuten.com/shop/shein | A general Rakuten page with no store rate |
+| rakuten.com/shop/sheinside | The SHEIN store page, 6% (was 2%) |
+| rakuten.com/sheinside.com | The same SHEIN store page |
+
+A missing page at the first two addresses does not mean the store has no offer. Searching for SHEIN on Rakuten leads to the working page.
+
+## The rate, and how it moves
+
+| Date checked | Rate shown | Rakuten's "was" label |
+|---|---|---|
+| November 25, 2026 | 6% | 2% |
+
+"Was" is Rakuten's own label for the store's base rate. No category table appears, so the one rate covers all eligible items. Rakuten's Black Friday page for the store showed the same 6% on the same day. Black Friday is November 27, 2026. Nothing on the page says how long 6% lasts.
+
+## What is excluded
+
+Rakuten's terms for SHEIN list these as earning nothing:
+
+- The purchase of gift cards
+- The redemption of gift cards
+- Subscriptions
+- The redemption of reward points
+- Orders that originate outside a list of 28 countries
+
+The terms do not say which subscriptions they mean. Not confirmed.
+
+## The country rule
+
+This term is unusual among store pages on Rakuten. Cash back is paid only on orders that originate from the United States or one of 27 other listed countries, among them Canada, Mexico, the United Kingdom, Australia, France, Germany, Italy and Spain. The terms say orders from anywhere else "will void" cash back. The terms do not say how the origin of an order is judged, such as by shipping address or by the country version of the site. Not confirmed.
+
+## Coupon codes and points
+
+**Coupon codes.** The terms say codes not listed on Rakuten may void cash back. Rakuten's page adds that SHEIN accepts a single coupon code per order.
+
+**SHEIN points.** Rakuten's page describes the store's loyalty program as 1 point per $1 spent, with 100 points worth $1 off, and points covering up to 70% of an order before tax and shipping. Earning points is not named as a problem. Redeeming them is: the terms say cash back is not available on the redemption of reward points. Whether the rest of an order paid partly with points still earns is not confirmed.
+
+## What it comes to
+
+| Order, before tax and shipping | At the base 2% | At 6% |
+|---|---|---|
+| $29 | $0.58 | $1.74 |
+| $60 | $1.20 | $3.60 |
+| $100 | $2.00 | $6.00 |
+| Gift card, bought or redeemed | $0 | $0 |
+
+The $29 row is the free standard shipping threshold shown on Rakuten's page.
+
+## App, pickup and returns
+
+- **App.** The terms do not mention the SHEIN app. A purchase earns only if it starts from a Rakuten link, the Rakuten app or the extension. Whether an order finished in the SHEIN app tracks is not confirmed. The gap between the app and the extension is covered in [Rakuten app or browser extension](/rakuten-app-vs-browser-extension/).
+- **Pickup and stores.** The page shows an online rate only, with no in-store rate.
+- **Returns.** Rakuten's page describes free returns for up to 45 days, with free return shipping on the first return from an order only. No cash back rule for returns is listed for this store. Rakuten's general help page says returned or canceled orders do not earn cash back.
+
+## When it shows up
+
+The posting line on the page says cash back is added to the Rakuten account "today". That is the pending entry, not the payment. See [how long until a purchase shows up](/rakuten-how-long-until-purchase-shows-up/) and [what to do when cash back did not track](/rakuten-missing-cash-back-what-to-do/).
+
+Temu, a similar marketplace, has different terms; see [Rakuten at Temu](/rakuten-temu-cash-back-how-it-works/).
+
+## Who should skip it
+
+- You have a coupon code from another site that saves more than 6%. Only one code applies per order.
+- You plan to pay with SHEIN points or a gift card.
+- You are ordering from a country outside the list.
+- You are buying a gift card.
+- The order is small. At $29, the gap between 2% and 6% is $1.16.
+
+## Quick answers
+
+**What rate does Rakuten pay at SHEIN?**
+6% on November 25, 2026, against a base rate of 2%. Rates change daily.
+
+**Why does Rakuten's SHEIN address show "Page Not Found"?**
+The store page sits under the name sheinside. The shein.com address on Rakuten returned an error page on November 25, 2026.
+
+**Do SHEIN points and Rakuten cash back work together?**
+Earning points is not excluded. Redeeming points is: the terms pay no cash back on it.
+
+## Not a Rakuten member yet
+
+Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](/is-rakuten-free/). The steps from first click to payment are in [how Rakuten works, step by step](/how-does-rakuten-work-step-by-step/).
+
+## Sources
+
+- [Rakuten: SHEIN store page](https://www.rakuten.com/shop/sheinside)
+- [Rakuten: SHEIN Black Friday page](https://www.rakuten.com/black-friday/store/sheinside)
+- [Rakuten: shein.com address](https://www.rakuten.com/shein.com)
+- [Rakuten: Why didn't I earn cash back?](https://www.rakuten.com/help/article/why-didnt-i-earn-cash-back-360036367393)
 
 ---
 
@@ -15499,13 +16117,13 @@ Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](
 
 ---
 
-# Rakuten Ulta cash back: does it work, and what is excluded?
+# Rakuten Ulta cash back: does Rakuten work at Ulta, and what is excluded?
 
 Source: https://itsworththefee.com/rakuten-ulta-cash-back-how-it-works/
-Facts checked: 2026-11-24
+Facts checked: 2026-11-25
 Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
 
-Yes, Rakuten works at Ulta Beauty. It was listed at 2% on November 24, 2026. Dior products, Marketplace items, gift cards and the part of an order paid with Ulta rewards earn nothing.
+Yes, Rakuten works at Ulta Beauty. Ulta was listed at 2% on November 25, 2026. Dior products, Marketplace items, gift cards and the part of an order paid with Ulta rewards earn nothing.
 
 This page is information, not financial advice. Rates change daily, so check Ulta's page on Rakuten on the day you shop. For this morning's headline rate here and at other stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/).
 
@@ -15519,20 +16137,20 @@ Ulta showed one rate, 2%, across the store. There were no category rates and no 
 | $75 | $1.50 |
 | $150 | $3.00 |
 
-Rates at beauty stores can rise in sale weeks. On November 20, 2026 Rakuten's Black Friday page showed another beauty store at 20% against a usual 3%. Ulta's rate was not raised on the day checked; see [Black Friday on Rakuten](/rakuten-black-friday-cash-back-2026/). The other large beauty listing is covered in [Rakuten at Sephora](/rakuten-sephora-cash-back-how-it-works/), and Sephora shops inside another chain in [Rakuten at Kohl's](/rakuten-kohls-cash-back-how-it-works/).
+Rates at beauty stores can rise in sale weeks. On November 25, 2026 Rakuten listed Dermstore at 10% against a usual 3%. Ulta's rate was not raised that day, two days before Black Friday, though Rakuten's Black Friday page names Ulta among its featured stores; see [Black Friday on Rakuten](/rakuten-black-friday-cash-back-2026/). The other large beauty listing is covered in [Rakuten at Sephora](/rakuten-sephora-cash-back-how-it-works/), and Sephora shops inside another chain in [Rakuten at Kohl's](/rakuten-kohls-cash-back-how-it-works/).
 
 The listing says cash back is added to the Rakuten account in a few days.
 
 ## What is excluded
 
-Rakuten's terms for Ulta, as read on November 24, 2026:
+Rakuten's terms for Ulta, as read on November 25, 2026:
 
 | Excluded | What it means in practice |
 |---|---|
 | Dior products | A Dior item in the cart earns nothing; the other items still count |
 | Marketplace items | Items sold through Ulta's Marketplace by other sellers |
 | Part paid with Rewards or Rewards Discount | Ulta points used at checkout reduce the amount that earns |
-| Gift cards, including e-gift cards | Buying one earns nothing |
+| Gift cards, including e-gift cards | Buying one earns nothing; see [gift cards and Rakuten](/rakuten-gift-cards-cash-back/) |
 | Coupon codes not listed on Rakuten | May void the cash back |
 
 The gift card line is firm. Rakuten's terms say: "Purchases of any gift card including e-gift cards are not eligible for Cash Back."
@@ -15548,7 +16166,7 @@ Redeeming Ulta rewards does not cancel the cash back. It shrinks the base.
 | No rewards used | $0 | $100 | $2.00 |
 | $17.50 in rewards used | $17.50 | $82.50 | $1.65 |
 
-Whether an order tracked by Rakuten still earns Ulta's own points is not stated on Rakuten's page. Ulta issues those points itself, so nothing in Rakuten's terms prevents it. It is not confirmed.
+Rakuten's page describes Ulta's program as one point for every $1 spent, with Platinum status at $450 and Diamond at $1,200 in a calendar year. Whether an order tracked by Rakuten still earns those points is not stated there. Ulta issues the points itself, so nothing in Rakuten's terms prevents it. It is not confirmed.
 
 ## Coupons
 
@@ -15565,7 +16183,7 @@ If the outside coupon is worth more, use it and treat any cash back as a bonus.
 
 ## How to keep the order eligible
 
-Rakuten's help pages give the same steps for every store:
+Rakuten's help pages give the same steps for every store, set out in full in [how Rakuten works, step by step](/how-does-rakuten-work-step-by-step/):
 
 - Activate cash back before adding anything to the cart.
 - Check out in the same window that opened from Rakuten.
@@ -15586,7 +16204,7 @@ Cash back also comes on top of what your credit card earns; see [stacking with c
 ## Quick answers
 
 **Does Rakuten work at Ulta?**
-Yes. It showed 2% on November 24, 2026. Rates change daily.
+Yes. Ulta showed 2% on November 25, 2026. Rates change daily.
 
 **Which brands are excluded at Ulta?**
 Dior was the only brand named in the terms read. Marketplace items are also excluded.
@@ -15596,13 +16214,14 @@ No. The terms exclude any gift card, including e-gift cards.
 
 ## Not a Rakuten member yet
 
-Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](/is-rakuten-free/). A new member gets one joining bonus, not two. [Welcome bonus or a friend's referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/) compares the two offers as read on November 24, 2026.
+Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](/is-rakuten-free/). A new member gets one joining bonus, not two. [How the sign-up and referral bonuses work](/rakuten-50-bonus-how-it-works/) sets out both offers as read on November 25, 2026.
 
 ## Sources
 
 - [Rakuten: Ulta Beauty store page](https://www.rakuten.com/ulta.com)
 - [Rakuten: Why didn't I earn cash back?](https://www.rakuten.com/help/article/why-didnt-i-earn-cash-back-360036367393)
 - [Rakuten: Black Friday page](https://www.rakuten.com/black-friday)
+- [Rakuten: Dermstore store page](https://www.rakuten.com/dermstore.com)
 
 ---
 
@@ -15689,6 +16308,90 @@ No. Both companies say another rewards extension can stop their tracking.
 - [Rakuten: Terms and conditions](https://www.rakuten.com/help/article/terms-conditions)
 - [The Points Guy: Capital One Shopping guide](https://thepointsguy.com/loyalty-programs/capital-one-shopping/)
 - [AwardWallet: Capital One Shopping](https://awardwallet.com/credit-cards/capital-one-rewards/capital-one-shopping/)
+
+---
+
+# Rakuten or PayPal Honey: which one fits, and can you use both?
+
+Source: https://itsworththefee.com/rakuten-vs-paypal-honey/
+Facts checked: 2026-11-25
+Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
+
+Rakuten pays cash back by check or PayPal, or as American Express points, on four set dates a year. PayPal Honey is mainly a coupon-code search that also pays PayPal Rewards points at some stores. You can hold both accounts, but both companies say only one rewards program is credited for a given purchase.
+
+This page is information, not financial advice.
+
+## Side by side
+
+| | Rakuten | PayPal Honey |
+|---|---|---|
+| Cost | Free | Free |
+| Main job | Cash back at stores | Tests coupon codes at checkout; points at participating stores |
+| What you earn | Cash back, or Amex or Bilt points | PayPal Rewards points; 100 points = $1 at PayPal checkout |
+| How you are paid | Check, PayPal, Samsung Cash or points | Points used at PayPal checkout, store e-gift cards, or a donation |
+| Minimum | $5 on the help page; $5.01 in the terms | 1,000 points ($10) for a gift card; for PayPal checkout, any minimum is shown when you redeem |
+| Wait | Typically 3 to 14 weeks to confirm, then the next of four payment dates | Pending in 2 to 14 days; stays pending about 60 to 90 days; then redeem on request |
+| Sign-up | Email and password, or Facebook, Google or Apple | Google, PayPal or Apple |
+| Do rewards expire | Idle 12 months: a $5 monthly fee may come out of the balance | Points expire unless you earn 10 points every 365 days, or meet PayPal's activity rule |
+
+## How each one pays
+
+**Rakuten.** Confirmed cash back is sent by February 15, May 15, August 15 and November 15. Eligible American Express card members can take Membership Rewards points in place of cash. See [when Rakuten pays](/rakuten-when-do-you-get-paid/) and [Amex points instead of cash](/rakuten-amex-points-instead-of-cash/).
+
+**Honey.** Honey's help center describes a free browser extension that tests coupon codes at checkout on more than 30,000 sites. Points are a second feature. Honey says they are not offered at every store it supports, and you turn them on with a button in the extension.
+
+Points are redeemed on request, not on a schedule. Honey's and PayPal's help pages list three ways: toward a purchase at PayPal checkout, as a store e-gift card (emailed within 24 hours), or as a donation. Redeeming through PayPal needs a US personal PayPal account in good standing, linked to the Honey account by the same email address.
+
+Sources disagree on one thing. PayPal's program terms, last updated March 17, 2025, also describe redeeming points as cash sent to a PayPal account. PayPal's current help page does not list that option, so whether cash redemption is still open is not confirmed.
+
+## Can you use both on one purchase?
+
+Not for rewards. Each company's own help page says so.
+
+- Rakuten: clicking a link from another coupon or rewards site after activating Rakuten will disable its cash back. It asks members to disable or uninstall competing extensions.
+- Honey: when two or more rewards programs are active, the credit goes to only one, and Honey says it has no way of knowing which. It suggests disabling other rewards programs and ad blockers.
+
+Coupon codes are a second issue. Rakuten's help center says codes not listed on Rakuten "may void Cash Back." So a code that Honey finds can cost you the Rakuten cash back on that order. Neither company's pages say what happens when Honey only tests codes and no points are activated; that case is not confirmed.
+
+To hold both, compare the two before you buy, activate only one for that order, and keep the other switched off until the order is placed.
+
+## Which fits
+
+Neither pays more at every store, and rates at both change. Rakuten suits someone who wants a check or a PayPal payment and can wait for a payment date. Honey suits someone who mostly wants a coupon code tried at checkout and already pays with PayPal. See also [Rakuten or Capital One Shopping](/rakuten-vs-capital-one-shopping/).
+
+## Who should skip it
+
+- Skip Honey's points if you do not use PayPal checkout and do not want store gift cards.
+- Skip Rakuten if you want a small balance paid out right away. It pays on four fixed dates.
+- Skip running both extensions at checkout. One order, one credit.
+- Skip both if you do not want a browser extension active while you shop.
+
+## Quick answers
+
+**Does PayPal Honey pay cash like Rakuten?**
+Honey pays PayPal Rewards points. Its help pages list PayPal checkout, gift cards and donations; cash redemption is not confirmed.
+
+**Can one order earn from both Rakuten and Honey?**
+No. Both companies say only one rewards program is credited for a purchase.
+
+**Do you need a PayPal account to use Honey?**
+Not to join; Google or Apple sign-in works. Redeeming points through PayPal needs a linked PayPal account.
+
+## Sources
+
+- [Honey help: Get to know the Honey browser extension](https://help.joinhoney.com/article/39-what-is-the-honey-extension-and-how-do-i-get-it)
+- [Honey help: What are PayPal Rewards?](https://help.joinhoney.com/article/34-what-are-paypal-rewards)
+- [Honey help: Pending PayPal Rewards points](https://help.joinhoney.com/article/13-pending-paypal-rewards)
+- [Honey help: Redeeming PayPal Rewards to PayPal](https://help.joinhoney.com/article/347-redeeming-honey-gold-to-paypal)
+- [Honey help: Redeeming PayPal Rewards for gift cards](https://help.joinhoney.com/article/85-redeem-paypal-rewards-for-gift-cards)
+- [Honey help: Missing PayPal Rewards points](https://help.joinhoney.com/article/35-missing-paypal-rewards)
+- [Honey help: Do PayPal Rewards points expire?](https://help.joinhoney.com/article/208-do-paypal-rewards-expire)
+- [PayPal help: What is PayPal Rewards and how does it work?](https://www.paypal.com/us/cshelp/article/what-is-paypal-rewards-and-how-does-it-work-help958)
+- [PayPal: PayPal Rewards program terms](https://www.paypal.com/us/legalhub/paypal/pp-rewards-program-tnc)
+- [Rakuten help: Using the extension with other coupon or rewards sites](https://www.rakuten.com/help/article/using-the-cash-back-button-with-other-similar-browser-extensions-360001446948)
+- [Rakuten help: When will I get paid?](https://www.rakuten.com/help/article/when-will-i-get-paid-360002117667)
+- [Rakuten help: Why didn't I earn cash back?](https://www.rakuten.com/help/article/why-didnt-i-earn-cash-back-360036367393)
+- [Rakuten: Terms and conditions](https://www.rakuten.com/help/article/terms-conditions)
 
 ---
 
@@ -15797,10 +16500,10 @@ More on TopCashback: [how its 110% rate match works](/topcashback-highest-cash-b
 # Rakuten Walmart cash back: does it work, and what is excluded?
 
 Source: https://itsworththefee.com/rakuten-walmart-cash-back-how-it-works/
-Facts checked: 2026-11-24
+Facts checked: 2026-11-25
 Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
 
-Yes, Rakuten works with Walmart, in a limited form. On November 24, 2026, Rakuten's Walmart page showed a flat $5 cash back on each of up to three eligible orders of $25 or more, not a percentage of the order. Groceries, pharmacy items and orders placed in the Walmart app are excluded.
+Sometimes. On November 25, 2026, Rakuten's Walmart page showed no cash back. One day earlier, on November 24, the same page showed a flat $5 cash back on each of up to three eligible orders of $25 or more, not a percentage of the order. Groceries, pharmacy items and orders placed in the Walmart app are excluded.
 
 This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy. For this morning's headline rate here and at other stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/).
 
@@ -15864,7 +16567,7 @@ Walmart orders do not count toward other Rakuten bonuses. The page names the wel
 ## Where sources differ
 
 - The page's FAQ says $5 on the first three Walmart purchases and gives no minimum. The terms say the next three eligible orders of $25 or more through the named channels. The terms are more specific.
-- A search summary of an older copy of the same Rakuten page showed no cash back at Walmart. The page read on November 24, 2026 showed $5. The offer comes and goes.
+- A search summary of an older copy of the same Rakuten page showed no cash back at Walmart. The page read on November 24, 2026 showed $5, and on November 25, 2026 it showed no cash back again. The offer comes and goes; the rest of this page describes the $5 offer as it read on November 24.
 
 ## When you get the money
 
@@ -15881,7 +16584,7 @@ Online purchases typically take 3 to 14 weeks to be confirmed, then are paid on 
 ## Quick answers
 
 **Does Rakuten pay a percentage at Walmart?**
-No. On November 24, 2026 it was a flat $5 on each of up to three orders of $25 or more.
+No. On November 25, 2026 the page showed no cash back; on November 24 it was a flat $5 on each of up to three orders of $25 or more.
 
 **Do Walmart groceries earn Rakuten cash back?**
 No. Groceries are on the excluded list, along with pharmacy, optical and Walmart+ memberships.
@@ -16262,6 +16965,185 @@ Yes. Since January 2026 Chase allows each card's bonus once per person, even if 
 - [AwardWallet: Chase to Hyatt transfer ratios](https://awardwallet.com/credit-cards/chase-ultimate-rewards/chase-to-hyatt-transfer/)
 - [The Points Guy: Sapphire bonus eligibility changes 2026](https://thepointsguy.com/news/chase-sapphire-bonus-eligibility-changes-2026)
 - [The Points Guy: Chase's 5/24 rule](https://thepointsguy.com/credit-cards/chase/ultimate-guide-chase-5-24-rule/)
+
+---
+
+# TopCashback app: how does it work on iPhone and Android?
+
+Source: https://itsworththefee.com/topcashback-app-how-it-works/
+Facts checked: 2026-11-25
+Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
+
+The TopCashback app is a free app for iPhone, iPad and Android that does on a phone what the website does on a computer: you pick a store in the app, buy as usual, and the cash back is recorded in the same account. TopCashback's app page says a purchase made this way can take up to 6 weeks to show in your account.
+
+This page is information, not financial advice.
+
+## What the app does
+
+TopCashback's app page, read on November 25, 2026, lists three things:
+
+- **Shop.** Find a store or service and start the purchase from the app. The page says more than 7,000 stores pay cash back, and that new ones are added weekly.
+- **Check your account.** See how much cash back you have earned and follow each transaction.
+- **Cash out.** Send available cash back by bank transfer, Venmo or PayPal, or take a gift card.
+
+You log in with the same details as on the website. There is one account, not a separate one for the phone.
+
+## The facts in one table
+
+| Question | What TopCashback's app page says |
+|---|---|
+| Cost | Free to download and use |
+| Other charges | Your carrier's data rates can apply when you are off Wi-Fi |
+| iPhone and iPad | Compatible |
+| Android | Phones and tablets with access to the Google Play Store |
+| Operating system | Needs to be up to date; no version number is given |
+| Time for a purchase to show | Up to 6 weeks |
+| Offer alerts | Optional push notifications, switched on or off in the phone's settings |
+
+## How long cash back takes on the app
+
+The app page says "It can take up to 6 weeks for the cash back to show in your account."
+
+TopCashback's Getting Started page, which describes the website, gives a shorter figure: up to seven days for a purchase to appear as "In Progress," then one to three months on average before the store confirms it and it becomes "Available." The two pages do not explain the difference. A fair reading is that a week is typical and 6 weeks is the outer limit for the app, but that reading is not confirmed by TopCashback.
+
+Either way, showing in the account is only the first stage. You cannot cash out until the store has confirmed the sale. The stages are set out on [how TopCashback pays](/topcashback-how-to-cash-out-and-when/).
+
+If a purchase does not show, the app page says to send a support ticket from your account.
+
+## App, website or extension
+
+| | App | Website | Browser extension |
+|---|---|---|---|
+| Where it runs | Phone or tablet | Any browser | Desktop browser only |
+| How you start | Pick the store in the app | Click "Get Cash Back" on the store's page | Click the pop-up on the store's own site |
+| Covers every store | Not confirmed | Yes | No; stores must opt in |
+| Cash out | Yes | Yes | Not stated |
+
+The [browser extension](/topcashback-browser-extension-how-it-works/) does not work on phones, by TopCashback's own help page. On a phone, the app or the mobile website is the way in.
+
+Whether the app pays cash back on purchases made inside a store's own app, as opposed to the store's mobile website, is not stated on the pages read for this page.
+
+## What can stop a phone purchase from tracking
+
+TopCashback's help page on missing cash back lists reasons that apply on any device: a coupon code that TopCashback did not list, an ad blocker, finishing the purchase in a different tab or window from the one TopCashback opened, or clicking another cash back or coupon site afterward. On a phone, the third is the easy one to trip over: if the store's link opens in one place and you check out in another, the store may not know TopCashback sent you.
+
+## Who should skip it
+
+- You buy on a computer. The website or the extension does the same job there.
+- You do not want another shopping app sending alerts. Notifications are optional, but the app is still one more thing on the phone.
+- You do most phone shopping inside store apps. Whether those purchases track is not confirmed.
+- You want the money quickly. The wait for a store to confirm a sale is the same on every device.
+
+If you are still deciding between sites, see [Rakuten or TopCashback](/rakuten-vs-topcashback/) and, for the larger site's phone tools, [Rakuten's app and extension](/rakuten-app-vs-browser-extension/).
+
+## Quick answers
+
+**Is the TopCashback app free?**
+Yes. The app page says it is free to download and use; your carrier's data charges can still apply.
+
+**Does the TopCashback app work on iPad and Android tablets?**
+Yes. The page lists iPhone and iPad, and Android phones and tablets with the Google Play Store.
+
+**How long does cash back take to show in the TopCashback app?**
+Up to 6 weeks, by the app page. It then has to be confirmed by the store before you can cash out.
+
+## Sources
+
+- [TopCashback: Mobile app](https://www.topcashback.com/app/)
+- [TopCashback: Getting Started](https://www.topcashback.com/getting-started/)
+- [TopCashback: Why is my Cash Back missing?](https://www.topcashback.com/help/cash-back-missing/)
+- [TopCashback: Which web browsers support the Browser Extension?](https://www.topcashback.com/help/browser-extension-compatibility/)
+
+---
+
+# TopCashback browser extension: how does it work and what does it see?
+
+Source: https://itsworththefee.com/topcashback-browser-extension-how-it-works/
+Facts checked: 2026-11-25
+Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
+
+The TopCashback browser extension is a free desktop add-on that shows a pop-up when the store you are on pays cash back, so you can turn cash back on with one click without going to TopCashback first. Its privacy notice says it reads the addresses of the sites you visit to check for stores, and does not record or store your searches or browsing history.
+
+This page is information, not financial advice.
+
+## What it does, step by step
+
+TopCashback's help page gives three steps once the extension is installed:
+
+1. Go to the store's own website.
+2. Click to activate cash back in the pop-up.
+3. Use any coupon the pop-up lists, then check out as usual.
+
+You have to be a TopCashback member and logged in for a purchase to earn. If you are logged out, the pop-up still appears; clicking it sends you to the login page and then back to the store.
+
+The help pages also say that after a Google search the extension shows which stores in the results pay cash back and at what rate.
+
+## The facts in one table
+
+| Question | What TopCashback's own pages say (read November 25, 2026) |
+|---|---|
+| Cost | Free to download and use |
+| Browsers | Chrome, Firefox, Safari and Edge, per the help page |
+| Phones and tablets | Not supported; desktop only |
+| Stores | "Over 7,000" on the site, but not all are in the extension |
+| Need an account? | Yes, and you must be logged in to earn |
+| Where exclusions are shown | Under "More details" in the pop-up |
+
+One point where TopCashback's own pages differ: the help page lists four browsers including Safari, while the title of the extension page names Chrome, Edge and Firefox only. Whether the Safari version is current is not confirmed.
+
+## Why a store may show no pop-up
+
+The extension does not cover every store on the site. The help page says stores have to "opt-in" before they can be featured. When no pop-up appears, the store may still pay cash back if you start from TopCashback's website instead.
+
+## What it sees
+
+These points come from the extension's privacy notice:
+
+- It uses a unique identifier to learn how you interact with the extension.
+- It identifies the address of each website you visit, to check whether that site is a TopCashback store.
+- On search engines and some AI chat sites, it reads store addresses shown on the page so it can show cash back offers. The notice says it does not have access to, record or store your search queries, prompts or conversations.
+- It keeps a list of the stores you clicked through that are eligible for cash back.
+- It uses cookies. When you activate cash back, it places a tracking cookie through its affiliate network. The notice says this replaces any existing tracking from other affiliate companies, so the purchase is credited to TopCashback.
+- "On occasion" it may capture an order number and transaction amount from a store's site to help credit your cash back.
+
+A separate help page says the extension installs no spyware, malware or adware. These are the company's statements about its own product; no outside audit was found for this page.
+
+The cookie point matters if you use more than one cash back tool. Only one of them is credited for a purchase, and the last one activated is normally the one that counts. The same is true of [Rakuten's extension](/rakuten-browser-extension-safe-privacy/).
+
+## Removing it
+
+For Chrome, Firefox and Edge, the help page says to open the extension's page in that browser's web store and click "Remove." The privacy notice says you can remove it in your browser at any time.
+
+## Who should skip it
+
+- You shop mostly on a phone. The extension is desktop only; TopCashback has a [separate app](/topcashback-app-how-it-works/).
+- You do not want an add-on that checks the address of every site you open.
+- You already run another cash back extension and do not want two pop-ups competing on the same store.
+- You are happy to start each purchase from TopCashback's website. The extension is a reminder, not a requirement.
+
+For how the site itself works and how it earns, see [is TopCashback legit](/is-topcashback-legit-how-it-makes-money/).
+
+## Quick answers
+
+**Is the TopCashback browser extension free?**
+Yes. TopCashback's page says it is free to download and free to use.
+
+**Does the TopCashback extension work on a phone?**
+No. The help page says it is designed for desktop use only and is not compatible with mobile devices.
+
+**Does the TopCashback extension record my searches?**
+Its privacy notice says no. It reads website addresses to find stores, and does not record or store search queries or browsing history.
+
+## Sources
+
+- [TopCashback: Browser Extension](https://www.topcashback.com/browser-extension/)
+- [TopCashback: Browser Extension Privacy Notice](https://www.topcashback.com/dyn/browser-ex-privacy)
+- [TopCashback: How does the Browser Extension work?](https://www.topcashback.com/help/browser-extension-about/)
+- [TopCashback: Which web browsers support the Browser Extension?](https://www.topcashback.com/help/browser-extension-compatibility/)
+- [TopCashback: Why doesn't the Browser Extension pop up at certain retailers?](https://www.topcashback.com/help/browser-extension-pop-up/)
+- [TopCashback: Do I need to be logged in to use the Browser Extension?](https://www.topcashback.com/help/browser-extension-log-in/)
+- [TopCashback: Will the Browser Extension install spyware?](https://www.topcashback.com/help/browser-extension-spyware/)
+- [TopCashback: How do I uninstall the Browser Extension?](https://www.topcashback.com/help/browser-extension-uninstall/)
 
 ---
 

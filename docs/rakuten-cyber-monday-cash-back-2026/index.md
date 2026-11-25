@@ -45,7 +45,7 @@ They are a snapshot, not a forecast. Macy's showed 13% on November 21 and 10% tw
 
 Rakuten's Cyber Monday page says the two events now overlap, with many stores running sales through the whole weekend. No Rakuten page says rates are higher on one day than the other. Whether a given store pays more on Friday or on Monday is not confirmed until the day.
 
-One practical difference follows from the origin. Rakuten says some stores add in-store promotions or pickup options on Cyber Monday, but it is mostly an online day. Online orders are where Rakuten's click-through tracking applies.
+One practical difference follows from the origin. Rakuten says some stores add in-store promotions or pickup options on Cyber Monday, but it is mostly an online day. Online orders are where Rakuten's click-through tracking applies; purchases in a physical store earn a different way, covered in [how in-store cash back works](/rakuten-in-store-cash-back-how-it-works/).
 
 The mechanics that apply to both days (exclusions, tracking and returns) are in [how cash back works on Black Friday and Cyber Week](/rakuten-black-friday-cash-back-2026/).
 

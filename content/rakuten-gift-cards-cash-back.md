@@ -28,8 +28,8 @@ Each of these listings, read on November 21, 2026, excluded gift card purchases:
 
 | Store | Gift card rule in its Rakuten terms |
 |---|---|
-| Apple | Gift cards excluded |
-| Kohl's | Gift cards excluded |
+| [Apple](/rakuten-apple-cash-back-how-it-works/) | Gift cards excluded |
+| [Kohl's](/rakuten-kohls-cash-back-how-it-works/) | Gift cards excluded |
 | Ulta Beauty | Any gift card, including e-gift cards |
 | HP | Gift card purchases excluded |
 | Dell | Gift cards excluded |

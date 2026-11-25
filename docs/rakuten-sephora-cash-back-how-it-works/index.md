@@ -6,7 +6,7 @@ Publisher: Worth the Fee (independent; some pages end with a disclosed referral 
 
 Yes. On November 21, 2026, Rakuten's Sephora page showed 4% cash back, raised from a usual 2%. Gift cards, auto-ship subscription orders and the part of an order paid with rewards are excluded, and a coupon code not listed on Rakuten may void it.
 
-This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy. For this morning's headline rate here and at other stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/).
+This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy. For this morning's headline rate here and at other stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/). The other large beauty listing is [Rakuten at Ulta](/rakuten-ulta-cash-back-how-it-works/).
 
 ## The rate, and how it moves
 

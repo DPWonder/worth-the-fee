@@ -1,15 +1,15 @@
 ---
-title: Rakuten on Black Friday 2026: how cash back works and which rates are raised
+title: Rakuten Black Friday 2026: does Rakuten do Black Friday, and how the cash back works
 slug: rakuten-black-friday-cash-back-2026
-description: Rakuten works on Black Friday as on any day, but store rates move daily. Activate before filling the cart; payment comes in February or May 2027.
+description: Yes, Rakuten does Black Friday. On November 25, 2026 many stores showed raised cash back, such as 10% at Macy's (was 2%). Rates move daily.
 topic: rakuten
 cta: rakuten
-checked: 2026-11-23
+checked: 2026-11-25
 ---
 
-Rakuten cash back works on Black Friday (November 27, 2026) and Cyber Monday (November 30) the same way it does on any other day: activate first, then buy. What changes is that many stores' rates are raised for short periods, so the catches are rates that move, items a store excludes, and orders that fail to track.
+Yes, Rakuten does Black Friday. It has a Black Friday page for November 27, 2026, and on November 25 many stores already showed raised cash back rates, such as 10% at Macy's against a usual 2%. Earning works the same as on any other day: activate first, then buy.
 
-This page is information, not financial advice. For this morning's rate at 70 stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/). Not a member yet? See [welcome bonus or referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/).
+This page is information, not financial advice. For this morning's rate at 70 stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/). Not a member yet? Start with [is Rakuten free](/is-rakuten-free/) and [welcome bonus or referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/).
 
 ## The dates
 
@@ -19,26 +19,34 @@ This page is information, not financial advice. For this morning's rate at 70 st
 | Cyber Monday | Monday, November 30 |
 | Cyber Week | The days after Cyber Monday; length varies by store |
 
-Rakuten's Cyber Monday page says earning that day "works exactly the same as it does every other day." It also says some stores extend offers through the week and some deals last one day only.
+Rakuten's Black Friday page says earning that day "works exactly the same as it does every other day." It says start dates vary by retailer and that many launch their sales in the week of Thanksgiving. On November 25 Rakuten's home page advertised Black Friday to Cyber Monday shopping with hundreds of brands at up to 15%. Its Cyber Monday page says some stores extend offers through the week and some deals last one day only.
 
-## Rates move, sometimes daily
+## Rates seen on November 25, 2026
 
-Rakuten shows a raised rate next to the usual one with the label "was". These were on Rakuten's store pages on November 23, 2026, read while signed out.
+Rakuten shows a raised rate next to the usual one with the label "was". These were read on Rakuten's pages while signed out.
 
-| Store | Rate seen November 23 | Rate seen November 21 | Rakuten's "was" rate |
+| Store | Rate seen November 25 | Rate seen November 23 | Rakuten's "was" rate |
 |---|---|---|---|
-| Macy's | 10% | 13% | 2% |
-| Dermstore | 10% | 15% | 3% |
-| Walgreens | 10% | 2% | 2% |
+| Macy's | 10% | 10% | 2% |
+| Dermstore | 10% | 10% | 3% |
+| Walgreens | 2% | 10% | No raised rate shown |
 | LEGO | Up to 15% | Up to 15% | 2.5% |
+| kate spade new york | 15% | Not read | 2% |
+| Neiman Marcus | 15% | Not read | 2% |
+| Saks Fifth Avenue | 12% | Not read | 2% |
+| Athleta | 12% | Not read | 2% |
+| PetSmart | 10% | Not read | 2% |
+| HOKA | 9% | Not read | 3% |
+| Samsung | Up to 6% | Not read | 2% |
 
-- Three of the four moved in two days. On November 20 Dermstore showed 20% and Walgreens showed 15%.
-- LEGO's 15% is for NINJAGO items. Its page shows 2.5% on other items that are not excluded and 1.5% on exclusives.
-- A rate can rise or fall before Black Friday. Rakuten has not published store rates for the day in advance; none were found.
+- Rates fall as well as rise. Walgreens went from 10% back to 2% in two days. Dermstore showed 20% on November 20 and 10% on November 25.
+- LEGO's 15% is for NINJAGO items. Its page shows 2.5% on other items that are not excluded and 1.5% on exclusives and hard-to-find items.
+- Not every store is raised. [Apple](/rakuten-apple-cash-back-how-it-works/), [Ulta](/rakuten-ulta-cash-back-how-it-works/) and [Kohl's](/rakuten-kohls-cash-back-how-it-works/) each showed 2% with no "was" label on November 25.
+- Rakuten has not published store rates for November 27 in advance; none were found.
 - "Up to" means only some product categories earn the top figure.
-- Rakuten's terms say rates are personalized and may differ between members. The number in your account is the one that counts.
+- Rakuten's home page says cash back may vary. The number in your account is the one that counts.
 
-Earlier this month Rakuten ran ten one-day offers, one store a day, at rates from 12% to 30%, according to Upgraded Points.
+Earlier this month Rakuten ran ten one-day offers, one store a day from November 1 to 10, at rates from 12% to 30%, according to Upgraded Points.
 
 **Not confirmed:** which rate applies if a store's rate changes between your click and your order, and whether Rakuten adjusts an order when the rate rises later. Rakuten's terms do not say.
 
@@ -48,34 +56,36 @@ Each store sets its own. Common ones in Rakuten's help center:
 
 - Gift cards, at most stores.
 - Taxes and shipping.
-- Certain product categories, or a lower rate for them.
-- Orders placed by phone or chat.
+- Certain items, categories or brands, or a lower rate for them.
+- Orders placed by phone, chat or customer service.
 - Orders using a coupon code not listed on Rakuten.
 
-A store's list is behind "See all Terms & Exclusions" on its Rakuten page.
+A store's list is behind "See all Terms & Exclusions" on its Rakuten page. Rakuten's Black Friday page features Apple, but the Apple listing excludes new iPhones, Macs, iPads and Apple Watches.
 
-Coupons are the frequent problem. Rakuten says many codes can be combined with cash back, but codes from other sites can void it. See [stacking with coupons and card rewards](/rakuten-stack-with-credit-card-rewards/).
+Coupons are the frequent problem. Rakuten's Black Friday page says many codes can be used together with cash back, while its help center says codes not listed on Rakuten may void it. See [stacking with coupons and card rewards](/rakuten-stack-with-credit-card-rewards/).
 
 ## Tracking on a busy day
 
 Rakuten lists these reasons an order fails to track:
 
 - Activating after items are already in the cart.
-- An ad blocker, VPN or cookie blocker.
-- Another rewards or coupon extension taking over the click.
+- An ad blocker, VPN or cookie blocker, or declined cookies.
+- Another rewards or coupon site or extension taking over the click.
 - A long idle session, or checking out in a different tab.
 
-For a Black Friday order that means: empty the cart, activate, add the items, and check out in one sitting.
+For a Black Friday order that means: empty the cart, activate, add the items, and check out in one sitting. Rakuten's blog says a second order needs a new shopping trip.
 
-Check your Rakuten account a day or two later. Rakuten's terms give 90 days from the purchase to report missing cash back. For a November 27 order that is February 25, 2027. See [what to do when cash back did not track](/rakuten-missing-cash-back-what-to-do/).
+Check your Rakuten account a day or two later. Rakuten's terms give 90 days from the purchase to report missing cash back. For a November 27 order that is February 25, 2027. A store can set a shorter limit; Best Buy's listing says 30 days from the order date. See [what to do when cash back did not track](/rakuten-missing-cash-back-what-to-do/).
+
+Shopping at the mall instead? Black Friday cash back in a physical store needs a linked card and an offer added first; see [how in-store cash back works](/rakuten-in-store-cash-back-how-it-works/).
 
 ## Returns
 
-Rakuten deducts the cash back on returned, exchanged or canceled items. Cash back stays "pending" while the store's return period runs, so a gift that goes back in January reduces the February payment.
+Rakuten's help center says returned or canceled orders do not earn cash back, and a partial return is adjusted. Cash back stays "pending" while the store's return period runs, so a gift that goes back in January reduces the February payment.
 
 ## When the money arrives
 
-Rakuten says shopping orders typically take 3 to 14 weeks to be confirmed. It pays on fixed dates.
+Rakuten's payment page says online orders typically take 3 to 14 weeks to be confirmed; its status page says 3 to 17 weeks. It pays on fixed dates.
 
 | Order on November 27, 2026 | Confirmed about | Paid |
 |---|---|---|
@@ -92,24 +102,29 @@ These dates are worked out from Rakuten's typical range. More in [when Rakuten p
 
 ## Quick answers
 
+**Does Rakuten do Black Friday deals?**
+Yes. Rakuten has a Black Friday page, and many stores showed raised cash back rates on November 25, 2026.
+
 **Are Rakuten rates higher on Black Friday?**
 Many stores show raised rates in late November, but no rate is set in advance and each can change daily.
 
 **When will Black Friday cash back be paid?**
 On February 15 or May 15, 2027, depending on when the store confirms the order.
 
-**Can I add items to my cart before Black Friday?**
-Rakuten says activating after items are in the cart can stop tracking. Activate first, then add them.
-
 ## Sources
 
 - [Rakuten: Black Friday](https://www.rakuten.com/black-friday)
 - [Rakuten: Cyber Monday](https://www.rakuten.com/cyber-monday)
+- [Rakuten: home page](https://www.rakuten.com/)
 - [Rakuten: Macy's](https://www.rakuten.com/macys.com)
 - [Rakuten: Dermstore](https://www.rakuten.com/dermstore.com)
 - [Rakuten: Walgreens](https://www.rakuten.com/walgreens.com)
 - [Rakuten: LEGO](https://www.rakuten.com/shop/lego)
+- [Rakuten: Apple](https://www.rakuten.com/apple.com)
+- [Rakuten: Best Buy](https://www.rakuten.com/bestbuy.com)
 - [Rakuten: Why didn't I earn cash back?](https://www.rakuten.com/help/article/why-didnt-i-earn-cash-back-360036367393)
+- [Rakuten: Checking the status of your cash back](https://www.rakuten.com/help/article/tracking-your-cash-back-360002117107)
 - [Rakuten: When will I get paid?](https://www.rakuten.com/help/article/when-will-i-get-paid-360002117667)
 - [Rakuten: Terms and conditions](https://www.rakuten.com/help/article/terms-conditions)
+- [Rakuten blog: Answers to common questions](https://www.rakuten.com/blog/answers-to-15-common-questions-about-rakuten/)
 - [Upgraded Points: Rakuten November 2026 sale](https://upgradedpoints.com/news/rakuten-30x-november-sale-2026/)
