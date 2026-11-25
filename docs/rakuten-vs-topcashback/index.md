@@ -83,6 +83,8 @@ Four times a year: February 15, May 15, August 15 and November 15.
 **Can I get cash back from both on one order?**
 No. Only one site can track a purchase. Choose one before you shop.
 
+More on TopCashback: [how its 110% rate match works](/topcashback-highest-cash-back-guarantee/), [how and when it pays](/topcashback-how-to-cash-out-and-when/), and [how it makes money](/is-topcashback-legit-how-it-makes-money/).
+
 ## Sources
 
 - [TopCashback: How do I receive my Cash Back?](https://www.topcashback.com/help/receive-cash-back/)

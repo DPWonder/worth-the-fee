@@ -1,102 +1,109 @@
 ---
-title: Rakuten cash back rates today, by store (November 24)
+title: Rakuten cash back rates today, by store (November 25)
 slug: rakuten-cash-back-rates-today-by-store
-description: The headline Rakuten cash back rate at 70 large stores, read from Rakuten's store pages on November 24, 2026, with what changed since the last reading.
+description: The headline Rakuten cash back rate at 70 large stores, read from Rakuten's store pages on November 25, 2026, with what changed since the last reading.
 topic: rakuten
 cta: rakuten
-checked: 2026-11-24
+checked: 2026-11-25
 ---
 
-On November 24, 2026, the highest headline Rakuten rates among 70 large stores read were Ray-Ban (up to 12%), Viator (11%), Dyson (10%), J.Crew (10%), Macy's (10%). The table below lists every store read, the rate shown on its Rakuten page that day, and whether it moved since the last reading.
+On November 25, 2026, the highest headline Rakuten rates among 70 large stores read were Neiman Marcus (15%), Bloomingdale's (12%), Dyson (12%), Ray-Ban (up to 12%), Saks Fifth Avenue (12%). The table below lists every store read, the rate shown on its Rakuten page that day, and whether it moved since the last reading.
 
 This page is information, not financial advice. Rates change daily, and sometimes within a day, so the rate on Rakuten at the moment you activate is the one that counts.
 
-## Rates read on November 24, 2026
+## Rates read on November 25, 2026
 
 "Up to" means the top rate applies to some categories or brands only; most items usually earn less. "None" means the store has a Rakuten page but it showed no cash back that day.
 
 | Store | Headline rate | Since last reading |
 |---|---|---|
-| Ray-Ban | Up to 12% | First reading |
-| Viator | 11% | First reading |
-| [Dyson](/rakuten-dyson-cash-back-how-it-works/) | 10% | First reading |
-| J.Crew | 10% | First reading |
-| [Macy's](/rakuten-macys-cash-back-how-it-works/) | 10% | First reading |
-| Neiman Marcus | Up to 10% | First reading |
-| [PetSmart](/rakuten-petsmart-cash-back-how-it-works/) | 10% | First reading |
-| Saks Fifth Avenue | 10% | First reading |
-| Under Armour | 10% | First reading |
-| Crocs | 9% | First reading |
-| Foot Locker | 9% | First reading |
-| IHG | 9% | First reading |
-| New Balance | 9% | First reading |
-| [Sam's Club](/rakuten-sams-club-cash-back-how-it-works/) | Up to 9% | First reading |
-| [Adidas](/rakuten-adidas-cash-back-how-it-works/) | Up to 8% | First reading |
-| [Best Buy](/rakuten-best-buy-cash-back-how-it-works/) | Up to 8% | First reading |
-| Carter's | 8% | First reading |
-| [Lowe's](/rakuten-lowes-cash-back-how-it-works/) | Up to 8% | First reading |
-| Priceline | Up to 8% | First reading |
-| StubHub | 7% | First reading |
-| Ace Hardware | Up to 6% | First reading |
-| [Booking.com](/rakuten-expedia-booking-com-cash-back/) | Up to 6% | First reading |
-| [Chewy](/rakuten-chewy-cash-back-how-it-works/) | 6% | First reading |
-| [Nike](/rakuten-nike-cash-back-how-it-works/) | 6% | First reading |
-| [Samsung](/rakuten-samsung-cash-back-how-it-works/) | Up to 6% | First reading |
-| [Sephora](/rakuten-sephora-cash-back-how-it-works/) | 6% | First reading |
-| Staples | Up to 6% | First reading |
-| TurboTax | 5% | First reading |
-| CVS | 3% | First reading |
-| [Expedia](/rakuten-expedia-booking-com-cash-back/) | Up to 3% | First reading |
-| [HP](/rakuten-laptop-cash-back-dell-hp-lenovo/) | Up to 3% | First reading |
-| Skechers | 3% | First reading |
-| Vrbo | 3% | First reading |
-| Avis | 2.5% | First reading |
-| [Apple](/rakuten-apple-cash-back-how-it-works/) | 2% | First reading |
-| Banana Republic | 2% | First reading |
-| Bloomingdale's | 2% | First reading |
-| [Dick's Sporting Goods](/rakuten-dicks-sporting-goods-cash-back-how-it-works/) | 2% | First reading |
-| DSW | 2% | First reading |
-| Gap | 2% | First reading |
-| H&M | 2% | First reading |
-| [Kohl's](/rakuten-kohls-cash-back-how-it-works/) | 2% | First reading |
-| [Lenovo](/rakuten-laptop-cash-back-dell-hp-lenovo/) | 2% | First reading |
-| Office Depot | 2% | First reading |
-| [Old Navy](/rakuten-old-navy-cash-back-how-it-works/) | 2% | First reading |
-| Petco | 2% | First reading |
-| Sonos | 2% | First reading |
-| [Temu](/rakuten-temu-cash-back-how-it-works/) | 2% | First reading |
-| The North Face | 2% | First reading |
-| [Ulta](/rakuten-ulta-cash-back-how-it-works/) | 2% | First reading |
-| Victoria's Secret | 2% | First reading |
-| Walgreens | 2% | First reading |
-| Zappos | 2% | First reading |
-| [eBay](/rakuten-ebay-cash-back-how-it-works/) | 1% | First reading |
-| [Etsy](/rakuten-etsy-cash-back-how-it-works/) | 1% | First reading |
-| Instacart | 1% | First reading |
-| Newegg | 1% | First reading |
-| [Target](/rakuten-target-cash-back-how-it-works/) | 1% | First reading |
-| AT&T | Up to $150 | First reading |
-| DoorDash | None | First reading |
-| Hertz | None | First reading |
-| Hilton | None | First reading |
-| [Home Depot](/rakuten-home-depot-cash-back-how-it-works/) | None | First reading |
-| [Lululemon](/rakuten-lululemon-cash-back-how-it-works/) | None | First reading |
-| [Nordstrom](/rakuten-nordstrom-cash-back-how-it-works/) | None | First reading |
-| Pottery Barn | None | First reading |
-| Verizon | Up to $75 | First reading |
-| [Walmart](/rakuten-walmart-cash-back-how-it-works/) | $5 | First reading |
-| [Wayfair](/rakuten-wayfair-cash-back-how-it-works/) | None | First reading |
-| Williams Sonoma | None | First reading |
+| Neiman Marcus | 15% | Was up to 10% |
+| Bloomingdale's | 12% | Was 2% |
+| [Dyson](/rakuten-dyson-cash-back-how-it-works/) | 12% | Was 10% |
+| Ray-Ban | Up to 12% | Same |
+| Saks Fifth Avenue | 12% | Was 10% |
+| Viator | 11% | Same |
+| [Macy's](/rakuten-macys-cash-back-how-it-works/) | 10% | Same |
+| [PetSmart](/rakuten-petsmart-cash-back-how-it-works/) | 10% | Same |
+| Under Armour | 10% | Same |
+| Crocs | 9% | Same |
+| Foot Locker | 9% | Same |
+| IHG | 9% | Same |
+| New Balance | 9% | Same |
+| [Sam's Club](/rakuten-sams-club-cash-back-how-it-works/) | Up to 9% | Same |
+| [Adidas](/rakuten-adidas-cash-back-how-it-works/) | Up to 8% | Same |
+| Carter's | 8% | Same |
+| [Lowe's](/rakuten-lowes-cash-back-how-it-works/) | Up to 8% | Same |
+| Priceline | Up to 8% | Same |
+| StubHub | 7% | Same |
+| Ace Hardware | Up to 6% | Same |
+| [Best Buy](/rakuten-best-buy-cash-back-how-it-works/) | Up to 6% | Was up to 8% |
+| [Booking.com](/rakuten-expedia-booking-com-cash-back/) | Up to 6% | Same |
+| [Chewy](/rakuten-chewy-cash-back-how-it-works/) | 6% | Same |
+| [Nike](/rakuten-nike-cash-back-how-it-works/) | 6% | Same |
+| [Samsung](/rakuten-samsung-cash-back-how-it-works/) | Up to 6% | Same |
+| [Sephora](/rakuten-sephora-cash-back-how-it-works/) | 6% | Same |
+| Staples | Up to 6% | Same |
+| TurboTax | 5% | Same |
+| CVS | 3% | Same |
+| [Expedia](/rakuten-expedia-booking-com-cash-back/) | Up to 3% | Same |
+| [HP](/rakuten-laptop-cash-back-dell-hp-lenovo/) | Up to 3% | Same |
+| Skechers | 3% | Same |
+| Vrbo | 3% | Same |
+| Avis | 2.5% | Same |
+| [Apple](/rakuten-apple-cash-back-how-it-works/) | 2% | Same |
+| Banana Republic | 2% | Same |
+| [Dick's Sporting Goods](/rakuten-dicks-sporting-goods-cash-back-how-it-works/) | 2% | Same |
+| DSW | 2% | Same |
+| Gap | 2% | Same |
+| H&M | 2% | Same |
+| J.Crew | 2% | Was 10% |
+| [Kohl's](/rakuten-kohls-cash-back-how-it-works/) | 2% | Same |
+| [Lenovo](/rakuten-laptop-cash-back-dell-hp-lenovo/) | 2% | Same |
+| Office Depot | 2% | Same |
+| [Old Navy](/rakuten-old-navy-cash-back-how-it-works/) | 2% | Same |
+| Petco | 2% | Same |
+| Sonos | 2% | Same |
+| [Temu](/rakuten-temu-cash-back-how-it-works/) | 2% | Same |
+| The North Face | 2% | Same |
+| [Ulta](/rakuten-ulta-cash-back-how-it-works/) | 2% | Same |
+| Victoria's Secret | 2% | Same |
+| Walgreens | 2% | Same |
+| Zappos | 2% | Same |
+| [eBay](/rakuten-ebay-cash-back-how-it-works/) | 1% | Same |
+| [Etsy](/rakuten-etsy-cash-back-how-it-works/) | 1% | Same |
+| Instacart | 1% | Same |
+| Newegg | 1% | Same |
+| [Target](/rakuten-target-cash-back-how-it-works/) | 1% | Same |
+| AT&T | Up to $150 | Same |
+| DoorDash | None | Same |
+| Hertz | None | Same |
+| Hilton | None | Same |
+| [Home Depot](/rakuten-home-depot-cash-back-how-it-works/) | None | Same |
+| [Lululemon](/rakuten-lululemon-cash-back-how-it-works/) | None | Same |
+| [Nordstrom](/rakuten-nordstrom-cash-back-how-it-works/) | None | Same |
+| Pottery Barn | None | Same |
+| Verizon | Up to $150 | Was up to $75 |
+| [Walmart](/rakuten-walmart-cash-back-how-it-works/) | None | Was $5 |
+| [Wayfair](/rakuten-wayfair-cash-back-how-it-works/) | None | Same |
+| Williams Sonoma | None | Same |
 
 ## What changed since the last reading
 
-This is the first day of readings, so there is nothing to compare yet. Changes will be listed here from tomorrow.
+- **Neiman Marcus:** up to 10% on 11/24, 15% today.
+- **Bloomingdale's:** 2% on 11/24, 12% today.
+- **Dyson:** 10% on 11/24, 12% today.
+- **Saks Fifth Avenue:** 10% on 11/24, 12% today.
+- **Best Buy:** up to 8% on 11/24, up to 6% today.
+- **J.Crew:** 10% on 11/24, 2% today.
+- **Verizon:** up to $75 on 11/24, up to $150 today.
+- **Walmart:** $5 on 11/24, none today.
 
 Readings on this page started on 11/24/2026. Each reading is the headline rate in the title of the store's own page on Rakuten, taken once in the morning, Pacific time.
 
 ## Stores showing no cash back today
 
-DoorDash, Hertz, Hilton, Home Depot, Lululemon, Nordstrom, Pottery Barn, Wayfair, Williams Sonoma.
+DoorDash, Hertz, Hilton, Home Depot, Lululemon, Nordstrom, Pottery Barn, Walmart, Wayfair, Williams Sonoma.
 
 A store can drop to no cash back for a day or a season and come back later. A store that is missing from the table either has no page on Rakuten or its page could not be read today; that is not confirmed either way.
 
@@ -126,13 +133,13 @@ A purchase usually shows as pending within days, then is confirmed after the sto
 ## Quick answers
 
 **Which store has the highest Rakuten rate today?**
-Among the stores read on November 24, 2026, the highest headline rates were Ray-Ban (up to 12%), Viator (11%), Dyson (10%), J.Crew (10%), Macy's (10%). These are ceilings; most items earn less.
+Among the stores read on November 25, 2026, the highest headline rates were Neiman Marcus (15%), Bloomingdale's (12%), Dyson (12%), Ray-Ban (up to 12%), Saks Fifth Avenue (12%). These are ceilings; most items earn less.
 
 **How often do Rakuten rates change?**
 Daily, and sometimes during the day. This page is read once each morning, so check the store's Rakuten page before buying.
 
 **Why does a store show no cash back?**
-Stores set their own rates and can pause them. Today these showed none: DoorDash, Hertz, Hilton, Home Depot, Lululemon, Nordstrom, Pottery Barn, Wayfair, Williams Sonoma.
+Stores set their own rates and can pause them. Today these showed none: DoorDash, Hertz, Hilton, Home Depot, Lululemon, Nordstrom, Pottery Barn, Walmart, Wayfair, Williams Sonoma.
 
 ## Sources
 

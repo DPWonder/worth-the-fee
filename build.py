@@ -37,8 +37,8 @@ TOPICS = {
               "blurb": "Points, lounges, hotel credits and bag fees for a Hawaii week or a golf trip."},
     "compare": {"slug": "card-comparisons", "label": "Card comparisons", "nav": "Comparisons",
                 "blurb": "Two cards side by side, with the sums for the way you spend and travel."},
-    "more": {"slug": "cash-back-and-bank-bonuses", "label": "Cash back & bank bonuses", "nav": "More",
-             "blurb": "Other cash back sites and bank account bonuses: what you get, what it takes, and the catch."},
+    "more": {"slug": "other-cash-back-sites", "label": "Other cash back sites", "nav": "More",
+             "blurb": "Cash back sites besides Rakuten: how they pay, what it takes, and the catch."},
     "points": {"slug": "using-points", "label": "Using points", "nav": "Points",
                "blurb": "What Amex and Chase points are worth, where to move them, and when to pay cash."},
 }
