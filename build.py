@@ -67,6 +67,46 @@ def _store_rates():
 
 STORE_RATES = _store_rates()
 
+
+def _store_history():
+    """slug -> [(day, rate), ...] oldest first: every reading of that store in research/rakuten-rates.csv."""
+    out = {}
+    try:
+        import csv as _csv
+        import rates as _rates
+        slug = {s[0]: s[2] for s in _rates.STORES}
+        for r in _csv.DictReader(open(ROOT / "research" / "rakuten-rates.csv")):
+            if r["store"] in slug:
+                out.setdefault(slug[r["store"]], []).append((r["date"], r["rate"]))
+        for v in out.values():
+            v.sort()
+    except Exception:
+        pass
+    return out
+
+
+STORE_HISTORY = _store_history()
+
+
+def history_html(slug):
+    h = STORE_HISTORY.get(slug, [])
+    if len(h) < 2:
+        return ""
+    # keep the first reading, every day the rate changed, and the newest reading; newest first, 30 rows at most
+    keep = [h[0]] + [h[i] for i in range(1, len(h)) if h[i][1] != h[i - 1][1]]
+    if keep[-1] != h[-1]:
+        keep.append(h[-1])
+    rows = ""
+    for i in range(len(keep) - 1, max(-1, len(keep) - 31), -1):
+        d, r = keep[i]
+        note = "first reading" if i == 0 else ("no change since the row below" if r == keep[i - 1][1] else f"was {keep[i - 1][1][0].lower() + keep[i - 1][1][1:]}")
+        rows += f"<tr><td>{date.fromisoformat(d).strftime('%b %-d, %Y')}</td><td>{esc(r)}</td><td>{esc(note)}</td></tr>"
+    changes = len(keep) - 1 - (1 if keep[-1][1] == keep[-2][1] else 0)
+    first = date.fromisoformat(h[0][0]).strftime("%B %-d, %Y")
+    return (f'<h2>Rate history</h2><p>We read the headline rate on this store\'s Rakuten page once a day. Since {first} it has been read '
+            f'{len(h)} times and changed {changes} time{"" if changes == 1 else "s"}. The table shows the first reading, each day it changed, and the newest reading.</p>'
+            f'<div class="tablewrap"><table><thead><tr><th>Day read</th><th>Headline rate</th><th>Change</th></tr></thead><tbody>{rows}</tbody></table></div>')
+
 # Fee calculator data: (credit, dollars per year at face value, note). Sources: the credit pages in content/.
 CALC = {
     "amex": {"card": "Amex Platinum", "fee": 895, "more": "amex-platinum-credits-real-value", "credits": [
@@ -367,6 +407,9 @@ def build():
         body_html = md.convert(parts[1] if len(parts) > 1 else "")
         body_html = body_html.replace("<table>", '<div class="tablewrap"><table>').replace("</table>", "</table></div>")
         body_html = re.sub(r'<a href="(https?://[^"]+)"', r'<a rel="noopener" target="_blank" href="\1"', body_html)
+        hist = history_html(pg["slug"])
+        if hist:
+            body_html = body_html.replace("<h2>Quick answers</h2>", hist + "<h2>Quick answers</h2>", 1) if "<h2>Quick answers</h2>" in body_html else body_html + hist
         checked = pg.get("checked", today)
         nice = date.fromisoformat(checked).strftime("%B %-d, %Y")
         path = pg["slug"] + "/"
