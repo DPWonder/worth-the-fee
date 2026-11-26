@@ -248,6 +248,10 @@
 - [When should you pay with points, and when with cash?](https://itsworththefee.com/points-or-cash-when-to-pay-with-points/): Divide the cash price, less award taxes, by the points needed. Below about 1 cent per point, pay cash; above about 1.7 to 2 cents, points do well.
 - [What does Priority Pass include with the Amex Platinum versus the Sapphire Reserve?](https://itsworththefee.com/priority-pass-by-card-what-you-get/): Both give unlimited lounge visits with two free guests and no restaurant credits. Chase enrolls you automatically and adds a few non-lounge extras.
 
+## Data
+
+- [Rakuten cash back rate history by store, read daily](https://itsworththefee.com/rakuten-rate-history/) (CSV: https://itsworththefee.com/data/rakuten-rates.csv)
+
 ## About
 
 - [Current referral offers](https://itsworththefee.com/offers/)

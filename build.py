@@ -104,7 +104,7 @@ def history_html(slug):
     changes = len(keep) - 1 - (1 if keep[-1][1] == keep[-2][1] else 0)
     first = date.fromisoformat(h[0][0]).strftime("%B %-d, %Y")
     return (f'<h2>Rate history</h2><p>We read the headline rate on this store\'s Rakuten page once a day. Since {first} it has been read '
-            f'{len(h)} times and changed {changes} time{"" if changes == 1 else "s"}. The table shows the first reading, each day it changed, and the newest reading.</p>'
+            f'{len(h)} times and changed {changes} time{"" if changes == 1 else "s"}. The table shows the first reading, each day it changed, and the newest reading. <a href="{BASE}rakuten-rate-history/">History for every store</a>.</p>'
             f'<div class="tablewrap"><table><thead><tr><th>Day read</th><th>Headline rate</th><th>Change</th></tr></thead><tbody>{rows}</tbody></table></div>')
 
 # Fee calculator data: (credit, dollars per year at face value, note). Sources: the credit pages in content/.
@@ -321,6 +321,60 @@ def simple_page(path, title, description, body_html):
     content = f'<div class="wrap narrow"><article class="prose"><h1>{esc(title)}</h1>{body_html}</article></div>'
     write(path + "index.html", layout(f"{title} | {NAME}", description, content, path))
 
+
+
+def rate_history_page():
+    """One page with every store's readings, plus the raw file, so the history can be cited and linked."""
+    import csv
+    f = ROOT / "research" / "rakuten-rates.csv"
+    if not f.exists():
+        return False
+    rows = list(csv.DictReader(f.open()))
+    if not rows:
+        return False
+    write("data/rakuten-rates.csv", f.read_text())
+    import rates as _rates
+    slug = {s[0]: s[2] for s in _rates.STORES}
+    by = {}
+    for r in rows:
+        by.setdefault(r["store"], []).append((r["date"], r["rate"]))
+    days = sorted({r["date"] for r in rows})
+    def num(rate):
+        m = re.search(r"([\d.]+)%", rate)
+        return float(m.group(1)) if m else -1.0
+    def nice(d):
+        return date.fromisoformat(d).strftime("%b %-d")
+    trs = ""
+    for store in sorted(by, key=str.lower):
+        h = sorted(by[store])
+        changes = sum(1 for i in range(1, len(h)) if h[i][1] != h[i - 1][1])
+        hi = max(h, key=lambda x: num(x[1]))
+        name = esc(store)
+        if slug.get(store) and (ROOT / "content" / (slug[store] + ".md")).exists():
+            name = f'<a href="{BASE}{slug[store]}/">{name}</a>'
+        trs += (f"<tr><td>{name}</td><td>{esc(h[-1][1])}</td><td>{esc(hi[1])} ({nice(hi[0])})</td>"
+                f"<td>{esc(h[0][1])} ({nice(h[0][0])})</td><td>{changes}</td><td>{len(h)}</td></tr>")
+    first, last = date.fromisoformat(days[0]), date.fromisoformat(days[-1])
+    title = "Rakuten cash back rate history by store"
+    desc = (f"Daily readings of Rakuten's headline cash back rate at {len(by)} stores since {first.strftime('%B %-d, %Y')}: "
+            f"latest, highest seen and how often each changed. Free to download.")
+    body = f"""
+<p class="lede">The headline Rakuten cash back rate at {len(by)} large stores, read from each store's page on rakuten.com once a day since {first.strftime('%B %-d, %Y')}. Newest reading: {last.strftime('%B %-d, %Y')}. {len(rows)} readings over {len(days)} days so far.</p>
+<p>This page is information, not financial advice. A rate can change within a day, and Rakuten's terms say rates may differ between members, so the rate shown when you activate is the one that counts.</p>
+<div class="tablewrap"><table><thead><tr><th>Store</th><th>Latest</th><th>Highest seen</th><th>First reading</th><th>Changes</th><th>Days read</th></tr></thead><tbody>{trs}</tbody></table></div>
+<h2>How the readings are taken</h2>
+<p>Once a day a script opens each store's public page on rakuten.com and records the headline rate in the page title, such as "Up to 8%" or "2%". "None" means the page said the store offers no cash back that day. A store is missing for a day when its page could not be read. Category rates and exclusions are not in this file; each store's own page here lists them as read on its checked date.</p>
+<h2>Use the data</h2>
+<p>The full history is one plain file: <a href="{BASE}data/rakuten-rates.csv">rakuten-rates.csv</a> (columns: date, store, rate). You may quote or chart it; please link to this page as the source. For today's rates with what changed since yesterday, see <a href="{BASE}rakuten-cash-back-rates-today-by-store/">Rakuten rates today, by store</a>.</p>
+<p class="disclosure">Worth the Fee earns from referral links on its site. <a href="{BASE}disclosure/">How we earn</a>.</p>"""
+    ld = {"@context": "https://schema.org", "@type": "Dataset", "name": title, "description": desc,
+          "url": SITE + "rakuten-rate-history/", "temporalCoverage": f"{days[0]}/{days[-1]}",
+          "creator": {"@type": "Organization", "name": NAME, "url": SITE}, "isAccessibleForFree": True,
+          "distribution": [{"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": SITE + "data/rakuten-rates.csv"}]}
+    content = f'<div class="wrap narrow"><article class="prose"><h1>{esc(title)}</h1>{body}</article></div>'
+    write("rakuten-rate-history/index.html", layout(f"{title} | {NAME}", desc, content, "rakuten-rate-history/",
+                                                    f'<script type="application/ld+json">{json.dumps(ld)}</script>'))
+    return True
 
 
 def scoreboard(pages):
@@ -695,7 +749,8 @@ b.addEventListener('click',function(){{try{{localStorage.setItem('wtf_noga','1')
                              f'<div class="wrap narrow"><article class="prose"><h1>Page not found</h1><p><a href="{BASE}">See all questions</a>.</p></article></div>',
                              "404.html", noindex=True))
 
-    statics = ["", "offers/", "fee-calculator/", "about/", "how-we-check-facts/", "disclosure/", "privacy/", "cookies/", "contact/"] + [t["slug"] + "/" for k, t in TOPICS.items() if k in LIVE_TOPICS]
+    has_hist = rate_history_page()
+    statics = (["rakuten-rate-history/"] if has_hist else []) + ["", "offers/", "fee-calculator/", "about/", "how-we-check-facts/", "disclosure/", "privacy/", "cookies/", "contact/"] + [t["slug"] + "/" for k, t in TOPICS.items() if k in LIVE_TOPICS]
     urls = [(u, today) for u in statics] + [(p["slug"] + "/", p.get("checked", today)) for p in pages]
     sm = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + "".join(
         f"<url><loc>{SITE}{u}</loc><lastmod>{d}</lastmod></url>\n" for u, d in urls) + "</urlset>\n"
@@ -711,6 +766,7 @@ b.addEventListener('click',function(){{try{{localStorage.setItem('wtf_noga','1')
             continue
         llms += f"## {t['label']}\n\n" + "".join(
             f'- [{p["title"]}]({SITE}{p["slug"]}/): {p["description"]}\n' for p in pages if p["topic"] == k) + "\n"
+    llms += f"## Data\n\n- [Rakuten cash back rate history by store, read daily]({SITE}rakuten-rate-history/) (CSV: {SITE}data/rakuten-rates.csv)\n\n"
     llms += f"## About\n\n- [Current referral offers]({SITE}offers/)\n- [Annual fee calculator]({SITE}fee-calculator/)\n- [How we check facts]({SITE}how-we-check-facts/)\n- [How we earn]({SITE}disclosure/)\n"
     llms += f"\nFull text of every page in one file: {SITE}llms-full.txt. Each page also has a Markdown copy at its URL plus index.md.\n"
     write("llms.txt", llms)
