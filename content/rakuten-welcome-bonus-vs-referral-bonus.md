@@ -1,13 +1,13 @@
 ---
 title: Rakuten welcome bonus or a friend's referral bonus: which one do you get, and which is bigger?
 slug: rakuten-welcome-bonus-vs-referral-bonus
-description: On November 24, 2026 Rakuten's own pages showed a $10 welcome bonus and a member's link showed $50 after $50 of purchases. You get one, not both.
+description: On November 26, 2026 Rakuten's own pages showed a $10 welcome bonus and a member's link showed $50 after $50 of purchases. You get one, not both.
 topic: rakuten
 cta: rakuten
-checked: 2026-11-24
+checked: 2026-11-26
 ---
 
-You get whichever bonus was on the page you joined from, and never both. On November 24, 2026, Rakuten's own store pages advertised a $10 welcome bonus, while a member's referral link showed $50 after $50 of purchases, so the referral bonus was the larger one that day.
+You get whichever bonus was on the page you joined from, and never both. On November 26, 2026, Rakuten's own store pages advertised a $10 welcome bonus, while a member's referral link showed $50 after $50 of purchases, so the referral bonus was the larger one that day.
 
 This page is information, not financial advice. Both amounts change, and the page you land on shows the amount that applies to you.
 
@@ -16,7 +16,7 @@ This page is information, not financial advice. Both amounts change, and the pag
 | | Standard welcome bonus | Referral sign-up bonus |
 |---|---|---|
 | How you join | From Rakuten's own site or app | Through a member's link, or by entering the member's email on the join form |
-| Amount seen November 24, 2026 | $10 | $50 |
+| Amount seen November 26, 2026 | $10 | $50 |
 | Other amounts in Rakuten's page text | $20; an extra 10% cash back in place of a fixed bonus | $30 |
 | Purchases needed | At least $25 | $50 for the $50 offer ($30 for the $30 version) |
 | Time limit | 90 days from signing up | 90 days from signing up |
@@ -34,7 +34,7 @@ Neither bonus is instant. The store must confirm the purchase first, and the bon
 
 ## Why the amounts differ from page to page
 
-Rakuten's pages did not all show the same welcome offer on November 24, 2026. Store pages such as Best Buy's said $10. The home page description offered an extra 10% cash back for new members and named no fixed dollar bonus. Text built into the same pages also carried a line about a $20 welcome bonus after $25 of purchases. Rakuten's separate boost bonus terms describe the 10% version: it applies to purchases in the first seven days and has a cap. The cap amount is not confirmed.
+Rakuten's pages did not all show the same welcome offer on November 26, 2026. Store pages such as Best Buy's said $10. The home page description offered an extra 10% cash back for new members and named no fixed dollar bonus. Text built into the same pages also carried a line about a $20 welcome bonus after $25 of purchases. Rakuten's separate boost bonus terms describe the 10% version: it applies to purchases in the first seven days and has a cap. The cap amount is not confirmed.
 
 Referral amounts move too. The referral page showed $50 after $50, and its sharing text also carried a $30 after $30 message. Rakuten's referral FAQ says the new member gets "the bonus that was available on day of sign up."
 
@@ -58,7 +58,7 @@ Whether a member who joined from Rakuten's own site can add a friend's email aft
 ## Quick answers
 
 **Which Rakuten bonus is bigger?**
-On November 24, 2026 the referral bonus was: $50 against $10. Both change, so compare the pages on the day you join.
+On November 26, 2026 the referral bonus was: $50 against $10. Both change, so compare the pages on the day you join.
 
 **Can you get the welcome bonus and the referral bonus?**
 No. Rakuten's terms say the two cannot be combined, and each is one per new member.
