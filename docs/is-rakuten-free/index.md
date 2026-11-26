@@ -1,18 +1,18 @@
-# Is Rakuten free to join and use, and what is the catch?
+# Is Rakuten free? Yes, free to join and use, with one fee that can apply
 
 Source: https://itsworththefee.com/is-rakuten-free/
-Facts checked: 2026-11-25
+Facts checked: 2026-11-26
 Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
 
 Yes, Rakuten is free to join and free to use: there is no membership fee and no charge for shopping through it. The catch is not a price but a trade, because Rakuten collects data on your shopping, pays only four times a year, and holds any balance under about $5.
 
-This page is information, not financial advice. Every figure was re-read on Rakuten's own pages on November 25, 2026. For what happens after you join, see [how Rakuten works, step by step](/how-does-rakuten-work-step-by-step/).
+This page is information, not financial advice. Every figure was re-read on Rakuten's own pages on November 26, 2026; its terms carry the date October 23, 2026. For what happens after you join, see [how Rakuten works, step by step](/how-does-rakuten-work-step-by-step/).
 
 ## What it costs in money
 
 | Item | What Rakuten's pages say |
 |---|---|
-| Fee to join | None. The join page calls it free. |
+| Fee to join | None. The join page calls it "simple and free." |
 | Fee for the app or browser extension | None. Both are described as free. |
 | Payment card needed to join | No. An account needs an email and password, or a Facebook, Google or Apple sign-in. |
 | Minimum before a payment is sent | $5 on the help page; $5.01 in the terms |
@@ -20,7 +20,7 @@ This page is information, not financial advice. Every figure was re-read on Raku
 | Inactive account fee | $5.00 a month, after more than 12 months with no shopping trip |
 | Rakuten+ | A separate, optional annual membership that renews automatically. Price: not confirmed. |
 
-A card comes into it only if you choose to link one for [in-store offers](/rakuten-in-store-cash-back-how-it-works/). Rakuten's home page says linking a card is not required. Members must be at least 18 and live in the 50 states or Washington D.C., and each person is limited to one account.
+A card comes into it only if you choose to link one for [in-store offers](/rakuten-in-store-cash-back-how-it-works/). Rakuten's home page says of linking a card, "You don't have to." Members must be at least 18 and live in the 50 states or Washington D.C., and each person is limited to one account.
 
 The one fee in the terms is for an inactive account. If you have not shopped or started a shopping trip for more than 12 months in a row, Rakuten may take $5.00 a month from your balance. It comes out of cash back you have earned, not from your bank. The terms say the fee cannot make a balance negative or leave you owing money, so an account with nothing in it is not charged. Shopping or starting a shopping trip stops it. After more than 36 idle months with a zero balance, Rakuten may close the account.
 
@@ -28,7 +28,7 @@ The one fee in the terms is for an inactive account. If you have not shopped or 
 
 Two things with Rakuten's name are not part of the free membership, and neither is needed to earn cash back.
 
-- **Rakuten+.** Rakuten's help center describes an annual membership, offered by invitation, that pays at least 10% at a list of premium stores. It renews automatically on the date you joined, can be canceled up to 3 days before renewal, and gives no refund for a part-used year. The help pages read do not state the price, so it is not confirmed.
+- **Rakuten+.** Rakuten's help center describes an annual membership, offered by invitation, that pays at least 10% at a list of premium stores. It renews automatically on the date you joined, can be canceled up to 3 days before renewal, and gives no refund for a part-used year. The help pages mention a free trial but do not state the price, so it is not confirmed.
 - **The Rakuten American Express Card.** A credit card with its own terms. Its fees were not read for this page.
 
 ## How Rakuten earns if you pay nothing
@@ -51,7 +51,7 @@ Stores pay Rakuten a commission when it sends them a shopper who buys. Rakuten k
 
 ## Is the joining bonus free too
 
-The bonus for new members costs nothing, but it is not paid for joining alone. As read on November 25, 2026, the welcome bonus terms ask for at least $25 of purchases that earn cash back within 90 days, and the referral offer asks for $50. Amounts change; see [how the sign-up and referral bonuses work](/rakuten-50-bonus-how-it-works/).
+The bonus for new members costs nothing, but it is not paid for joining alone. As read on November 26, 2026, the welcome bonus terms ask for at least $25 of purchases that earn cash back within 90 days, and the referral offer asks for $50. Amounts vary and change; see [how the sign-up and referral bonuses work](/rakuten-50-bonus-how-it-works/) and [welcome bonus or referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/).
 
 ## Who should skip it
 

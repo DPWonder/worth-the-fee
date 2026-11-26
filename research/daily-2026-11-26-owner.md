@@ -1,0 +1,5 @@
+- The Home Depot: page title "Home Depot Coupons, Promo Codes & No Cash Back - November 2026" read 2026-11-26. https://www.rakuten.com/homedepot.com
+- Lowe's: page title shows "Up to 8% Cash Back" read 2026-11-26. https://www.rakuten.com/lowes.com
+- Target: page title shows 1% Cash Back read 2026-11-26. https://www.rakuten.com/target.com
+- Kohl's: page title shows 2% Cash Back read 2026-11-26. https://www.rakuten.com/kohls.com
+- Walmart: page title shows No Cash Back read 2026-11-26. https://www.rakuten.com/walmart.com

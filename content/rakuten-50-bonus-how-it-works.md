@@ -1,16 +1,16 @@
 ---
-title: Rakuten sign-up bonus and referral bonus: how each works, what to spend, and what makes it fail
+title: Rakuten sign-up bonus: how the welcome and referral bonuses work, what to spend, and what makes one fail
 slug: rakuten-50-bonus-how-it-works
-description: Read November 25, 2026: join by a member's link, then make $50 of purchases that earn cash back within 90 days. One bonus per person; offers change.
+description: Rakuten sign-up bonus, read November 26, 2026: one bonus per new member, earned after $25 or $50 of purchases within 90 days. Offers vary and change.
 cta: rakuten
-checked: 2026-11-25
+checked: 2026-11-26
 ---
 
-A new Rakuten member gets one bonus, not two: the referral bonus for joining through a member's link, or the welcome bonus for joining from Rakuten's own pages. As read on November 25, 2026, the referral offer asks for purchases that earn cash back totaling at least $50 within 90 days of signing up, and the welcome bonus asks for $25. Amounts and terms change.
+A new Rakuten member gets one sign-up bonus, not two: the referral bonus for joining through a member's link, or the welcome bonus for joining from Rakuten's own pages. As read on November 26, 2026, the referral offer asks for purchases that earn cash back totaling at least $50 within 90 days of signing up, and the welcome bonus asks for $25. Neither is paid for joining alone, and amounts and terms vary and change.
 
-This page is information, not financial advice. Rakuten's referral page says the requirement and reward can vary; the offer shown runs to December 31, 2026. See also [welcome bonus or referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/) and [is Rakuten free](/is-rakuten-free/).
+This page is information, not financial advice. Rakuten's referral page says the requirement and reward can vary; the offer shown runs from October 1 to December 31, 2026. See also [welcome bonus or referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/) and [is Rakuten free](/is-rakuten-free/).
 
-## The two bonuses as read on November 25, 2026
+## The two bonuses as read on November 26, 2026
 
 | | Referral sign-up bonus | Welcome bonus |
 |---|---|---|
@@ -22,9 +22,9 @@ This page is information, not financial advice. Rakuten's referral page says the
 | Amazon.com orders | Do not count | Do not count |
 | Combined with the other bonus | No | No |
 
-Rakuten's referral FAQ says the new member gets "the bonus that was available on day of sign up." The amount on the page you join from is the one that applies to you.
+Rakuten's pages show more than one amount on the same day; which one a given new member is offered is not confirmed. Rakuten's referral FAQ says the new member gets "the bonus that was available on day of sign up." The amount on the page you join from is the one that applies to you.
 
-The 10% version is a separate offer called the Boost Bonus. Its terms say it adds to the rate only at stores where a boost is advertised, for the period named in the offer, up to $50.00 in total.
+The 10% version is a separate offer called the Boost Bonus. Its terms say it adds to the rate only at stores where a boost is advertised, for the period named in the offer, up to $50.00 in total. The length of that period is not confirmed; the public terms do not give it.
 
 ## The steps
 
@@ -40,7 +40,7 @@ Adding a referrer after an account already exists is not confirmed.
 
 | Rule | Detail |
 |---|---|
-| Purchase confirmed by the store | Typically 3 to 14 weeks |
+| Purchase confirmed by the store | Typically 3 to 14 weeks on the payment page; 3 to 17 weeks on the status page |
 | Travel | 45 to 120 days after the booking on the payment page; 6 to 17 weeks after the trip in the travel article |
 | When a bonus is confirmed | At the same time as the cash back on the qualifying order |
 | Payment dates | February 15, May 15, August 15, November 15 |
@@ -51,16 +51,14 @@ See also [the sign-up bonus as Amex points](/rakuten-sign-up-bonus-as-amex-point
 
 ## When the money really arrives
 
-Neither bonus is instant. The store confirms your purchase, the bonus is confirmed with it, and it goes out on the next payment date after that. A late November purchase confirmed in three weeks is paid on February 15, 2027; one confirmed in 14 weeks is paid on May 15, 2027. More in [when Rakuten pays](/rakuten-when-do-you-get-paid/).
-
-The welcome bonus FAQ says that bonus is sent once its three steps are complete; the welcome bonus terms say it is added to the next cash back payment or points transfer.
+The store confirms your purchase, the bonus is confirmed with it, and it goes out on the next payment date after that. A late November purchase confirmed in three weeks is paid on February 15, 2027; one confirmed in 14 weeks is paid on May 15, 2027. More in [when Rakuten pays](/rakuten-when-do-you-get-paid/).
 
 ## What counts as a qualifying purchase
 
 A purchase qualifies only if it earns cash back through Rakuten.com, the app or the extension. These do not count:
 
 - Purchases on Amazon.com (music.amazon.com is the one exception in the terms).
-- Stores listed with no cash back. Walmart showed "No Cash Back" on November 25, 2026.
+- Stores listed with no cash back, as Walmart was on November 26, 2026.
 - Most gift-card purchases.
 - Tax and shipping.
 - Items or categories the store excludes.
@@ -93,19 +91,19 @@ If a purchase does not show up after 48 hours, see [what to do about missing cas
 
 ## For the member who refers
 
-The referral page's terms give the referring member a $50 Referral Bonus for each new member who joins between October 1 and December 31, 2026 and meets the purchase test, with no limit on referrals. It is added to the next cash back payment. The referral page says generally within 60 days of the friend's qualifying purchase; the help FAQ says when the friend's cash back is confirmed.
+The referral page's terms give the referring member a $50 Referral Bonus for each new member who joins between October 1 and December 31, 2026 and meets the purchase test, with no limit on referrals. It is added to the next cash back payment.
 
 ## Who should skip it
 
 - You would be buying $50 of something you do not need.
-- You will not turn off an ad blocker or VPN for one purchase. The order may not track.
+- You will not turn off an ad blocker or VPN for one purchase.
 - You plan to make the purchases at Amazon.com or on gift cards.
 - You already have a Rakuten account.
 
 ## Quick answers
 
 **How much do I need to spend for the Rakuten referral bonus?**
-At least $50 in purchases that earn cash back, within 90 days of joining, under the offer read on November 25, 2026.
+At least $50 in purchases that earn cash back, within 90 days of joining, under the offer read on November 26, 2026.
 
 **Can I get the welcome bonus and the referral bonus?**
 No. The welcome bonus terms say it cannot be combined with the Referral Sign Up Bonus.
@@ -124,8 +122,8 @@ After the store confirms your purchase, with the next payment: February 15, May 
 - [Rakuten: How to join Rakuten](https://www.rakuten.com/help/article/how-to-join-rakuten-360002101108)
 - [Rakuten: home page](https://www.rakuten.com/)
 - [Rakuten: Apple store page (welcome bonus text)](https://www.rakuten.com/apple.com)
-- [Rakuten: Walmart store page](https://www.rakuten.com/walmart.com)
 - [Rakuten: When will I get paid?](https://www.rakuten.com/help/article/when-will-i-get-paid-360002117667)
+- [Rakuten: Checking the status of your cash back](https://www.rakuten.com/help/article/tracking-your-cash-back-360002117107)
 - [Rakuten: How cash back on travel works](https://www.rakuten.com/help/article/travel-purchases-with-rakuten-360002117527)
 - [Rakuten: Why didn't I earn cash back?](https://www.rakuten.com/help/article/why-didnt-i-earn-cash-back-360036367393)
 - [Rakuten: Terms and conditions](https://www.rakuten.com/help/article/terms-conditions)

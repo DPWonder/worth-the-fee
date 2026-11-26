@@ -28,7 +28,7 @@ Several stores had raised rates that day. The "was" figures of 1% to 4% are clos
 
 A few airlines had their own listings, at about 1% to 1.5%.
 
-The Hilton and Marriott listings seen that day were for buying points, not booking rooms. No Hyatt listing was seen.
+The Hilton and Marriott listings seen that day were for buying points, not booking rooms. No Hyatt listing was seen. On November 26, 2026, a separate Rakuten page for Marriott.com bookings showed 3% with its own exclusions, while Hilton's page showed no cash back; see [Rakuten at Marriott](/rakuten-marriott-cash-back-how-it-works/) and [Rakuten at Hilton](/rakuten-hilton-cash-back-how-it-works/).
 
 Priceline's terms say taxes, insurance and resort fees earn nothing. Expect the rate to apply to the room price, not the full bill: 8% on a $1,000 room is $80, and 4% on an ordinary day is $40.
 

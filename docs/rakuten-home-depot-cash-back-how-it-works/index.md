@@ -1,10 +1,10 @@
 # Rakuten Home Depot cash back: does it work, and what is excluded?
 
 Source: https://itsworththefee.com/rakuten-home-depot-cash-back-how-it-works/
-Facts checked: 2026-11-21
+Facts checked: 2026-11-26
 Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
 
-No. The Home Depot has a page on Rakuten, but on November 21, 2026 that page showed "No Cash Back". Shopping there through Rakuten earned nothing that day, on any category.
+No. The Home Depot has a page on Rakuten, but on November 26, 2026 that page showed "No Cash Back", the same as on November 21, 24 and 25. Shopping there through Rakuten earned nothing on those days, on any category.
 
 This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy. For this morning's headline rate here and at other stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/).
 
@@ -79,13 +79,13 @@ Skip the Rakuten step for this store while the page shows no cash back. It adds 
 ## Quick answers
 
 **Is The Home Depot on Rakuten?**
-It has a page, but the page showed no cash back on November 21, 2026.
+It has a page, but the page showed no cash back on November 21, 24, 25 and 26, 2026.
 
 **Does any category earn, such as appliances?**
 No. No category rates were listed that day.
 
 **Does Lowe's earn Rakuten cash back?**
-Rakuten showed Lowe's at up to 2% (was 1%) on November 21, 2026. Rates change daily.
+Rakuten showed Lowe's at up to 2% (was 1%) on November 21, 2026 and up to 8% on November 26, 2026. Rates change daily; see [Rakuten at Lowe's](/rakuten-lowes-cash-back-how-it-works/).
 
 ## Not a Rakuten member yet
 

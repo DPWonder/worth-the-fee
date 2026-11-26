@@ -1,10 +1,10 @@
 # Rakuten Apple cash back: is Apple on Rakuten, and what is excluded?
 
 Source: https://itsworththefee.com/rakuten-apple-cash-back-how-it-works/
-Facts checked: 2026-11-25
+Facts checked: 2026-11-26
 Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
 
-Yes, Apple is on Rakuten, but cash back covers a narrow list. Apple was listed at 2% on November 25, 2026, and only for accessories, Apple Refurbished products, AppleCare+ and Beats. A new iPhone, Mac, iPad, Apple Watch or AirPods earns nothing.
+Yes, Apple is on Rakuten: 2% cash back on November 26, 2026, the day before Black Friday, and only for accessories, Apple Refurbished products, AppleCare+ and Beats. A new iPhone, Mac, iPad, Apple Watch or AirPods earns nothing.
 
 This page is information, not financial advice. Rates change daily, so check Apple's page on Rakuten on the day you buy. For this morning's headline rate here and at other stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/).
 
@@ -12,7 +12,7 @@ This page is information, not financial advice. Rates change daily, so check App
 
 Rakuten's terms for Apple say: "Cash Back is only available on Accessories, Apple Refurbished products, AppleCare+ and Beats."
 
-| Earned 2% on November 25, 2026 | Earned nothing |
+| Earned 2% on November 26, 2026 | Earned nothing |
 |---|---|
 | Apple Certified Refurbished | iPhone |
 | AirTag | Mac and MacBooks |
@@ -25,7 +25,17 @@ Rakuten's terms for Apple say: "Cash Back is only available on Accessories, Appl
 
 Also excluded: Apple displays (Pro Display XDR and Studio Display), Apple Vision Pro accessories, redeeming a gift card, Apple Developer Programs, AppleCare+ and AppleCare One paid as a monthly subscription, resale orders, and orders through Apple's employee purchase, government or veterans and military stores.
 
-No "was" rate was shown, so 2% looked like the ordinary rate that day, not a raised one. That held two days before Black Friday, when many other stores were raised; see [Rakuten on Black Friday](/rakuten-black-friday-cash-back-2026/). Rakuten's Black Friday page features Apple, and the exclusions above still apply.
+## The rate, by date
+
+| Date read | Rate shown on Rakuten's Apple page |
+|---|---|
+| November 24, 2026 | 2% |
+| November 25, 2026 | 2% |
+| November 26, 2026 | 2% |
+
+No "was" rate was shown on November 26, so 2% looked like the ordinary rate, not a raised one. That held the day before Black Friday, when Rakuten's pages for Macy's and Ulta each showed 12% against a usual 2%. Rakuten's Black Friday page names Apple, and the exclusions above still apply. Whether the rate changes on Black Friday itself or on Cyber Monday is not confirmed; see [Rakuten on Black Friday](/rakuten-black-friday-cash-back-2026/) and [Rakuten on Cyber Monday](/rakuten-cyber-monday-cash-back-2026/).
+
+The one deal listed on the page that day was a link to Apple refurbished products with a one-year warranty, not a code.
 
 ## The sums
 
@@ -68,22 +78,24 @@ If an eligible order shows nothing after two days, see [what to do about missing
 ## Quick answers
 
 **Is Apple on Rakuten?**
-Yes. Apple was listed at 2% on November 25, 2026, for accessories, Apple Refurbished products, AppleCare+ and Beats only.
+Yes. Apple was listed at 2% on November 26, 2026, for accessories, Apple Refurbished products, AppleCare+ and Beats only.
 
 **Does a new iPhone earn Rakuten cash back at Apple?**
-No. iPhone was on the excluded list on November 25, 2026.
+No. iPhone was on the excluded list on November 26, 2026.
 
 **When is Apple cash back added?**
 The listing says the same day. It is paid on Rakuten's next quarterly date after it is confirmed.
 
 ## Not a Rakuten member yet
 
-Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](/is-rakuten-free/). A new member gets one joining bonus, not two. [How the sign-up and referral bonuses work](/rakuten-50-bonus-how-it-works/) sets out both offers as read on November 25, 2026.
+Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](/is-rakuten-free/). A new member gets one joining bonus, not two; [how the sign-up and referral bonuses work](/rakuten-50-bonus-how-it-works/) sets out both offers.
 
 ## Sources
 
 - [Rakuten: Apple store page](https://www.rakuten.com/apple.com)
 - [Rakuten: Black Friday](https://www.rakuten.com/black-friday)
+- [Rakuten: Macy's store page](https://www.rakuten.com/macys.com)
+- [Rakuten: Ulta Beauty store page](https://www.rakuten.com/ulta.com)
 - [Rakuten: Kohl's store page](https://www.rakuten.com/kohls.com)
 - [Rakuten: Best Buy store page](https://www.rakuten.com/bestbuy.com)
 - [Rakuten: Target store page](https://www.rakuten.com/target.com)
