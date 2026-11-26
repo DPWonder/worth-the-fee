@@ -28,3 +28,4 @@ Each day: the verdict, the one change made, and the number that should move.
 - Morning job steered: through 11-30 it re-reads and re-dates both holiday pages every day (the Cyber Monday page's answer was still dated 11-23).
 - Number that should move: views and clicks on `/rakuten-black-friday-cash-back-2026/` and `/rakuten-cyber-monday-cash-back-2026/` for 11-27 to 11-30 against 771 views / 2 clicks and 74 / 2 so far; readable from 11-29, complete on 12-02. Also any ChatGPT visit landing on either page.
 - Not done on purpose: no second change to store-page titles or descriptions while the 11-25 title test is unread.
+- Confirmed live at 1:11 PM: both pages return 200 and show the table.
