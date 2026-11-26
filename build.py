@@ -107,6 +107,72 @@ def history_html(slug):
             f'{len(h)} times and changed {changes} time{"" if changes == 1 else "s"}. The table shows the first reading, each day it changed, and the newest reading. <a href="{BASE}rakuten-rate-history/">History for every store</a>.</p>'
             f'<div class="tablewrap"><table><thead><tr><th>Day read</th><th>Headline rate</th><th>Change</th></tr></thead><tbody>{rows}</tbody></table></div>')
 
+HOLIDAY_SLUGS = {"rakuten-black-friday-cash-back-2026": "<h2>Exclusions</h2>",
+                 "rakuten-cyber-monday-cash-back-2026": "<h2>How it differs from Black Friday</h2>"}
+
+
+def holiday_grid_html():
+    """Every tracked store's headline rate on each day from Nov 24 to Nov 30, 2026, with a count of how many
+    rose, fell or stayed. Built from research/rakuten-rates.csv, so it grows by itself each day through Cyber Monday."""
+    try:
+        import rates as _rates
+        slug = {s[0]: s[2] for s in _rates.STORES}
+    except Exception:
+        return ""
+    by = {}
+    for sl, h in STORE_HISTORY.items():
+        w = [(d, r) for d, r in h if "2026-11-24" <= d <= "2026-11-30"]
+        if w:
+            by[sl] = dict(w)
+    days = sorted({d for v in by.values() for d in v})
+    if len(days) < 2:
+        return ""
+    name = {v: k for k, v in slug.items()}
+
+    def num(rate):
+        if rate == "None":
+            return 0.0
+        m = re.fullmatch(r"(?:Up to )?([\d.]+)%", rate)
+        return float(m.group(1)) if m else None
+
+    last = days[-1]
+    up = down = same = none = 0
+    rows = []
+    for sl, v in by.items():
+        if last not in v:
+            continue
+        ds = sorted(v)
+        a, b = num(v[ds[0]]), num(v[last])
+        if v[last] == "None":
+            none += 1
+        if len(ds) < 2 or a is None or b is None:
+            note = "" if len(ds) > 1 else "first reading"
+        elif b > a:
+            up += 1; note = "higher"
+        elif b < a:
+            down += 1; note = "lower"
+        else:
+            same += 1; note = "same"
+        store = esc(name.get(sl, sl))
+        if (ROOT / "content" / (sl + ".md")).exists():
+            store = f'<a href="{BASE}{sl}/">{store}</a>'
+        cells = "".join(f"<td>{esc(v.get(d, '-'))}</td>" for d in days)
+        rows.append((-(b if b is not None else -1), name.get(sl, sl).lower(), f"<tr><td>{store}</td>{cells}<td>{note}</td></tr>"))
+    rows.sort()
+    nice = lambda d: date.fromisoformat(d).strftime("%b %-d")
+    long = lambda d: date.fromisoformat(d).strftime("%B %-d, %Y")
+    labels = {"2026-11-26": " (Thanksgiving)", "2026-11-27": " (Black Friday)", "2026-11-30": " (Cyber Monday)"}
+    head = "".join(f"<th>{nice(d)}{labels.get(d, '')}</th>" for d in days)
+    return (f'<h2>Every store we track, day by day from November 24</h2>'
+            f'<p>We read the headline rate on each store\'s Rakuten page once a day. Of the {len(rows)} stores read on {long(last)}, '
+            f'{up} showed a higher headline rate than on their first reading this week, {down} a lower one and {same} the same. '
+            f'{none} showed no cash back. A new column is added each day through Cyber Monday, November 30. '
+            f'"Up to" rates apply to some categories only; each store\'s page lists them. '
+            f'<a href="{BASE}rakuten-rate-history/">Full history and download</a>.</p>'
+            f'<div class="tablewrap"><table><thead><tr><th>Store</th>{head}<th>Against first reading</th></tr></thead>'
+            f'<tbody>{"".join(r[2] for r in rows)}</tbody></table></div>')
+
+
 # Fee calculator data: (credit, dollars per year at face value, note). Sources: the credit pages in content/.
 CALC = {
     "amex": {"card": "Amex Platinum", "fee": 895, "more": "amex-platinum-credits-real-value", "credits": [
@@ -464,6 +530,10 @@ def build():
         hist = history_html(pg["slug"])
         if hist:
             body_html = body_html.replace("<h2>Quick answers</h2>", hist + "<h2>Quick answers</h2>", 1) if "<h2>Quick answers</h2>" in body_html else body_html + hist
+        if pg["slug"] in HOLIDAY_SLUGS:
+            grid, mark = holiday_grid_html(), HOLIDAY_SLUGS[pg["slug"]]
+            if grid and mark in body_html:
+                body_html = body_html.replace(mark, grid + mark, 1)
         checked = pg.get("checked", today)
         nice = date.fromisoformat(checked).strftime("%B %-d, %Y")
         path = pg["slug"] + "/"
