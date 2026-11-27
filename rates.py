@@ -86,12 +86,13 @@ def fetch(store):
     if not m:
         return None
     title = html.unescape(m.group(1))
-    r = re.search(r"&\s+((?:Up to\s+)?[\d.]+%\s+Cash Back|No Cash Back|(?:Up to\s+)?\$[\d.]+\s+Cash Back)", title, re.I)
+    r = re.search(r"&\s+((?:Up to\s+)?[\d.]+%\s+Cash Back|No Cash Back|Coupons Only|(?:Up to\s+)?\$[\d.]+\s+Cash Back)", title, re.I)
     if not r:
         return None
     rate = re.sub(r"\s+", " ", r.group(1))
     rate = rate[0].upper() + rate[1:]
-    rate = re.sub(r"\.0+%", "%", rate).replace(" Cash Back", "").replace("No", "None")
+    rate = re.sub(r"\.0+%", "%", rate).replace(" Cash Back", "")
+    rate = "None" if rate.lower() in ("no", "coupons only") else rate
     return name, addr, slug, rate
 
 

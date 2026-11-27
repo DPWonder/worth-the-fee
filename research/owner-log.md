@@ -38,3 +38,10 @@ Each day: the verdict, the one change made, and the number that should move.
 - Finding: Bath & Body Works, GameStop, Michaels, Anthropologie and Bose pay nothing on Rakuten today (two are "Coupons Only", three have no store page). `rates.py` cannot read "Coupons Only" titles, so those two get no daily reading.
 - To fix next run: `chase-sapphire-preferred-rental-car-insurance` carries claim deadlines of 20 and 90 days; Chase's Guide to Benefits read today says 100 days to report and 365 for documents. Re-read and correct.
 - Number that reads it tomorrow: clicks on the two holiday pages for 11-26 and 11-27 against 786 views / 2 clicks and 79 / 2; referral clicks against 8.
+
+## 2026-11-27, afternoon (from the owner's chat)
+
+- Both scheduled runs failed at start today on the account's weekly usage limit; the morning run was restarted at 3:16 PM and published at 3:28 PM. A catch-up job now runs daily at 2:30 PM.
+- Reading of the numbers: about 6 of roughly 60 real visitors pressed a referral button (8 clicks), so the page-to-button step works; volume is the limit. ChatGPT is the fastest-growing source (2, 6, 17 all-time over three days).
+- Fixed: the Sapphire Preferred rental car page now gives the claim deadlines from Chase's Guide to Benefits (100 days to report, 365 for documents) in place of 20 and 90. `rates.py` now records "Coupons Only" stores as None, so they get a daily reading.
+- Open question for tomorrow: Google shows 346 views for 11-25 against 4,399 on 11-24. If 11-25 stays low once complete and 11-26 is low too, treat it as a real drop: compare store pages' positions before and after, and revert the rate-in-title pattern in `build.py` first (one line: use pg["title"] for seo_title).

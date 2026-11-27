@@ -4,7 +4,7 @@ slug: chase-sapphire-preferred-rental-car-insurance
 description: The Sapphire Preferred covers theft and damage to the rental car itself, up to $60,000. It does not cover liability, injuries or your belongings.
 topic: chase
 cta: chase
-checked: 2026-11-20
+checked: 2026-11-27
 ---
 
 Yes. The Sapphire Preferred gives primary cover for theft of, or damage to, the rental car itself, up to $60,000, when you pay for the whole rental with the card and decline the rental company's collision damage waiver. It leaves out liability for other people and property, injuries, your belongings and several kinds of vehicle.
@@ -74,7 +74,7 @@ Chase's guide names these papers for a claim:
 - A repair estimate, an accident report form and photographs
 - A police report for vandalism or carjacking
 
-The claim deadline for this benefit is not confirmed. AwardWallet reports 20 days to give notice and 90 days to send documents for Chase's travel benefits in general, so report a loss right away.
+Chase's Guide to Benefits for the card (form BGC11387, in effect as of October 1, 2024, read on November 27, 2026) says to report a loss as soon as reasonably possible and no later than 100 days from the incident, and to send the documents within 365 days. Shorter deadlines quoted elsewhere apply to other Chase travel benefits, not this one.
 
 ## The sums
 
@@ -104,6 +104,7 @@ No. Chase's guide excludes peer-to-peer rentals, and Upgraded Points names Turo 
 
 ## Sources
 
+- [Chase: Sapphire Preferred Guide to Benefits (PDF)](https://static.chasecdn.com/content/services/structured-document/document.en.pdf/card/benefits-center/product-benefits-guide-pdf/BGC11387_v2.pdf)
 - [Chase: how Sapphire rental car insurance works](https://www.chase.com/personal/credit-cards/education/basics/chase-sapphire-rental-car-insurance-guide)
 - [Chase: Sapphire Preferred card page](https://creditcards.chase.com/rewards-credit-cards/sapphire/preferred)
 - [Upgraded Points: Sapphire Preferred travel insurance benefits](https://upgradedpoints.com/credit-cards/reviews/chase-sapphire-preferred-card/travel-insurance-benefits)
