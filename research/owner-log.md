@@ -29,3 +29,12 @@ Each day: the verdict, the one change made, and the number that should move.
 - Number that should move: views and clicks on `/rakuten-black-friday-cash-back-2026/` and `/rakuten-cyber-monday-cash-back-2026/` for 11-27 to 11-30 against 771 views / 2 clicks and 74 / 2 so far; readable from 11-29, complete on 12-02. Also any ChatGPT visit landing on either page.
 - Not done on purpose: no second change to store-page titles or descriptions while the 11-25 title test is unread.
 - Confirmed live at 1:11 PM: both pages return 200 and show the table.
+
+## 2026-11-27 (Black Friday), daily run
+
+- Google: 11-24 is still the last full day (4,399 views / 12 clicks); 11-25 shows 346 / 1 so far, a partial day. Seven days: 8,788 views, 30 clicks, 0.3%, position 19.1. The 11-25 title test still cannot be judged.
+- Analytics, all-time: 190 users, 201 sessions; search 41 (was 33), ChatGPT 17 (was 6), nothing from Medium, Bluesky or Pinterest. Referral clicks 8 from 6 people (was 4 from 2): the first day they doubled.
+- Weakest step, unchanged: being clicked in the results. Change made today (live about 3:55 PM): Black Friday and Cyber Monday pages re-read and re-dated to today, titles now start with the words people type; Best Buy, Target, Walmart, Kohl's re-read; the step-by-step and is-it-legit pages rebuilt for people who have not joined; 8 new pages.
+- Finding: Bath & Body Works, GameStop, Michaels, Anthropologie and Bose pay nothing on Rakuten today (two are "Coupons Only", three have no store page). `rates.py` cannot read "Coupons Only" titles, so those two get no daily reading.
+- To fix next run: `chase-sapphire-preferred-rental-car-insurance` carries claim deadlines of 20 and 90 days; Chase's Guide to Benefits read today says 100 days to report and 365 for documents. Re-read and correct.
+- Number that reads it tomorrow: clicks on the two holiday pages for 11-26 and 11-27 against 786 views / 2 clicks and 79 / 2; referral clicks against 8.
