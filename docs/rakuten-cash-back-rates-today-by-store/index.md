@@ -1,76 +1,76 @@
-# Rakuten cash back rates today, by store (November 26)
+# Rakuten cash back rates today, by store (November 27)
 
 Source: https://itsworththefee.com/rakuten-cash-back-rates-today-by-store/
-Facts checked: 2026-11-26
+Facts checked: 2026-11-27
 Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
 
-On November 26, 2026, the highest headline Rakuten rates among 77 large stores read were Petco (20%), Bloomingdale's (15%), Carter's (15%), Dyson (15%), Neiman Marcus (up to 15%). The table below lists every store read, the rate shown on its Rakuten page that day, and whether it moved since the last reading.
+On November 27, 2026, the highest headline Rakuten rates among 77 large stores read were Petco (25%), Ray-Ban (up to 25%), PetSmart (20%), Bloomingdale's (15%), Carter's (15%). The table below lists every store read, the rate shown on its Rakuten page that day, and whether it moved since the last reading.
 
 This page is information, not financial advice. Rates change daily, and sometimes within a day, so the rate on Rakuten at the moment you activate is the one that counts.
 
-## Rates read on November 26, 2026
+## Rates read on November 27, 2026
 
 "Up to" means the top rate applies to some categories or brands only; most items usually earn less. "None" means the store has a Rakuten page but it showed no cash back that day.
 
 | Store | Headline rate | Since last reading |
 |---|---|---|
-| [Petco](/rakuten-petco-cash-back-how-it-works/) | 20% | Was 2% |
-| [Bloomingdale's](/rakuten-bloomingdales-cash-back-how-it-works/) | 15% | Was 12% |
-| [Carter's](/rakuten-carters-cash-back-how-it-works/) | 15% | Was 8% |
-| [Dyson](/rakuten-dyson-cash-back-how-it-works/) | 15% | Was 12% |
-| [Neiman Marcus](/rakuten-neiman-marcus-cash-back-how-it-works/) | Up to 15% | Was 15% |
-| [PetSmart](/rakuten-petsmart-cash-back-how-it-works/) | 15% | Was 10% |
-| [Saks Fifth Avenue](/rakuten-saks-fifth-avenue-cash-back-how-it-works/) | 15% | Was 12% |
-| [Under Armour](/rakuten-under-armour-cash-back-how-it-works/) | 15% | Was 10% |
-| [Academy Sports](/rakuten-academy-sports-cash-back-how-it-works/) | 12% | Was 2% |
-| [Ace Hardware](/rakuten-ace-hardware-cash-back-how-it-works/) | 12% | Was up to 6% |
-| [Adidas](/rakuten-adidas-cash-back-how-it-works/) | Up to 12% | Was up to 8% |
-| [Banana Republic](/rakuten-banana-republic-cash-back-how-it-works/) | 12% | Was 2% |
-| [Columbia](/rakuten-columbia-cash-back-how-it-works/) | 12% | Was 2% |
-| [Crocs](/rakuten-crocs-cash-back-how-it-works/) | 12% | Was 9% |
-| [CVS](/rakuten-cvs-cash-back-how-it-works/) | 12% | Was 3% |
-| [DSW](/rakuten-dsw-cash-back-how-it-works/) | 12% | Was 2% |
-| [Expedia](/rakuten-expedia-booking-com-cash-back/) | Up to 12% | Was up to 3% |
-| [Foot Locker](/rakuten-foot-locker-cash-back-how-it-works/) | 12% | Was 9% |
-| [Gap](/rakuten-gap-cash-back-how-it-works/) | 12% | Was 2% |
-| [Hotels.com](/rakuten-hotels-com-cash-back-how-it-works/) | Up to 12% | Was up to 3% |
-| [IHG](/rakuten-ihg-cash-back-how-it-works/) | 12% | Was 9% |
-| [Lenovo](/rakuten-laptop-cash-back-dell-hp-lenovo/) | 12% | Was 2% |
-| [Levi's](/rakuten-levis-cash-back-how-it-works/) | 12% | Was 10% |
-| [Macy's](/rakuten-macys-cash-back-how-it-works/) | 12% | Was 10% |
-| [New Balance](/rakuten-new-balance-cash-back-how-it-works/) | 12% | Was 9% |
-| [Old Navy](/rakuten-old-navy-cash-back-how-it-works/) | 12% | Was 2% |
-| [Ray-Ban](/rakuten-ray-ban-cash-back-how-it-works/) | Up to 12% | Same |
-| [Sam's Club](/rakuten-sams-club-cash-back-how-it-works/) | Up to 12% | Was up to 9% |
-| [Shein](/rakuten-shein-cash-back-how-it-works/) | 12% | Was 6% |
-| [Skechers](/rakuten-skechers-cash-back-how-it-works/) | 12% | Was 3% |
-| [Sonos](/rakuten-sonos-cash-back-how-it-works/) | 12% | Was 2% |
-| [Staples](/rakuten-staples-cash-back-how-it-works/) | Up to 12% | Was up to 6% |
-| [The North Face](/rakuten-the-north-face-cash-back-how-it-works/) | 12% | Was 2% |
-| [Ulta](/rakuten-ulta-cash-back-how-it-works/) | 12% | Was 2% |
-| [Viator](/rakuten-viator-cash-back-how-it-works/) | 12% | Was 11% |
-| [Vrbo](/rakuten-vrbo-cash-back-how-it-works/) | Up to 12% | Was 3% |
-| [Walgreens](/rakuten-walgreens-cash-back-how-it-works/) | 12% | Was 2% |
-| [Zappos](/rakuten-zappos-cash-back-how-it-works/) | 12% | Was 2% |
+| [Petco](/rakuten-petco-cash-back-how-it-works/) | 25% | Was 20% |
+| [Ray-Ban](/rakuten-ray-ban-cash-back-how-it-works/) | Up to 25% | Was up to 12% |
+| [PetSmart](/rakuten-petsmart-cash-back-how-it-works/) | 20% | Was 15% |
+| [Bloomingdale's](/rakuten-bloomingdales-cash-back-how-it-works/) | 15% | Same |
+| [Carter's](/rakuten-carters-cash-back-how-it-works/) | 15% | Same |
+| [Columbia](/rakuten-columbia-cash-back-how-it-works/) | 15% | Was 12% |
+| [Dyson](/rakuten-dyson-cash-back-how-it-works/) | 15% | Same |
+| [Macy's](/rakuten-macys-cash-back-how-it-works/) | 15% | Was 12% |
+| [Neiman Marcus](/rakuten-neiman-marcus-cash-back-how-it-works/) | Up to 15% | Same |
+| [Saks Fifth Avenue](/rakuten-saks-fifth-avenue-cash-back-how-it-works/) | 15% | Same |
+| [Skechers](/rakuten-skechers-cash-back-how-it-works/) | 15% | Was 12% |
+| [Under Armour](/rakuten-under-armour-cash-back-how-it-works/) | 15% | Same |
+| [Walgreens](/rakuten-walgreens-cash-back-how-it-works/) | 15% | Was 12% |
+| [Academy Sports](/rakuten-academy-sports-cash-back-how-it-works/) | 12% | Same |
+| [Ace Hardware](/rakuten-ace-hardware-cash-back-how-it-works/) | 12% | Same |
+| [Adidas](/rakuten-adidas-cash-back-how-it-works/) | Up to 12% | Same |
+| [Banana Republic](/rakuten-banana-republic-cash-back-how-it-works/) | 12% | Same |
+| [Crocs](/rakuten-crocs-cash-back-how-it-works/) | 12% | Same |
+| [CVS](/rakuten-cvs-cash-back-how-it-works/) | 12% | Same |
+| [Dick's Sporting Goods](/rakuten-dicks-sporting-goods-cash-back-how-it-works/) | 12% | Was 2% |
+| [DSW](/rakuten-dsw-cash-back-how-it-works/) | 12% | Same |
+| [Expedia](/rakuten-expedia-booking-com-cash-back/) | Up to 12% | Same |
+| [Foot Locker](/rakuten-foot-locker-cash-back-how-it-works/) | 12% | Same |
+| [Gap](/rakuten-gap-cash-back-how-it-works/) | 12% | Same |
+| [Hotels.com](/rakuten-hotels-com-cash-back-how-it-works/) | Up to 12% | Same |
+| [IHG](/rakuten-ihg-cash-back-how-it-works/) | 12% | Same |
+| [Lenovo](/rakuten-laptop-cash-back-dell-hp-lenovo/) | 12% | Same |
+| [Levi's](/rakuten-levis-cash-back-how-it-works/) | 12% | Same |
+| [New Balance](/rakuten-new-balance-cash-back-how-it-works/) | 12% | Same |
+| [Old Navy](/rakuten-old-navy-cash-back-how-it-works/) | 12% | Same |
+| [Sam's Club](/rakuten-sams-club-cash-back-how-it-works/) | Up to 12% | Same |
+| [Shein](/rakuten-shein-cash-back-how-it-works/) | 12% | Same |
+| [Sonos](/rakuten-sonos-cash-back-how-it-works/) | 12% | Same |
+| [Staples](/rakuten-staples-cash-back-how-it-works/) | Up to 12% | Same |
+| [The North Face](/rakuten-the-north-face-cash-back-how-it-works/) | 12% | Same |
+| [Ulta](/rakuten-ulta-cash-back-how-it-works/) | 12% | Same |
+| [Viator](/rakuten-viator-cash-back-how-it-works/) | 12% | Same |
+| [Vrbo](/rakuten-vrbo-cash-back-how-it-works/) | Up to 12% | Same |
+| [Zappos](/rakuten-zappos-cash-back-how-it-works/) | 12% | Same |
+| [Nike](/rakuten-nike-cash-back-how-it-works/) | 10% | Was 6% |
+| [Priceline](/rakuten-priceline-cash-back-how-it-works/) | Up to 10% | Was up to 4% |
+| [Booking.com](/rakuten-expedia-booking-com-cash-back/) | Up to 8% | Was up to 6% |
+| [Chewy](/rakuten-chewy-cash-back-how-it-works/) | 8% | Was 2% |
 | [Lowe's](/rakuten-lowes-cash-back-how-it-works/) | Up to 8% | Same |
+| [Sephora](/rakuten-sephora-cash-back-how-it-works/) | 8% | Was 2% |
 | [Best Buy](/rakuten-best-buy-cash-back-how-it-works/) | Up to 6% | Same |
-| [Booking.com](/rakuten-expedia-booking-com-cash-back/) | Up to 6% | Same |
-| [Nike](/rakuten-nike-cash-back-how-it-works/) | 6% | Same |
+| [H&M](/rakuten-hm-cash-back-how-it-works/) | 6% | Was 2% |
 | [Samsung](/rakuten-samsung-cash-back-how-it-works/) | Up to 6% | Same |
 | [TurboTax](/rakuten-turbotax-cash-back-how-it-works/) | 5% | Same |
-| [Priceline](/rakuten-priceline-cash-back-how-it-works/) | Up to 4% | Was up to 8% |
 | [HP](/rakuten-laptop-cash-back-dell-hp-lenovo/) | Up to 3% | Same |
-| [Marriott](/rakuten-marriott-cash-back-how-it-works/) | 3% | First reading |
+| [Marriott](/rakuten-marriott-cash-back-how-it-works/) | 3% | Same |
 | [Avis](/rakuten-avis-cash-back-how-it-works/) | 2.5% | Same |
 | [Apple](/rakuten-apple-cash-back-how-it-works/) | 2% | Same |
-| [Chewy](/rakuten-chewy-cash-back-how-it-works/) | 2% | Was 6% |
-| [Dick's Sporting Goods](/rakuten-dicks-sporting-goods-cash-back-how-it-works/) | 2% | Same |
-| [H&M](/rakuten-hm-cash-back-how-it-works/) | 2% | Same |
 | [J.Crew](/rakuten-j-crew-cash-back-how-it-works/) | 2% | Same |
 | [Kohl's](/rakuten-kohls-cash-back-how-it-works/) | 2% | Same |
 | [Office Depot](/rakuten-office-depot-cash-back-how-it-works/) | 2% | Same |
-| [Sephora](/rakuten-sephora-cash-back-how-it-works/) | 2% | Was 6% |
-| [StubHub](/rakuten-stubhub-cash-back-how-it-works/) | 2% | Was 7% |
+| [StubHub](/rakuten-stubhub-cash-back-how-it-works/) | 2% | Same |
 | [Temu](/rakuten-temu-cash-back-how-it-works/) | 2% | Same |
 | [Victoria's Secret](/rakuten-victorias-secret-cash-back-how-it-works/) | 2% | Same |
 | [eBay](/rakuten-ebay-cash-back-how-it-works/) | 1% | Same |
@@ -94,47 +94,20 @@ This page is information, not financial advice. Rates change daily, and sometime
 
 ## What changed since the last reading
 
-- **Petco:** 2% on 11/25, 20% today.
-- **Bloomingdale's:** 12% on 11/25, 15% today.
-- **Carter's:** 8% on 11/25, 15% today.
-- **Dyson:** 12% on 11/25, 15% today.
-- **Neiman Marcus:** 15% on 11/25, up to 15% today.
-- **PetSmart:** 10% on 11/25, 15% today.
-- **Saks Fifth Avenue:** 12% on 11/25, 15% today.
-- **Under Armour:** 10% on 11/25, 15% today.
-- **Academy Sports:** 2% on 11/25, 12% today.
-- **Ace Hardware:** up to 6% on 11/25, 12% today.
-- **Adidas:** up to 8% on 11/25, up to 12% today.
-- **Banana Republic:** 2% on 11/25, 12% today.
-- **Columbia:** 2% on 11/25, 12% today.
-- **Crocs:** 9% on 11/25, 12% today.
-- **CVS:** 3% on 11/25, 12% today.
-- **DSW:** 2% on 11/25, 12% today.
-- **Expedia:** up to 3% on 11/25, up to 12% today.
-- **Foot Locker:** 9% on 11/25, 12% today.
-- **Gap:** 2% on 11/25, 12% today.
-- **Hotels.com:** up to 3% on 11/25, up to 12% today.
-- **IHG:** 9% on 11/25, 12% today.
-- **Lenovo:** 2% on 11/25, 12% today.
-- **Levi's:** 10% on 11/25, 12% today.
-- **Macy's:** 10% on 11/25, 12% today.
-- **New Balance:** 9% on 11/25, 12% today.
-- **Old Navy:** 2% on 11/25, 12% today.
-- **Sam's Club:** up to 9% on 11/25, up to 12% today.
-- **Shein:** 6% on 11/25, 12% today.
-- **Skechers:** 3% on 11/25, 12% today.
-- **Sonos:** 2% on 11/25, 12% today.
-- **Staples:** up to 6% on 11/25, up to 12% today.
-- **The North Face:** 2% on 11/25, 12% today.
-- **Ulta:** 2% on 11/25, 12% today.
-- **Viator:** 11% on 11/25, 12% today.
-- **Vrbo:** 3% on 11/25, up to 12% today.
-- **Walgreens:** 2% on 11/25, 12% today.
-- **Zappos:** 2% on 11/25, 12% today.
-- **Priceline:** up to 8% on 11/25, up to 4% today.
-- **Chewy:** 6% on 11/25, 2% today.
-- **Sephora:** 6% on 11/25, 2% today.
-- **StubHub:** 7% on 11/25, 2% today.
+- **Petco:** 20% on 11/26, 25% today.
+- **Ray-Ban:** up to 12% on 11/26, up to 25% today.
+- **PetSmart:** 15% on 11/26, 20% today.
+- **Columbia:** 12% on 11/26, 15% today.
+- **Macy's:** 12% on 11/26, 15% today.
+- **Skechers:** 12% on 11/26, 15% today.
+- **Walgreens:** 12% on 11/26, 15% today.
+- **Dick's Sporting Goods:** 2% on 11/26, 12% today.
+- **Nike:** 6% on 11/26, 10% today.
+- **Priceline:** up to 4% on 11/26, up to 10% today.
+- **Booking.com:** up to 6% on 11/26, up to 8% today.
+- **Chewy:** 2% on 11/26, 8% today.
+- **Sephora:** 2% on 11/26, 8% today.
+- **H&M:** 2% on 11/26, 6% today.
 
 Readings on this page started on 11/24/2026. Each reading is the headline rate in the title of the store's own page on Rakuten, taken once in the morning, Pacific time.
 
@@ -170,7 +143,7 @@ A purchase usually shows as pending within days, then is confirmed after the sto
 ## Quick answers
 
 **Which store has the highest Rakuten rate today?**
-Among the stores read on November 26, 2026, the highest headline rates were Petco (20%), Bloomingdale's (15%), Carter's (15%), Dyson (15%), Neiman Marcus (up to 15%). These are ceilings; most items earn less.
+Among the stores read on November 27, 2026, the highest headline rates were Petco (25%), Ray-Ban (up to 25%), PetSmart (20%), Bloomingdale's (15%), Carter's (15%). These are ceilings; most items earn less.
 
 **How often do Rakuten rates change?**
 Daily, and sometimes during the day. This page is read once each morning, so check the store's Rakuten page before buying.
