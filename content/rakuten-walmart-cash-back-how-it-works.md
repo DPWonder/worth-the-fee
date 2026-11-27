@@ -1,19 +1,30 @@
 ---
 title: Rakuten Walmart cash back: does it work, and what is excluded?
 slug: rakuten-walmart-cash-back-how-it-works
-description: Rakuten's Walmart page showed no cash back on November 25, 2026. A day earlier it showed a flat $5 on up to three orders. The offer comes and goes.
+description: Rakuten at Walmart: no cash back on Black Friday, November 27, 2026, the third day in a row. A flat $5 offer was last shown on November 24.
 topic: rakuten
 cta: rakuten
-checked: 2026-11-25
+checked: 2026-11-27
 ---
 
-Sometimes. On November 25, 2026, Rakuten's Walmart page showed no cash back. One day earlier, on November 24, the same page showed a flat $5 cash back on each of up to three eligible orders of $25 or more, not a percentage of the order. Groceries, pharmacy items and orders placed in the Walmart app are excluded.
+Sometimes, and not today. On Black Friday, November 27, 2026, Rakuten's Walmart page showed no cash back, as it did on November 25 and 26. On November 24 the same page showed a flat $5 cash back on each of up to three eligible orders of $25 or more, not a percentage of the order. Under that offer, groceries, pharmacy items and orders placed in the Walmart app were excluded.
 
 This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy. For this morning's headline rate here and at other stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/).
 
+## What the page showed, by date
+
+| Date read | Rakuten's Walmart page |
+|---|---|
+| November 24, 2026 | $5 per eligible order, up to three orders |
+| November 25, 2026 | No cash back |
+| November 26, 2026 | No cash back |
+| November 27, 2026 (Black Friday) | No cash back |
+
+On Black Friday the page carried no terms or exclusions section and no in-store offer. Whether an offer returns for Cyber Monday, November 30, is not confirmed. Rates at other stores that day are in [Rakuten on Black Friday](/rakuten-black-friday-cash-back-2026/) and [Rakuten on Cyber Monday](/rakuten-cyber-monday-cash-back-2026/).
+
 ## How the Walmart offer differs from other stores
 
-Most stores on Rakuten pay a percentage and fund it with a commission. Walmart is different. Rakuten's page says "Walmart is not a partner of Rakuten" and that the offer is provided by Rakuten only.
+Most stores on Rakuten pay a percentage and fund it with a commission. Walmart is different. On November 24 Rakuten's page said "Walmart is not a partner of Rakuten" and that the offer was provided by Rakuten only. The rest of this section describes that offer as it read that day.
 
 | Point | What Rakuten's Walmart page said on November 24, 2026 |
 |---|---|
@@ -27,11 +38,11 @@ Most stores on Rakuten pay a percentage and fund it with a commission. Walmart i
 
 The terms name the extension, the Rakuten app and Samsung Wallet Perks. A click from the Rakuten website is not named, so whether that route counts is not confirmed.
 
-Rakuten says the offer is for eligible members and may be changed or ended at any time. The dated window for longer-standing members closes at 11:59 PM Pacific Time on November 25, 2026. Whether a Walmart offer continues after that is not confirmed.
+Rakuten said the offer was for eligible members and could be changed or ended at any time. The dated window for longer-standing members closed at 11:59 PM Pacific Time on November 25, 2026, and no new window was shown on November 27. Whether a member in the first 60 days can still earn the $5 while the page shows no cash back is not confirmed.
 
 ## What is excluded
 
-Rakuten's page lists these as earning nothing:
+Rakuten's page listed these on November 24 as earning nothing:
 
 - Groceries
 - Pharmacy and prescriptions. A pharmacy item in the cart voids cash back for the whole order
@@ -43,9 +54,9 @@ Rakuten's page lists these as earning nothing:
 - Express checkout, Reorder and Buy it again purchases
 - Purchases made directly in the Walmart app
 
-The page does not address gift cards, pickup orders or marketplace seller items. Those are not confirmed either way. Rakuten's general rule is that most gift card purchases earn nothing.
+The page did not address gift cards, pickup orders or marketplace seller items. Those are not confirmed either way. Rakuten's general rule is that most gift card purchases earn nothing.
 
-On coupon codes, the page's FAQ says cash back generally stacks with Walmart promo codes and sales.
+On coupon codes, the page's FAQ still said on November 27 that cash back generally stacks with Walmart promo codes and sales.
 
 ## What $5 comes to
 
@@ -66,12 +77,12 @@ The flat-dollar setup is particular to this store. The warehouse clubs and the o
 
 ## What does not carry over
 
-Walmart orders do not count toward other Rakuten bonuses. The page names the welcome bonus and the referral bonus. A new member cannot use a Walmart order to meet the spending for [the sign-up bonus](/rakuten-50-bonus-how-it-works/).
+Walmart orders do not count toward other Rakuten bonuses. The terms read on November 24 named the welcome bonus and the referral bonus. A new member cannot use a Walmart order to meet the spending for the sign-up bonus.
 
 ## Where sources differ
 
-- The page's FAQ says $5 on the first three Walmart purchases and gives no minimum. The terms say the next three eligible orders of $25 or more through the named channels. The terms are more specific.
-- A search summary of an older copy of the same Rakuten page showed no cash back at Walmart. The page read on November 24, 2026 showed $5, and on November 25, 2026 it showed no cash back again. The offer comes and goes; the rest of this page describes the $5 offer as it read on November 24.
+- On November 27 the page's header showed no cash back, while its FAQ still said $5 on each of the first three Walmart purchases, $15 in all, with no minimum. The header is the rate that applies on the day.
+- The terms read on November 24 said the next three eligible orders of $25 or more through the named channels, and excluded groceries. General text on the page on November 27 mentioned groceries as earning and described Walmart as a store Rakuten partners with. Neither matches the November 24 terms, which were more specific.
 
 ## When you get the money
 
@@ -81,24 +92,24 @@ Online purchases typically take 3 to 14 weeks to be confirmed, then are paid on 
 
 - You mainly buy groceries or pharmacy items at Walmart. Neither earns.
 - You order in the Walmart app or use Buy it again. Both are excluded.
-- You have already used the three orders, or your account is outside the offer dates.
+- You are shopping on a day the page shows no cash back, as on Black Friday 2026, or you have already used the three orders.
 - You are counting on a Walmart order to trigger a welcome or referral bonus. It will not.
 - You do not want the browser extension. See [what the extension collects](/rakuten-browser-extension-safe-privacy/).
 
 ## Quick answers
 
 **Does Rakuten pay a percentage at Walmart?**
-No. On November 25, 2026 the page showed no cash back; on November 24 it was a flat $5 on each of up to three orders of $25 or more.
+No. On Black Friday, November 27, 2026, the page showed no cash back; on November 24 it was a flat $5 on each of up to three orders of $25 or more.
 
 **Do Walmart groceries earn Rakuten cash back?**
-No. Groceries are on the excluded list, along with pharmacy, optical and Walmart+ memberships.
+No. Groceries were on the excluded list of the $5 offer, along with pharmacy, optical and Walmart+ memberships.
 
 **Can I order in the Walmart app?**
-No. Purchases made directly in the Walmart app are excluded. The terms name the Rakuten extension, the Rakuten app and Samsung Wallet Perks.
+No. Under the $5 offer, purchases made directly in the Walmart app were excluded. The terms named the Rakuten extension, the Rakuten app and Samsung Wallet Perks.
 
 ## Not a Rakuten member yet
 
-Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](/is-rakuten-free/). A new member gets one joining bonus, not two. [Welcome bonus or a friend's referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/) compares the two offers as read on November 26, 2026.
+Joining costs nothing; the one fee in the terms is covered in [is Rakuten free](/is-rakuten-free/). A new member gets one joining bonus, not two; [how the sign-up and referral bonuses work](/rakuten-50-bonus-how-it-works/) sets out both offers.
 
 ## Sources
 

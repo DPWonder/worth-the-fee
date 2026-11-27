@@ -1,12 +1,12 @@
-# Rakuten Black Friday 2026: cash back rates read today, and how the deals work
+# Rakuten Black Friday cash back 2026: the rates on Black Friday itself, and how the deals work
 
 Source: https://itsworththefee.com/rakuten-black-friday-cash-back-2026/
-Facts checked: 2026-11-26
+Facts checked: 2026-11-27
 Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
 
-Yes, Rakuten has Black Friday deals in 2026, and they have already started. On November 26, the day before Black Friday, Rakuten's Black Friday page showed 12% cash back at more than 600 stores, such as Macy's against a usual 2%, with a few stores at 15% to 20%. Earning works as on any other day: activate first, then buy.
+Yes, Rakuten has Black Friday deals in 2026, and they are live. On Black Friday, November 27, 2026, Rakuten's Black Friday page showed 12% cash back at more than 600 stores, with Macy's at 15% against a usual 2%, PetSmart at 20% and Petco at 25%. Its home page advertises one event from Black Friday to Cyber Monday, but no Rakuten page says how long any store's rate will last.
 
-This page is information, not financial advice. For this morning's rate at about 75 stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/). Not a member yet? Start with [is Rakuten free](/is-rakuten-free/) and [welcome bonus or referral bonus](/rakuten-welcome-bonus-vs-referral-bonus/).
+This page is information, not financial advice. The table lower on this page shows each tracked store's rate day by day, and [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/) has this morning's readings. Not a member yet? Read [is Rakuten free](/is-rakuten-free/), [how to sign up](/how-to-sign-up-for-rakuten/) and [what the sign-up bonus asks you to spend](/rakuten-50-bonus-how-it-works/) before a first order.
 
 ## The dates
 
@@ -16,42 +16,32 @@ This page is information, not financial advice. For this morning's rate at about
 | Black Friday | Friday, November 27 |
 | Cyber Monday | Monday, November 30 |
 
-Rakuten's Black Friday page says earning that day "works exactly the same as it does every other day." It says start dates vary by retailer and that many brands launch their sales in the week of Thanksgiving. On November 26 Rakuten's home page advertised Black Friday to Cyber Monday shopping with hundreds of brands at up to 15%.
+Rakuten's Black Friday page says earning that day "works exactly the same as it does every other day." On November 27 the home page headline covered Black Friday to Cyber Monday, with hundreds of brands at up to 15%. An end date for the 12% rates is not confirmed; none is printed on the Black Friday page or the home page.
 
-## Rates seen on November 26, 2026
+## Rates read on Black Friday, November 27, 2026
 
-Rakuten shows a raised rate next to the usual one with the label "was". These were read on Rakuten's Black Friday page and store pages while signed out.
+Rakuten shows a raised rate next to the usual one with the label "was". These were read on Rakuten's Black Friday page while signed out.
 
-| Store | Seen November 26 | Seen November 25 | Rakuten's "was" rate |
-|---|---|---|---|
-| [Petco](/rakuten-petco-cash-back-how-it-works/) | 20% | 2% | 2% |
-| [PetSmart](/rakuten-petsmart-cash-back-how-it-works/) | 15% | 10% | 2% |
-| Saks Fifth Avenue | 15% | 12% | 2% |
-| Bloomingdale's | 15% | 12% | 2% |
-| Dyson | 15% | 12% | 1% |
-| Under Armour | 15% | 10% | 2% |
-| kate spade new york | 15% | 15% | 2% |
-| Neiman Marcus | Up to 15% | 15% | 2% |
-| LEGO | Up to 15% | Up to 15% | 2.5% |
-| [Macy's](/rakuten-macys-cash-back-how-it-works/) | 12% | 10% | 2% |
-| [Walgreens](/rakuten-walgreens-cash-back-how-it-works/) | 12% | 2% | 2% |
-| [Ulta Beauty](/rakuten-ulta-cash-back-how-it-works/) | 12% | 2% | 2% |
-| CVS | 12% | 3% | 3% |
-| Old Navy | 12% | 2% | 2% |
-| Gap | 12% | 2% | 2% |
-| Dermstore | 12% | 10% | 3% |
-| HOKA | 12% | 9% | 3% |
-| Nike | 6% | 6% | 2% |
-| Samsung | Up to 6% | Up to 6% | 2% |
+| Section on Rakuten's page | Examples on November 27 (Rakuten's "was" rate) |
+|---|---|
+| Fashion | [Macy's](/rakuten-macys-cash-back-how-it-works/) 15% (2%), Old Navy 12% (2%), Gap 12% (2%), kate spade outlet 20% (2%) |
+| Beauty and wellness | Dermstore 20% (3%), [Walgreens](/rakuten-walgreens-cash-back-how-it-works/) 15% (2%), [Ulta Beauty](/rakuten-ulta-cash-back-how-it-works/) 12% (2%), CVS 12% (3%) |
+| Travel | Expedia up to 12% (3%), Hotels.com up to 12% (1%), IHG 12% (3%) |
+| Home | Dyson 15% (1%), Ace Hardware 12% (2%) |
+| Pets | [Petco](/rakuten-petco-cash-back-how-it-works/) 25% (2%), [PetSmart](/rakuten-petsmart-cash-back-how-it-works/) 20% (2%) |
+| In a physical store | 13 stores raised, such as kate spade new york at 15% (2%) and Carhartt at 12% (3%) |
 
-- Not every store is raised. On November 26 [Apple](/rakuten-apple-cash-back-how-it-works/), [Kohl's](/rakuten-kohls-cash-back-how-it-works/) and Sephora each showed 2%, Target 1% and Best Buy up to 6%, all with no "was" label. Walmart showed no cash back.
-- Rates fall as well as rise. Sephora showed 6% on November 25 and 2% on November 26. Walgreens showed 10% on November 23, 2% on November 25 and 12% on November 26.
-- LEGO's 15% is for NINJAGO items. Its page shows 12% on other items that are not excluded and 3% on exclusives and hard-to-find items.
+What changed since Thanksgiving, counted from this site's morning readings of 77 store pages:
+
+- 14 stores rose from November 26, none fell, and 63 were unchanged.
+- The rises include Macy's (12% to 15%), Walgreens (12% to 15%), Petco (20% to 25%), PetSmart (15% to 20%), Nike (6% to 10%), Dick's Sporting Goods (2% to 12%) and Sephora (2% to 8%).
+- 26 of the 77 showed 12% or up to 12%, 10 showed 15%, one 20% and two 25%.
+- Not every store is raised. [Apple](/rakuten-apple-cash-back-how-it-works/) and [Kohl's](/rakuten-kohls-cash-back-how-it-works/) showed 2% and Target 1%, the same as on November 24. Best Buy showed up to 6%. Walmart showed no cash back.
+- Rates can move within the day. Chewy's page read 8% in the morning and 12% later on November 27.
+- LEGO's top rate, 16%, is for NINJAGO items. Its page shows 12% on other items that are not excluded and 3% on exclusives and hard-to-find items.
 - Rakuten's home page, read signed out, shows higher figures such as 22%. Its note says those include an extra 10% welcome reward for new members, capped at $50.
-- Whether the same rates will show on November 27 is not confirmed. Rakuten has not published the day's store rates in advance; none were found.
-- Rakuten's home page says cash back may vary. The number in your account is the one that counts.
 
-**Not confirmed:** which rate applies if a store's rate changes between your click and your order, and whether Rakuten adjusts an order when the rate rises later. Rakuten's terms do not say.
+**Not confirmed:** whether today's rates hold through the weekend or Cyber Monday, which rate applies if a store's rate changes between your click and your order, and whether Rakuten adjusts an order when the rate rises later. Rakuten's pages and terms do not say.
 
 ## Exclusions
 
@@ -63,7 +53,7 @@ Each store sets its own. Common ones in Rakuten's help center:
 - Orders placed by phone, chat or customer service.
 - Orders using a coupon code not listed on Rakuten.
 
-A store's list is under "Terms & Exclusions" on its Rakuten page. Rakuten's Black Friday page features Apple, but the Apple listing pays only on accessories, refurbished products, AppleCare+ and Beats, not on iPhones, Macs or iPads. Macy's pays 1.5% on furniture and mattresses and excludes brands such as Apple and Birkenstock.
+A store's list is under "Terms & Exclusions" on its Rakuten page. The Apple listing pays only on accessories, refurbished products, AppleCare+ and Beats, not on iPhones, Macs or iPads. Macy's pays 1.5% on furniture and mattresses and excludes brands such as Apple and Birkenstock.
 
 Rakuten's Black Friday page says many coupon codes can be used together with cash back, while its help center says codes not listed on Rakuten may void it. See [stacking with coupons and card rewards](/rakuten-stack-with-credit-card-rewards/).
 
@@ -80,7 +70,7 @@ For a Black Friday order that means: empty the cart, activate, add the items, an
 
 Rakuten says an order typically shows in the account within 24 to 48 hours. Its terms give 90 days from the purchase to report missing cash back. For a November 27 order that is February 25, 2027. A store can set a shorter limit; Best Buy's listing says 30 days. See [what to do when cash back did not track](/rakuten-missing-cash-back-what-to-do/).
 
-Shopping at the mall instead? Thirteen stores showed raised in-store rates on November 26, and each needs a linked card and an offer added first; see [how in-store cash back works](/rakuten-in-store-cash-back-how-it-works/).
+In-store rates need a linked card and an offer added first; see [how in-store cash back works](/rakuten-in-store-cash-back-how-it-works/). Macy's in-store offer on November 27 was a flat $10 on a purchase of $100 or more, valid through December 13, 2026.
 
 ## Returns
 
@@ -107,10 +97,10 @@ These dates are worked out from Rakuten's typical range. More in [when Rakuten p
 ## Quick answers
 
 **Will Rakuten have Black Friday deals in 2026?**
-Yes. On November 26, 2026 its Black Friday page showed 12% cash back at more than 600 stores.
+Yes. On Black Friday, November 27, 2026, its Black Friday page showed 12% cash back at more than 600 stores.
 
 **Are Rakuten rates higher on Black Friday?**
-Many are raised this week, to 12% or more, but no rate is set in advance and each can change daily.
+On November 27, 14 of 77 tracked stores rose from the day before and none fell. Rates can change daily.
 
 **When will Black Friday cash back be paid?**
 On February 15 or May 15, 2027, depending on when the store confirms the order.
@@ -119,10 +109,12 @@ On February 15 or May 15, 2027, depending on when the store confirms the order.
 
 - [Rakuten: Black Friday](https://www.rakuten.com/black-friday)
 - [Rakuten: Macy's Black Friday](https://www.rakuten.com/black-friday/store/macys)
-- [Rakuten: Cyber Monday](https://www.rakuten.com/cyber-monday)
 - [Rakuten: home page](https://www.rakuten.com/)
+- [Rakuten: In-Store Cash Back](https://www.rakuten.com/in-store)
 - [Rakuten: Macy's](https://www.rakuten.com/macys.com)
 - [Rakuten: Walgreens](https://www.rakuten.com/walgreens.com)
+- [Rakuten: Petco](https://www.rakuten.com/petco.com)
+- [Rakuten: Chewy](https://www.rakuten.com/chewy.com)
 - [Rakuten: LEGO](https://www.rakuten.com/shop/lego)
 - [Rakuten: Apple](https://www.rakuten.com/apple.com)
 - [Rakuten: Best Buy](https://www.rakuten.com/bestbuy.com)

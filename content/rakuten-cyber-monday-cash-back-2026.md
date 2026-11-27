@@ -1,41 +1,48 @@
 ---
-title: What does Rakuten do for Cyber Monday 2026, and how is it different from Black Friday?
+title: Rakuten Cyber Monday cash back 2026: what Rakuten shows now, and how it differs from Black Friday
 slug: rakuten-cyber-monday-cash-back-2026
-description: Cyber Monday is November 30, 2026. Rakuten lists raised store rates, but none for the day itself has been published. Earning works as on any day.
+description: Rakuten Cyber Monday cash back, read November 27, 2026: one event runs Black Friday to Cyber Monday (November 30). Monday's rates are not confirmed.
 topic: rakuten
 cta: rakuten
-checked: 2026-11-23
+checked: 2026-11-27
 ---
 
-For Cyber Monday (November 30, 2026) Rakuten runs a Cyber Monday page listing stores with raised cash back rates, but as of November 23 it had not published the rates that will apply on the day. Rakuten describes the difference from Black Friday as one of origin: Black Friday grew from in-store sales, Cyber Monday from online ones, and the two now overlap.
+For Cyber Monday (November 30, 2026), Rakuten is running one event: on November 27 its home page advertised Black Friday to Cyber Monday shopping with hundreds of brands at up to 15% cash back. Its Cyber Monday page showed raised rates that day, such as 12% at Dell and 15% at kate spade new york, but no Rakuten page promises that the rates listed now will hold on Monday; that is not confirmed.
 
-This page is information, not financial advice. Rates change daily, so the rate on the store's Rakuten page when you buy is the one that counts. For this morning's rate at 70 stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/).
+This page is information, not financial advice. Rates change daily, so the rate on the store's Rakuten page when you buy is the one that counts. The table lower on this page shows each tracked store's rate day by day, and [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/) has this morning's readings. New to Rakuten? See [is Rakuten free](/is-rakuten-free/), [how to sign up](/how-to-sign-up-for-rakuten/) and [what the sign-up bonus asks you to spend](/rakuten-50-bonus-how-it-works/).
 
-## What Rakuten has published for 2026
+## What Rakuten's pages say on November 27, 2026
 
 - The date: Monday, November 30, 2026.
+- The home page headline covers Black Friday to Cyber Monday, at up to 15%.
 - Earning on the day works the same as on any other day.
 - Most Cyber Monday sales start on November 30. Some stores start on Black Friday or earlier.
 - Some deals last one day only. Others run several days or through Cyber Week, and it varies by store.
 - Limited-time offers can end early, and items can sell out.
 
-**Not confirmed:** any store's rate for November 30, and whether Rakuten will run a single raised rate across many stores that day. Neither was found on Rakuten's pages or in news coverage.
+**Not confirmed:** any store's rate for November 30, whether the 12% rate shown at more than 600 stores on Black Friday continues through Monday or Cyber Week, and an end date for the event. None of these is stated on Rakuten's Cyber Monday page, Black Friday page or home page.
 
-## Rates on the Cyber Monday page a week ahead
+## Rates on the Cyber Monday page three days ahead
 
-These were on Rakuten's Cyber Monday page on November 23, 2026. "Was" is Rakuten's label for the usual rate.
+Read on Rakuten's Cyber Monday page on November 27, 2026, signed out. "Was" is Rakuten's label for the usual rate.
 
-| Store | Rate seen November 23 | Rakuten's "was" rate |
+- 24 featured stores were listed, and 18 of them showed 12% or up to 12%.
+- Examples: Dell Technologies 12% (was 2%), Banana Republic 12% (was 2%), Canon 12% (was 2.5%), Keurig 12% (was 2%), kate spade new york 15% (was 2%), FramesDirect 17% (was 3%), Ray-Ban and Oakley up to 25% (was 4%).
+- Not every featured store was at 12%. Abt Electronics showed 4% (was 2%).
+- Several sale banners on the page carried labels saying they end today or tomorrow. Those labels belong to the store's sale, and the page does not say whether the cash back rate ends with it.
+
+Compared with this page's reading of November 23:
+
+| Store | Seen November 23 | Seen November 27 |
 |---|---|---|
-| kate spade new york | 15% | 2% |
-| Macy's | 10% | 2% |
-| Nike | 10% | 2% |
-| Dyson | 10% | 1% |
-| Lenovo | 10% | 2% |
-| Mattress Firm | Up to 15% | 4% |
-| Kohl's | 2% | None shown |
+| Macy's | 10% | 15% |
+| Dyson | 10% | 15% |
+| Lenovo | 10% | 12% |
+| Nike | 10% | 10% |
+| kate spade new york | 15% | 15% |
+| Kohl's | 2% | 2% |
 
-They are a snapshot, not a forecast. Macy's showed 13% on November 21 and 10% two days later. Dermstore showed 20% on November 20 and 10% on November 23.
+These are snapshots, not a forecast. Nike showed 6% from November 24 to 26 and was back at 10% on November 27. Sephora showed 6% on November 25, 2% on November 26 and 8% on November 27.
 
 ## How it differs from Black Friday
 
@@ -46,11 +53,11 @@ They are a snapshot, not a forecast. Macy's showed 13% on November 21 and 10% tw
 | How Rakuten cash back is earned | Activate, then buy | The same |
 | Rates published in advance | None found | None found |
 
-Rakuten's Cyber Monday page says the two events now overlap, with many stores running sales through the whole weekend. No Rakuten page says rates are higher on one day than the other. Whether a given store pays more on Friday or on Monday is not confirmed until the day.
+Rakuten's Cyber Monday page says the two events now overlap, with many stores running sales through the whole weekend. Its Black Friday page says many retailers offer similar deals on both days. No Rakuten page says cash back rates are higher on one day than the other. Whether a given store pays more on Friday or on Monday is not confirmed until the day.
 
 One practical difference follows from the origin. Rakuten says some stores add in-store promotions or pickup options on Cyber Monday, but it is mostly an online day. Online orders are where Rakuten's click-through tracking applies; purchases in a physical store earn a different way, covered in [how in-store cash back works](/rakuten-in-store-cash-back-how-it-works/).
 
-The mechanics that apply to both days (exclusions, tracking and returns) are in [how cash back works on Black Friday and Cyber Week](/rakuten-black-friday-cash-back-2026/).
+The mechanics that apply to both days (exclusions, tracking and returns) are in [how cash back works on Black Friday](/rakuten-black-friday-cash-back-2026/), and the general sequence is in [how Rakuten works, step by step](/how-does-rakuten-work-step-by-step/).
 
 ## What happened in past years
 
@@ -80,7 +87,7 @@ These dates are worked out from Rakuten's typical range. Rakuten's terms give 90
 - The item costs less at a store Rakuten does not cover. A lower price now is worth more than a rebate paid in February or May.
 - You are waiting for Monday only because of a rate. No Monday rate has been published, and the item may sell out first.
 - You have a coupon code from another site worth more than the cash back. Codes not listed on Rakuten can void it.
-- You would add to the order because the rate looks high. Ten percent back still leaves 90% spent.
+- You would add to the order because the rate looks high. Twelve percent back still leaves 88% spent.
 
 ## Quick answers
 
@@ -88,7 +95,7 @@ These dates are worked out from Rakuten's typical range. Rakuten's terms give 90
 Monday, November 30, 2026, three days after Black Friday on November 27.
 
 **Are Rakuten rates higher on Cyber Monday than on Black Friday?**
-Not confirmed. Rakuten has not published rates for either day, and rates change daily.
+Not confirmed. As of November 27, Rakuten has not published Monday's rates, and rates change daily.
 
 **Do Cyber Monday rates last all week?**
 Rakuten says some offers run through Cyber Week and some last one day only. It varies by store.
@@ -97,6 +104,9 @@ Rakuten says some offers run through Cyber Week and some last one day only. It v
 
 - [Rakuten: Cyber Monday](https://www.rakuten.com/cyber-monday)
 - [Rakuten: Black Friday](https://www.rakuten.com/black-friday)
+- [Rakuten: home page](https://www.rakuten.com/)
+- [Rakuten: Macy's](https://www.rakuten.com/macys.com)
+- [Rakuten: Nike](https://www.rakuten.com/nike.com)
 - [Rakuten: When will I get paid?](https://www.rakuten.com/help/article/when-will-i-get-paid-360002117667)
 - [Rakuten: Terms and conditions](https://www.rakuten.com/help/article/terms-conditions)
 - [Frequent Miler: Rakuten 15% offers, November 29, 2021](https://frequentmiler.com/?p=179157)

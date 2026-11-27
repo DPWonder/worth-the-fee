@@ -1,10 +1,10 @@
 # Rakuten Best Buy cash back: does it work, and what is excluded?
 
 Source: https://itsworththefee.com/rakuten-best-buy-cash-back-how-it-works/
-Facts checked: 2026-11-26
+Facts checked: 2026-11-27
 Publisher: Worth the Fee (independent; some pages end with a disclosed referral link)
 
-Yes, Rakuten pays cash back at Best Buy: up to 6% on November 26, 2026, the day before Black Friday, set by category and brand, with most general categories at 1%. Apple products, video game consoles, gift cards, services and warranties are excluded.
+Yes, Rakuten pays cash back at Best Buy: up to 6% on Black Friday, November 27, 2026, set by category and brand, with most general categories at 1%. The headline is the same as the two days before and lower than the up to 8% read on November 24. Apple products, video game consoles, gift cards, services and warranties are excluded.
 
 This page is information, not financial advice. Rates change daily, so check the store page on Rakuten on the day you buy. For this morning's headline rate here and at other stores, see [Rakuten rates today, by store](/rakuten-cash-back-rates-today-by-store/).
 
@@ -15,33 +15,32 @@ This page is information, not financial advice. Rates change daily, so check the
 | November 24, 2026 | Up to 8% |
 | November 25, 2026 | Up to 6% |
 | November 26, 2026 | Up to 6% |
+| November 27, 2026 (Black Friday) | Up to 6% |
 
-No "was" label was shown on the headline rate on November 26, so Rakuten was not presenting it as a raised rate. Whether the list changes on Black Friday or Cyber Monday is not confirmed; see [Rakuten on Black Friday](/rakuten-black-friday-cash-back-2026/) and [Rakuten on Cyber Monday](/rakuten-cyber-monday-cash-back-2026/).
+No "was" label was shown on the headline rate on Black Friday, so Rakuten was not presenting it as a raised rate. The headline did not go up for the day; some brand tiers moved, as set out below. Whether the list changes for Cyber Monday, November 30, is not confirmed; see [Rakuten on Black Friday](/rakuten-black-friday-cash-back-2026/) and [Rakuten on Cyber Monday](/rakuten-cyber-monday-cash-back-2026/).
 
-## Rates seen on November 26, 2026
+## Rates seen on November 27, 2026
 
 The headline number applies to a few brands. A sample of the list:
 
 | Rate | Examples from Rakuten's list |
 |---|---|
-| 6% | LG appliances, GE and GE Profile appliances, HP printers, Ring home security, Meta virtual reality products |
-| 5% | Dyson appliances, Sonos headphones, Dell and Alienware gaming laptops, Lenovo tablets, Blink home security |
-| 4% | Ninja appliances, Shark appliances, Bose headphones, Sony digital cameras, Frigidaire and Electrolux appliances, Chromebooks from Acer, ASUS, HP, Lenovo and Samsung |
-| 3% | Insignia products, computer and tablet accessories, monitors, Lenovo gaming laptops |
+| 6% | GE and GE Profile appliances, HP printers, Ring home security, Meta virtual reality products, Dell and Alienware gaming laptops, Amazon tablets |
+| 5% | Sonos headphones, Lenovo tablets, Blink home security, LG home audio |
+| 4% | LG appliances, Ninja appliances, Shark appliances, Sony digital cameras, Frigidaire and Electrolux appliances, Chromebooks from Acer, ASUS, HP, Lenovo and Samsung |
+| 3% | Dyson appliances, Insignia products, computer and tablet accessories, monitors, Lenovo gaming laptops |
 | 2.5% | Amazon video hardware and voice assistants |
-| 2% | LG TVs, TCL TVs, Roku brand TVs, select TVs, Sony headphones, Sony sound bars, Sonos home audio, select Lenovo laptops |
+| 2% | LG TVs, TCL TVs, Roku brand TVs, select TVs, Sony sound bars, select Lenovo laptops, Meta glasses |
 | 1.5% | Sony TVs, Acer laptops, HP inkjet printers |
-| 1% | Samsung TVs, Hisense TVs, Dell laptops, appliances, audio, smart home, video games (not downloads), "Black Friday Deals", all other items not excluded |
+| 1% | Samsung TVs, Hisense TVs, Dell laptops, "All Laptops", appliances, audio, smart home, video games (not downloads), "Black Friday Deals", all other items not excluded |
 
-The same kind of product can sit in different tiers by brand. TVs ran from 1% to 2% that day, and "Black Friday Deals" is its own category at 1%.
+TVs ran from 1% to 2% by brand that day, and "Black Friday Deals" is its own category at 1%.
 
-Tiers move between checks. Against the list read on November 24: Ninja and Shark appliances went from 8% to 4%, Roku brand TVs from 7% to 2%, Sony headphones from 6% to 2%, and Hisense TVs from 5% to 1%. Ring home security and Meta virtual reality products moved up to 6%.
-
-Some brands on this list are also listed on Rakuten as stores in their own right, with their own terms; see the page for [Dyson](/rakuten-dyson-cash-back-how-it-works/).
+Tiers move between checks. Against the list read on November 26: Dyson appliances went from 5% to 3% and LG appliances from 6% to 4%, while Dell and Alienware gaming laptops went from 5% to 6%. Bose headphones (4% on November 26) and Sony headphones (2%) were not named on the Black Friday list; whether they fall under the 1% audio line is not confirmed.
 
 ## What is excluded
 
-Rakuten's terms say cash back is only on select categories. Listed as earning nothing:
+Rakuten's terms say cash back is only on select categories. The list was unchanged on November 27. Listed as earning nothing:
 
 - Apple products and Beats headphones (what earns at Apple's own store is in [Rakuten at Apple](/rakuten-apple-cash-back-how-it-works/))
 - Video game consoles, including the PS5 Pro, and digital download games
@@ -60,14 +59,14 @@ The US site only. Phone orders do not qualify under Rakuten's general rules.
 
 ## Where the page disagrees with itself
 
-The exclusions list names laptops and desktops. The rate list gives rates for several laptop lines, from 1% to 5%, and for Chromebooks at 4%. Which rule wins for a given laptop is not confirmed. The activation page on the day of purchase is the place to look. Rates at the makers' own stores are in [laptop cash back at Dell, HP and Lenovo](/rakuten-laptop-cash-back-dell-hp-lenovo/).
+The exclusions list names laptops and desktops, MacBooks, and Wi-Fi and networking. The rate list gives rates for several laptop lines, from 1% to 6%, for Chromebooks at 4%, for "Macbooks" at 1% and for Asus routers at 6%. Which rule wins for a given item is not confirmed. Rates at the makers' own stores are in [laptop cash back at Dell, HP and Lenovo](/rakuten-laptop-cash-back-dell-hp-lenovo/).
 
 ## Pickup, stores, app and coupon codes
 
 - **Store pickup.** The terms do not exclude it. Rakuten's page says an order must be picked up within five days of the ready-for-pickup email or it is canceled and refunded, which ends the cash back.
-- **In stores.** The page showed an online rate only on November 26, with no in-store offer for this retailer. How linked-card offers work elsewhere is in [in-store cash back](/rakuten-in-store-cash-back-how-it-works/).
+- **In stores.** The page showed an online rate only on November 27, with no in-store offer for this retailer. How linked-card offers work elsewhere is in [in-store cash back](/rakuten-in-store-cash-back-how-it-works/).
 - **App.** The terms say nothing about the store's app. A purchase earns only if it starts from a Rakuten link, the Rakuten app or the extension.
-- **Coupon codes.** No store-specific rule appears. Rakuten's general page says codes not listed on Rakuten may void cash back. The deals listed on November 26 were sale links, such as a Thanksgiving 24-hour flash sale and 15% off Meta Quest 3S headsets, not codes.
+- **Coupon codes.** No store-specific rule appears. Rakuten's general page says codes not listed on Rakuten may void cash back. The deals listed on November 27 were sale links, such as Black Friday doorbusters and 15% off Meta Quest 3S headsets, not codes.
 
 ## A shorter claim window
 
@@ -75,12 +74,12 @@ Rakuten's general terms allow 90 days to report missing rewards. The terms for t
 
 ## What it comes to
 
-| Purchase | Price | Rate seen November 26 | Cash back |
+| Purchase | Price | Rate seen November 27 | Cash back |
 |---|---|---|---|
 | Samsung TV | $900 | 1% | $9.00 |
 | LG TV | $900 | 2% | $18.00 |
-| Sony headphones | $300 | 2% | $6.00 |
-| Dyson appliance | $500 | 5% | $25.00 |
+| LG appliance | $1,000 | 4% | $40.00 |
+| [Dyson](/rakuten-dyson-cash-back-how-it-works/) appliance | $500 | 3% | $15.00 |
 | Game console | $500 | Excluded | $0 |
 
 Taxes, delivery and protection plans do not count.
@@ -100,7 +99,7 @@ The listing says cash back is added to the Rakuten account the same day. Online 
 ## Quick answers
 
 **What is the Rakuten Best Buy cash back rate today?**
-Up to 6% on November 26, 2026, with most general categories at 1%. Rates change daily.
+Up to 6% on Black Friday, November 27, 2026, with most general categories at 1%. Rates change daily.
 
 **Do Apple products earn cash back?**
 No. Apple products are on the excluded list, as are Beats headphones.
